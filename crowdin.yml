@@ -17,11 +17,6 @@ files:
     dest: /fastlane/metadata/android/en-US/title.txt
     preserve_hierarchy: true
     
-  - source: /fastlane/metadata/ios/en-US/title.txt
-    translation: /fastlane/metadata/ios/%locale%/title.txt
-    dest: /fastlane/metadata/ios/en-US/title.txt
-    preserve_hierarchy: true
-    
   - source: /fastlane/metadata/ios/en-US/description.txt
     translation: /fastlane/metadata/ios/%locale%/description.txt
     dest: /fastlane/metadata/ios/en-US/description.txt
@@ -66,9 +61,3 @@ files:
     translation: /fastlane/metadata/ios/%locale%/name.txt
     dest: /fastlane/metadata/ios/en-US/name.txt
     preserve_hierarchy: true
-    
-  - source: /fastlane/metadata/ios/en-US/screenshots_text.txt
-    translation: /fastlane/metadata/ios/%locale%/screenshots_text.txt
-    dest: /fastlane/metadata/ios/en-US/screenshots_text.txt
-    preserve_hierarchy: true
-    
