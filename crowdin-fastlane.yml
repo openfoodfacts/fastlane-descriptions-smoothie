@@ -1,0 +1,14 @@
+  - source: /fastlane/metadata/android/en-US/off/long_description.txt
+    dest: /fastlane/metadata/android/en-US/off/long_description.txt
+    translation: /fastlane/metadata/android/%locale%/off/long_description.txt
+    preserve_hierarchy: true
+
+  - source: /fastlane/metadata/android/en-US/off/short_description.txt
+    translation: /fastlane/metadata/android/%locale%/off/short_description.txt
+    dest: /fastlane/metadata/android/en-US/off/short_description.txt
+    preserve_hierarchy: true
+    
+  - source: /fastlane/metadata/android/en-US/off/title.txt
+    translation: /fastlane/metadata/android/%locale%/off/title.txt
+    dest: /fastlane/metadata/android/en-US/off/title.txt
+    preserve_hierarchy: true
