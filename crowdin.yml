@@ -1,3 +1,6 @@
+project_id_env: CROWDIN_PROJECT_ID
+api_token_env: CROWDIN_PERSONAL_TOKEN
+files:
   - source: /fastlane/metadata/android/en-US/long_description.txt
     dest: /fastlane/metadata/android/en-US/long_description.txt
     translation: /fastlane/metadata/android/%locale%/off/long_description.txt
