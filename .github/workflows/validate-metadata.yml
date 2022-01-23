@@ -31,7 +31,7 @@ jobs:
      - name: Play Store Upload
        if: github.repository == 'openfoodfacts/fastlane-descriptions-smoothie'
        timeout-minutes: 10
-       run: pwd && cd ./fastlane/ && bundle install && bundle exec fastlane upload_metadata
+       run: pwd && cd ./fastlane/ && bundle install && bundle exec fastlane deliver
      - name: Cleanup
        if: ${{ always() }}
        run: rm -f service-account-key.json
