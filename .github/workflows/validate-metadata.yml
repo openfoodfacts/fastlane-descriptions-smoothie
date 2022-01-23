@@ -11,7 +11,7 @@ jobs:
     steps:
      - uses: actions/checkout@v1
      - uses: ashutoshgngwr/validate-fastlane-supply-metadata@v1
-        with:
+       with:
           fastlaneDir: ./fastlane # optional. default is './fastlane'.
           # enable check to validate if a locale is supported by the Play Store Listing.
           usePlayStoreLocales: true # optional. default is false.
@@ -19,7 +19,7 @@ jobs:
   play-store-upload:
     name: Play Store Upload
     needs: validate
-    if: github.repository == 'openfoodfacts/fastlane-descriptions-smoothie' && github.event_name == 'push' && contains(github.ref , 'refs/tags/')
+    if: github.repository == 'openfoodfacts/fastlane-descriptions-smoothie'
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
