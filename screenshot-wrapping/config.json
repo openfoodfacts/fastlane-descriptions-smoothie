@@ -1,0 +1,23 @@
+{
+    "name": "callum!",
+    "numberOfTemplates": 2,
+    "languageFiles": [
+      "en-gb",
+      "de"
+    ],
+    "outputSizes": [
+      {
+        "name": "iPhone Large",
+        "width": 414,
+        "height": 896,
+        "scale": 3
+      },
+      {
+        "name": "iPhone 5.5 inch",
+        "width": 414,
+        "height": 736,
+        "scale": 2
+      }
+    ]
+  }
+  
