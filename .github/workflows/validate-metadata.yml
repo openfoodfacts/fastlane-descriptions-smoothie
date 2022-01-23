@@ -8,9 +8,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     # required to run on Linux because this is a docker container action
+     - name: Checkout
+       uses: actions/checkout@v1
      - name: Validate metadata
-     - uses: actions/checkout@v1
-     - uses: ashutoshgngwr/validate-fastlane-supply-metadata@v1
+       uses: ashutoshgngwr/validate-fastlane-supply-metadata@v1
        with:
         fastlaneDir: ./fastlane # optional. default is './fastlane'.
         # enable check to validate if a locale is supported by the Play Store Listing.
@@ -23,13 +24,10 @@ jobs:
      - name: Play Store Upload
        if: github.repository == 'openfoodfacts/fastlane-descriptions-smoothie'
        timeout-minutes: 10
-     - uses: actions/checkout@v2
-     - uses: ruby/setup-ruby@v1
+       uses: ruby/setup-ruby@v1
        with:
         ruby-version: 2.7
-     - run: echo "$API_JSON_FILE_DECRYPTKEY" > service-account-key.json
-       env:
-          SERVICE_ACCOUNT_KEY: ${{ secrets.SERVICE_ACCOUNT_KEY }}
-     - run: bundle install && bundle exec fastlane upload_metadata
-     - if: ${{ always() }}
+        run: echo "$API_JSON_FILE_DECRYPTKEY" > service-account-key.json && bundle install && bundle exec fastlane upload_metadata
+     - name: Cleanup
+       if: ${{ always() }}
        run: rm -f service-account-key.json
