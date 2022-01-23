@@ -4,35 +4,32 @@ on:
     branches:
       - 'upload-to-playstore'
 jobs:
-    - name: Decrypt API JSON file
-      runs-on: ubuntu-latest
-      run: cd ./packages/smooth_app/android/fastlane/envfiles && chmod +x ./decrypt_secrets.sh && ./decrypt_secrets.sh
-      env:
+  marketing:
+    runs-on: ubuntu-latest
+    steps:
+     - name: Decrypt API JSON file
+       run: cd ./packages/smooth_app/android/fastlane/envfiles && chmod +x ./decrypt_secrets.sh && ./decrypt_secrets.sh
+       env:
         API_JSON_FILE_DECRYPTKEY: ${{ secrets.API_JSON_FILE_DECRYPTKEY }}
         STORE_JKS_DECRYPTKEY: ${{ secrets.STORE_JKS_DECRYPTKEY }}
     # required to run on Linux because this is a docker container action
-    - name: validate
-      runs-on: ubuntu-latest
-      steps:
-       - uses: actions/checkout@v1
-       - uses: ashutoshgngwr/validate-fastlane-supply-metadata@v1
-         with:
-            fastlaneDir: ./fastlane # optional. default is './fastlane'.
-            # enable check to validate if a locale is supported by the Play Store Listing.
-            usePlayStoreLocales: true # optional. default is false.
-    - name: Play Store Upload
-      needs: validate
-      if: github.repository == 'openfoodfacts/fastlane-descriptions-smoothie'
-      runs-on: ubuntu-latest
-      timeout-minutes: 10
-      steps:
-        - uses: actions/checkout@v2
-        - uses: ruby/setup-ruby@v1
-          with:
-            ruby-version: 2.7
-        - run: echo "$API_JSON_FILE_DECRYPTKEY" > service-account-key.json
-          env:
-            SERVICE_ACCOUNT_KEY: ${{ secrets.SERVICE_ACCOUNT_KEY }}
-        - run: bundle install && bundle exec fastlane upload_metadata
-        - if: ${{ always() }}
-          run: rm -f service-account-key.json
+     - name: validate
+     - uses: actions/checkout@v1
+     - uses: ashutoshgngwr/validate-fastlane-supply-metadata@v1
+       with:
+        fastlaneDir: ./fastlane # optional. default is './fastlane'.
+        # enable check to validate if a locale is supported by the Play Store Listing.
+        usePlayStoreLocales: true # optional. default is false.
+     - name: Play Store Upload
+       if: github.repository == 'openfoodfacts/fastlane-descriptions-smoothie'
+       timeout-minutes: 10
+     - uses: actions/checkout@v2
+     - uses: ruby/setup-ruby@v1
+       with:
+        ruby-version: 2.7
+     - run: echo "$API_JSON_FILE_DECRYPTKEY" > service-account-key.json
+       env:
+          SERVICE_ACCOUNT_KEY: ${{ secrets.SERVICE_ACCOUNT_KEY }}
+     - run: bundle install && bundle exec fastlane upload_metadata
+     - if: ${{ always() }}
+       run: rm -f service-account-key.json
