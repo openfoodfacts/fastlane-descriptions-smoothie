@@ -19,7 +19,7 @@ jobs:
      - name: Decrypt API JSON file
        run: cd ./fastlane/envfiles && chmod +x ./decrypt_secrets.sh && ./decrypt_secrets.sh
        env:
-        API_JSON_FILE_DECRYPTKEY: ${{ env.API_JSON_FILE_DECRYPTKEY }}
+        API_JSON_FILE_DECRYPTKEY: ${{ API_JSON_FILE_DECRYPTKEY }}
      - name: Play Store Upload
        if: github.repository == 'openfoodfacts/fastlane-descriptions-smoothie'
        timeout-minutes: 10
