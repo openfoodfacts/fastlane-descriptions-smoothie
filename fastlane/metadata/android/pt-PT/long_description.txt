@@ -1,0 +1,18 @@
+Smoothie. Inventamos a aplicação de digitalização colaborativa em 2012. 🤳🥫 Com esta aplicação experimental, estamos a reinventar do zero e desta vez é pessoal. 
+
+👉 Defina as suas preferências sem arruinar a sua privacidade
+👉 Uma digitalização que realmente corresponde a si
+✅ Verde: o produto corresponde aos seus critérios
+🛑 Vermelho: há um problema
+⬜️ Cinza: ajude-nos a responder fotografando os produtos
+👉 Compare em 15 segundos as 3 marcas de molhos de tomate na prateleira.
+👉 Obtenha uma comparação personalizada de qualquer categoria de alimentos
+
+== Critérios que pode escolher == 
+🌍 Meio ambiente
+⚕️ Saúde
+🏭 Aditivos e alimentos ultraprocessados
+🧂 Sal
+🌾 Alérgenos
+Nutri-Score
+Eco-Score

@@ -1,0 +1,23 @@
+Smoothie. Abbiamo inventato l'app di scansione collaborativa nel 2012. Con quest'app sperimentale, la stiamo reinventando da zero e, questa volta, è personale. 
+
+=== Imposta le tue preferenze senza rovinare la tua privacy ===
+
+=== Una scansione che corrisponde veramente a chi sei ===
+
+Verde: il prodotto corrisponde ai tuoi criteri
+Rosso: c'è un problema
+Grigio: Aiutaci a risponderti fotografando i prodotti
+
+=== Confronta in 15 secondi i 3 marchi di sughi di pomodoro rimasti sullo scaffale ===
+
+=== Ottieni un confronto su misura di qualsiasi categoria alimentare ===
+
+=== Criteri selezionabili ===
+
+- Ambiente
+- Salute
+- Additivi e Alimenti ultra trasformati
+- Sale
+- Allergeni
+- Nutri-Score
+- Eco-Score

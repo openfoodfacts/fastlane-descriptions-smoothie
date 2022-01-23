@@ -1,0 +1,23 @@
+Smoothie. Am inventat aplicația colaborativă de scanare în 2012. Cu această aplicație experimentală, o reinventăm de la zero și, de data aceasta, este personală. 
+
+=== Setați-vă preferințele fără a vă distruge confidențialitatea ===
+
+=== O scanare care se potrivește cu adevărat cu cine ești ===
+
+Verde: produsul corespunde criteriilor dvs
+Roșu: există o problemă
+Gray: Ajută-ne să vă răspundem prin fotografierea produselor
+
+=== Compară în 15 secunde cele 3 mărci de sosuri de roșii rămase pe raft ===
+
+=== Obțineți o comparație personalizată a oricărei categorii de produse alimentare ===
+
+=== Criterii pe care le puteți alege ===
+
+- Mediu înconjurător
+- Sănătate
+- Aditivi și alimente ultraprocesate
+- Sare
+- Alergeni
+- Nutri-Score
+- EcoScore

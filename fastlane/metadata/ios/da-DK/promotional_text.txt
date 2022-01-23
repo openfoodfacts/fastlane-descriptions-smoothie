@@ -1,0 +1,2 @@
+Smoothie - Privat og personlig fødevareskanning. 
+Dette er en smidig ny eksperimentel app fra Open Food Facts-skaberne.

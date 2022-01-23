@@ -1,0 +1,23 @@
+Smoothie. Den kollaborative skannings-app blev udviklet i 2012. Med denne eksperimentelle app, genopfindes den fra bunden af, og denne gang er den personlig. 
+
+=== Indstil præferencer uden at kompromittere fortroligheden ===
+
+=== En skanning, der virkelig matcher den, du er ===
+
+Grøn: Produktet matcher kriterierne
+Rød: Der er et problem
+Grå: Hjælp OFF med at svare dig ved at fotografere produkterne
+
+=== Sammenlign på 15 sek. de resterende 3 mærker af tomatsaucer på hylden ===
+
+=== Få en skræddersyet sammenligning af enhver fødevarekategori ===
+
+=== Kriterier, som kan vælges ===
+
+- Miljø
+- Sundhed
+- Tilsætningsstoffer og Ultraforarbejdede fødevarer
+- Salt
+- Allergener
+- Nutri-Score
+- Øko-Score

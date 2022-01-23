@@ -1,0 +1,23 @@
+Smoothie. Kami membuat aplikasi pemindaian kolaboratif pada tahun 2012. Dengan aplikasi eksperimental ini, kami menciptakannya kembali dari awal, dan kali ini, bersifat personal. 
+
+=== Atur preferensi Anda tanpa menggangu privasi Anda ===
+
+=== Pemindaian yang benar - benar sesuai dengan kepribadian Anda ===
+
+Hijau: produk yang sesuai dengan kriteria Anda
+Merah: ada masalah
+Abu - abu: Bantu kami menjawab pertanyaan Anda dengan memotret produk
+
+=== Bandingkan dalam 15 detik, 3 merek saus tomat yang tersisa di rak ===
+
+=== Dapatkan perbandingan khusus untuk kategori makanan apa pun ===
+
+=== Kriteria yang dapat Anda pilih ===
+
+- Lingkungan
+- Kesehatan
+- Zat aditif & makanan olahan Ultra
+- Garam
+- Alergen
+- Nutri-Score
+- Eco-Score

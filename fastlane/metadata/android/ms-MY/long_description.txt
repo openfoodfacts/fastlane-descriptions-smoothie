@@ -1,0 +1,18 @@
+Smoothie. Kami mencipta aplikasi pengimbasan kolaboratif dalam tahun 2012. 🤳🥫 Dengan aplikasi eksperimental ini, kami mencipta semula dari bawah ke atas, dan kali ini, ia bersifat peribadi. 
+
+👉 Tetapkan pilihan anda tanpa merosakkan privasi anda
+👉 Imbasan yang benar-benar sepadan dengan diri anda
+✅ Hijau: produk sepadan dengan kriteria anda
+🛑 Merah: terdapat masalah
+⬜️ Kelabu: Bantu kami menjawab anda dengan mengambil foto produk
+👉 Bandingkan dalam 15 saat 3 jenama sos tomato yang tinggal di rak.
+👉 Dapatkan perbandingan yang disesuaikan dengan mana-mana kategori makanan
+
+== Kriteria yang boleh anda pilih == 
+🌍 Persekitaran
+⚕️ Kesihatan
+🏭 Bahan tambahan makanan & makanan yang diproses Ultra
+🧂 Garam
+🌾 Alergen
+Nutri-Score
+Eco-Score

@@ -1,0 +1,2 @@
+Smoothie - Privater & personalisierter Lebensmittelscan. 
+Dies ist ein neues Experiment der Macher von Open Food Facts.

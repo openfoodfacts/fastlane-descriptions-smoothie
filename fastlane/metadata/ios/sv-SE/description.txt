@@ -1,0 +1,23 @@
+Smoothie. We invented the collaborative scanning app in 2012. With this experimental app, we’re reinventing it from the ground up, and this time, it’s personal. 
+
+=== Set your preferences without ruining your privacy ===
+
+=== A scan that truly matches who you are ===
+
+Green: the product matches your criteria
+Red: there is a problem
+Gray: Help us answer you by photographing the products
+
+=== Compare in 15 seconds the 3 brands of tomato sauces left on the shelf ===
+
+=== Get a tailored comparison of any food category ===
+
+=== Criteria you can pick ===
+
+- Miljö
+- Health
+- Additives & Ultra processed foods
+- Salt
+- Allergens
+- Nutri-Score
+- Eco-Score
