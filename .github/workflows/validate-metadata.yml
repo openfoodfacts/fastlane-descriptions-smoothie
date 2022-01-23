@@ -21,6 +21,8 @@ jobs:
           cd ./fastlane/envfiles
           echo "$B64_JSON" > play_config.json.b64
           base64 -d -i play_config.json.b64 > api-4712693179220384697-162836-33ea08672303.json
+          pwd
+          ls -lt
        env:
         B64_JSON: ${{ env.B64_JSON }}
      - name: Setup Ruby
