@@ -17,7 +17,7 @@ jobs:
         # enable check to validate if a locale is supported by the Play Store Listing.
         usePlayStoreLocales: true # optional. default is false.
      - name: Decrypt API JSON file
-       run: cd ./packages/smooth_app/android/fastlane/envfiles && chmod +x ./decrypt_secrets.sh && ./decrypt_secrets.sh
+       run: cd ./fastlane/envfiles && chmod +x ./decrypt_secrets.sh && ./decrypt_secrets.sh
        env:
         API_JSON_FILE_DECRYPTKEY: ${{ secrets.API_JSON_FILE_DECRYPTKEY }}
         STORE_JKS_DECRYPTKEY: ${{ secrets.STORE_JKS_DECRYPTKEY }}
