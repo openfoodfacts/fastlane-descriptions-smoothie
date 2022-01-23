@@ -2,7 +2,7 @@ name: Fastlane Metadata
 on:
   push:
     branches:
-      - main
+      - 'upload-to-playstore'
 jobs:
     - name: Decrypt API JSON file
       runs-on: ubuntu-latest
