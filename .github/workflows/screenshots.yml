@@ -14,7 +14,7 @@ jobs:
       with:
         node-version: '12'
     - run: pwd
-    - run: cd ./screenshot-wrapping/
+    - run: cd screenshot-wrapping/
     - run: pwd
     - run: npm ci
     - run: node index.js
