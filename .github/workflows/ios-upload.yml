@@ -1,8 +1,8 @@
-name: App Store release
-
+name: Fastlane Metadata for iOS
 on:
-  release:
-    types: [published]
+  push:
+    branches:
+      - 'ios-metadata'
 
 jobs:
   testflight-release:
