@@ -31,15 +31,15 @@ jobs:
           java-version: "12.x"
       
       - name: Bundle install
-        run: cd ./packages/smooth_app/ios && gem install bundler:1.17.3 && bundle install
+        run: cd ./fastlane && gem install bundler:1.17.3 && bundle install
 
       - name: Decrypt AuthKey file
-        run: pwd && ls && cd ./packages/smooth_app/ios/fastlane/envfiles && ./decrypt_secrets.sh && ls
+        run: pwd && ls && cd ./fastlane/envfiles && ./decrypt_secrets.sh && ls
         env:
           AUTH_KEY_FILE_DECRYPTKEY: ${{ secrets.AUTH_KEY_FILE_DECRYPTKEY }}
 
       - name: Bump version
-        run: cd ./packages/smooth_app/ios && bundle exec fastlane setVersion
+        run: cd ./fastlane && bundle exec fastlane setVersion
         env:
           GITHUB_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SENTRY_AUTH_TOKEN: ${{ secrets.SENTRY_AUTH_TOKEN }}
@@ -58,7 +58,7 @@ jobs:
           VERSION_NAME: ${{ env.RELEASE_VERSION }}
 
       - name: Build app
-        run: pwd && cd ./packages/smooth_app/ios && pwd && flutter pub get && flutter build ios --release --no-codesign
+        run: pwd && cd ./fastlane && pwd && flutter pub get && flutter build ios --release --no-codesign
         env:
           GITHUB_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SENTRY_AUTH_TOKEN: ${{ secrets.SENTRY_AUTH_TOKEN }}
@@ -77,7 +77,7 @@ jobs:
 
  
       - name: Release ipa
-        run: cd ./packages/smooth_app/ios && bundle exec fastlane beta
+        run: cd ./fastlane && bundle exec fastlane beta
         env:
           GITHUB_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SENTRY_AUTH_TOKEN: ${{ secrets.SENTRY_AUTH_TOKEN }}
