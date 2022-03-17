@@ -1,4 +1,4 @@
-name: Fastlane Metadata for iOS
+name: Upload Metadata for iOS using Fastlane
 on:
   push:
     branches:
