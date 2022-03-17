@@ -13,11 +13,9 @@ jobs:
     - uses: actions/setup-node@v2
       with:
         node-version: '12'
-    - run: npm ci
-    - run: cd screenshot-wrapping/
-    - run: node index.js
+    - run: pwd && cd ./screenshot-wrapping/ && pwd && npm ci && node index.js
     - name: Upload screenshots
       uses: actions/upload-artifact@v2
       with:
         name: screenshots
-        path: output/
+        path: ./screenshot-wrapping/output/
