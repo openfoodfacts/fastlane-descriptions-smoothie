@@ -1,0 +1,15 @@
+{
+  "name": "autoscreenshot",
+  "version": "1.0.0",
+  "description": "Generate automatic screenshots for OFF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "calsmith@google.com",
+  "license": "ISC",
+  "dependencies": {
+    "mustache": "^4.2.0",
+    "puppeteer": "^11.0.0"
+  }
+}

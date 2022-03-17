@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;400;500;600;700;800&display=swap');
+
+body {
+    font-family: 'Poppins', Consolas;
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(117 199 74) 100%);
+}
+
+.title {
+    font-family: 'Poppins';
+    text-align: center;
+    font-size: 6.5vw;
+    padding-top: 24px;
+    padding-bottom: 32px;
+    max-width: 90%;
+    margin: auto;
+    color: white;
+    text-shadow: 0px 2px 17px rgba(0, 0, 0, 0.3);
+    font-weight: 600;
+    line-height: 130%;
+}
+
+.device {
+    position: relative;
+    margin: auto;
+    max-width: 85%;
+    border: solid 12px rgba(255, 255, 255, 0.9);
+    border-radius: 48px;
+    box-shadow: 0px 16px 45px 5px rgba(0, 0, 0, 0.3);
+}
+
+.background-image {
+    display: block;
+    border-radius: 36px;
+    width: 100%;
+    box-shadow: black;
+    box-shadow: 0px 17px 20px 5px rgba(0, 0, 0, 0.15);
+}
+
+.text {
+    position: absolute;
+    font-size: 6vw;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.7);
+}
