@@ -13,8 +13,8 @@ updates:
     commit-message:
       prefix: "chore"
       include: "scope"
-  - package-ecosystem: "bundler"
-    directory: "/"
+  - package-ecosystem: "npm"
+    directory: "/screenshot-wrapping"
     schedule:
       interval: "daily"
     labels:
