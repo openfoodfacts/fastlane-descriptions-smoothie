@@ -1,4 +1,4 @@
-name: Fastlane Metadata
+name: Validate the Fastlane Metadata of Smoothie
 on:
   push:
     branches:
@@ -6,7 +6,7 @@ on:
 jobs:
   validate:
     # required to run on Linux because this is a docker container action
-    name: validate
+    name: Validate the Fastlane Metadata of Smoothie
     runs-on: ubuntu-latest
     steps:
      - uses: actions/checkout@v1
