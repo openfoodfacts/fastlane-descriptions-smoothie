@@ -1,2 +1,3 @@
-# fastlane-descriptions-smoothie
-https://github.com/openfoodfacts/smooth-app
+# Automation of the Play Store and App Store listings for Smoothie with Fastlane
+
+See also: Smoothie main repository: https://github.com/openfoodfacts/smooth-app
