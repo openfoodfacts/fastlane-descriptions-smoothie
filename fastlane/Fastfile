@@ -18,7 +18,7 @@ platform :ios do
           key_filepath: ENV["SPACESHIP_CONNECT_API_KEY_FILEPATH"]
         )
         deliver(
-        api_key: api_key
+        api_key: api_key,
         skip_screenshots: false,
         skip_metadata: false
         )
