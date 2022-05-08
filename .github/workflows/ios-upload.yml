@@ -24,7 +24,7 @@ jobs:
           bundler-cache: true
           ruby-version: 3.0.2
       - name: Bundle install
-        run: cd ./fastlane && gem install bundler:1.17.3 && bundle install
+        run: cd ./fastlane/ios && gem install bundler:1.17.3 && bundle install
 
       - name: Decrypt AuthKey file
         run: pwd && ls && cd ./fastlane/ios/envfiles && ./decrypt_secrets.sh && ls
@@ -32,7 +32,7 @@ jobs:
           AUTH_KEY_FILE_DECRYPTKEY: ${{ secrets.AUTH_KEY_FILE_DECRYPTKEY }}
           
       - name: Publish marketing assets
-        run: cd ./fastlane && bundle exec fastlane metadata
+        run: cd ./fastlane/ios && bundle exec fastlane metadata
         env:
           GITHUB_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SENTRY_AUTH_TOKEN: ${{ secrets.SENTRY_AUTH_TOKEN }}
