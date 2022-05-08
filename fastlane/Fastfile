@@ -2,17 +2,27 @@ setup_travis
 default_platform(:ios)
 
 before_all do
-  xcversion(version: "~> 12.3")
+  xcversion(version: "~> 12.2")
 end
 
-platform :ios do
 
-  desc "Push a new beta build to TestFlight"
+
+platform :ios do
+  
+    desc "Push only description and meta info"
+    lane :metadata do
+        deliver(
+        skip_screenshots: false,
+        skip_metadata: false
+        )
+    end
+
+  desc "Sending metadata for Smoothie to TestFlight"
   lane :beta do
 
     APP_IDENTIFIER = "org.openfoodfacts.app"
     
-    puts "Releasing beta version for identifier #{APP_IDENTIFIER}"
+    puts "Sending metadata for identifier #{APP_IDENTIFIER}"
 
     sync_code_signing(type: "appstore", readonly: is_ci, clone_branch_directly: false)
     update_code_signing_settings(
@@ -28,26 +38,15 @@ platform :ios do
       path: "Runner.xcodeproj",
       teamid: "ZC9CYWD334"
     )
-    
-    # build your iOS app
-    gym(
-      configuration: "Release",
-      workspace: "Runner.xcworkspace",
-      scheme: "Runner",
-      export_method: "app-store",
-      export_options: {
-          provisioningProfiles: {
-              "org.openfoodfacts.app" => "match AppStore org.openfoodfacts.app", 
-          }
-      }
-    )
   
     # Upload to test flight
     pilot(
       app_identifier: APP_IDENTIFIER,
       skip_submission: true,
       skip_waiting_for_build_processing: true,
-      ipa: "./Runner.ipa"
+      #ipa: "./Runner.ipa"
+      #skip_screenshots: false,
+      #skip_metadata: false
     )
   end
 
