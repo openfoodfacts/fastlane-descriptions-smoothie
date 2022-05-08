@@ -13,7 +13,7 @@ jobs:
      - name: Validate metadata
        uses: ashutoshgngwr/validate-fastlane-supply-metadata@v1
        with:
-        fastlaneDir: ./fastlane # optional. default is './fastlane'.
+        fastlaneDir: ./fastlane/metadata-android # optional. default is './fastlane'.
         # enable check to validate if a locale is supported by the Play Store Listing.
         usePlayStoreLocales: true # optional. default is false.
      - name: Decrypt API JSON file
