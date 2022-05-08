@@ -1,4 +1,3 @@
-setup_travis
 default_platform(:ios)
 
 before_all do
