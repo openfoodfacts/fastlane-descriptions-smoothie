@@ -23,10 +23,6 @@ jobs:
         with:
           bundler-cache: true
           ruby-version: 3.0.2
-      - name: Validate metadata
-        uses: ashutoshgngwr/validate-fastlane-supply-metadata@v1
-        with:
-         fastlaneDir: ./fastlane/ios # optional. default is './fastlane'.
       - name: Bundle install
         run: cd ./fastlane && gem install bundler:1.17.3 && bundle install
 
