@@ -1,17 +1,25 @@
-setup_travis
 default_platform(:ios)
 
 before_all do
   xcversion(version: "~> 12.2")
 end
 
-
-
 platform :ios do
+    desc "Precheck metadata for Apple compliance"
+    lane :metadata do
+      precheck
+    end
   
     desc "Push only description and meta info"
     lane :metadata do
+      
+        api_key = app_store_connect_api_key(
+          key_id: ENV["SPACESHIP_CONNECT_API_KEY_ID"],
+          issuer_id: ENV["SPACESHIP_CONNECT_API_ISSUER_ID"],
+          key_filepath: ENV["SPACESHIP_CONNECT_API_KEY_FILEPATH"]
+        )
         deliver(
+        api_key: api_key,
         skip_screenshots: false,
         skip_metadata: false
         )
