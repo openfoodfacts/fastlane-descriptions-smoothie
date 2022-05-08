@@ -2,3 +2,5 @@ app_identifier "org.openfoodfacts.app"
 username ENV["APPLE_ID"]
 app_icon "./fastlane/metadata/Icon-App-iTunes.png"
 screenshots_path "./fastlane/screenshots"
+metadata_path "./fastlane/metadata"
+#languages	Metadata: List of languages to activate
