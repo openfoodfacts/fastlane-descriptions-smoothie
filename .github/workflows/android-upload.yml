@@ -10,12 +10,12 @@ jobs:
     # required to run on Linux because this is a docker container action
      - name: Checkout
        uses: actions/checkout@v1
-     - name: Validate metadata
-       uses: ashutoshgngwr/validate-fastlane-supply-metadata@v1
-       with:
-        fastlaneDir: ./fastlane # optional. default is './fastlane'.
+    # - name: Validate metadata
+       #uses: ashutoshgngwr/validate-fastlane-supply-metadata@v1
+       # with:
+        # fastlaneDir: ./fastlane/metadata-android # optional. default is './fastlane'.
         # enable check to validate if a locale is supported by the Play Store Listing.
-        usePlayStoreLocales: true # optional. default is false.
+        # usePlayStoreLocales: true # optional. default is false.
      - name: Decrypt API JSON file
        run: cd ./fastlane/envfiles && chmod +x ./decrypt_secrets.sh && ./decrypt_secrets.sh
        env:
