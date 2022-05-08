@@ -7,3 +7,6 @@ Once it works, the results should be visible on the stores for [Android](https:/
 
 ### Screenshot wrapping
 Screenshot wrapping adds texts and wrapping to raw screenshots. It currently does that automatically, and uploads as artefact
+
+### Translations
+You'll be able to translate the PlayStore, App Store description and screenshot slogans at https://translate.openfoodfacts.org
