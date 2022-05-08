@@ -22,7 +22,8 @@ platform :ios do
         api_key: api_key,
         skip_screenshots: false,
         skip_metadata: false,
-        force: true # To go into non interactive mode
+        force: true, # To go into non interactive mode
+        precheck_include_in_app_purchases: false
         )
     end
 
