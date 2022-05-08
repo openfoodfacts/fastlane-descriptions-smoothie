@@ -1,6 +1,9 @@
+force true # To go into non interactive mode
 app_identifier "org.openfoodfacts.app"
 username ENV["APPLE_ID"]
 app_icon "./fastlane/metadata/Icon-App-iTunes.png"
-screenshots_path "./fastlane/screenshots"
-metadata_path "./fastlane/metadata"
+screenshots_path "./fastlane/screenshots-ios"
+metadata_path "./fastlane/metadata-ios"
+
 #languages	Metadata: List of languages to activate
+
