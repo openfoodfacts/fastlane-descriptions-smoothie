@@ -21,7 +21,7 @@ platform :ios do
         deliver(
         api_key: api_key,
         skip_screenshots: false,
-        skip_metadata: false
+        skip_metadata: false,
         force: true # To go into non interactive mode
         )
     end
