@@ -4,9 +4,11 @@ before_all do
   xcversion(version: "~> 12.2")
 end
 
-
-
 platform :ios do
+    desc "Precheck metadata for Apple compliance"
+    lane :metadata do
+      precheck
+    end
   
     desc "Push only description and meta info"
     lane :metadata do
