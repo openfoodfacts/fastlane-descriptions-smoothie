@@ -27,7 +27,7 @@ jobs:
         run: cd ./fastlane/ios/fastlane && gem install bundler:1.17.3 && bundle install && pwd && ls
 
       - name: Decrypt AuthKey file
-        run: pwd && ls && cd ./fastlane/ios/envfiles && ./decrypt_secrets.sh && ls && pwd
+        run: pwd && ls && cd ./fastlane/ios/fastlane/envfiles && ./decrypt_secrets.sh && ls && pwd
         env:
           AUTH_KEY_FILE_DECRYPTKEY: ${{ secrets.AUTH_KEY_FILE_DECRYPTKEY }}
           
