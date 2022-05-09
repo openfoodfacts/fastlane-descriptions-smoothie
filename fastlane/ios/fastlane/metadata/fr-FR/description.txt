@@ -1,0 +1,20 @@
+Smoothie. Nous avons inventé les applis de scan collaboratif en 2012. Dans cette app expérimentale, nous les réinventons de fond en comble, et cette fois, c'est personnel.
+
+== Définissez vos préférences sans ruiner votre vie privée ==
+== Un scan qui correspond vraiment à qui vous êtes ==
+- Vert: le produit correspond à vos critères
+- Rouge: il y a un problème 
+- Gris: Aidez-nous à vous répondre en photographiant les produits
+
+== Comparez en 15 secondes les 3 pots de sauce tomate qu’il reste dans le rayon ==
+== Obtenez un comparatif sur mesure de n’importe quel catégorie alimentaire ==
+
+
+=== Critères de personnalisation ===
+- Environnement
+- Santé
+- Additifs et aliments ultra transformés
+- Sel
+- Allergènes
+- Nutri-Score
+- Eco-Score
