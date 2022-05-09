@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
      - uses: actions/checkout@v3
-     - uses: ashutoshgngwr/validate-fastlane-supply-metadata@v1
+     - uses: ashutoshgngwr/validate-fastlane-supply-metadata@v2
        with:
         fastlaneDir: ./fastlane # optional. default is './fastlane'.
         # enable check to validate if a locale is supported by the Play Store Listing.
