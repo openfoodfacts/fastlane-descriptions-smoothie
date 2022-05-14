@@ -59,7 +59,7 @@ To discover the volunteer-run Open Food Facts project, visit https://world.openf
 - The Nutri-Score has been created by the independent French team led by Professor Hercberg.
 - The NOVA groups on food processing have been designed by the international team of Professor Monteiro.
 - You can get a synthesis of EFSA exposure levels on food additives.
-TODO: add Eco-Score
+- The Eco-Score is based on ground breaking data by ADEME, the French environmental agency, adapted for the world.
 - The Open Food Facts community is collaborating with research teams across the planet to improve nutrition research that benefits all.
 
 ▶ Your food, your data
