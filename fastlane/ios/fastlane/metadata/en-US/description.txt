@@ -1,4 +1,4 @@
-Smoothie. We invented the collaborative scanning app in 2012. With this experimental app, we’re reinventing it from the ground up, and this time, it’s personal. 
+Open Food Facts. We invented the collaborative scanning app in 2012. As we turn 10, we’re reinventing it from the ground up, and this time, it’s personal. 
 
 === Set your preferences without ruining your privacy ===
 
@@ -21,3 +21,74 @@ Gray: Help us answer you by photographing the products
 - Allergens
 - Nutri-Score
 - Eco-Score
+
+▶ Find & Compare more than 2,3M+ products
+
+The app allows to view the 2,3M+ products already contained in the free and open database Open Food Facts, and also to add pictures and data for new products.
+
+To discover the volunteer-run Open Food Facts project, visit https://world.openfoodfacts.org
+
+▶ Choose the products that are good for you
+
+- The Nutri-Score grade, from "A" to "E" >> Nutritional quality
+- The NOVA group, from "1" to "4" >> Find the Ultra-Processed food
+
+▶ And good for the planet!
+
+- The Eco-Score of your food based on the footprints by ADEME.
+- Join us and help us improve the Carbon Impact to your country!
+
+▶ Contribute to Food Transparency
+
+- Open Food Facts is a food products database made by everyone, for everyone.
+- You can use it to make better food choices, and as it is open data, anyone can re-use it for any purpose.
+- Open Food Facts is a non-profit project developed by thousands of volunteers from around the world. We have lots of exciting projects you can contribute to in many different ways. 
+- You can start contributing today by adding a product from your fridge. 
+
+▶ Get the Facts
+
+- Open Food Facts helps you to make sense of the fine print on products labels. You will be able to find:
+- carbon footprint (CO2 emissions) and packaging (as well as recycling instructions),
+- Nutriscore (nutritional score), nutrients, fat / fat content, saturated fatty acids, carbohydrates, sugars, fiber, protein and salt and sodium.
+- brands, allergens, labels (bio, gluten free, vegan, vegetarian, halal, kosher ...), traceability information (packaging codes, origins of ingredients)
+- On wines and beers, you will find the alcohol content.
+
+▶ Based on Science, helping back Science!
+
+- We don't make up things. We rely on peer-reviewed science.
+- The Nutri-Score has been created by the independent French team led by Professor Hercberg.
+- The NOVA groups on food processing have been designed by the international team of Professor Monteiro.
+- You can get a synthesis of EFSA exposure levels on food additives.
+TODO: add Eco-Score
+- The Open Food Facts community is collaborating with research teams across the planet to improve nutrition research that benefits all.
+
+▶ Your food, your data
+
+- Your data is yours, and is never sent online
+- You use the app anonymously by default
+
+▶ Full History
+
+- Your history is YOURS. As a result, It stays on YOUR device.
+- Get a full history of your scans
+
+▶ Get the Nutri-Score, NOVA groups, Eco-Score and additives on any new product.
+
+- To add a new product, take pictures of the front, ingredients list, recycling instructions and nutrition facts table.
+- Validate the automatically recognized ingredients list, choose a category and type in the nutrition facts to get Nutri-Score, NOVA and Eco-Score.
+
+▶ Set up allergen alerts on products
+
+- Milk, Gluten, Eggs, Soybeans, Nuts, Fish, Celery, Mustard, Sulphur dioxide and sulphites, Peanuts, Sesame seeds, Crustaceans, Molluscs or Lupin allergy ?
+- Speed up your shopping by doing an initial screening of your food with Open Food Facts. 
+- Be careful that the information may not be 100% accurate, and detection may not be 100% accurate. So always double check by yourself, with the packaging.
+
+▶ Say hello and/or join us!
+
+Open Food Facts is also available on the web at https://world.openfoodfacts.org
+
+Producers: you can send necessary product information in advance of the launch of the Eco-Score thanks to https://world.pro.openfoodfacts.org
+
+Questions, feedback : contact@openfoodfacts.org
+
+For cosmetics, you can install Open Beauty Facts.
