@@ -6,7 +6,7 @@ on:
 
 jobs:
   testflight-release:
-    name: Build and deploy to TestFlight testers
+    name: Deploy marketing assets to the Apple App Store
     runs-on: macos-latest
     steps:
       - name: Checkout sources
