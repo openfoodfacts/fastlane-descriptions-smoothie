@@ -6,7 +6,7 @@ end
 
 platform :ios do
     desc "Precheck metadata for Apple compliance"
-    lane :precheck do
+    lane :run_precheck do
       precheck
     end
   
