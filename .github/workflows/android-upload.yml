@@ -1,4 +1,4 @@
-name: Fastlane Metadata
+name: Upload Fastlane Metadata for Android
 on:
   push:
     branches:
@@ -25,7 +25,7 @@ jobs:
        with:
          bundler-cache: true
          ruby-version: 3.0.2
-     - name: Play Store Upload
+     - name: Play Store Upload of marketing assets
        if: github.repository == 'openfoodfacts/fastlane-descriptions-smoothie'
        timeout-minutes: 10
        run: pwd && cd ./fastlane/ && bundle install && bundle exec fastlane deploy_marketing
