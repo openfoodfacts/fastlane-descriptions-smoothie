@@ -61,3 +61,8 @@ files:
     translation: /fastlane/metadata/ios/%locale%/name.txt
     dest: /fastlane/metadata/ios/en-US/name.txt
     preserve_hierarchy: true
+
+  - source: /screenshot-wrapping/strings/en-GB.json
+    translation: /screenshot-wrapping/strings/%locale%.json
+    dest: /screenshot-wrapping/strings/en-GB.json
+    preserve_hierarchy: true
