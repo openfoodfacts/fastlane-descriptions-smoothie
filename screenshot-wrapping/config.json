@@ -3,7 +3,8 @@
     "numberOfTemplates": 2,
     "languageFiles": [
       "en-gb",
-      "de"
+      "de",
+      "fr"
     ],
     "outputSizes": [
       {
