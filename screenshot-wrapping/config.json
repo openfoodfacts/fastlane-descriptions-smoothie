@@ -3,7 +3,8 @@
     "numberOfTemplates": 2,
     "languageFiles": [
       "en-gb",
-      "de"
+      "de",
+      "fr"
     ],
     "outputSizes": [
       {
@@ -16,6 +17,12 @@
         "name": "iPhone 5.5 inch",
         "width": 414,
         "height": 736,
+        "scale": 2
+      },
+      {
+        "name": "12.9 inch (iPad Pro (4th generation))",
+        "width": 2732,
+        "height": 2048,
         "scale": 2
       }
     ]
