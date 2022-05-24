@@ -3,5 +3,5 @@ storage_mode("git")
 type("appstore")
 app_identifier "org.openfoodfacts.app"
 
-#username ENV["APPLE_ID"]
-#team_id ENV["TEAM_ID"]
+username ENV["APPLE_ID"]
+team_id ENV["TEAM_ID"]

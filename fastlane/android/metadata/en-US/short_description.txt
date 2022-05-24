@@ -1,1 +1,1 @@
-This is a smooth new experimental app from the makers of Open Food Facts.
+A more personal, helpful & knowledgeable Open Food Facts, private by default!
