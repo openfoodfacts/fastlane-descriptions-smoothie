@@ -37,11 +37,6 @@ files:
     dest: /fastlane/ios/fastlane/metadata/en-US/subtitle.txt
     preserve_hierarchy: true
     
-  - source: /fastlane/ios/fastlane/metadata/en-US/keywords.txt
-    translation: /fastlane/ios/fastlane/metadata/%locale%/keywords.txt
-    dest: /fastlane/ios/fastlane/metadata/en-US/keywords.txt
-    preserve_hierarchy: true
-    
   - source: /fastlane/ios/fastlane/metadata/en-US/promotional_text.txt
     translation: /fastlane/ios/fastlane/metadata/%locale%/promotional_text.txt
     dest: /fastlane/ios/fastlane/metadata/en-US/promotional_text.txt
@@ -67,7 +62,12 @@ files:
     dest: /fastlane/ios/fastlane/metadata/en-US/name.txt
     preserve_hierarchy: true
 
-  - source: /screenshot-wrapping/strings/en-GB.json
+  - source: /screenshot-wrapping/strings/en-gb.json
     translation: /screenshot-wrapping/strings/%locale%.json
-    dest: /screenshot-wrapping/strings/en-GB.json
+    dest: /screenshot-wrapping/strings/en-gb.json
     preserve_hierarchy: true
+
+ # - source: /fastlane/ios/fastlane/metadata/en-US/keywords.txt
+ #   translation: /fastlane/ios/fastlane/metadata/%locale%/keywords.txt
+  #  dest: /fastlane/ios/fastlane/metadata/en-US/keywords.txt
+   # preserve_hierarchy: true
