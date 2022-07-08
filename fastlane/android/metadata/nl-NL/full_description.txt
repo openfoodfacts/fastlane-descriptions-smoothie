@@ -1,0 +1,72 @@
+Nieuws: In 2012 hebben we de app voor samenwerkend scannen uitgevonden. Naar aanleiding van ons 10-jarig bestaan, vinden we onszelf opnieuw uit!
+
+Met deze app kun je voedsel vinden dat goed is voor jou en voor de planeet door hun streepjescodes te scannen.
+U krijgt gepersonaliseerde gezondheids- en eco-impactinformatie voor 2,3 miljoen voedingsmiddelen.
+
+<h1>👉 Stel uw voedselvoorkeuren in zonder uw privacy te verpesten</h1>
+<h1>👉 Een scan die echt past bij wie jij bent</h1>
+✅ Green: the product matches your criteria
+🛑 Red: there is a problem
+⬜️ Gray: Help us answer you by photographing the products
+<h1>👉 Vergelijk in een paar seconden die 3 verschillende tomatensauzen die nog op het schap liggen.</h1>
+<h1>👉 Krijg een vergelijking op maat van elke voedselcategorie</h1>
+
+<h1>Voedselcriteria die u kunt kiezen</h1>
+🌍 Environment
+⚕️ Health
+🏭 Additives & Ultra processed foods
+Salz
+🌾 Allergens
+Nutri-Score
+Eco-score
+
+<h1>👉 Scan, vind & vergelijk meer dan 2,3 miljoen voedingsmiddelen</h1>
+
+<h1>👉 Kies producten die goed voor je zijn ⚕️</h1>
+
+➜ De Nutri-Score-klasse, van A tot E: voor de voedingskwaliteit
+➜ De NOVA-groep, van 1 tot 4 : Vermijd ultrabewerkte levensmiddelen (Groep 4)
+
+<h1>👉 Kies producten die goed zijn voor de planeet 🌍</h1>
+➜ Voedsel veroorzaakt meer dan 1/3 van de wereldwijde uitstoot van broeikasgassen
+➜ De Eco-Score-klasse, van A tot E: een synthese van 16 milieueffecten
+
+<h1>👉 Draag bij aan voedseltransparantie</h1>
+
+➜ Open Food Facts wordt gemaakt door iedereen, voor iedereen!
+Kortom, we zijn een soort "levensmiddelen Wikipedia", zoals velen dit project noemen. Open Food Facts heeft ook de creatie van meer dan 150+ apps mogelijk gemaakt, zoals Date Limite, Yuka of FoodVisor.
+➜ Gebruik het om betere voedselkeuzes te maken
+➜ De app is ook samenwerkend. Als het product ontbreekt, stuur dan foto's en gegevens om de Nutri-Score te krijgen, het voedselverwerkingsniveau (NOVA) & de Eco-Score.
+➜ Maak vandaag nog het verschil door een product uit je keuken te fotograferen.
+- Open Food Facts is een non-profit-project ontwikkeld door duizenden vrijwilligers uit de hele wereld. Waarom kom je niet bij ons ?
+
+<h1>👉 Voedseletiketten ontcijferen</h1>
+
+We decipher products labels for you. You'll find:
+➜ Nutrition: The Nutriscore (nutritional score), nutrients, fat, transfat, carbohydrates, sugars, fiber, protein, salt & sodium.
+➜ Environment: The Ecoscore (including carbon footprint (CO2 emissions), packaging (as well as recycling instructions), environmental labels (organic, quality etc.), and origins of ingredients)
+➜ Other: brands, allergens, labels (bio, gluten free, vegan, vegetarian, halal, kosher...), traceability information (packaging codes, origins, food factories)
+➜ On wines and beers, you'll find the alcohol content.
+
+<h1>👉 Our grades are science-based, and Open Food Facts is helping science!</h1>
+- We verzinnen niets. We vertrouwen op peer-reviewed wetenschap.
+➜ De Nutri-Score is gecreëerd door het onafhankelijke Franse team onder leiding van professor Hercberg.
+➜ De voedselbewerking NOVA-groepen zijn ontworpen door het internationale team van professor Monteiro.
+➜ Je kunt een samenvatting krijgen van de blootstellingsniveaus voor additieven bepaald door de EFSA.
+➜ The Eco-Score is based on ground breaking data by ADEME, the French environmental agency, adapted for the world.
+➜ The Open Food Facts community is collaborating with research teams across the planet for research that benefits all.
+
+<h1>👉 Your food, your data. Privacy-vriendelijke app.</h1>
+➜ Je kunt de app anoniem gebruiken
+➜ Your food data is yours, and is never sent online
+
+<h1>👉 Set up allergen alerts on products</h1>
+➜ Do you have a Milk, Gluten, Eggs, Soybeans, Nuts, Fish, Celery, Mustard, Sulphites, Peanuts, Sesame seeds, Crustaceans, Molluscs or Lupin allergy ?
+➜ Speed up your shopping with an initial screening with Open Food Facts.
+➜ Be careful that the info & the detection may not be 100% accurate. Always double check by yourself, with the packaging.
+
+<h1>👉 More</h1>
+Web version: <a href="https://world.openfoodfacts.org">https://world.openfoodfacts.org</a>
+Vragen of feedback: <a href="mailto:contact@openfoodfacts.org">contact@openfoodfacts.org</a>
+
+Voor cosmetica kunt u Open Beauty Facts installeren.
