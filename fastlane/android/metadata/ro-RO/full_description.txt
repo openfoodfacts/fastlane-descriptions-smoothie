@@ -1,0 +1,72 @@
+Știri: Am inventat aplicația de scanare colaborativă în 2012. 🤳🥫 Când împlinim 10 ani, îl reinventăm de la zero!
+
+Această aplicație vă permite să găsiți alimente care sunt bune pentru dvs. și bune pentru planetă prin scanarea codurilor de bare ale acestora.
+Veți primi informații personalizate despre sănătate și impact ecologic pentru 2,3 milioane de alimente.
+
+<h1>👉 Setați-vă preferințele alimentare fără a vă distruge intimitatea</h1>
+<h1>👉 O scanare care se potrivește cu adevărat cu cine ești</h1>
+✅ Verde: produsul corespunde criteriilor tale
+🛑 Roșu: există o problemă
+⬜ Ajută-ne să răspundem prin fotografierea produselor
+<h1>👉 Comparați în câteva secunde cele 3 sosuri de roșii rămase pe raft.</h1>
+<h1>👉 Obțineți o comparație personalizată a oricărei categorii de alimente</h1>
+
+<h1>Criterii alimentare pe care le puteți alege</h1>
+🌍 Mediu
+⚕️ Sănătate
+🏭 Aditivi și alimente ultraprocesate
+🧂 Sare
+🌾 Alergeni
+Nutri-Scor
+Scor Ecologic
+
+<h1>👉 Scanați, găsiți și comparați peste 2,3 milioane de produse alimentare</h1>
+
+<h1>👉 Alegeți produse care sunt bune pentru tine ⚕️</h1>
+
+➜ Nota Nutri-Score, de la A la E: calitate nutrițională
+➜ Grupul NOVA, de la 1 la 4: Evitați alimentele ultraprocesate (Grupa 4)
+
+<h1>👉 Alegeți produse care sunt bune pentru planetă 🌍</h1>
+➜ Alimentele cauzează peste 1/3 din emisiile globale de gaze cu efect de seră
+➜ Nota Eco-Score, de la A la E: o sinteză a 16 impacturi asupra mediului
+
+<h1>👉 Contribuiți la transparența alimentară</h1>
+
+➜ Open Food Facts este făcut de toată lumea, pentru toată lumea!
+➜ Pe scurt, suntem „Wikipedia mâncării”, așa cum presa a poreclit proiectul. Open Food Facts a permis, de asemenea, crearea a peste 150 de aplicații precum Date Limite, Yuka sau FoodVisor.
+➜ Folosiți-l pentru a face alegeri alimentare mai bune
+➜ Aplicația este, de asemenea, colaborativă. Dacă produsul lipsește, contribuiți cu imagini și date pentru a obține Scorul Nutrițional, nivelul de procesare a alimentelor (NOVA) și Scorul Eco.
+➜ Faceți diferența astăzi fotografiind un produs din bucătărie.
+➜ Open Food Facts este un proiect non-profit realizat de mii de voluntari din întreaga lume. De ce nu ni te alături?
+
+<h1>👉 Descifrați etichetele alimentelor</h1>
+
+Descifrăm etichetele produselor pentru dvs. Veți găsi:
+➜ Nutriție: Nutriscore (scor nutrițional), nutrienți, grăsimi, grăsimi trans, carbohidrați, zaharuri, fibre, proteine, sare și sodiu.
+➜ Mediu: Scorul Eco (inclusiv amprenta de carbon (emisii de CO2), ambalaj (precum instrucțiuni de reciclare), etichete de mediu (organic, calitate etc.) și originea ingredientelor)
+➜ Altele: mărci, alergeni, etichete (bio, fără gluten, vegan, vegetarian, halal, kosher...), informații de trasabilitate (coduri de ambalare, origini, fabrici de alimente)
+➜ La vinuri și beri, veți găsi conținutul de alcool.
+
+<h1>👉 Notele noastre sunt bazate pe știință, iar Open Food Facts ajută știința!</h1>
+➜ Noi nu inventăm lucruri. Ne bazăm pe știința evaluată de colegi.
+➜ Nutri-Score a fost creat de echipa independentă franceză condusă de profesorul Hercberg.
+➜ Grupurile NOVA privind prelucrarea alimentelor au fost concepute de echipa internațională a profesorului Monteiro.
+➜ Sinteza aditivilor se bazează pe analizele efectuate de EFSA cu privire la nivelurile de expunere la aditivii alimentari.
+➜ Scorul Eco se bazează pe date inovatoare ale ADEME, agenția franceză de mediu, adaptate pentru lume.
+➜ Comunitatea Open Food Facts colaborează cu echipe de cercetare din întreaga planetă pentru cercetări care beneficiază tuturor.
+
+<h1>👉 Mâncarea ta, datele tale. Aplicație prietenoasă cu confidențialitatea.</h1>
+➜ Puteți utiliza aplicația în mod anonim
+• Datele tale alimentare sunt ale tale și nu sunt trimise online
+
+<h1>👉 Configurați alerte de alergeni pe produse</h1>
+➜ Aveți alergie la lapte, gluten, ouă, soia, nuci, pește, țelină, muștar, sulfiți, alune, susan, crustacee, moluște sau lupin?
+➜ Accelerează-ți cumpărăturile cu o examinare inițială cu Open Food Facts.
+➜ Be careful that the info & the detection may not be 100% accurate. Always double check by yourself, with the packaging.
+
+<h1>👉 More</h1>
+Web version: <a href="https://world.openfoodfacts.org">https://world.openfoodfacts.org</a>
+Întrebări, feedback: <a href="mailto:contact@openfoodfacts.org">contact@openfoodfacts.org</a>
+
+Pentru produse cosmetice, puteți instala Open Beauty Facts.

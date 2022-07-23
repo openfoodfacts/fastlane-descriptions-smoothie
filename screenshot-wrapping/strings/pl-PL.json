@@ -1,0 +1,13 @@
+{
+  "templateStrings": [
+    {
+      "title": "Znajdź jedzenie, które jest dobre dla Ciebie...<br>i dla środowiska",
+      "image1": "https://world.openfoodfacts.org/images/products/20068196/front_en.50.full.jpg",
+      "image2": "https://world.openfoodfacts.org/images/products/400/840/040/1621/front.34.full.jpg"
+    },
+    {
+      "title": "Zeskanuj prawie każdy kod kreskowy żywności",
+      "cardTitle": "Zeskanuj lub wyszukaj jedzenie"
+    }
+  ]
+}

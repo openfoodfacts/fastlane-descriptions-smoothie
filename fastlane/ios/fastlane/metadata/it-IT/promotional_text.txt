@@ -1,0 +1,1 @@
+Scansiona il codice a barre dei prodotti alimentari per sapere quali prodotti ti fanno bene (Nutri-Score, alimenti trasformati, additivi, avvisi sugli allergeni) e al pianeta (Eco-Score)!

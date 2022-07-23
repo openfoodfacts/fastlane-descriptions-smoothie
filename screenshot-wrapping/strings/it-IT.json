@@ -1,0 +1,13 @@
+{
+  "templateStrings": [
+    {
+      "title": "Trova alimenti buoni per te..<br>e per l'ambiente",
+      "image1": "https://world.openfoodfacts.org/images/products/20068196/front_en.50.full.jpg",
+      "image2": "https://world.openfoodfacts.org/images/products/400/840/040/1621/front.34.full.jpg"
+    },
+    {
+      "title": "Scansiona il codice a barre di quasi qualsiasi alimento",
+      "cardTitle": "Scansiona o cerca un alimento"
+    }
+  ]
+}
