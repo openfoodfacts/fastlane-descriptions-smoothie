@@ -63,10 +63,10 @@ Descifrăm etichetele produselor pentru dvs. Veți găsi:
 <h1>👉 Configurați alerte de alergeni pe produse</h1>
 ➜ Aveți alergie la lapte, gluten, ouă, soia, nuci, pește, țelină, muștar, sulfiți, alune, susan, crustacee, moluște sau lupin?
 ➜ Accelerează-ți cumpărăturile cu o examinare inițială cu Open Food Facts.
-➜ Be careful that the info & the detection may not be 100% accurate. Always double check by yourself, with the packaging.
+➜ Aveți grijă că informațiile și detectarea pot să nu fie 100% exacte. Verificaţi întotdeauna de două ori cu ambalajul propriu.
 
-<h1>👉 More</h1>
-Web version: <a href="https://world.openfoodfacts.org">https://world.openfoodfacts.org</a>
+<h1>👉 Mai multe</h1>
+Versiunea web: <a href="https://world.openfoodfacts.org">https://world.openfoodfacts.org</a>
 Întrebări, feedback: <a href="mailto:contact@openfoodfacts.org">contact@openfoodfacts.org</a>
 
 Pentru produse cosmetice, puteți instala Open Beauty Facts.

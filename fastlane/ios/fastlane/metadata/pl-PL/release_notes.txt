@@ -1,12 +1,12 @@
-The Open Food Facts project turns 10 ! We've created a completely new version of the app to celebrate.
-Many thanks to all contributors who have worked during 2 years on all those new features!
+Projekt Open Food Facts kończy 10 lat! Aby to uczcić, stworzyliśmy zupełnie nową wersję aplikacji.
+Wielkie podziękowania dla wszystkich współpracowników, którzy pracowali przez 2 lata nad tymi wszystkimi nowymi funkcjami!
 
-New features:
-* All new design
-* The product page is much more helpful
-* Customize what you see when you scan a product
-* Create personal lists of products
+Nowe funkcje:
+* Całkowicie nowy wygląd
+* Strona produktu jest znacznie bardziej pomocna
+* Dostosuj to, co widzisz podczas skanowania produktu
+* Twórz osobiste listy produktów
 
 Open Food Facts to projekt non-profit z otwartą bazą produktów z całego świata. Dołącz do nas https://pl.openfoodfacts.org
 
-Scan the barcode of food products to know which products are good for you (nutritional quality: Nutri-Score, NOVA group, additives and allergen alerts) and the planet (Eco-Score)!
+Zeskanuj kod kreskowy produktu, aby dowiedzieć się które produkty są dobre dla Ciebie (jakość odżywcza, Nutri-score, grupa NOVA, powiadomienia o dodatkach i alergenach) oraz planety (Eco-Score)!

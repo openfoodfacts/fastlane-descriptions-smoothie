@@ -29,19 +29,19 @@ Eco-Score
 - ציון ה־Nutri-Score, מ־A עד E: איכות תזונתית
 - קבוצת ה־NOVA, מ־1 עד 4 : מומלץ להימנע ממזון אולטרה מעובד (קבוצה 4)
 
-Choose products that are good the planet
+בחירה במוצרים שטובים לכדור הארץ
 
 - מזון גורם ללמעלה משליש מפליטות גזי החממה בעולם
 - The Eco-Score grade, from A to E :  a synthesis of 16 environmental impacts
 
 תרומה לשקיפות המזון
 
-- Open Food Facts is made by everyone, for everyone!
+- Open Food Facts נוצר על ידי כולם, למען כולם!
 בקצרה, אנחנו „הוויקיפדיה של המזון”, כפי שנהוג לכנות אותנו בתקשורת. על Open Food Facts נשענים גם למעלה מ־150 יישומונים כגון Date Limite,‏ Yuka או FoodVisor.
 - Use it to make better food choices
-- היישומון הוא גם שיתופי. If the product is missing, contribute pictures and data to get the Nutri-Score, food processing level (NOVA) and Eco-Score.
+- היישומון הוא גם שיתופי. אם חסרים למוצר פרטים, כדאי לתרום תמונות ונתונים כדי לקבל את ה־Nutri-Score, רמת עיבוד המזון (NOVA) ו־Eco-Score.
 - Make a difference today by photographing a product from your kitchen.
-- Open Food Facts is a non-profit project made by thousands of volunteers from around the world. למה לא להצטרף אלינו?
+- Open Food Facts הוא מיזם ללא מטרות רווח אותו מפיקים אלפי מתנדבים מכל רחבי העולם. למה לא להצטרף אלינו?
 
 פענוח תוויות מזון
 
@@ -49,13 +49,13 @@ Choose products that are good the planet
 - Nutrition: The Nutriscore (nutritional score), nutrients, fat, transfat, carbohydrates, sugars, fiber, protein, salt & sodium.
 - Environment: The Ecoscore (including carbon footprint (CO2 emissions), packaging (as well as recycling instructions), environmental labels (organic, quality etc.), and origins of ingredients)
 - Other: brands, allergens, labels (bio, gluten free, vegan, vegetarian, halal, kosher...), traceability information (packaging codes, origins, food factories)
-- On wines and beers, you'll find the alcohol content.
+- על יינות ובירות ניתן למצוא את תכולת האלכוהול.
 
 Our grades are science-based, and Open Food Facts is helping science!
 - אנחנו לא ממציאים דברים. אנו נסמכים על מדע שנסקר על ידי עמיתינו.
 - Nutri-Score נוצר על ידי הקבוצה הצרפתית העצמאית בראשית פרופסור הרכברג.
 - קבוצות ה־NOVA על עיבוד מזון תוכננו על ידי הצוות הבינלאומי של פרופסור מונטניירו.
-- The additives synthesis is based on reviews by EFSA on exposure levels on food additives.
+- הערכת התוספים מבוססת על סקירות של EFSA על רמות חשיפה של תוספי מזון.
 - The Eco-Score is based on ground breaking data by ADEME, the French environmental agency, adapted for the world.
 - The Open Food Facts community is collaborating with research teams across the planet for research that benefits all.
 

@@ -1,4 +1,4 @@
-Nieuws: In 2012 hebben we de app voor samenwerkend scannen uitgevonden. As we turn 10, we’re reinventing it from the ground up!
+Nieuws: In 2012 hebben we de app voor samenwerkend scannen uitgevonden. Nu we 10 zijn geworden, vinden we de app geheel opnieuw uit!
 
 Met deze app kun je voedsel vinden dat goed is voor jou en voor de planeet door hun streepjescodes te scannen.
 U krijgt gepersonaliseerde gezondheids- en eco-impactinformatie voor 2,3 miljoen voedingsmiddelen.
@@ -10,13 +10,13 @@ Red: there is a problem
 Gray: Help us answer you by photographing the products
 
 Compare in a few seconds those 3 different tomato sauces left on the shelf.
-Get a tailored comparison of any food category
+Krijg een op maat gemaakte vergelijking van elke voedingscategorie
 
-Food criteria you can pick
+Voedselcriteria die je kunt kiezen
 
 Milieu
 Gezondheid
-Additives & Ultra processed foods
+Additieven & ultrabewerkte voedingsmiddelen
 Zout
 Allergenen
 Nutri-Score
@@ -24,7 +24,7 @@ Eco-score
 
 Scan, find & compare more than 2,3 million food products
 
-Choose products that are good for you
+Kies de producten die goed voor je zijn
 
 - The Nutri-Score grade, from A to E :  Nutritional quality
 - The NOVA group, from 1 to 4 : Avoid ultra-processed foods (Group 4)
@@ -45,14 +45,14 @@ Contribute to Food Transparency
 
 Decipher food labels
 
-We decipher products labels for you. You'll find:
+Wij ontcijferen productlabels voor u. U vindt:
 - Nutrition: The Nutriscore (nutritional score), nutrients, fat, transfat, carbohydrates, sugars, fiber, protein, salt & sodium.
 - Environment: The Ecoscore (including carbon footprint (CO2 emissions), packaging (as well as recycling instructions), environmental labels (organic, quality etc.), and origins of ingredients)
 - Other: brands, allergens, labels (bio, gluten free, vegan, vegetarian, halal, kosher...), traceability information (packaging codes, origins, food factories)
 - On wines and beers, you'll find the alcohol content.
 
-Our grades are science-based, and Open Food Facts is helping science!
-- We verzinnen dingen niet. We vertrouwen op peer-reviewed wetenschap.
+Onze cijfers zijn wetenschappelijk onderbouwd, en Open Food Facts helpt de wetenschap!
+- We verzinnen het niet. We vertrouwen op peer-reviewed wetenschap.
 - De Nutri-Score is gecreëerd door het onafhankelijke Franse team onder leiding van professor Hercberg.
 - De NOVA-groepen voor voedselverwerking zijn ontworpen door het internationale team van professor Monteiro.
 - The additives synthesis is based on reviews by EFSA on exposure levels on food additives.
@@ -61,17 +61,17 @@ Our grades are science-based, and Open Food Facts is helping science!
 
 Your food, your data. Privacy-friendly app.
 - Je kunt de app anoniem gebruiken
-- Your food data is yours, and is never sent online
+- Je voedselgegevens zijn van jou en worden nooit online verzonden
 
-Set up allergen alerts on products
+▶ Allergenenwaarschuwingen voor producten instellen
 
 - Do you have a Milk, Gluten, Eggs, Soybeans, Nuts, Fish, Celery, Mustard, Sulphites, Peanuts, Sesame seeds, Crustaceans, Molluscs or Lupin allergy ?
 - Speed up your shopping with an initial screening with Open Food Facts.
-- Be careful that the info and the detection may not be 100% accurate. Always double check by yourself, with the packaging.
+- Be careful that the info and the detection may not be 100% accurate. Dubbelcheck dus altijd zelf de verpakking.
 
-More
+Meer
 
 Web version: https://world.openfoodfacts.org
 Vragen, feedback: contact@openfoodfacts.org
 
-Voor cosmetica kunt u Open Beauty Facts installeren.
+Voor cosmetica kun je Open Beauty Facts installeren.

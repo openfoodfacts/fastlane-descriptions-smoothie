@@ -1,30 +1,30 @@
-Știri: Am inventat aplicația de scanare colaborativă în 2012. As we turn 10, we’re reinventing it from the ground up!
+Știri: Am inventat aplicația de scanare colaborativă în 2012. Pe măsură ce împlinim 10 ani, îl reinventăm de la început!
 
 Această aplicație vă permite să găsiți alimente care sunt bune pentru dvs. și bune pentru planetă prin scanarea codurilor de bare ale acestora.
 Veți primi informații personalizate despre sănătate și impact ecologic pentru 2,3 milioane de alimente.
 
-Set your food preferences without ruining your privacy
-A scan that truly matches who you are
+Setează-ți preferințele tale de mâncare fără a-ți distruge intimitatea
+O scanare care se potrivește cu adevărat cu cine ești
 Verde: produsul corespunde criteriilor dvs
 Roșu: există o problemă
 Gray: Ajută-ne să vă răspundem prin fotografierea produselor
 
-Compare in a few seconds those 3 different tomato sauces left on the shelf.
-Get a tailored comparison of any food category
+Compară în câteva secunde acele 3 sosuri de roșii diferite rămase pe raft.
+Obține o comparație adaptată pentru orice categorie de produse alimentare
 
-Food criteria you can pick
+Criteriile alimentare pe care le puteți alege
 
 Mediu
 Sănătate
-Additives & Ultra processed foods
+Aditivi și alimente ultraprocesate
 Sare
 Alergeni
 Nutri-Scor
 Scor Ecologic
 
-Scan, find & compare more than 2,3 million food products
+Scanați, găsiți și comparați peste 2,3 milioane de produse alimentare
 
-Choose products that are good for you
+Alege produsele care sunt bune pentru tine
 
 - The Nutri-Score grade, from A to E :  Nutritional quality
 - The NOVA group, from 1 to 4 : Avoid ultra-processed foods (Group 4)
@@ -67,7 +67,7 @@ Set up allergen alerts on products
 
 - Do you have a Milk, Gluten, Eggs, Soybeans, Nuts, Fish, Celery, Mustard, Sulphites, Peanuts, Sesame seeds, Crustaceans, Molluscs or Lupin allergy ?
 - Speed up your shopping with an initial screening with Open Food Facts.
-- Be careful that the info and the detection may not be 100% accurate. Always double check by yourself, with the packaging.
+- Be careful that the info and the detection may not be 100% accurate. Verificaţi întotdeauna de două ori cu ambalajul propriu.
 
 More
 
