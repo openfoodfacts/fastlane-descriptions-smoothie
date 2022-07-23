@@ -1,0 +1,72 @@
+Neuigkeiten: Wir haben 2012 die App für kollaboratives Scannen erfunden. 🤳🥫 Anlässlich unseres 10. Geburtstages erfinden wir uns von Grund auf neu!
+
+Mit dieser App können Sie Lebensmittel finden, die nicht nur gut für Sie, sondern auch für die Umwelt sind, indem Sie deren Strichcode einlesen.
+Sie erhalten personalisierte Informationen zu Gesundheit und Umweltauswirkungen von 2,3 Millionen Lebensmitteln.
+
+<h1>👉 Legen Sie Ihre Lebensmittelvorlieben fest, ohne Ihre Privatsphäre zu verletzen</h1>
+<h1>👉 Ein Scan, der wirklich zu Ihnen passt</h1>
+✅ Grün: Das Produkt entspricht deinen Kriterien
+🛑 Rot: Es gibt ein Problem
+⬜️ Grau: Helfen Sie uns, Ihnen zu antworten, indem Sie die Produkte fotografieren
+<h1>👉 Vergleiche in wenigen Sekunden die 3 verschiedenen Tomatensoßen, die im Regal stehen.</h1>
+<h1>👉 Holen Sie sich einen maßgeschneiderten Vergleich für jede Lebensmittelkategorie</h1>
+
+<h1>Nahrungsmittelkriterien, die Sie auswählen können</h1>
+🌍 Umwelt
+⚕️ Gesundheit
+🏭 Zusatzstoffe & Ultra verarbeitete Lebensmittel
+🧂 Salz
+🌾 Allergene
+Nutri-Score
+Eco-Score
+
+<h1>👉 Scannen, finden und vergleichen Sie mehr als 2,3 Millionen Lebensmittelprodukte</h1>
+
+<h1>👉 Wählen Sie Produkte, die gut für Sie sind ⚕️</h1>
+
+➜ Die Nutri-Score-Note, von A bis E: Ernährungsphysiologische Qualität
+• Die NOVA-Gruppe, von „1” bis „4” ➜ Finden Sie hochverarbeiteten Lebensmittel
+
+<h1>👉 Wählen Sie Produkte, die gut für den Planeten sind 🌍</h1>
+➜ Lebensmittel verursachen über 1/3 der weltweiten Treibhausgasemissionen
+➜ Die Eco-Score-Note, von A bis E: eine Bilanz von 16 Umweltauswirkungen
+
+<h1>👉 Beitragen zur Lebensmitteltransparenz</h1>
+
+➜ Open Food Facts ist von allen für jeden gemacht!
+➜ Kurz gesagt, wir sind das „Wikipedia der Lebensmittel”, wie die Presse das Projekt nannte. Open Food Facts hat auch die Entwicklung von mehr als 150 Apps wie Date Limite, Yuka und FoodVisor ermöglicht.
+➜ Nutzen Sie es, um bessere Entscheidungen bei Lebensmitteln zu treffen
+➜ Die App ist außerdem ein Gemeinschaftswerk. Wenn das Produkt nicht vorhanden ist, können Sie Fotos und Daten beisteuern, um den Nutri-Score, den Lebensmittelverarbeitungsgrad (NOVA) und den Eco-Score zu ermitteln.
+Setzen Sie noch heute ein Zeichen und fotografieren Sie ein Produkt aus Ihrer Küche.
+Open Food Facts ist ein gemeinnütziges Projekt, das von Tausenden von Freiwilligen aus der ganzen Welt unterstützt wird. Warum schließen Sie sich uns nicht an?
+
+<h1>👉 Lebensmitteletiketten entziffern</h1>
+
+Wir entschlüsseln Produktetiketten für Sie. Sie finden:
+➜ Ernährung: Nutri-Score (Nährwertanalyse), Nährstoffe, Fett, Transfette, Kohlenhydrate, Zucker, Ballaststoffe, Eiweiß, Salz und Natrium.
+➜ Umwelt: Der Eco-Score (einschließlich CO₂-Fußabdruck (CO₂-Emissionen), Verpackung (sowie Recycling-Anweisungen), Umweltzeichen (Bio, Qualität usw.) und Herkunft der Zutaten)
+➜ Sonstiges: Marken, Allergene, Kennzeichnungen (Bio, glutenfrei, vegan, vegetarisch, halal, koscher …), Informationen zur Rückverfolgbarkeit (Verpackungscodes, Herkunft, Lebensmittelfabriken)
+➜ Auf Weinen und Bieren finden Sie den Alkoholgehalt.
+
+<h1>👉 Unsere Bewertungen sind wissenschaftlich fundiert, und Open Food Facts hilft der Wissenschaft!</h1>
+➜ Wir erfinden keine Dinge. Wir stützen uns auf eine von Experten begutachtete Wissenschaft.
+• Der Nutri-Score wurde von dem unabhängigen französischen Team um Professor Hercberg erstellt.
+• Die NOVA-Gruppen zur Lebensmittelverarbeitung wurden vom internationalen Team von Professor Monteiro entworfen.
+• Sie können eine Synthese der EFSA-Expositionswerte für Lebensmittelzusatzstoffe erhalten.
+➜ Der Eco-Score basiert auf bahnbrechenden Daten der französischen Umweltbehörde ADEME, die für die Welt angepasst wurden.
+Die Open-Food-Facts-Gemeinschaft arbeitet mit Forschungsteams auf der ganzen Welt zusammen, um Forschung zum Nutzen aller zu betreiben.
+
+<h1>👉 Ihre Lebensmittel, Ihre Daten. Datenschutzfreundliche App</h1>
+• Sie können die Anwendung auch anonym verwenden
+➜ Ihre Lebensmitteldaten gehören Ihnen und werden niemals online gesendet
+
+<h1>👉 Allergenwarnungen für Produkte einrichten</h1>
+➜ Haben Sie eine Allergie gegen Milch, Gluten, Eier, Sojabohnen, Nüsse, Fisch, Sellerie, Senf, Sulfite, Erdnüsse, Sesamsamen, Krustentiere, Weichtiere oder Lupinen?
+➜ Beschleunigen Sie Ihren Einkauf mit einem ersten Suchlauf mit Open Food Facts.
+Achten Sie darauf, dass die Informationen und die Erkennung möglicherweise nicht zu 100% korrekt sind. Prüfen Sie immer eigenständig anhand der Verpackung.
+
+<h1>👉 Mehr</h1>
+Webversion: <a href="https://world.openfoodfacts.org">https://world.openfoodfacts.org</a>
+Fragen und Rückmeldungen: contact@openfoodfacts.org
+
+Für Kosmetika können Sie Open Beauty Facts installieren.

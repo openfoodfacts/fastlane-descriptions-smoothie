@@ -1,0 +1,14 @@
+Das Projekt Open Food Facts wird 10 ! Zur Feier des Tages haben wir eine komplett neue Version der App entwickelt.
+Vielen Dank an alle Mitwirkenden, die 2 Jahre lang an all diesen neuen Funktionen gearbeitet haben!
+
+Neue Funktionen:
+• Vollständig neues Design
+* Die Produktseite ist viel hilfreicher
+* Anpassen, was Sie sehen, wenn Sie ein Produkt einlesen
+* Persönliche Produktlisten erstellen
+
+Open Food Facts ist ein gemeinnütziges Projekt zur Erfassung von Lebensmitteldaten aus der ganzen Welt. Besuchen Sie uns auf https://de.openfoodfacts.org
+
+Lesen Sie den Strichcode von Lebensmitteln ein, um zu erfahren, welche Produkte gut für Sie (Nährwert: Nutri-Score, NOVA-Gruppe, Zusatzstoffe und Allergenwarnungen) und die Umwelt (Eco-Score) sind!
+
+Wir freuen uns auf Ihr Feedback zu dieser Aktualisierung unter contact@openfoodfacts.org

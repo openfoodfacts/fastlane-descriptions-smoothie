@@ -1,0 +1,1 @@
+Lesen Sie den Strichcode von Lebensmitteln ein, um zu erfahren, welche Produkte gut für Sie (Nutri-Score, verarbeitete Lebensmittel, Zusatzstoffe, Allergenwarnungen) und die Umwelt (Eco-Score) sind!

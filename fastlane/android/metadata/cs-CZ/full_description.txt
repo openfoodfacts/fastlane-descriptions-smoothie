@@ -1,0 +1,72 @@
+Novinky: V roce 2012 jsme vynalezli aplikaci pro společné skenování. 🤳🥫 Jak nám bude 10, znovu to vynalézáme od základů!
+
+Tato aplikace vám umožní najít jídlo, které je dobré pro vás a dobré pro planetu, naskenováním jejich čárových kódů.
+Získáte personalizované informace o zdraví a ekologickém dopadu pro 2,3 milionu potravin.
+
+<h1>👉 Nastavte své preference pro jídlo bez narušení soukromí</h1>
+<h1>👉 Sken, který skutečně odpovídá tomu, kdo jste</h1>
+✅ Zelená: produkt odpovídá vašim kritériím
+Červená: Je tu problém
+⬜️ Šedá: Pomozte nám odpovědět nafocením produktů
+<h1>👉 Porovnejte během pár sekund tyto 3 různé rajčatové omáčky, které zbyly na poličce.</h1>
+<h1>👉 Získejte uzpůsobené porovnání každé kategorie potravin</h1>
+
+<h1>Kritéria jídla, která si můžete vybrat</h1>
+🌍 Životní prostředí
+⚕️ Zdraví
+🏭 Přísady a ultra zpracované potraviny
+🧂 Sůl
+🌾 Alergeny
+Nutri-Score
+Eco-score
+
+<h1>👉 Naskenujte, najděte a porovnejte více než 2,3 milionu potravinářských výrobků</h1>
+
+<h1>👉 Vyberte si produkty, které jsou pro vás dobré ⚕️</h1>
+
+➜ Stupeň Nutri-Score, od A do E: Nutriční kvalita
+➜ Skupina NOVA, od 1 do 4: Vyhýbejte se ultra zpracovaným potravinám (Skupina 4)
+
+<h1>👉 Vybírejte produkty, které jsou dobré pro planetu 🌍</h1>
+➜ Potraviny způsobují více než 1/3 celosvětových emisí skleníkových plynů
+➜ Stupeň Eco-Score, od A do E: syntéza 16 dopadů na životní prostředí
+
+<h1>👉 Přispějte k transparentnosti potravin</h1>
+
+➜ Open Food Facts vytváří každý, pro každého!
+➜ Stručně řečeno, jsme „Wikipedie jídla“, jak projekt přezdíval tisk. Open Food Facts také umožnilo vytvoření více než 150 aplikací, jako je Date Limite, Yuka nebo FoodVisor.
+➜ Použijte jej k lepšímu výběru potravin
+➜ Aplikace také umožňuje spolupráci. Pokud produkt chybí, přispějte obrázky a daty, abyste získali Nutri-Score, úroveň zpracování potravin (NOVA) & Eco-Score.
+➜ Udělejte změnu ještě dnes tím, že vyfotografujete produkt z vaší kuchyně.
+➜ Open Food Facts je neziskový projekt vytvořený tisíci dobrovolníků z celého světa. Tak proč se k nám nepřipojit?
+
+<h1>👉 Rozluštěte etikety potravin</h1>
+
+Dešifrujeme pro vás etikety produktů. Najdete:
+➜ Výživa: Nutriscore (nutriční skóre), živiny, tuk, transmastné kyseliny, sacharidy, cukry, vláknina, bílkoviny, sůl a sodík.
+➜ Životní prostředí: Ecoscore (včetně uhlíkové stopy (emise CO2), balení (a také pokynů k recyklaci), ekologických štítků (organické, kvalitní atd.) a původu přísad)
+➜ Ostatní: značky, alergeny, etikety (bio, bezlepkové, veganské, vegetariánské, halal, košer...), informace o sledovatelnosti (kódy obalů, původ, továrny na potraviny)
+➜ Na vínech a pivech najdete obsah alkoholu.
+
+<h1>👉 Naše známky jsou vědecky podložené a Open Food Facts vědě pomáhá!</h1>
+- My si věci nevymýšlíme. Spoléháme na odborně přezkoumanou vědu.
+➜ Nutri-Score vytvořil nezávislý francouzský tým pod vedením profesora Hercberga.
+➜ Skupiny NOVA pro zpracování potravin byly navrženy mezinárodním týmem profesora Monteira.
+➜ The additives synthesis is based on reviews by EFSA on exposure levels on food additives.
+➜ Eco-Score je založeno na průlomových datech francouzské agentury pro životní prostředí ADEME, přizpůsobených pro svět.
+➜ Komunita Open Food Facts spolupracuje s výzkumnými týmy po celé planetě na výzkumu, který je přínosný pro všechny.
+
+<h1>👉 Vaše jídlo, vaše data. Aplikace šetrná k soukromí.</h1>
+➜ Aplikaci můžete používat anonymně
+➜ Vaše údaje o jídle jsou vaše a nikdy se neodesílají online
+
+<h1>👉 Nastavte upozornění na alergeny u produktů</h1>
+➜ Máte alergii na mléko, lepek, vejce, sóju, ořechy, ryby, celer, hořčici, siřičitany, arašídy, sezamová semínka, korýše, měkkýše nebo vlčí bob?
+➜ Urychlete své nákupy úvodní kontrolou s Open Food Facts.
+➜ Buďte opatrní, že informace a detekce nemusí být 100% přesné. Vždy dvakrát zkontrolujte sami, s obalem.
+
+<h1>👉 Více</h1>
+Webová verze: <a href="https://world.openfoodfacts.org">https://world.openfoodfacts.org</a>
+Otázky, zpětná vazba: <a href="mailto:contact@openfoodfacts.org">contact@openfoodfacts.org</a>
+
+Pro kosmetiku si můžete nainstalovat Open Beauty Facts.
