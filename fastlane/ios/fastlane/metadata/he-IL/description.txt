@@ -1,7 +1,7 @@
 חדשות: המצאנו את יישומון הסריקה השיתופית בשנת 2012. לרגל יום ההולדת העשירי אנחנו מחדשים אותו לגמרי מאפס!
 
 יישומון זה מאפשר לך למצוא מזון שטוב לך ולכדור הארץ על ידי סריקת הברקוד שלו.
-You will get personalized health & eco-impact info for 2.3M foods.
+אפשר לקבל מידע בריאות והשפעות הסביבה על 2.3 מיליון מוצרים.
 
 אפשר להגדיר את העדפות המזון שלך מבלי להפר את הפרטיות שלך
 סריקה שבאמת מתאימה לך
@@ -51,7 +51,7 @@ Eco-Score
 - Other: brands, allergens, labels (bio, gluten free, vegan, vegetarian, halal, kosher...), traceability information (packaging codes, origins, food factories)
 - על יינות ובירות ניתן למצוא את תכולת האלכוהול.
 
-Our grades are science-based, and Open Food Facts is helping science!
+הציונים שלנו מבוססים על מדע ו־Open Food Facts הוא מיזם שמסייע למדע!
 - אנחנו לא ממציאים דברים. אנו נסמכים על מדע שנסקר על ידי עמיתינו.
 - Nutri-Score נוצר על ידי הקבוצה הצרפתית העצמאית בראשית פרופסור הרכברג.
 - קבוצות ה־NOVA על עיבוד מזון תוכננו על ידי הצוות הבינלאומי של פרופסור מונטניירו.

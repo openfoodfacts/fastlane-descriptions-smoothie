@@ -1,5 +1,3 @@
-Inventamos
-la aplicación de escaneo
 colaborativa en 2012. 🤳🥫 Al cumplir diez añitos nos reinventamos
 
 Esta aplicación te permite encontrar comida que sea buena para ti y para el planeta al escanear códigos de barras.
