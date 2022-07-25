@@ -61,7 +61,7 @@ Our grades are science-based, and Open Food Facts is helping science!
 
 Your food, your data. Privacy-friendly app.
 - Puteți utiliza aplicația în mod anonim
-- Your food data is yours, and is never sent online
+• Datele tale alimentare sunt ale tale și nu sunt trimise online
 
 Set up allergen alerts on products
 
@@ -69,9 +69,9 @@ Set up allergen alerts on products
 - Speed up your shopping with an initial screening with Open Food Facts.
 - Be careful that the info and the detection may not be 100% accurate. Verificaţi întotdeauna de două ori cu ambalajul propriu.
 
-More
+Mai multe
 
-Web version: https://world.openfoodfacts.org
+Versiunea web: https://world.openfoodfacts.org
 Întrebări, feedback: contact@openfoodfacts.org
 
 Pentru produse cosmetice, puteți instala Open Beauty Facts.
