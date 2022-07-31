@@ -38,7 +38,7 @@ Eco-Score
 
 - Open Food Facts נוצר על ידי כולם, למען כולם!
 בקצרה, אנחנו „הוויקיפדיה של המזון”, כפי שנהוג לכנות אותנו בתקשורת. על Open Food Facts נשענים גם למעלה מ־150 יישומונים כגון Date Limite,‏ Yuka או FoodVisor.
-- Use it to make better food choices
+- משמש לבחירת מזון טוב יותר
 - היישומון הוא גם שיתופי. אם חסרים למוצר פרטים, כדאי לתרום תמונות ונתונים כדי לקבל את ה־Nutri-Score, רמת עיבוד המזון (NOVA) ו־Eco-Score.
 - Make a difference today by photographing a product from your kitchen.
 - Open Food Facts הוא מיזם ללא מטרות רווח אותו מפיקים אלפי מתנדבים מכל רחבי העולם. למה לא להצטרף אלינו?
@@ -48,7 +48,7 @@ Eco-Score
 אנו מפענחים עבורך תוויות מוצרים. ניתן לראות:
 - Nutrition: The Nutriscore (nutritional score), nutrients, fat, transfat, carbohydrates, sugars, fiber, protein, salt & sodium.
 - Environment: The Ecoscore (including carbon footprint (CO2 emissions), packaging (as well as recycling instructions), environmental labels (organic, quality etc.), and origins of ingredients)
-- Other: brands, allergens, labels (bio, gluten free, vegan, vegetarian, halal, kosher...), traceability information (packaging codes, origins, food factories)
+- אחרים: מותגים, מעוררי רגישות/אלרגנים, תוויות (ביו, נטול גלוטן, טבעוני, צמחוני, חלאל, כשרות…), פרטי מעקב (קוד אריזה, מקורות, מפעלי מזון)
 - על יינות ובירות ניתן למצוא את תכולת האלכוהול.
 
 הציונים שלנו מבוססים על מדע ו־Open Food Facts הוא מיזם שמסייע למדע!
@@ -57,7 +57,7 @@ Eco-Score
 - קבוצות ה־NOVA על עיבוד מזון תוכננו על ידי הצוות הבינלאומי של פרופסור מונטניירו.
 - הערכת התוספים מבוססת על סקירות של EFSA על רמות חשיפה של תוספי מזון.
 - The Eco-Score is based on ground breaking data by ADEME, the French environmental agency, adapted for the world.
-- The Open Food Facts community is collaborating with research teams across the planet for research that benefits all.
+- קהילת Open Food Facts משתפת פעולה עם קבוצות מחקר בכל רחבי העולם לטובת מחקר תזונתי למען כולם.
 
 האוכל שלך, הנתונים שלך. יישומון ששומר על פרטיות.
 - ניתן להשתמש ביישומון בצורה אלמונית
@@ -65,7 +65,7 @@ Eco-Score
 
 הגדרת אזהרות אלרגנים על מוצרים
 
-- Do you have a Milk, Gluten, Eggs, Soybeans, Nuts, Fish, Celery, Mustard, Sulphites, Peanuts, Sesame seeds, Crustaceans, Molluscs or Lupin allergy ?
+- יש לך אלרגיה לחלב, גלוטן, ביצים, פולי סויה, אגוזים, דגים, סלרי, חרדל, סולפיטים, בוטנים, זרעי שומשום, סרטנים, רכיכות או לתורמוס?
 - Speed up your shopping with an initial screening with Open Food Facts.
 - Be careful that the info and the detection may not be 100% accurate. תמיד חשוב לבדוק פעמיים, מול האריזה עצמה.
 

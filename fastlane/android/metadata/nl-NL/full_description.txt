@@ -5,18 +5,18 @@ U krijgt gepersonaliseerde gezondheids- en eco-impactinformatie voor 2,3 miljoen
 
 👉 Stel uw voedselvoorkeuren in zonder uw privacy te verpesten
 👉 Een scan die echt past bij wie jij bent
-✅ Green: the product matches your criteria
-🛑 Red: there is a problem
-⬜️ Gray: Help us answer you by photographing the products
+✅ Groen: Het product voldoet aan uw criteria
+🛑 Rood: er is een probleem
+⬜️ Grijs: help ons om je een antwoord te geven door de producten te fotograferen
 <h1>👉 Vergelijk in een paar seconden die 3 verschillende tomatensauzen die nog op het schap liggen.</h1>
 <h1>👉 Krijg een vergelijking op maat van elke voedselcategorie</h1>
 
 <h1>Voedselcriteria die u kunt kiezen</h1>
-🌍 Environment
-⚕️ Health
-🏭 Additives & Ultra processed foods
-Salz
-🌾 Allergens
+🌍 Milieu
+⚕️ Gezondheid
+🏭 Additieven & Ultra bewerkte voedingsmiddelen
+🧂 Zout
+🌾 Allergenen
 Nutri-Score
 Eco-score
 
