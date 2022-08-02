@@ -2,7 +2,7 @@ name: Upload Metadata for iOS using Fastlane
 on:
   push:
     branches:
-      - 'ios-metadata'
+      - 'upload-to-appstore'
 
 jobs:
   testflight-release:
