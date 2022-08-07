@@ -69,9 +69,9 @@ Set up allergen alerts on products
 - Speed up your shopping with an initial screening with Open Food Facts.
 - Be careful that the info and the detection may not be 100% accurate. Always double check by yourself, with the packaging.
 
-More
+Daha Fazla
 
-Web version: https://world.openfoodfacts.org
+Web versiyonu: https://world.openfoodfacts.org
 Sorular, geri bildirim : contact@openfoodfacts.org
 
 Kozmetik ürünleri için Open Beauty Facts'i yükleyebilirsin.
