@@ -1,1 +1,1 @@
-Scan the barcode of food products to know which products are good for you (Nutri-Score, processed foods, additives, allergen alerts) and the planet (Eco-Score) !
+Hangi ürünlerin sizin için (Nutri-Score, işlenmiş gıdalar, katkı maddeleri, alerjen uyarıları) ve gezegen için (Eco-Score) iyi olduğunu öğrenmek için gıda ürünlerinin barkodunu tarayın!
