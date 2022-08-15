@@ -1,1 +1,1 @@
-Scan the barcode of food products to know which products are good for you (Nutri-Score, processed foods, additives, allergen alerts) and the planet (Eco-Score) !
+Skan fødevarestregkoder for at vide, hvilke produkter, som er gode for dig (Nutri-Score, forarbejdede fødevarer, tilsætningsstoffer og allergenadvarsler) og for planeten (Øko-Score)!
