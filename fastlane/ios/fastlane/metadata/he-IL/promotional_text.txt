@@ -1,1 +1,1 @@
-Scan the barcode of food products to know which products are good for you (Nutri-Score, processed foods, additives, allergen alerts) and the planet (Eco-Score) !
+סריקת ברקודים של מוצרי מזון מאפשרת לך לדעת אילו מוצרים טובים לך (Nutri-Score, מזון מעובד, תוספים, התראות מעוררי רגישות) ולכדור הארץ (Eco-Score)!

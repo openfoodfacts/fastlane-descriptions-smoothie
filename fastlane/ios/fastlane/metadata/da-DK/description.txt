@@ -39,14 +39,14 @@ Bidrag til Fødevaregennemsigtighed
 Open Food Facts er udviklet af alle, til alle!
 - Kort sagt, den er "madens Wikipedia", som pressen gav projektet tilnavnet. Open Food Facts har også muliggjort tilblivelsen af flere end 150+ apps, såsom Date Limite, Yuka og FoodVisor.
 - Brug den til at træffe bedre fødevarevalg
-- Appen er også kollaborativ. If the product is missing, contribute pictures and data to get the Nutri-Score, food processing level (NOVA) and Eco-Score.
+- Appen er også kollaborativ. Mangler produktet, så bidrag med fotos og data for at få Nutri-Score, fødevareforarbejdningsniveau (NOVA) samt Øko-Score.
 - Make a difference today by photographing a product from your kitchen.
 - Open Food Facts is a non-profit project made by thousands of volunteers from around the world. Hvorfor ikke tilslutte dig?
 
 Decipher food labels
 
 Open Food Facts dechifrerer produktetiketterne. Du vil finde:
-- Nutrition: The Nutriscore (nutritional score), nutrients, fat, transfat, carbohydrates, sugars, fiber, protein, salt & sodium.
+- Ernæring: Nutri-Score (ernæringsscore), næringsstoffer, fedt, transfedt, kulhydrater, sukkerarter, fibre, protein, salt og natrium.
 - Environment: The Ecoscore (including carbon footprint (CO2 emissions), packaging (as well as recycling instructions), environmental labels (organic, quality etc.), and origins of ingredients)
 - Other: brands, allergens, labels (bio, gluten free, vegan, vegetarian, halal, kosher...), traceability information (packaging codes, origins, food factories)
 - On wines and beers, you'll find the alcohol content.
