@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "mustache": "^4.2.0",
-    "puppeteer": "^16.1.0"
+    "puppeteer": "^16.1.1"
   }
 }
