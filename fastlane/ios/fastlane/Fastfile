@@ -1,7 +1,7 @@
 default_platform(:ios)
 
 before_all do
-  xcversion(version: "~> 12.2")
+  xcversion(version: "~> 13.3.1")
 end
 
 platform :ios do
