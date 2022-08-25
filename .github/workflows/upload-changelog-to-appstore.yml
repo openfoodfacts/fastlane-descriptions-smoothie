@@ -32,7 +32,7 @@ jobs:
           AUTH_KEY_FILE_DECRYPTKEY: ${{ secrets.AUTH_KEY_FILE_DECRYPTKEY }}
           
       - name: Publish changelogs for iOS
-        run: cd ./fastlane/ios/fastlane && pwd && ls && bundle exec fastlane changelogs
+        run: cd ./fastlane/ios/fastlane && pwd && ls && bundle exec fastlane upload_changelogs
         env:
           GITHUB_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SENTRY_AUTH_TOKEN: ${{ secrets.SENTRY_AUTH_TOKEN }}
