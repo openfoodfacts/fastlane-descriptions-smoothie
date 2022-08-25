@@ -61,7 +61,7 @@ platform :ios do
   end
 
   desc "Sending only Changelogs to TestFlight"
-  lane :beta do
+  lane :upload_changelogs do
 
     APP_IDENTIFIER = "org.openfoodfacts.app"
     
