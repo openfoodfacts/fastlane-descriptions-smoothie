@@ -68,19 +68,19 @@ platform :ios do
     puts "Sending changelogs for identifier #{APP_IDENTIFIER}"
 
     sync_code_signing(type: "appstore", readonly: is_ci, clone_branch_directly: false)
-    update_code_signing_settings(
-      path: "Runner.xcodeproj",
-      use_automatic_signing: false,
-      build_configurations: "Release",
-      code_sign_identity: 'iPhone Distribution',
-      profile_name: 'match AppStore org.openfoodfacts.app',
-      targets: ["Runner"]
-    )
+    #update_code_signing_settings(
+      #path: "Runner.xcodeproj",
+      #use_automatic_signing: false,
+      #build_configurations: "Release",
+      #code_sign_identity: 'iPhone Distribution',
+      #profile_name: 'match AppStore org.openfoodfacts.app',
+      #targets: ["Runner"]
+    #)
   
-    update_project_team(
-      path: "Runner.xcodeproj",
-      teamid: "ZC9CYWD334"
-    )
+    #update_project_team(
+     # path: "Runner.xcodeproj",
+      #teamid: "ZC9CYWD334"
+    #)
   
     # Upload changelog to TestFlight
     pilot(
