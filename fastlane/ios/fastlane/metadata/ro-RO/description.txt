@@ -26,7 +26,7 @@ Scanați, găsiți și comparați peste 2,3 milioane de produse alimentare
 
 Alege produsele care sunt bune pentru tine
 
-- The Nutri-Score grade, from A to E :  Nutritional quality
+➜ Nota Nutri-Score, de la A la E: calitate nutrițională
 - The NOVA group, from 1 to 4 : Avoid ultra-processed foods (Group 4)
 
 Choose products that are good the planet
@@ -39,11 +39,11 @@ Contribute to Food Transparency
 - Open Food Facts is made by everyone, for everyone!
 - In short, we're "the Wikipedia of food", as the press nicknamed the project. Open Food Facts a permis, de asemenea, crearea a peste 150 de aplicații precum Date Limite, Yuka sau FoodVisor.
 - Use it to make better food choices
-- The app is also collaborative. If the product is missing, contribute pictures and data to get the Nutri-Score, food processing level (NOVA) and Eco-Score.
+Aplicația este colaborativă. If the product is missing, contribute pictures and data to get the Nutri-Score, food processing level (NOVA) and Eco-Score.
 - Make a difference today by photographing a product from your kitchen.
 - Open Food Facts is a non-profit project made by thousands of volunteers from around the world. De ce nu ni te alături?
 
-Decipher food labels
+Descifrare etichete alimente
 
 Descifrăm etichetele produselor pentru dvs. Veți găsi:
 - Nutrition: The Nutriscore (nutritional score), nutrients, fat, transfat, carbohydrates, sugars, fiber, protein, salt & sodium.
