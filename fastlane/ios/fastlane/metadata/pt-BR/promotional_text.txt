@@ -1,1 +1,1 @@
-Scan the barcode of food products to know which products are good for you (Nutri-Score, processed foods, additives, allergen alerts) and the planet (Eco-Score) !
+Digitalize o código de barras dos gêneros alimentícios para saber quais produtos são bons para você (Nutri-Score, alimentos processados, aditivos, alertas de alérgenos) e para o planeta (Eco-Score)!

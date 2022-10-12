@@ -52,7 +52,7 @@ Wij ontcijferen productlabels voor u. U vindt:
 - Op wijnen en bieren vind je het alcoholpercentage.
 
 Onze cijfers zijn wetenschappelijk onderbouwd, en Open Food Facts helpt de wetenschap!
-- We verzinnen het niet. We vertrouwen op peer-reviewed wetenschap.
+- We verzinnen dingen niet. We vertrouwen op peer-reviewed wetenschap.
 - De Nutri-Score is gecreëerd door het onafhankelijke Franse team onder leiding van professor Hercberg.
 - De NOVA-groepen voor voedselverwerking zijn ontworpen door het internationale team van professor Monteiro.
 - De synthese van additieven is gebaseerd op beoordelingen door EFSA over blootstellingsniveaus aan levensmiddelenadditieven.
@@ -71,7 +71,7 @@ Onze cijfers zijn wetenschappelijk onderbouwd, en Open Food Facts helpt de weten
 
 Meer
 
-Web version: https://world.openfoodfacts.org
+Webversie: https://world.openfoodfacts.org
 Vragen, feedback: contact@openfoodfacts.org
 
 Voor cosmetica kun je Open Beauty Facts installeren.

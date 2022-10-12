@@ -36,7 +36,7 @@ Eco-score
 ➜ Open Food Facts wordt gemaakt door iedereen, voor iedereen!
 Kortom, we zijn een soort "levensmiddelen Wikipedia", zoals velen dit project noemen. Open Food Facts heeft ook de creatie van meer dan 150+ apps mogelijk gemaakt, zoals Date Limite, Yuka of FoodVisor.
 ➜ Gebruik het om betere voedselkeuzes te maken
-➜ De app is ook samenwerkend. Als het product ontbreekt, stuur dan foto's en gegevens om de Nutri-Score te krijgen, het voedselverwerkingsniveau (NOVA) & de Eco-Score.
+- De app is ook collaboratief. Als het product ontbreekt, stuur dan foto's en gegevens om de Nutri-Score te krijgen, het voedselverwerkingsniveau (NOVA) & de Eco-Score.
 ➜ Maak vandaag nog het verschil door een product uit je keuken te fotograferen.
 - Open Food Facts is een non-profit-project ontwikkeld door duizenden vrijwilligers uit de hele wereld. Waarom kom je niet bij ons ?
 
@@ -60,12 +60,12 @@ Wij ontcijferen productlabels voor u. U vindt:
 ➜ Je kunt de app anoniem gebruiken
 ➜ Je voedselgegevens zijn van jou en worden nooit online verzonden
 
-👉 Allergenenwaarschuwingen voor producten instellen
+<h1>👉 Allergenenwaarschuwingen voor producten instellen</h1>
 ➜ Heeft u een allergie voor melk, gluten, eieren, sojabonen, noten, vis, selderij, mosterd, sulfieten, pinda's, sesamzaad, schaaldieren, weekdieren of lupine?
 ➜ Versnel het boodschappen doen door een eerst le levensmiddelen te screenen met Open Food Facts.
 ➜ Wees voorzichtig dat de informatie en de detectie mogelijk niet 100% nauwkeurig zijn. Dubbelcheck dus altijd zelf de verpakking.
 
-👉 Meer
+<h1>👉 Meer</h1>
 Webversie: "https://world.openfoodfacts.org">https://world.openfoodfacts.org
 Vragen of feedback: <a href="mailto:contact@openfoodfacts.org">contact@openfoodfacts.org</a>
 

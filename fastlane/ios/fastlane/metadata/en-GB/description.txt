@@ -7,7 +7,7 @@ Set your food preferences without ruining your privacy
 A scan that truly matches who you are
 Green: the product matches your criteria
 Red: there is a problem
-Gray: Help us answer you by photographing the products
+Grey: Help us answer you by photographing the products
 
 Compare in a few seconds those 3 different tomato sauces left on the shelf.
 Get a tailored comparison of any food category

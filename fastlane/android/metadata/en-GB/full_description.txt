@@ -7,7 +7,7 @@ You will get personalized health & eco-impact info for 2.3M foods.
 <h1>👉  A scan that truly matches who you are</h1>
 ✅ Green: the product matches your criteria
 🛑 Red: there is a problem
-⬜️ Gray: Help us answer you by photographing the products
+⬜️ Grey: Help us answer you by photographing the products
 <h1>👉  Compare in a few seconds those 3 different tomato sauces left on the shelf.</h1>
 <h1>👉  Get a tailored comparison of any food category</h1>
 
