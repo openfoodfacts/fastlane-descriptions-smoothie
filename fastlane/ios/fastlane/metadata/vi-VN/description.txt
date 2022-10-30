@@ -1,77 +1,77 @@
-News: We invented the collaborative scanning app in 2012. As we turn 10, we’re reinventing it from the ground up!
+Tin tức: Chúng tôi đã phát minh ra ứng dụng quét cộng tác vào năm 2012. Bởi đã bước sang năm thứ 10, chúng tôi đang tái tạo lại từ đầu!
 
-This app lets you find food that's good for you and good for the planet by scanning their barcodes.
-You will get personalized health & eco-impact info for 2.3M foods.
+Ứng dụng này cho phép bạn tìm thực phẩm tốt cho bạn và tốt cho hành tinh bằng cách quét mã vạch của chúng.
+Bạn sẽ nhận được thông tin được cá nhân hóa về sức khỏe và tác động đến môi trường cho 2,3 triệu loại thực phẩm.
 
-Set your food preferences without ruining your privacy
-A scan that truly matches who you are
+Đặt sở thích ăn uống của bạn mà không phá tan tính riêng tư
+Bản quét cho ra kết quả thực sự phù hợp với bạn
 Màu xanh lá cây: sản phẩm phù hợp với tiêu chí của bạn
 Màu đỏ: có vấn đề
 Màu xám: Giúp chúng tôi trả lời bạn bằng cách chụp ảnh các sản phẩm
 
-Compare in a few seconds those 3 different tomato sauces left on the shelf.
-Get a tailored comparison of any food category
+So sánh 3 loại nước sốt cà chua khác nhau còn lại trên kệ trong vài giây.
+Nhận so sánh phù hợp với bất kỳ danh mục thực phẩm nào
 
-Food criteria you can pick
+Tiêu chí thực phẩm bạn mà có thể chọn
 
 Môi trường
 Sức khoẻ
-Additives & Ultra processed foods
+Phụ gia & thực phẩm siêu chế biến
 Muối
 Chất gây dị ứng
 Điểm dinh dưỡng
 Điểm sinh thái
 
-Scan, find & compare more than 2,3 million food products
+Quét, tìm và so sánh hơn 2,3 triệu sản phẩm thực phẩm
 
-Choose products that are good for you
+Chọn sản phẩm tốt cho bạn
 
-- The Nutri-Score grade, from A to E :  Nutritional quality
-- The NOVA group, from 1 to 4 : Avoid ultra-processed foods (Group 4)
+- Điểm dinh dưỡng, từ A đến E: Chất lượng dinh dưỡng
+- Nhóm NOVA, từ 1 đến 4: Tránh thực phẩm siêu chế biến (Nhóm 4)
 
-Choose products that are good the planet
+Chọn sản phẩm tốt cho hành tinh
 
-- Food causes over 1/3 of global greenhouse gas emissions
-- The Eco-Score grade, from A to E :  a synthesis of 16 environmental impacts
+- Thực phẩm gây ra hơn 1/3 lượng phát thải khí nhà kính toàn cầu
+- Điểm Sinh Thái, từ A đến E: tổng hợp 16 tác động môi trường
 
-Contribute to Food Transparency
+Góp phần minh bạch thực phẩm
 
-- Open Food Facts is made by everyone, for everyone!
-- In short, we're "the Wikipedia of food", as the press nicknamed the project. Open Food Facts has also enabled the creation of over 150+ apps like Date Limite, Yuka or FoodVisor.
-- Use it to make better food choices
-- The app is also collaborative. If the product is missing, contribute pictures and data to get the Nutri-Score, food processing level (NOVA) and Eco-Score.
-- Make a difference today by photographing a product from your kitchen.
-- Open Food Facts is a non-profit project made by thousands of volunteers from around the world. Why don't you join us ?
+- Open Food Facts được thực hiện bởi tất cả mọi người, cho tất cả mọi người!
+- Tóm lại, chúng tôi là "Wikipedia về thực phẩm", như cánh báo chí đã đặt biệt danh cho dự án. Open Food Facts cũng đã khởi động việc tạo ra hơn 150 ứng dụng như Date Limite, Yuka hoặc FoodVisor.
+- Sử dụng ứng dụng để lựa chọn thực phẩm tốt hơn
+- Ứng dụng cũng mang tính cộng tác. Nếu sản phẩm bị thiếu, hãy đóng góp hình ảnh và dữ liệu để lấy Điểm dinh dưỡng, mức độ chế biến thực phẩm (NOVA) và Điểm sinh thái.
+- Hãy tạo sự khác biệt ngay hôm nay bằng cách chụp ảnh một sản phẩm từ nhà bếp của bạn.
+- Open Food Facts là một dự án phi lợi nhuận được thực hiện bởi hàng nghìn tình nguyện viên từ khắp nơi trên thế giới. Tại sao bạn không tham gia với chúng tôi?
 
-Decipher food labels
+Giải mã nhãn thực phẩm
 
-We decipher products labels for you. You'll find:
-- Nutrition: The Nutriscore (nutritional score), nutrients, fat, transfat, carbohydrates, sugars, fiber, protein, salt & sodium.
-- Environment: The Ecoscore (including carbon footprint (CO2 emissions), packaging (as well as recycling instructions), environmental labels (organic, quality etc.), and origins of ingredients)
-- Other: brands, allergens, labels (bio, gluten free, vegan, vegetarian, halal, kosher...), traceability information (packaging codes, origins, food factories)
-- On wines and beers, you'll find the alcohol content.
+Chúng tôi giải mã nhãn sản phẩm cho bạn. Bạn sẽ tìm thấy:
+- Dinh dưỡng: Chỉ số Nutriscore (điểm dinh dưỡng), chất dinh dưỡng, chất béo, chất béo chuyển hóa, carbohydrate, đường, chất xơ, protein, muối và natri.
+- Môi trường: Ecoscore (bao gồm lượng khí thải carbon (khí thải CO2), bao bì (cũng như hướng dẫn tái chế), nhãn môi trường (hữu cơ, chất lượng, v. v.) và nguồn gốc của các thành phần)
+- Khác: nhãn hiệu, chất gây dị ứng, nhãn (hữu cơ, không gluten, thuần chay, chay, halal, kosher...), thông tin truy xuất nguồn gốc (mã bao bì, xuất xứ, nhà máy sản xuất thực phẩm)
+- Trên các loại rượu và bia, bạn sẽ tìm thấy nồng độ cồn.
 
-Our grades are science-based, and Open Food Facts is helping science!
+Điểm của chúng tôi dựa trên cơ sở khoa học, Open Food Facts đang giúp ích cho nền khoa học!
 - Chúng tôi không mang thông tin bịa đặt. Chúng tôi dựa trên khoa học được bình duyệt.
 - Nutri-Score đã được tạo ra bởi nhóm nghiên cứu độc lập đến từ Pháp do Giáo sư Hercberg đứng đầu.
 - Các nhóm NOVA về chế biến thực phẩm được thiết kế bởi nhóm nghiên cứu quốc tế đứng đầu là Giáo sư Monteiro.
-- The additives synthesis is based on reviews by EFSA on exposure levels on food additives.
-- The Eco-Score is based on ground breaking data by ADEME, the French environmental agency, adapted for the world.
-- The Open Food Facts community is collaborating with research teams across the planet for research that benefits all.
+- Việc tổng hợp các chất phụ gia dựa trên các đánh giá của EFSA về mức độ tiếp xúc với các chất phụ gia thực phẩm.
+- Điểm số sinh thái dựa trên dữ liệu đột phá của ADEME, cơ quan môi trường của Pháp, được điều chỉnh cho phù hợp với thế giới.
+- Cộng đồng Open Food Facts đang cộng tác với các nhóm nghiên cứu trên khắp hành tinh để nghiên cứu mang lại lợi ích cho tất cả mọi người.
 
-Your food, your data. Privacy-friendly app.
+Thức ăn của bạn, dữ liệu của bạn. Ứng dụng thân thiện với quyền riêng tư.
 - Bạn có thể sử dụng ứng dụng một cách ẩn danh
-- Your food data is yours, and is never sent online
+- Dữ liệu thực phẩm của bạn là của bạn, không bao giờ bị gửi đi thông qua trực tuyến
 
-Set up allergen alerts on products
+Thiết lập cảnh báo chất gây dị ứng trên sản phẩm
 
-- Do you have a Milk, Gluten, Eggs, Soybeans, Nuts, Fish, Celery, Mustard, Sulphites, Peanuts, Sesame seeds, Crustaceans, Molluscs or Lupin allergy ?
-- Speed up your shopping with an initial screening with Open Food Facts.
-- Be careful that the info and the detection may not be 100% accurate. Always double check by yourself, with the packaging.
+- Bạn có bị dị ứng với Sữa, Gluten, Trứng, Đậu nành, Các loại hạt, Cá, Cần tây, Mù tạt, Sulphites, Đậu phộng, Hạt mè, Giáp xác, Nhuyễn thể hoặc Lupin?
+- Tăng tốc độ mua sắm của bạn với việc kiểm tra thực phẩm sơ bộ cùng Open Food Facts.
+- Hãy cẩn thận bởi thông tin và phát hiện có thể không chính xác 100%. Luôn luôn tự mình kiểm tra lại bao bì.
 
-More
+Thêm
 
-Web version: https://world.openfoodfacts.org
+Phiên bản web: https://world.openfoodfacts.org
 Câu hỏi, phản hồi: contact@openfoodfacts.org
 
-For cosmetics, you can install Open Beauty Facts.
+Đối với mỹ phẩm, bạn có thể cài đặt Open Beauty Facts.
