@@ -30,35 +30,35 @@ Eco-Score
 - El grupo NOVA, de "1" a "4" >> Encuentre el alimento ultraprocesado
 
 <h1>👉 Elige productos que sean buenos para el planeta 🌍</h1>
-➜ Food causes over 1/3 of global greenhouse gas emissions
-➜ The Eco-Score grade, from A to E : a synthesis of 16 environmental impacts
+➜ Los alimentos causan más de 1/3 de las emisiones globales de gases de efecto invernadero
+✅ El grado Eco-Score, de la A a la E : una síntesis de 16 impactos ambientales
 
-<h1>👉 Contribute to Food Transparency</h1>
+<h1>👉 Contribuir a la Transparencia Alimentaria</h1>
 
-➜ Open Food Facts is made by everyone, for everyone!
-➜ In short, we're "the Wikipedia of food", as the press nicknamed the project. Open Food Facts has also enabled the creation of over 150+ apps like Date Limite, Yuka or FoodVisor.
-➜ Use it to make better food choices
-➜ The app is also collaborative. If the product is missing, contribute pictures and data to get the Nutri-Score, food processing level (NOVA) & Eco-Score.
-➜ Make a difference today by photographing a product from your kitchen.
-➜ Open Food Facts is a non-profit project made by thousands of volunteers from around the world. Why don't you join us ?
+➜ ¡Open Food Facts está hecho por todos, para todos!
+➜ En definitiva, somos “la Wikipedia de la comida”, como la prensa apodó al proyecto. Open Food Facts también ha permitido la creación de más de 150 aplicaciones como Date Limite, Yuka o FoodVisor.
+➜ Úselo para elegir mejores alimentos
+La aplicación se basa en la colaboración del usuario. Si falta el producto, aporte imágenes y datos para obtener el Nutri-Score, el nivel de procesamiento de alimentos (NOVA) y el Eco-Score.
+➜ Marca la diferencia hoy fotografiando un producto de tu cocina.
+➜ Open Food Facts es un proyecto sin ánimo de lucro realizado por miles de voluntarios de todo el mundo. ¿Por qué no te unes a nosotros?
 
-<h1>👉 Decipher food labels</h1>
+<h1>👉 Descifrar etiquetas de alimentos</h1>
 
-We decipher products labels for you. You'll find:
-➜ Nutrition: The Nutriscore (nutritional score), nutrients, fat, transfat, carbohydrates, sugars, fiber, protein, salt & sodium.
-➜ Environment: The Ecoscore (including carbon footprint (CO2 emissions), packaging (as well as recycling instructions), environmental labels (organic, quality etc.), and origins of ingredients)
-➜ Other: brands, allergens, labels (bio, gluten free, vegan, vegetarian, halal, kosher...), traceability information (packaging codes, origins, food factories)
-➜ On wines and beers, you'll find the alcohol content.
+Desciframos las etiquetas de los productos por ti. Encontrarás:
+➜ Nutrición: El Nutriscore (puntaje nutricional), nutrientes, grasas, grasas trans, carbohidratos, azúcares, fibra, proteína, sal y sodio.
+➜ Medio ambiente: el Ecoscore (incluida la huella de carbono (emisiones de CO2), el embalaje (así como las instrucciones de reciclaje), las etiquetas medioambientales (orgánico, calidad, etc.) y el origen de los ingredientes)
+➜ Otros: marcas, alérgenos, etiquetas (bio, sin gluten, vegano, vegetariano, halal, kosher...), información de trazabilidad (códigos de envasado, orígenes, fábricas de alimentos)
+➜ En vinos y cervezas encontrarás el grado alcohólico.
 
-<h1>👉 Our grades are science-based, and Open Food Facts is helping science!</h1>
+<h1>👉 ¡Nuestras calificaciones se basan en la ciencia y Open Food Facts está ayudando a la ciencia!</h1>
 - No inventamos cosas. Nos basamos en la ciencia revisada por pares.
 - El Nutri-Score ha sido creado por el equipo francés independiente dirigido por el profesor Hercberg.
 - Los grupos NOVA sobre procesamiento de alimentos han sido diseñados por el equipo internacional del profesor Monteiro.
 - Puedes obtener una síntesis de los niveles de exposición EFSA en aditivos alimentarios.
-➜ The Eco-Score is based on ground breaking data by ADEME, the French environmental agency, adapted for the world.
-➜ The Open Food Facts community is collaborating with research teams across the planet for research that benefits all.
+➜ El Eco-Score se basa en datos innovadores de ADEME, la agencia ambiental francesa, adaptados para el mundo.
+➜ La comunidad de Open Food Facts está colaborando con equipos de investigación de todo el planeta para una investigación que beneficie a todos.
 
-<h1>👉 Your food, your data. La aplicación protege tu privacidad.</h1>
+<h1>👉 Tus alimentos, tus datos. La aplicación protege tu privacidad.</h1>
 - Puedes usar la aplicación de forma anónima
 ➜ Your food data is yours, and is never sent online
 
