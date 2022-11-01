@@ -45,8 +45,8 @@ La aplicación se basa en la colaboración del usuario. Si falta el producto, ap
 <h1>👉 Descifrar etiquetas de alimentos</h1>
 
 Desciframos las etiquetas de los productos por ti. Encontrarás:
-➜ Nutrición: El Nutriscore (puntaje nutricional), nutrientes, grasas, grasas trans, carbohidratos, azúcares, fibra, proteína, sal y sodio.
-➜ Medio ambiente: el Ecoscore (incluida la huella de carbono (emisiones de CO2), el embalaje (así como las instrucciones de reciclaje), las etiquetas medioambientales (orgánico, calidad, etc.) y el origen de los ingredientes)
+➜ Nutrición: El Nutri-Score (puntaje nutricional), nutrientes, grasas, grasas trans, carbohidratos, azúcares, fibra, proteína, sal y sodio.
+➜ Medio ambiente: el Eco-Score (incluida la huella de carbono (emisiones de CO2), el embalaje (así como las instrucciones de reciclaje), las etiquetas medioambientales (orgánico, calidad, etc.) y el origen de los ingredientes)
 ➜ Otros: marcas, alérgenos, etiquetas (bio, sin gluten, vegano, vegetariano, halal, kosher...), información de trazabilidad (códigos de envasado, orígenes, fábricas de alimentos)
 ➜ En vinos y cervezas encontrarás el grado alcohólico.
 
@@ -60,15 +60,15 @@ Desciframos las etiquetas de los productos por ti. Encontrarás:
 
 <h1>👉 Tus alimentos, tus datos. La aplicación protege tu privacidad.</h1>
 - Puedes usar la aplicación de forma anónima
-➜ Your food data is yours, and is never sent online
+➜ Sus datos de alimentos son suyos y nunca se envían en línea
 
-<h1>👉 Set up allergen alerts on products</h1>
-➜ Do you have a Milk, Gluten, Eggs, Soybeans, Nuts, Fish, Celery, Mustard, Sulphites, Peanuts, Sesame seeds, Crustaceans, Molluscs or Lupin allergy ?
-➜ Speed up your shopping with an initial screening with Open Food Facts.
-➜ Be careful that the info & the detection may not be 100% accurate. Always double check by yourself, with the packaging.
+<h1>👉 Configurar alertas de alérgenos en productos</h1>
+➜ ¿Es alérgico a la leche, el gluten, los huevos, la soja, los frutos secos, el pescado, el apio, la mostaza, los sulfitos, los cacahuetes, las semillas de sésamo, los crustáceos, los moluscos o los altramuces?
+➜ Acelere sus compras con una evaluación inicial con Open Food Facts.
+- Tenga cuidado de que la información y la detección pueden no ser 100% precisas. Siempre verifique dos veces por sí mismo, con el empaquetado.
 
-<h1>👉 More</h1>
-Web version: <a href="https://world.openfoodfacts.org">https://world.openfoodfacts.org</a>
+<h1>👉 Más</h1>
+Versión web: <a href="https://world.openfoodfacts.org">https://world.openfoodfacts.org</a>
 Preguntas, comentarios: contact@openfoodfacts.org
 
 Para cosméticos, puede instalar Open Beauty Facts.
