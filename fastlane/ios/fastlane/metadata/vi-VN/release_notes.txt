@@ -1,12 +1,12 @@
-The Open Food Facts project turns 10 ! We've created a completely new version of the app to celebrate.
-Many thanks to all contributors who have worked during 2 years on all those new features!
+Dự án Open Food Facts bước sang tuổi thứ 10! Chúng tôi đã tạo một phiên bản hoàn toàn mới của ứng dụng để kỷ niệm cột mốc này.
+Chân thành gửi lời cảm ơn tất cả những người đóng góp đã làm việc trong suốt 2 năm qua để tạo nên tất cả các tính năng mới đó!
 
-New features:
-* All new design
-* The product page is much more helpful
-* Customize what you see when you scan a product
-* Create personal lists of products
+Tính năng mới:
+* Thiết kế mới
+* Trang sản phẩm hữu ích hơn nhiều
+* Tùy chỉnh những gì bạn thấy khi quét sản phẩm
+* Tạo danh sách sản phẩm cá nhân
 
-Open Food Facts is a non-profit project to open food data from around the world. Join us on https://en.openfoodfacts.org
+Open Food Facts là một dự án phi lợi nhuận nhằm tạo dữ liệu mở cho thực phẩm từ khắp nơi trên thế giới. Tham gia với chúng tôi trên https://en.openfoodfacts.org
 
-Scan the barcode of food products to know which products are good for you (nutritional quality: Nutri-Score, NOVA group, additives and allergen alerts) and the planet (Eco-Score)!
+Quét mã vạch của sản phẩm thực phẩm để biết sản phẩm nào tốt cho bạn (chất lượng dinh dưỡng: Nutri-Score, nhóm NOVA, chất phụ gia và cảnh báo chất gây dị ứng) và hành tinh (Eco-Score)!

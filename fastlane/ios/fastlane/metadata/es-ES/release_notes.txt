@@ -1,9 +1,9 @@
-The Open Food Facts project turns 10 ! We've created a completely new version of the app to celebrate.
+¡El proyecto Open Food Facts cumple 10 años! Hemos creado una versión completamente nueva de la aplicación para celebrar.
 ¡Muchas gracias a todos los colaboradores que han trabajado durante 2 años en todas esas nuevas funciones!
 
 Nuevas funciones:
-* All new design
-* The product page is much more helpful
+* Todo nuevo diseño
+* La página del producto es mucho más útil
 * Personaliza lo que ves cuando escaneas un producto
 * Crea listas personales de productos
 
