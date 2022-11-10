@@ -89,7 +89,7 @@ platform :ios do
       skip_waiting_for_build_processing: true,
       skip_screenshots: true,
       skip_metadata: true,
-      skip_binary_upload: true
+      #skip_binary_upload: true
     )
   end
 
