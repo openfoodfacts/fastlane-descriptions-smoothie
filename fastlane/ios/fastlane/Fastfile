@@ -81,7 +81,7 @@ platform :ios do
      # path: "Runner.xcodeproj",
       #teamid: "ZC9CYWD334"
     #)
-  
+  MATCH_FORCE_ENTERPRISE="1"
     # Upload changelog to TestFlight
     deliver(
       app_identifier: APP_IDENTIFIER,
