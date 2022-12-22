@@ -71,7 +71,7 @@ Configure alertas de alérgenos em produtos
 
 Mais
 
-Versão web: https://world.openfoodfacts.org
+Versão web: https://br.openfoodfacts.org
 Perguntas, feedback: contato@openfoodfacts.org
 
 Para cosméticos, você pode instalar o Open Beauty Facts.

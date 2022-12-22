@@ -1,11 +1,11 @@
 The Open Food Facts project turns 10 ! We've created a completely new version of the app to celebrate.
 Many thanks to all contributors who have worked during 2 years on all those new features!
 
-New features:
-* All new design
-* The product page is much more helpful
-* Customize what you see when you scan a product
-* Create personal lists of products
+Yeni özellikler:
+* Tamamen yeni tasarım
+* Ürün sayfası çok daha faydalıdır
+* Bir ürünü taradığınızda ne göreceğinizi özelleştirin
+* Kişisel ürün listeleri oluşturun
 
 Open Food Facts dünyanın dört bir yanından yiyecek verilerini açık hale getirmeye çalışan kar amacı gütmeyen bir projedir. Bize https://tr.openfoodfacts.org adresinde katılın
 

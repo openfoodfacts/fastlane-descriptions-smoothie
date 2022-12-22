@@ -43,7 +43,7 @@ Eco-Score
 <h1>👉 Decifrar rótulos alimentares</h1>
 
 Nós deciframos as etiquetas dos produtos para si. Encontrará:
-➜ Nutrição: O Nutriscore (pontuação nutricional), nutrientes, gorduras, gordura saturada, hidratos de carbono, açúcares, fibras, proteínas, sal e sódio.
+➜ Nutrição: o Nutri-Score (pontuação nutricional), nutrientes, gorduras, gordura saturada, hidratos de carbono, açúcares, fibras, proteínas, sal e sódio.
 ➜ Ambiente: O Ecoscore (incluindo a pegada de carbono (emissões de CO2), embalagens (assim como instruções de reciclagem), rótulos ambientais (orgânico, qualidade, etc.) e origens de ingredientes)
 ➜ Outros: marcas, alérgeneos, rótulos (bio, sem glúten, vegano, vegetariano, halal, kosher...), informação de rastreabilidade (códigos de embalagem, origens, fábricas de alimentos)
 ➜ Em vinhos e cervejas, você encontrará o teor alcoólico.

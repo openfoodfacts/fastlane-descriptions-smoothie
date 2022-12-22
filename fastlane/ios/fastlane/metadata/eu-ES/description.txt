@@ -1,6 +1,6 @@
 News: We invented the collaborative scanning app in 2012. As we turn 10, we’re reinventing it from the ground up!
 
-This app lets you find food that's good for you and good for the planet by scanning their barcodes.
+Aplikazio honek zuretzat eta planetarentzat ona den janaria aurkitzeko aukera ematen dizu barra-kodeak eskaneatuz.
 You will get personalized health & eco-impact info for 2.3M foods.
 
 Set your food preferences without ruining your privacy
@@ -41,11 +41,11 @@ Contribute to Food Transparency
 - Use it to make better food choices
 - The app is also collaborative. If the product is missing, contribute pictures and data to get the Nutri-Score, food processing level (NOVA) and Eco-Score.
 - Make a difference today by photographing a product from your kitchen.
-- Open Food Facts is a non-profit project made by thousands of volunteers from around the world. Why don't you join us ?
+- Open Food Facts is a non-profit project made by thousands of volunteers from around the world. Zergatik ez duzu gurekin bat egiten?
 
 Decipher food labels
 
-We decipher products labels for you. You'll find:
+Produktuen etiketak deszifratzen ditugu zugatik. Aurkituko duzuna:
 - Nutrition: The Nutriscore (nutritional score), nutrients, fat, transfat, carbohydrates, sugars, fiber, protein, salt & sodium.
 - Environment: The Ecoscore (including carbon footprint (CO2 emissions), packaging (as well as recycling instructions), environmental labels (organic, quality etc.), and origins of ingredients)
 - Other: brands, allergens, labels (bio, gluten free, vegan, vegetarian, halal, kosher...), traceability information (packaging codes, origins, food factories)
@@ -74,4 +74,4 @@ More
 Web version: https://world.openfoodfacts.org
 Galderak, iritzia : contact@openfoodfacts.org
 
-For cosmetics, you can install Open Beauty Facts.
+Kosmetikarako, Open Beauty Facts instala dezakezu.

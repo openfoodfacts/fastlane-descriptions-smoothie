@@ -18,7 +18,7 @@ You will get personalized health & eco-impact info for 2.3M foods.
 🧂 Salt
 🌾 Allergens
 Nutri-Score
-Eco-Score
+친환경 점수
 
 <h1>👉 Scan, find & compare more than 2,3 million food products</h1>
 
