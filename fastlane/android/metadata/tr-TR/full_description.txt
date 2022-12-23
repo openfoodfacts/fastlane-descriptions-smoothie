@@ -5,18 +5,18 @@ You will get personalized health & eco-impact info for 2.3M foods.
 
 <h1>👉  Set your food preferences without ruining your privacy</h1>
 <h1>👉  A scan that truly matches who you are</h1>
-✅ Green: the product matches your criteria
-🛑 Red: there is a problem
+✅ Yeşil: ürün kriterlerinize uygundur
+🛑 Kırmızı: bir sorun var
 ⬜️ Gray: Help us answer you by photographing the products
 <h1>👉  Compare in a few seconds those 3 different tomato sauces left on the shelf.</h1>
 <h1>👉  Get a tailored comparison of any food category</h1>
 
 <h1>Food criteria you can pick</h1>
-🌍 Environment
-⚕️ Health
-🏭 Additives & Ultra processed foods
-🧂 Salt
-🌾 Allergens
+🌍 Çevre
+⚕️ Sağlık
+🏭 Katkı maddeleri ve Ultra işlenmiş gıdalar
+🧂 Tuz
+🌾 Alerjenler
 Nutri-Score
 Eco-Score
 
@@ -38,11 +38,11 @@ Eco-Score
 ➜ Use it to make better food choices
 ➜ The app is also collaborative. If the product is missing, contribute pictures and data to get the Nutri-Score, food processing level (NOVA) & Eco-Score.
 ➜ Make a difference today by photographing a product from your kitchen.
-➜ Open Food Facts is a non-profit project made by thousands of volunteers from around the world. Why don't you join us ?
+➜ Open Food Facts is a non-profit project made by thousands of volunteers from around the world. Neden bize katılmıyorsun?
 
 <h1>👉 Decipher food labels</h1>
 
-We decipher products labels for you. You'll find:
+We decipher products labels for you. Bulacaksın:
 ➜ Nutrition: The Nutriscore (nutritional score), nutrients, fat, transfat, carbohydrates, sugars, fiber, protein, salt & sodium.
 ➜ Environment: The Ecoscore (including carbon footprint (CO2 emissions), packaging (as well as recycling instructions), environmental labels (organic, quality etc.), and origins of ingredients)
 ➜ Other: brands, allergens, labels (bio, gluten free, vegan, vegetarian, halal, kosher...), traceability information (packaging codes, origins, food factories)
@@ -56,7 +56,7 @@ We decipher products labels for you. You'll find:
 ➜ The Eco-Score is based on ground breaking data by ADEME, the French environmental agency, adapted for the world.
 ➜ The Open Food Facts community is collaborating with research teams across the planet for research that benefits all.
 
-<h1>👉 Your food, your data. Privacy-friendly app.</h1>
+<h1>👉 Sizin gıdanız, sizin verileriniz. Gizlilik dostu uygulama.</h1>
 - Uygulamayı anonim olarak kullanabilirsiniz
 ➜ Your food data is yours, and is never sent online
 

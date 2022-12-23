@@ -1,1 +1,1 @@
-Scan the barcode of food products to know which products are good for you (Nutri-Score, processed foods, additives, allergen alerts) and the planet (Eco-Score) !
+Skanuj kodu kreskowe produktów i dowiaduj się które produkty są dla Ciebie zdrowe (wskaźnik Nutri-score, wartość odżywcza, powiadomienia o dodatkach i alergenach) i naszej planety (Eco-Score)!

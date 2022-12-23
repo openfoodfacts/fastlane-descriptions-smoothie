@@ -1,8 +1,8 @@
-The Open Food Facts project turns 10 ! We've created a completely new version of the app to celebrate.
+Open Food Facts proiektuak 10 urte bete ditu! Aplikazioa erabat berriztu dugu ospatzeko.
 Many thanks to all contributors who have worked during 2 years on all those new features!
 
-New features:
-* All new design
+Ezaugarri berriak:
+* Diseinu erabat berria
 * The product page is much more helpful
 * Customize what you see when you scan a product
 * Create personal lists of products

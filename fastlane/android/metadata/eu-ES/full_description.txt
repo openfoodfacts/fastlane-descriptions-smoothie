@@ -1,22 +1,22 @@
 News: We invented the collaborative scanning app in 2012. 🤳🥫 As we turn 10, we’re reinventing it from the ground up!
 
-This app lets you find food that's good for you and good for the planet by scanning their barcodes.
+Aplikazio honek zuretzat eta planetarentzat ona den janaria aurkitzeko aukera ematen dizu barra-kodeak eskaneatuz.
 You will get personalized health & eco-impact info for 2.3M foods.
 
 <h1>👉  Set your food preferences without ruining your privacy</h1>
 <h1>👉  A scan that truly matches who you are</h1>
-✅ Green: the product matches your criteria
-🛑 Red: there is a problem
-⬜️ Gray: Help us answer you by photographing the products
+✅ Berdea: produktua zure irizpideekin bat dator
+🛑 Gorria: arazo bat dago
+⬜️ Grisa: Lagundu iezaguzu erantzuten produktuei argazkiak eginez
 <h1>👉  Compare in a few seconds those 3 different tomato sauces left on the shelf.</h1>
 <h1>👉  Get a tailored comparison of any food category</h1>
 
 <h1>Food criteria you can pick</h1>
-🌍 Environment
-⚕️ Health
-🏭 Additives & Ultra processed foods
-🧂 Salt
-🌾 Allergens
+🌍 Ingurumena
+⚕️ Osasuna
+🏭 Gehigarriak eta Ultra prozesatutako elikagaiak
+🧂 Gatza
+🌾 Alergenoak
 Nutri-Score
 Eco-Score
 
@@ -38,11 +38,11 @@ Eco-Score
 ➜ Use it to make better food choices
 ➜ The app is also collaborative. If the product is missing, contribute pictures and data to get the Nutri-Score, food processing level (NOVA) & Eco-Score.
 ➜ Make a difference today by photographing a product from your kitchen.
-➜ Open Food Facts is a non-profit project made by thousands of volunteers from around the world. Why don't you join us ?
+➜ Open Food Facts is a non-profit project made by thousands of volunteers from around the world. Zergatik ez duzu gurekin bat egiten?
 
-<h1>👉 Decipher food labels</h1>
+<h1>👉 Deszifratu elikagaien etiketak</h1>
 
-We decipher products labels for you. You'll find:
+Produktuen etiketak deszifratzen ditugu zugatik. Aurkituko duzuna:
 ➜ Nutrition: The Nutriscore (nutritional score), nutrients, fat, transfat, carbohydrates, sugars, fiber, protein, salt & sodium.
 ➜ Environment: The Ecoscore (including carbon footprint (CO2 emissions), packaging (as well as recycling instructions), environmental labels (organic, quality etc.), and origins of ingredients)
 ➜ Other: brands, allergens, labels (bio, gluten free, vegan, vegetarian, halal, kosher...), traceability information (packaging codes, origins, food factories)
@@ -65,8 +65,8 @@ We decipher products labels for you. You'll find:
 ➜ Speed up your shopping with an initial screening with Open Food Facts.
 ➜ Be careful that the info & the detection may not be 100% accurate. Always double check by yourself, with the packaging.
 
-<h1>👉 More</h1>
+<h1>👉 Gehiago</h1>
 Web version: <a href="https://world.openfoodfacts.org">https://world.openfoodfacts.org</a>
 Questions, feedback : <a href="mailto:contact@openfoodfacts.org">contact@openfoodfacts.org</a>
 
-For cosmetics, you can install Open Beauty Facts.
+Kosmetikarako, Open Beauty Facts instala dezakezu.
