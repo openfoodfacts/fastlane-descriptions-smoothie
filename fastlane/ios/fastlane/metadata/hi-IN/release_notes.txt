@@ -1,12 +1,5 @@
-The Open Food Facts project turns 10 ! We've created a completely new version of the app to celebrate.
-Many thanks to all contributors who have worked during 2 years on all those new features!
-
-New features:
-* All new design
-* The product page is much more helpful
-* Customize what you see when you scan a product
-* Create personal lists of products
-
-Open Food Facts is a non-profit project to open food data from around the world. Join us on https://en.openfoodfacts.org
-
-Scan the barcode of food products to know which products are good for you (nutritional quality: Nutri-Score, NOVA group, additives and allergen alerts) and the planet (Eco-Score)!
+ओपन फूड फैक्ट्स प्रोजेक्ट अपनी 10वीं वर्षगांठ मना रहा है! हमने जश्न मनाने के लिए ऐप को फिर से डिज़ाइन किया।
+पैकेजिंग ऑपरेशन!
+* "उत्पाद संपादित करें" में एक नया खंड मिला: "संरचित पैकेजिंग (बीटा) जो आपको वजन सहित विस्तृत पैकेजिंग दर्ज करने की अनुमति देता है। यदि आपके पास रसोई का पैमाना है, तो हमें सभी पैकेजिंग को कुछ दही के संदर्भ में मदद करें!
+हम contact@openfoodfacts.org पर आपकी प्रतिक्रिया का स्वागत करते हैं
+https://github.com/openfoodfacts/smooth-app/releases

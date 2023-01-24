@@ -1,12 +1,5 @@
-The Open Food Facts project turns 10 ! We've created a completely new version of the app to celebrate.
-Many thanks to all contributors who have worked during 2 years on all those new features!
-
-New features:
-* All new design
-* The product page is much more helpful
-* Customize what you see when you scan a product
-* Create personal lists of products
-
-Open Food Facts is a non-profit project to open food data from around the world. Join us on https://en.openfoodfacts.org
-
-Scan the barcode of food products to know which products are good for you (nutritional quality: Nutri-Score, NOVA group, additives and allergen alerts) and the planet (Eco-Score)!
+Open Food Facts 項目慶祝成立 10 週年！ 我們重新設計了應用程序來慶祝。
+打包運營！
+* 在“編輯產品”中增加了一個新部分：“結構化包裝（測試版），允許您輸入包括重量在內的詳細包裝。如果您有廚房秤，請幫助我們參考所有包裝一些酸奶！
+我們歡迎您通過 contact@openfoodfacts.org 提供反饋
+https://github.com/openfoodfacts/smooth-app/releases

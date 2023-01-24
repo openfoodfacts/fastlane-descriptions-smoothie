@@ -1,0 +1,79 @@
+Inventamos
+la aplicación de escaneo
+colaborativa en 2012. ¡Al cumplir 10 años, lo estamos reinventando desde cero!
+
+Esta aplicación te permite encontrar comida que sea buena para ti y para el planeta al escanear códigos de barras.
+Tendrás información personalizada sobre los beneficios y el impacto ecológico de unos 2,3 millones de alimentos catalogados.
+
+Establezca sus preferencias de alimentos sin arruinar su privacidad
+Un escaneo que realmente coincide con quién eres
+Verde: el producto se adecúa a tu perfil
+Rojo: hay un problema
+Gris: Ayúdanos a responderte fotografiando los productos
+
+Compara en unos segundos esas 3 salsas de tomate diferentes que quedan en el estante.
+Obtenga una comparación personalizada de cualquier categoría de alimentos
+
+Criterios de alimentos que puede elegir
+
+Medio ambiente
+Salud
+Aditivos y alimentos ultraprocesados
+Sal
+Alérgenos
+Nutri-Score
+Eco-Score
+
+Escanee, encuentre y compare más de 2,3 millones de productos alimenticios
+
+Elige productos que sean buenos para ti
+
+- El grado Nutri-Score, de la A a la E: Calidad nutricional
+- El grupo NOVA, del 1 al 4: Evita los alimentos ultraprocesados (Grupo 4)
+
+Elige productos que sean buenos para el planeta
+
+- Los alimentos causan más de 1/3 de las emisiones globales de gases de efecto invernadero
+- El grado Eco-Score, de la A a la E: una síntesis de 16 impactos ambientales
+
+Contribuir a la Transparencia Alimentaria
+
+- ¡Open Food Facts está hecho por todos, para todos!
+- En definitiva, somos "la Wikipedia de la comida", como la prensa apodó al proyecto. Open Food Facts también ha permitido la creación de más de 150 aplicaciones como Date Limite, Yuka o FoodVisor.
+- Use it to make better food choices
+- La aplicación también es colaborativa. Si falta el producto, aporte imágenes y datos para obtener el Nutri-Score, el nivel de procesamiento de alimentos (NOVA) y el Eco-Score.
+- Marca la diferencia hoy fotografiando un producto de tu cocina.
+- Open Food Facts es un proyecto sin ánimo de lucro realizado por miles de voluntarios de todo el mundo. ¿Por qué no te unes a nosotros?
+
+Descifrar las etiquetas de los alimentos
+
+Desciframos las etiquetas de los productos por ti. Encontrarás:
+- Nutrición: El Nutri-Score (puntaje nutricional), nutrientes, grasas, grasas trans, carbohidratos, azúcares, fibra, proteína, sal y sodio.
+- Medio ambiente: el Eco-Score (incluida la huella de carbono (emisiones de CO2), el embalaje (así como las instrucciones de reciclaje), las etiquetas medioambientales (orgánico, calidad, etc.) y el origen de los ingredientes)
+- Otros: marcas, alérgenos, etiquetas (bio, sin gluten, vegano, vegetariano, halal, kosher...), información de trazabilidad (códigos de envasado, orígenes, fábricas de alimentos)
+- En vinos y cervezas, encontrarás el grado alcohólico.
+
+¡Nuestras calificaciones se basan en la ciencia y Open Food Facts está ayudando a la ciencia!
+- No inventamos cosas. Nos basamos en la ciencia revisada por pares.
+- El Nutri-Score ha sido creado por el equipo francés independiente dirigido por el profesor Hercberg.
+- Los grupos NOVA sobre procesamiento de alimentos han sido diseñados por el equipo internacional del profesor Monteiro.
+- La síntesis de aditivos se basa en las revisiones de la EFSA sobre los niveles de exposición de los aditivos alimentarios.
+- El Eco-Score se basa en datos innovadores de ADEME, la agencia ambiental francesa, adaptados para el mundo.
+- La comunidad de Open Food Facts está colaborando con equipos de investigación de todo el planeta para una investigación que beneficie a todos.
+
+Tu comida, tus datos. Aplicación amigable con la privacidad.
+- Puedes usar la aplicación de forma anónima
+- Sus datos de alimentos son suyos y nunca se envían en línea
+
+Configurar alertas de alérgenos en productos
+
+- ¿Es alérgico a la leche, el gluten, los huevos, la soja, los frutos secos, el pescado, el apio, la mostaza, los sulfitos, los cacahuetes, las semillas de sésamo, los crustáceos, los moluscos o los lupinos?
+- Acelere sus compras con una evaluación inicial con Open Food Facts.
+- Tenga cuidado de que la información y la detección pueden no ser 100% precisas. Siempre verifique dos veces por sí mismo, con el empaquetado.
+
+Más
+
+Versión web: https://world.openfoodfacts.org
+Preguntas, comentarios: contact@openfoodfacts.org
+
+Para cosméticos, puede instalar Open Beauty Facts.

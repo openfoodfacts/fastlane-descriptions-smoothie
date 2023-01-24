@@ -1,12 +1,5 @@
-The Open Food Facts project turns 10 ! We've created a completely new version of the app to celebrate.
-Many thanks to all contributors who have worked during 2 years on all those new features!
-
-Yeni özellikler:
-* Tamamen yeni tasarım
-* Ürün sayfası çok daha faydalıdır
-* Bir ürünü taradığınızda ne göreceğinizi özelleştirin
-* Kişisel ürün listeleri oluşturun
-
-Open Food Facts dünyanın dört bir yanından yiyecek verilerini açık hale getirmeye çalışan kar amacı gütmeyen bir projedir. Bize https://tr.openfoodfacts.org adresinde katılın
-
-Scan the barcode of food products to know which products are good for you (nutritional quality: Nutri-Score, NOVA group, additives and allergen alerts) and the planet (Eco-Score)!
+Open Food Facts projesi 10. yılını kutluyor! Kutlamak için uygulamayı yeniden tasarladık.
+Paketleme işlemi!
+* "Ürünü Düzenle"de yeni bir bölüm eklendi: "Ağırlık dahil olmak üzere ayrıntılı paketlemeyi girmenizi sağlayan Yapılandırılmış Paketleme (Beta). Mutfak teraziniz varsa, bazı yoğurtların tüm paketlerini referans almamıza yardımcı olun !
+Geri bildiriminizi contact@openfoodfacts.org adresinden bekliyoruz.
+https://github.com/openfoodfacts/smooth-app/releases

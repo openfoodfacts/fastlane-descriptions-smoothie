@@ -1,12 +1,5 @@
-The Open Food Facts project turns 10 ! We've created a completely new version of the app to celebrate.
-Many thanks to all contributors who have worked during 2 years on all those new features!
-
-New features:
-* All new design
-* The product page is much more helpful
-* Customize what you see when you scan a product
-* Create personal lists of products
-
-Open Food Facts는 전 세계 수천 명의 자원봉사자가 개발한 비영리 프로젝트입니다. https://en.openfoodfacts.org에서 우리와 함께
-
-Scan the barcode of food products to know which products are good for you (nutritional quality: Nutri-Score, NOVA group, additives and allergen alerts) and the planet (Eco-Score)!
+Open Food Facts 프로젝트가 10주년을 맞이했습니다! 축하하기 위해 앱을 재설계했습니다.
+포장작업!
+* "제품 편집"에 새로운 섹션이 생겼습니다: "중량을 포함한 자세한 포장을 입력할 수 있는 구조화된 포장(베타). 주방 저울이 있는 경우 일부 요거트의 모든 포장을 참조할 수 있도록 도와주세요!
+contact@openfoodfacts.org에서 피드백을 환영합니다.
+https://github.com/openfoodfacts/smooth-app/releases
