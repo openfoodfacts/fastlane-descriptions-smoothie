@@ -1,12 +1,5 @@
-The Open Food Facts project turns 10 ! We've created a completely new version of the app to celebrate.
-Many thanks to all contributors who have worked during 2 years on all those new features!
-
-New features:
-* All new design
-* The product page is much more helpful
-* Customize what you see when you scan a product
-* Create personal lists of products
-
-Open Food Facts — некоммерческий проект, раскрывающий данные о пище по всему миру. Присоединяйтесь к нам на https://en.openfoodfacts.org
-
-Scan the barcode of food products to know which products are good for you (nutritional quality: Nutri-Score, NOVA group, additives and allergen alerts) and the planet (Eco-Score)!
+Проект Open Food Facts отмечает свое 10-летие! Мы переработали приложение, чтобы отпраздновать.
+Упаковочная операция!
+* Появился новый раздел в разделе «Редактировать продукт»: «Структурированная упаковка (бета-версия), который позволяет вам вводить подробную информацию об упаковке, включая вес. Если у вас есть кухонные весы, помогите нам сослаться на все упаковки некоторых йогуртов!
+Мы приветствуем ваши отзывы по адресу contact@openfoodfacts.org
+https://github.com/openfoodfacts/smooth-app/releases
