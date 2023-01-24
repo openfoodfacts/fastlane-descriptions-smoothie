@@ -1,4 +1,4 @@
-Novinky: V roce 2012 jsme vynalezli aplikaci pro společné skenování. Když nám bude 10 let, znovu to vynalézáme od základů!
+Novinky: V roce 2012 jsme vynalezli aplikaci pro společné skenování. Jelikož je nám 10 let, vymýšlíme ji od základu znovu!
 
 Tato aplikace vám umožní najít jídlo, které je dobré pro vás a dobré pro planetu, naskenováním jejich čárových kódů.
 Získáte personalizované informace o zdraví a ekologickém dopadu pro 2,3 milionu potravin.
