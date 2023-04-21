@@ -1,13 +1,13 @@
 {
   "templateStrings": [
     {
-      "title": "Намерете храна, която е добра за вас...<br>и околната среда",
+      "title": "Намери храна, която е добра за теб...<br>и за околната среда",
       "image1": "https://world.openfoodfacts.org/images/products/20068196/front_en.50.full.jpg",
-      "image2": "https://world.openfoodfacts.org/images/products/20068196/front_en.50.full.jpg"
+      "image2": "https://world.openfoodfacts.org/images/products/400/840/040/1621/front.34.full.jpg"
     },
     {
-      "title": "Сканирайте почти всеки баркод на храна",
-      "cardTitle": "Сканирайте или потърсете храна"
+      "title": "Сканирай почти всеки баркод на храна",
+      "cardTitle": "Сканирай или потърси храна"
     }
   ]
 }

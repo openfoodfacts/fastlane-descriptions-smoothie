@@ -1,12 +1,12 @@
 {
   "templateStrings": [
     {
-      "title": "Sizin için iyi olan yiyecekleri bulun...<br>ve çevre",
+      "title": "Sizin için iyi olan yiyecekleri<br>ve çevreyi bulun",
       "image1": "https://world.openfoodfacts.org/images/products/20068196/front_en.50.full.jpg",
       "image2": "https://world.openfoodfacts.org/images/products/400/840/040/1621/front.34.full.jpg"
     },
     {
-      "title": "Neredeyse tüm gıda barkodlarını tarayın",
+      "title": "Hemen hemen tüm gıda barkodlarını tarayın",
       "cardTitle": "Yiyecek tarayın veya arayın"
     }
   ]

@@ -1,9 +1,9 @@
-News: We invented the collaborative scanning app in 2012. 🤳🥫 As we turn 10, we’re reinventing it from the ground up!
+Haberler: İşbirliğine dayalı tarama uygulamasını 2012'de icat ettik. 🤳🥫 As we turn 10, we’re reinventing it from the ground up!
 
 This app lets you find food that's good for you and good for the planet by scanning their barcodes.
 You will get personalized health & eco-impact info for 2.3M foods.
 
-<h1>👉  Set your food preferences without ruining your privacy</h1>
+<h1>👉 Mahremiyetinizi bozmadan yemek tercihlerinizi belirleyin</h1>
 <h1>👉  A scan that truly matches who you are</h1>
 ✅ Yeşil: ürün kriterlerinize uygundur
 🛑 Kırmızı: bir sorun var
@@ -33,8 +33,8 @@ Eco-Score
 
 <h1>👉 Contribute to Food Transparency</h1>
 
-➜ Open Food Facts is made by everyone, for everyone!
-➜ In short, we're "the Wikipedia of food", as the press nicknamed the project. Open Food Facts has also enabled the creation of over 150+ apps like Date Limite, Yuka or FoodVisor.
+➜ Open Food Facts herkes tarafından, herkes için yapılır!
+➜ Kısaca projeye basının verdiği lakapla "yemeğin Wikipedia'sı"yız. Open Food Facts ayrıca Date Limite, Yuka veya FoodVisor gibi 150'den fazla uygulamanın oluşturulmasını sağladı.
 ➜ Use it to make better food choices
 ➜ The app is also collaborative. If the product is missing, contribute pictures and data to get the Nutri-Score, food processing level (NOVA) & Eco-Score.
 ➜ Make a difference today by photographing a product from your kitchen.
@@ -42,7 +42,7 @@ Eco-Score
 
 <h1>👉 Decipher food labels</h1>
 
-We decipher products labels for you. Bulacaksın:
+Ürün etiketlerini sizin için deşifre ediyoruz. Bulacaksın:
 ➜ Nutrition: The Nutriscore (nutritional score), nutrients, fat, transfat, carbohydrates, sugars, fiber, protein, salt & sodium.
 ➜ Environment: The Ecoscore (including carbon footprint (CO2 emissions), packaging (as well as recycling instructions), environmental labels (organic, quality etc.), and origins of ingredients)
 ➜ Other: brands, allergens, labels (bio, gluten free, vegan, vegetarian, halal, kosher...), traceability information (packaging codes, origins, food factories)
@@ -66,7 +66,7 @@ We decipher products labels for you. Bulacaksın:
 ➜ Be careful that the info & the detection may not be 100% accurate. Always double check by yourself, with the packaging.
 
 <h1>👉 More</h1>
-Web version: <a href="https://world.openfoodfacts.org">https://world.openfoodfacts.org</a>
+Web versiyonu: <a href="https://world.openfoodfacts.org">https://world.openfoodfacts.org</a>
 Sorular, geri bildirim : contact@openfoodfacts.org
 
 Kozmetik ürünleri için Open Beauty Facts'i yükleyebilirsin.
