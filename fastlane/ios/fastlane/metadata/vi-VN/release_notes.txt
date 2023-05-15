@@ -1,0 +1,12 @@
+Dự án Open Food Facts bước sang tuổi thứ 10! Chúng tôi đã tạo một phiên bản hoàn toàn mới của ứng dụng để kỷ niệm cột mốc này.
+Chân thành gửi lời cảm ơn tất cả những người đóng góp đã làm việc trong suốt 2 năm qua để tạo nên tất cả các tính năng mới đó!
+
+Tính năng mới:
+* Thiết kế mới
+* Trang sản phẩm hữu ích hơn nhiều
+* Tùy chỉnh những gì bạn thấy khi quét sản phẩm
+* Tạo danh sách sản phẩm cá nhân
+
+Open Food Facts là một dự án phi lợi nhuận nhằm tạo dữ liệu mở cho thực phẩm từ khắp nơi trên thế giới. Tham gia với chúng tôi trên https://en.openfoodfacts.org
+
+Quét mã vạch của sản phẩm thực phẩm để biết sản phẩm nào tốt cho bạn (chất lượng dinh dưỡng: Nutri-Score, nhóm NOVA, chất phụ gia và cảnh báo chất gây dị ứng) và hành tinh (Eco-Score)!

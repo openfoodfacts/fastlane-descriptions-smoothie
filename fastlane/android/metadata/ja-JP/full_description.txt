@@ -1,0 +1,72 @@
+2012年にスキャンアプリを開発しました。 🤳🥫 10歳になると、私たちはそれを一から作り直しています!
+
+このアプリでは、バーコードをスキャンすることで、自分にとっても地球にとっても良い食べ物を見つけることができます。
+230万食品の健康と環境への影響に関する個別の情報を入手できます。
+
+===プライバシーを損なうことなく設定を設定する===
+=== あなたが誰であるかに合致するスキャン===
+✅ Green: the product matches your criteria
+🛑 Red: there is a problem
+⬜️ Gray: Help us answer you by photographing the products
+<h1>棚に残っている3つの異なるトマトソースを数秒で比較します。</h1>
+=== 任意の食品カテゴリのカスタマイズされた比較を取得===
+
+<h1>あなたが選ぶことができる食品基準</h1>
+🌍 Environment
+⚕️ Health
+🏭 Additives & Ultra processed foods
+🧂 Salt
+🌾 Allergens
+Nutri-Score
+Eco-Score
+
+<h1>2, 3百万以上の食品をスキャン、検索、比較</h1>
+
+▶あなたにぴったりの製品を選んでください
+
+- "A" グレードから "E"グレードの栄養グレード >> 栄養の質
+➜ The NOVA group, from 1 to 4 : Avoid ultra-processed foods (Group 4)
+
+▶惑星にぴったりの製品を選んでください
+<unk> 食料による温室効果ガス排出量の1/3を超える原因となります
+➜AからEまでのエコスコアグレード：16の環境影響の統合
+
+*** 製品の透明性に貢献する ***
+
+➜OpenFoodFactsは、すべての人によって、すべての人のために作られています。
+➜要するに、マスコミがプロジェクトにニックネームを付けたように、私たちは「食品のウィキペディア」です。 Open Food Factsにより、Date Limite、Yuka、FoodVisorなどの150を超えるアプリの作成も可能になりました。
+➜より良い食品の選択をするためにそれを使用してください
+<unk> アプリもコラボレーションしています。 製品が不足している場合は、写真とデータを提供して、ニュートリスコア、食品加工レベル（NOVA）、およびエコスコアを取得してください。
+➜キッチンで商品を撮影して、今日から違いを生み出しましょう。
+- Open Products Factsは世界各地に数千人に及ぶボランティアの人たちによって行われているNPOです。 ぜひご参加ください。
+
+<h1>食品ラベルを解読する</h1>
+
+私たちはあなたのために製品ラベルを解読します。 あなたは見つけるでしょう：
+➜栄養：ニュートリスコア（栄養スコア）、栄養素、脂肪、トランスファット、炭水化物、糖質、繊維、タンパク質、塩、ナトリウム。
+➜環境：エコスコア（カーボンフットプリント（CO2排出量）、パッケージング（およびリサイクル手順）、環境ラベル（有機、品質など）、および成分の起源を含む）
+-その他：ブランド、アレルゲン、ラベル（バイオ、グルテンフリー、ビーガン、ベジタリアン、ハラール、コーシャ...）、トレーサビリティ情報（包装コード、原産地、食品工場）
+-ワインとビールには、アルコール度数が含まれています。
+
+<h1>私たちのグレード付けは科学に基づいており、Open Food Factsは科学を助けています！</h1>
+- We don't make up things. We rely on peer-reviewed science.
+- The Nutri-Score has been created by the independent French team led by Professor Hercberg.
+- The NOVA groups on food processing have been designed by the international team of Professor Monteiro.
+- You can get a synthesis of EFSA exposure levels on food additives.
+➜エコスコアは、世界に適応したフランスの環境庁であるADEMEによる画期的なデータに基づいています。
+➜OpenFoodFactsコミュニティは、世界中の研究チームと協力して、すべての人に利益をもたらす研究を行っています。
+
+<h1>あなたの食べ物、あなたのデータ。 Privacy-friendly app.</h1>
+- You can use the app anonymously
+<unk> 食品データはあなたのものであり、オンラインでは送信されません。
+
+<h1>製品にアレルギー警告を設定する</h1>
+➜牛乳、グルテン、卵、大豆、ナッツ、魚、セロリ、マスタード、亜硫酸塩、ピーナッツ、ゴマ、甲殻類、軟体動物、またはルパンアレルギーがありますか？
+<unk> Open Food Factsでの初期審査でショッピングをスピードアップしましょう。
+➜情報と検出が100％正確でない場合があることに注意してください。 必ず自分でパッケージを再確認してください。
+
+<h1>👉 詳細</h1>
+Web バージョン: <a href="https://world.openfoodfacts.org">https://world.openfoodfacts.org</a>
+Questions, feedback : <a href="mailto:contact@openfoodfacts.org">contact@openfoodfacts.org</a>
+
+For cosmetics, you can install Open Beauty Facts.

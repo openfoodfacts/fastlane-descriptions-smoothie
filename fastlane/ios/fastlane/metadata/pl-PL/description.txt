@@ -1,0 +1,79 @@
+News: We invented the collaborative scanning app in 2012. Po 10. latach działania
+postanowiliśmy zaprojektować
+aplikację od zera!
+
+This app lets you find food that's good for you and good for the planet by scanning their barcodes.
+You will get personalized health & eco-impact info for 2.3M foods.
+
+Ustal swoje preferencje żywnościowe bez naruszania swojej prywatności
+Skan, który idealnie do Ciebie pracuje
+Zielony: produkt spełnia Twoje kryteria
+Czerwony: to może być problem
+Szary: Pomóż nam odpowiedzieć na to pytanie fotografując produkt
+
+Porównaj w kilka sekund 3 różne sosy pomidorowe postawione na półce.
+Uzyskaj dopasowane porównanie każdej kategorii żywności
+
+Kryteria żywnościowe, które możesz wybrać
+
+Oddziaływanie na środowisko
+Zdrowie
+Dodatki i żywność wysoko przetworzona
+Sól
+Alergeny
+Nutri-Score
+Eco-Score
+
+Skanuj, znajdź i porównaj ponad 2,3 mln produktów żywnościowych
+
+Wybieraj produkty, które są dla Ciebie dobre
+
+- Klasa Nutri-Score, od "A" do "E": Jakość wartości odżywczej
+- Grupa NOVA, od 1 do 4: Unikaj wysoko przetworzonej żywności (Grupa 4)
+
+Wybieraj produkty, które są dobre dla naszej planety
+
+Żywność odpowiada za ponad jedną trzecią globalnej emisji gazów cieplarnianych
+- Wskaźnik Eco-Score, od A do E: analiza 16 przypadków oddziaływania na środowisko
+
+Wspieraj kupowanie bezpiecznej żywności
+
+- Open Food Facts jest tworzony przez wszystkich, dla wszystkich!
+- Krótko mówiąc, jesteśmy "Wikipedią jedzenia", jak nazwała ten projekt prasa. Open Food Facts has also enabled the creation of over 150+ apps like Date Limite, Yuka or FoodVisor.
+- Użyj tego, aby dokonywać lepszych wyborów jedzeniowych
+- Aplikacja ma również charakter pracy zespołowej. Jeśli brakuje produktu, udostępnij zdjęcia i dane, aby uzyskać Nutri-Score, poziom przetworzenia żywności (NOVA) i Eco-Score.
+- Zrób jeden mały krok i zrób zdjęcie produktu ze swojej kuchni.
+Open Food Facts to projekt non-profit, tworzony przez tysiące wolontariuszy z całego świata. Why don't you join us ?
+
+Odszyfruj etykiety żywności
+
+We decipher products labels for you. You'll find:
+- Odżywianie: Nutriscore (ocena wartości odżywczej), składniki odżywcze, tłuszcz, tłuszcze trans, węglowodany, cukry, błonnik, białko oraz zawartość soli i sodu.
+- Środowisko: Ecoscore (w tym ślad węglowy (emisja CO2), opakowanie (a także instrukcje dotyczące recyklingu), etykiety środowiskowe (organiczne, jakościowe itp.) oraz pochodzenie składników)
+- Inne: firmy, oznaczenia (bio, bezglutenowe, wegańskie, wegetariańskie, halal, koszerne...), informacje dotyczące identyfikacji (kody opakowań, pochodzenie, fabryki żywności)
+- Na winach i piwach znajdziesz informacje o zawartości alkoholu.
+
+Nasze oceny są oparte na nauce, a Open Food Facts pomaga w jej zdobyciu!
+- Nie tworzymy nowych pojęć. Opieramy się na wynikach badań naukowych.
+- Nutri-Score został stworzony przez niezależny francuski zespół kierowany przez profesora Hercberga.
+- Skala NOVA opisująca stopień przetwarzania żywności została zaprojektowana przez międzynarodowy zespół pod kierunkiem profesora Monteiro.
+- The additives synthesis is based on reviews by EFSA on exposure levels on food additives.
+- The Eco-Score is based on ground breaking data by ADEME, the French environmental agency, adapted for the world.
+- The Open Food Facts community is collaborating with research teams across the planet for research that benefits all.
+
+Your food, your data. Privacy-friendly app.
+Możesz korzystać anonimowo z aplikacji
+- Twoje dany nigdy nie są wysyłane online
+
+Ustaw powiadomienia o alergenach w produktach
+
+- Masz alergię na Mleko, Gluten, Jaja, Soję, Orzechy, Ryby, Seler, Gorczyca, Dwutlenek siarki i siarczyny, Orzeszki ziemne, Nasiona sezamu, Skorupiaki, Mięczaki lub Łubin?
+- Zwiększ wydajność swoich zakupów przeprowadzając wstępną kontrolę produktów spożywczych przy pomocy Open Food Facts.
+- Należy uważać, bo informacje i wykrywanie produktów może nie być w 100% dokładne. Always double check by yourself, with the packaging.
+
+More
+
+Wersja internetowa: https://world.openfoodfacts.org
+Pytania, opinie: contact@openfoodfacts.org
+
+W przypadku kosmetyków możesz zainstalować Open Beauty Facts.

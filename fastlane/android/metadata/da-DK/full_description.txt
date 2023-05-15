@@ -1,0 +1,72 @@
+Den kollaborative skannings-app blev udviklet i 2012. 🤳🥫 Nyhed: I anledning af 10-årsdagen, genopfindes den fra bunden!
+
+Denne app muliggør at finde fødevarer, som er gode for dig og planeten, ved at skanne deres stregkoder.
+Man får personlig information om sundhed og økopåvirkning for 2,3 mio. fødevarer.
+
+<h1>👉 Angiv fødevarepræferencer uden at kompromittere fortroligheden</h1>
+<h1>👉 En skanning, der virkelig matcher dén, man er</h1>
+✅ Grøn: Produktet matcher kriterierne
+🛑 Rød: Der er et problem
+⬜️ Grå: Hjælp OFF med at svare dig ved at fotografere produkterne
+<h1>👉 Sammenlign på få sekunder de resterende 3 tomatsaucer på hylden.</h1>
+<h1>👉 Få en skræddersyet sammenligning af enhver fødevarekategori</h1>
+
+<h1>Fødevarekriterier, som kan vælges</h1>
+🌍 Miljø
+⚕️ Sundhed
+🏭 Tilsætningsstoffer og Ultraforarbejdede fødevarer
+🧂 Salt
+🌾 Allergener
+Nutri-Score
+Øko-Score
+
+<h1>👉 Skan, find og sammenlign flere end 2,3 mio. fødevareprodukter</h1>
+
+<h1>👉 Vælg produkter, som er gode for dig ⚕️</h1>
+
+➜ Nutri-Score karakteren (fra A til E): Ernæringskvalitet
+➜ NOVA-gruppen (1 - 4): Undgå ultraforarbejdede fødevarer (Gruppe 4)
+
+<h1>👉 Vælg produkter, som er gode for planeten 🌍</h1>
+➜ Fødevarer forårsager over 1/3 af de globale drivhusudledninger
+➜ Øko-Score karakteren (fra A til E): En syntese af 16 miljøpåvirkninger
+
+<h1>👉 Bidrag til fødevaregennemsigtighed</h1>
+
+➜ Open Food Facts er udviklet af alle, til alle!
+➜ Kort sagt, den er "madens Wikipedia", som pressen gav projektet tilnavnet. Open Food Facts har også muliggjort tilblivelsen af flere end 150+ apps, såsom Date Limite, Yuka og FoodVisor.
+➜ Brug den til at træffe bedre fødevarevalg
+➜ Appen er også kollaborativ. Hvis produktet mangler, så bidrag med fotos og data for at få Nutri-Score, fødevareforarbejdningsniveau (NOVA) samt Øko-Score.
+➜ Gør en forskel i dag ved at fotografere et produkt fra dit køkken.
+➜ Open Food Facts er et non-profitprojekt udviklet af tusindvis af frivillige fra hele verden. Hvorfor ikke tilslutte dig?
+
+<h1>👉 Dechifrér fødevareetiketter</h1>
+
+Open Food Facts dechifrerer produktetiketterne. Du vil finde:
+➜ Ernæring: NutriScore (ernæringsscore), næringsstoffer, fedt, transfedt, kulhydrater, sukkerarter, fibre, protein, salt og natrium.
+➜ Miljø: ØkoScore (inkl. CO2-fodaftryk (CO2-udledninger), emballage (samt genbrugsinstruktioner), miljømærker (økologisk, kvalitet mv.) og ingrediensoprindelse(r))
+➜ Øvrigt: Varemærker, allergener, etiketter (bio, glutenfri, veganer, vegetar, halal, kosher...), sporbarhedsinformation (emballagekoder, oprindelser, fødevarefabrikker)
+➜ På vin og øl fremgår alkoholindholdet.
+
+<h1>👉 Karakterene er videnskabsbaserede, og Open Food Facts hjælper videnskaben!</h1>
+➜ Der findes ikke på ting. Vi stoler på ligeværdigt vurderet videnskab.
+➜ Nutri-Score er skabt af et uafhængigt franske team ledet af professor Hercberg.
+➜ NOVA-grupperne for fødevareforarbejdning er designet af professor Monteiros internationale team.
+➜ Tilsætningsstofsynteser baserer sig på analyser fra EFSA vedr. eksponeringsniveauer for fødevaretilsætningsstoffer.
+➜ Øko-Score er baseret på banebrydende data fra ADEME, det franske miljøagentur, tilpasset til verden.
+➜ Open Fodd Facts-fællesskabet samarbejder med forskerteams kloden over om forskning til gavn for alle.
+
+<h1>👉 Din mad, dine data. Fortrolighedsvenlig app.</h1>
+➜ Appen kan benytte anonymt
+➜ Dine maddata er dine, og de lægges aldrig online
+
+<h1>👉 Opsæt allergenadvarsler for produkter</h1>
+➜ Allergi overfor mælk, gluten, æg, sojabønner, nødder, fisk, selleri, sennep, svovldioxid og sulfitter, jordnødder, sesamfrø, krebsdyr, bløddyr eller lupin?
+➜ Køb ind hurtigere med en indledende screening med Open Food Facts.
+➜ Vær opmærksom på, at oplysningerne og detekteringen måske ikke er 100% korrekte. Dobbelttjek derfor altid selv ift. emballagen.
+
+<h1>👉 More</h1>
+Webversion: <a href="https://world.openfoodfacts.org">https://world.openfoodfacts.org</a>
+Ved spørgsmål/feedback: <a href="mailto:contact@openfoodfacts.org">contact@openfoodfacts.org</a>
+
+Til kosmetik kan Open Beauty Facts installeres.

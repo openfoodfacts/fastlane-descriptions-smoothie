@@ -1,0 +1,13 @@
+{
+  "templateStrings": [
+    {
+      "title": "Aurkitu zuretzako ona den janaria... <br>eta ingurumenerako",
+      "image1": "https://world.openfoodfacts.org/images/products/20068196/front_en.50.full.jpg",
+      "image2": "https://world.openfoodfacts.org/images/products/400/840/040/1621/front.34.full.jpg"
+    },
+    {
+      "title": "Eskaneatu janarien barra-kode ia guztiak",
+      "cardTitle": "Eskaneatu edo bilatu janaria"
+    }
+  ]
+}

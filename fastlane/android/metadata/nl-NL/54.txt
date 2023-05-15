@@ -1,0 +1,14 @@
+Het Open Food Facts-project bestaat 10 jaar! We hebben een compleet nieuwe versie van de app gemaakt om dit te vieren.
+Veel dank aan alle medewerkers die gedurende 2 jaar aan al die nieuwe functies hebben gewerkt!
+
+Nieuwe functies:
+* Geheel nieuw ontwerp
+* De productpagina is veel nuttiger
+* Pas aan wat u ziet wanneer u een product scant
+* Maak persoonlijke lijsten met producten
+
+Open Food Facts is een non-profit project ontwikkeld door duizenden vrijwilligers uit de hele wereld. Volg ons op https://nl.openfoodfacts.org
+
+Scan de streepjesscore van voedingsmiddelen om te weten welke producten goed zijn voor jou (voedingskwaliteit: Nutri-Score, NOVA-groep, additieven en allergeenwaarschuwingen) en de planeet (Eco-Score)!
+
+We kijken uit naar uw feedback over deze update via contact@openfoodfacts.org

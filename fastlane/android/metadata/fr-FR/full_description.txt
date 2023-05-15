@@ -1,18 +1,74 @@
-Smoothie. We invented the collaborative scanning app in 2012. 🤳🥫 With this experimental app, we’re reinventing it from the ground up, and this time, it’s personal. 
+Nous avons inventé le concept d'application collaborative de scan en 2012. 10 ans après,
+nous la réinventons
+complètement !
+
+Cette application vous permet de trouver des aliments bons pour vous et bons pour la planète en scannant leurs codes-barres.
+Vous obtiendrez des informations personnalisées sur la santé et l'impact écologique de 2,3 millions d'aliments.
 
 👉  Set your preferences without ruining your privacy
 👉  A scan that truly matches who you are
-✅ Green: the product matches your criteria
-🛑 Red: there is a problem
-⬜️ Gray: Help us answer you by photographing the products
+✅ Vert : le produit correspond à vos critères
+🛑 Rouge : il y a un problème
+⬜️ Gris : Aidez-nous à vous répondre en photographiant les produits
 👉  Compare in 15 seconds the 3 brands of tomato sauces left on the shelf.
 👉  Get a tailored comparison of any food category
 
-== Criteria you can pick == 
-🌍 Environment
-⚕️ Health
-🏭 Additives & Ultra processed foods
-🧂 Salt
-🌾 Allergens
+== Criteria you can pick ==
+🌍 Environnement
+⚕️ Santé
+🏭 Additifs & Aliments ultra transformés
+🧂 Sel
+🌾 Allergènes
 Nutri-Score
 Eco-Score
+
+<h1>👉 Scannez, trouvez et comparez plus de 2,3 millions de produits alimentaires</h1>
+
+<h1>▶ Choisissez les produits qui sont bons pour vous</h1>
+
+- La note Nutri-Score, de "A" à "E" : Qualité nutritionnelle
+- Le groupe NOVA, de "1" à "4" : Repérer les aliments ultra-transformés
+
+<h1>👉 Choisissez des produits bons pour la planète 🌍</h1>
+➜ L'alimentation est à l'origine de plus d'1/3 des émissions mondiales de gaz à effet de serre
+➜ La note Eco-Score, de A à E : une synthèse de 16 impacts environnementaux
+
+<h1>*** Contribuer à la transparence des produits ***</h1>
+
+➜ Open Food Facts est fait par tout le monde, pour tout le monde !
+En bref, nous sommes en quelque sorte "le Wikipédia des aliments", comme beaucoup ont surnommé le projet. Open Food Facts a permis la création de plus de 100 applications comme Date Limite, Yuka ou FoodVisor.
+➜ Utilisez-le pour faire de meilleurs choix alimentaires
+➜ L'application est également collaborative. Si le produit est manquant, fournissez des images et des données pour obtenir le Nutri-Score, le niveau de transformation des aliments (NOVA) et l'Eco-Score.
+➜ Faites la différence aujourd'hui en photographiant un produit de votre cuisine.
+- Open Products Facts est un projet à but non lucratif développé par des milliers de volontaires du monde entier. Pourquoi ne nous rejoindriez-vous pas ?
+
+<h1>▶ Déchiffrer les étiquettes des aliments</h1>
+
+Nous déchiffrons pour vous les étiquettes des produits. Tu trouveras:
+➜ Nutrition : Le Nutriscore (score nutritionnel), nutriments, lipides, gras trans, glucides, sucres, fibres, protéines, sel & sodium.
+➜ Environnement : L'Ecoscore (incluant l'empreinte carbone (émissions de CO2), les emballages (ainsi que les consignes de recyclage), les labels environnementaux (bio, qualité…), et l'origine des ingrédients)
+- marques, allergènes, labels (bio, sans gluten, végétaliens, végétariens, halal, kosher, ...), les informations de traçabilité (codes des emballages, les origines des ingrédients)
+- Sur les vins et les bières, vous trouverez la teneur en alcool.
+
+<h1>▶ Basé sur la science, et qui aide la science!</h1>
+- On ne fabrique pas de choses. Nous nous appuyons sur de la science evaluée par des pairs.
+- Le Nutri-Score a été créé par l'équipe française indépendante dirigée par le professeur Hercberg.
+- Les groupes NOVA sur la transformation des aliments ont été conçus par l'équipe internationale du professeur Monteiro.
+- Vous pouvez obtenir une synthèse des niveaux d'exposition de l'EFSA sur les additifs alimentaires.
+➜ L'Eco-Score est basé sur des données inédites de l'ADEME, l'agence française de l'environnement, adaptées pour le monde.
+- La communauté Open Food Facts collabore avec des équipes de recherche du monde entier pour améliorer la recherche en nutrition qui profite à tous.
+
+<h1>▶ Votre nourriture, vos données. Application respectueuse de la vie privée.</h1>
+- Vous pouvez utiliser l'application anonymement
+- Vos données personnelles vous appartiennent et ne sont jamais envoyées en ligne
+
+▶<h1> Configurer des alertes allergènes sur les produits</h1>
+-Une allergie au lait, gluten, œufs, soja, noix, poisson, céleri, moutarde, anhydride sulfureux et sulfites, arachides, graines de sésame, crustacés, mollusques ou lupin ?
+- Accélérez vos achats en faisant une première sélection de vos aliments avec Open Food Facts.
+➜ Attention, les informations et la détection peuvent ne pas être précises à 100 %. Donc, vérifiez toujours vous-même, avec l'emballage.
+
+<h1>▶ En savoir plus</h1>
+Version Internet : <a href="https://world.openfoodfacts.org">https://world.openfoodfacts.org</a>
+Questions, commentaires: contact@openfoodfacts.org
+
+Pour les cosmétiques, vous pouvez installer Open Beauty Facts.

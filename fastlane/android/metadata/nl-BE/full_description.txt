@@ -1,0 +1,72 @@
+Nieuws: In 2012 hebben we de app voor samenwerkend scannen uitgevonden. 🤳🥫 Nu we 10 worden, vinden we het van de grond af opnieuw uit!
+
+Met deze app kun je voedsel vinden dat goed is voor jou en voor de planeet door hun streepjescodes te scannen.
+U krijgt gepersonaliseerde gezondheids- en eco-impactinformatie voor 2,3 miljoen voedingsmiddelen.
+
+<h1>👉 Stel uw voedselvoorkeuren in zonder uw privacy te verpesten</h1>
+<h1>👉 Een scan die echt past bij wie je bent</h1>
+✅ Groen: Het product voldoet aan uw criteria
+🛑 Rood: er is een probleem
+⬜️ Grijs: help ons om je een antwoord te geven door de producten te fotograferen
+<h1>👉 Vergelijk in een paar seconden die 3 verschillende tomatensauzen die nog op het schap liggen.</h1>
+<h1>👉 Krijg een vergelijking op maat van elke voedselcategorie</h1>
+
+<h1>Voedselcriteria die u kunt kiezen</h1>
+🌍 Milieu
+⚕️ Gezondheid
+🏭 Additieven & Ultra bewerkte voedingsmiddelen
+🧂 Zout
+🌾 Allergenen
+Nutri-Score
+Eco-Score
+
+<h1>👉 Scan, vind & vergelijk meer dan 2,3 miljoen voedingsmiddelen</h1>
+
+<h1>👉 Kies producten die goed voor je zijn ⚕️</h1>
+
+➜ De Nutri-Score-klasse, van A tot E: voedingskwaliteit
+- NOVA-groep, van "1" tot "4", voor het vinden van ultra-verwerkt voedsel
+
+<h1>👉 Kies producten die goed zijn voor de planeet 🌍</h1>
+➜ Voedsel veroorzaakt meer dan 1/3 van de wereldwijde uitstoot van broeikasgassen
+➜ De Eco-Score-klasse, van A tot E: een synthese van 16 milieueffecten
+
+<h1>👉 Draag bij aan voedseltransparantie</h1>
+
+➜ Open Food Facts wordt gemaakt door iedereen, voor iedereen!
+➜ Kortom, we zijn "de Wikipedia van voedsel", zoals de pers het project noemde. Open Food Facts heeft ook de creatie van meer dan 150+ apps mogelijk gemaakt, zoals Date Limite, Yuka of FoodVisor.
+➜ Gebruik het om betere voedselkeuzes te maken
+➜ De app is ook collaboratief. Als het product ontbreekt, draag dan foto's en gegevens bij om de Nutri-Score, voedselverwerkingsniveau (NOVA) en Eco-Score te krijgen.
+➜ Maak vandaag nog het verschil door een product uit je keuken te fotograferen.
+➜ Open Food Facts is een non-profit project gemaakt door duizenden vrijwilligers van over de hele wereld. Waarom kom je niet bij ons ?
+
+<h1>👉 Voedseletiketten ontcijferen</h1>
+
+Wij ontcijferen productlabels voor u. U vindt:
+➜ Voeding: De Nutriscore (voedingsscore), voedingsstoffen, vet, transvet, koolhydraten, suikers, vezels, eiwitten, zout & natrium.
+➜ Milieu: de Ecoscore (inclusief CO2-voetafdruk (CO2-uitstoot), verpakking (evenals recyclinginstructies), milieulabels (biologisch, kwaliteit etc.) en herkomst van ingrediënten)
+➜ Overig: merken, allergenen, etiketten (bio, glutenvrij, veganistisch, vegetarisch, halal, koosjer...), traceerbaarheidsinformatie (verpakkingscodes, herkomst, voedselfabrieken)
+➜ Op wijnen en bieren vind je het alcoholpercentage terug.
+
+<h1>👉 Onze cijfers zijn wetenschappelijk gebaseerd en Open Food Facts helpt de wetenschap!</h1>
+- We verzinnen dingen niet. We vertrouwen op peer-reviewed wetenschap.
+- De Nutri-Score is gecreëerd door het onafhankelijke Franse team onder leiding van professor Hercberg.
+- De NOVA-groepen voor voedselverwerking zijn ontworpen door het internationale team van professor Monteiro.
+- Je kunt een samenvatting krijgen van de EFSA-blootstellingsniveaus op additieven.
+➜ De Eco-Score is gebaseerd op baanbrekende gegevens van ADEME, het Franse milieuagentschap, aangepast voor de wereld.
+➜ De Open Food Facts-gemeenschap werkt samen met onderzoeksteams over de hele wereld voor onderzoek waar iedereen baat bij heeft.
+
+<h1>👉 Uw eten, uw gegevens. Privacy-vriendelijke app.</h1>
+- Je kunt de app anoniem gebruiken
+➜ Uw voedselgegevens zijn van u en worden nooit online verzonden
+
+<h1>👉 Allergenenwaarschuwingen voor producten instellen</h1>
+➜ Heeft u een allergie voor melk, gluten, eieren, sojabonen, noten, vis, selderij, mosterd, sulfieten, pinda's, sesamzaad, schaaldieren, weekdieren of lupine?
+➜ Versnel uw boodschappen met een eerste screening met Open Food Facts.
+➜ Wees voorzichtig dat de informatie en de detectie mogelijk niet 100% nauwkeurig zijn. Dubbelcheck dus altijd zelf de verpakking.
+
+<h1>👉 Meer</h1>
+Webversie: <a href="https://world.openfoodfacts.org">https://world.openfoodfacts.org</a>
+Vragen, feedback: contact@openfoodfacts.org
+
+Voor cosmetica kunt u Open Beauty Facts installeren.
