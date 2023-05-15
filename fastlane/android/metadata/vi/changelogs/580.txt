@@ -1,0 +1,5 @@
+Dự án Open Food Facts kỷ niệm 10 năm thành lập! Chúng tôi đã thiết kế lại ứng dụng để ăn mừng.
+Hoạt động đóng gói!
+* Có một phần mới trong "Chỉnh sửa sản phẩm": "Bao bì có cấu trúc (Beta) cho phép bạn nhập bao bì chi tiết bao gồm cả trọng lượng. Nếu bạn có cân nhà bếp, hãy giúp chúng tôi tham khảo tất cả các bao bì của một số loại sữa chua!
+Chúng tôi hoan nghênh phản hồi của bạn tại contact@openfoodfacts.org
+https://github.com/openfoodfacts/smooth-app/releases

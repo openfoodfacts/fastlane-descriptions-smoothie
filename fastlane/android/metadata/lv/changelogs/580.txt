@@ -1,0 +1,7 @@
+Projektam Open Food Facts aprit 10 gadi! Par godu esam izveidojuši pilnīgi jaunu lietotnes versiju.
+Jaunas nedēļas iespējas:
+* SKENĒŠANAS LABOJUMI — pastāstiet mums, vai tas darbojas jūsu labā
+* Varat ritināt, lai iegūtu vairāk meklēšanas rezultātu, nenoklikšķinot uz pogas
+* Lietotnes iestatījumos ir vieglāk orientēties
+Mēs ceram uz jūsu atsauksmēm par šo atjauninājumu, rakstot uz adresi contact@openfoodfacts.org
+https://github.com/openfoodfacts/smooth-app/releases

@@ -1,0 +1,5 @@
+Projekt Open Food Facts obchodzi swoje 10 urodziny! Aby to uczcić, przeprojektowaliśmy aplikację.
+Operacja pakowania!
+* Dodano nową sekcję w „Edytuj produkt”: „Opakowania strukturalne (Beta), która pozwala wprowadzić szczegółowe informacje o opakowaniu, w tym wagę. Jeśli masz wagę kuchenną, pomóż nam odnieść się do wszystkich opakowań niektórych jogurtów!
+Czekamy na Twoją opinię na adres contact@openfoodfacts.org
+https://github.com/openfoodfacts/smooth-app/releases

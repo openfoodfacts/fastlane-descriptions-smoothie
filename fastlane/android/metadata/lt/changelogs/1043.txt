@@ -1,0 +1,7 @@
+Open Food Facts projektui sukanka 10 metų! Švęsdami sukūrėme visiškai naują programos versiją.
+Naujos savaitės funkcijos:
+* NUSKAITYMO PAtaisymai – pasakykite mums, ar tai jums tinka
+* Galite slinkti, kad gautumėte daugiau paieškos rezultatų, nespustelėdami mygtukų
+* Lengviau naršyti programos nustatymuose
+Laukiame jūsų atsiliepimų apie šį atnaujinimą adresu contact@openfoodfacts.org
+https://github.com/openfoodfacts/smooth-app/releases

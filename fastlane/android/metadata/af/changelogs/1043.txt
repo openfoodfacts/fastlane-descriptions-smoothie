@@ -1,0 +1,7 @@
+Die Open Food Facts-projek word 10 jaar oud! Ons het 'n heeltemal nuwe weergawe van die toepassing geskep om dit te vier.
+Nuwe kenmerke van die week:
+* OPLOSSINGS VIR SKANDERING - vertel ons of dit vir jou werk
+* Jy kan blaai vir meer soekresultate, sonder om op die knoppie te klik
+* Dit is makliker om in die toepassingsinstellings te navigeer
+Ons sien uit daarna om jou terugvoer oor hierdie opdatering te hoor by contact@openfoodfacts.org
+https://github.com/openfoodfacts/smooth-app/releases

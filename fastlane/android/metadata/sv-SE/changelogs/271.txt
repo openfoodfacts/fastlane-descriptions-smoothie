@@ -1,0 +1,5 @@
+Projektet Open Food Facts firar 10-årsjubileum! Vi gjorde om appen för att fira.
+Förpackningsdrift!
+* Fick ett nytt avsnitt i "Redigera produkt": "Strukturerade förpackningar (Beta) som låter dig ange detaljerad förpackning inklusive vikt. Om du har en köksvåg, hjälp oss att referera till alla förpackningar vissa yoghurtar!
+Vi välkomnar din feedback på contact@openfoodfacts.org
+https://github.com/openfoodfacts/smooth-app/releases

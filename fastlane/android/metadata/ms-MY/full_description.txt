@@ -1,0 +1,35 @@
+Imbas produk makanan atau kod bar mereka untuk mendapatkan data mengenai bahan-bahan, aditif dan fakta pemakanan.
+
+Aplikasi ini membolehkan anda melihat produk 547.000 (termasuk 175.000 di Amerika Syarikat) yang sudah terkandung dalam pangkalan data Terbuka Makanan Terbuka dan terbuka, dan juga menambah gambar dan data untuk produk yang hilang.
+
+Untuk mengetahui projek Open Food Facts, sila lawati https://openfoodfacts.org
+
+
+*** Sumbang kepada Ketelusan Makanan ***
+
+- Fakta Makanan Terbuka adalah pangkalan data produk makanan yang dibuat oleh semua orang, untuk semua orang.
+- Anda boleh menggunakannya untuk membuat pilihan makanan yang lebih baik, dan kerana data terbuka, sesiapa sahaja boleh menggunakannya semula untuk apa-apa tujuan.
+- Fakta Makanan Terbuka adalah projek nirlaba yang dibangunkan oleh ribuan sukarelawan dari seluruh dunia. Kami mempunyai banyak projek menarik yang boleh anda sumbangkan dalam pelbagai cara.
+- Anda boleh mula menyumbang hari ini dengan menambahkan produk dari almari makanan anda.
+
+*** Dapatkan Fakta ***
+- Fakta Makanan Terbuka membantu anda memahami cetakan baik pada label produk. Anda akan dapat mencari (mengikut tanda-tanda yang ada pada produk):
+- jejak karbon (pelepasan CO2) dan pembungkusan (serta arahan kitar semula),
+- Nutriscore (skor pemakanan), nutrien, kandungan lemak / lemak, asid lemak tepu, karbohidrat, gula, serat, protein dan garam dan natrium.
+- jenama, alergen, label (bio, gluten free, vegan, vegetarian, halal, halal ...), maklumat kebolehlihatan (kod bungkusan, asal bahan-bahan)
+- Pada wain dan bir, anda akan menemui kandungan alkohol.
+
+*** Bekerja dengan baik dalam apa jua keadaan ***
+- Anda boleh menambah produk baru, walaupun anda tidak mempunyai sambungan Internet sekarang.
+- Aplikasi memuatkan hanya ketat yang diperlukan untuk mengurangkan penggunaan data dan bateri
+- Anda tidak perlu kamera mencari produk. Anda juga boleh menaip kod bar jika anda kekurangan kamera atau mempunyai masalah dengannya.
+
+*** Makanan anda, data anda ***
+- Data anda adalah milik anda, dan tidak pernah dihantar secara dalam talian
+- Anda boleh menggunakan apl secara anonim
+- Anda boleh mengeksport sejarah imbasan anda
+
+Fakta Makanan Terbuka juga boleh didapati di web di https://world.openfoodfacts.org
+Soalan, maklum balas: contact@openfoodfacts.org
+
+Untuk kosmetik, anda boleh memasang Fakta Kecantikan Terbuka, untuk makanan haiwan, Fakta Makanan Binatang Terbuka, dan untuk semua produk lain, Fakta Produk Terbuka.

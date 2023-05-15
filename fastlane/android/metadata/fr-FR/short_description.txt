@@ -1,1 +1,1 @@
-This is a smooth new experimental app from the makers of Open Food Facts.
+Scannez le code barre des produits pour obtenir Nutri-Score, EcoScore & NOVA

@@ -1,0 +1,35 @@
+Malzemeler, katkı maddeleri ve besin bilgileri hakkında veri elde etmek için gıda ürünlerini veya barkodlarını tarayın.
+
+Gıda Gerçekleri'ni açın ve aynı zamanda eksik ürünler için resim ve veri ekleyin.
+
+Açık Yemek Gerçekleri projesini keşfetmek için lütfen https://openfoodfacts.org adresini ziyaret edin.
+
+
+*** Gıda Şeffaflığına Katkıda Bulunanlar ***
+
+- Açık Gıda Gerçekleri herkes için herkes tarafından yapılan bir gıda ürünleri veritabanıdır.
+- Daha iyi yemek seçimleri yapmak için kullanabilirsiniz ve açık veri olduğu için, herkes herhangi bir amaç için yeniden kullanabilir.
+- Open Food Facts, dünyanın dört bir yanından binlerce gönüllü tarafından geliştirilen, kâr amacı gütmeyen bir projedir.Çok birçok yönden katkıda bulunabileceğiniz çok sayıda heyecan verici projeye sahibiz.
+- Gıda dolabınızdan bir ürün ekleyerek bugün katkıda bulunmaya başlayabilirsiniz.
+
+*** Gerçekleri al ***
+- Open Food Facts, ürün etiketlerindeki ince baskıyı anlamanıza yardımcı olur (ürünler üzerinde mevcut olan endikasyonlara göre):
+- karbon ayak izi (CO 2 emisyonları) ve paketleme (geri dönüşüm talimatları gibi),
+- Nutriscore (besin skoru), besinler, yağ / yağ içeriği, doymuş yağ asitleri, karbonhidratlar, şekerler, lif, protein ve tuz ve sodyum.
+- markalar, alerjenler, etiketler (biyo, glutensiz, vegan, vejetaryen, helal, koşer ...), izlenebilirlik bilgileri (ambalaj kodları, malzemelerin kaynağı)
+- Şaraplar ve biralarda, alkol içeriğini bulacaksınız.
+
+*** Her koşulda iyi çalışır ***
+- Şu anda bir internet bağlantınız olmasa bile yeni ürünler ekleyebilirsiniz.
+- Uygulama sadece veri ve pil tüketimini azaltmak için gerekli olan katı yükler
+- Kameranıza ihtiyacınız yoktur, kameranız yoksa veya bir sorunla karşılaşırsanız barkodu da yazabilirsiniz.
+
+*** Yemeğiniz, verileriniz ***
+- Verileriniz sizindir ve asla çevrimiçi olarak gönderilmez
+- Uygulamayı anonim olarak kullanabilirsiniz
+- Tarama geçmişinizi dışa aktarabilirsiniz
+
+Open Food Facts da internette https://world.openfoodfacts.org adresinde mevcuttur.
+Sorular, geri bildirim: contact@openfoodfacts.org
+
+Kozmetikler için Açık Güzellik Gerçekleri, evcil hayvan gıdaları için, Açık Evcil Hayvan Yemi Gerçekleri ve tüm diğer ürünler için Açık Ürünler Gerçekleri'ni yükleyebilirsiniz.

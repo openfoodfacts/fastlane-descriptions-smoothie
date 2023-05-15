@@ -1,0 +1,11 @@
+Scan livsmedel eller deras streckkod för att få fram data om ingredienser, tillsatser och näring fakta.
+
+Appen gör det möjligt att visa 597.000 produkter (inklusive 175.000 i USA) som redan ingår i den fria och öppna databasen Open Food Facts, och även lägga till bilder och data för saknade produkter.
+
+Att upptäcka Open Food Facts projekt, besök https://se.openfoodfacts.org
+
+Du kommer också att kunna hitta (enligt indikationerna som finns på produkterna):
+- klimatpåverkan (CO2-utsläpp) och förpackning (samt instruktioner återvinnings),
+- Nutriscore (närings score), näringsämnen, fett / fett, mättade fettsyror, kolhydrater, sockerarter , fibrer, protein och salt och natrium.
+- varumärken, allergener, etiketter (bio, Glutenfria , vegan, vegetarian, halal, kosher ...), information spårbarhet (förpackningskoder , Origins of ingredienser)
+- På vin och öl, hittar du alkoholhalten.

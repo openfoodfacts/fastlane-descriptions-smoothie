@@ -1,0 +1,35 @@
+Skannaa elintarvikkeita tai niiden viivakoodia saadakseen tietoa ainesosista, lisäaineista ja ravitsemustiedoista.
+
+Avaa ruokaa koskevia tietoja ja lisää myös kuvia ja tietoja puuttuvista tuotteista.
+
+Voit tutustua Open Food Facts -projektiin osoitteessa https://openfoodfacts.org
+
+
+*** Edistää elintarvikkeiden avoimuutta ***
+
+- Avoimet ruokakulttuurit ovat elintarvikealan tietokanta, jonka kaikki ovat tehneet kaikille.
+- Voit käyttää sitä parempien ruokavalintojen tekemiseen, ja koska se on avoin data, kuka tahansa voi käyttää sitä uudelleen mihin tahansa tarkoitukseen.
+- Open Food Facts on voittoa tavoittelematon projekti, jonka tuhannet vapaaehtoiset ovat kehittäneet ympäri maailmaa. Meillä on paljon jännittäviä projekteja, joihin voit osallistua monella eri tavalla.
+- Voit alkaa osallistua tänään lisäämällä tuote ruoka-astiaan.
+
+*** Hanki faktoja ***
+- Avoimet elintarvike-aineet auttavat sinua ymmärtämään, kuinka hienoa tulosta käytetään tuotteiden etiketteihin. Löydät tuotteista löytyvien merkintöjen mukaan:
+- hiilijalanjälki (hiilidioksidipäästöt) ja pakkaus (sekä kierrätysohjeet),
+- Nutriscore (ravintoarvo), ravintoaineet, rasva / rasvapitoisuus, tyydyttyneet rasvahapot, hiilihydraatit, sokerit, kuidut, proteiinit ja suola ja natrium.
+- tuotemerkit, allergeenit, etiketit (bio, gluteeniton, vegaani, kasvissyöjä, halal, kosher ...), jäljitettävyystiedot (pakkauskoodit, ainesosien alkuperä)
+- Viineistä ja oluista löytyy alkoholipitoisuus.
+
+*** toimii hyvin kaikissa olosuhteissa ***
+- Voit lisätä uusia tuotteita, vaikka sinulla ei olisi internetyhteyttä juuri nyt.
+- Sovellus lataa vain tarkat tiedot tietojen ja akun kulutuksen vähentämiseksi
+- Et tarvitse kameraa. Voit myös kirjoittaa viivakoodin, jos sinulla ei ole kameraa tai jos sinulla on ongelma sen kanssa.
+
+*** Ruoka, tietosi ***
+- Tietosi ovat sinun, eikä niitä koskaan lähetetä verkossa
+- Voit käyttää sovellusta nimettömästi
+- Voit viedä skannaushistoriasi
+
+Open Food Facts on saatavilla myös internetissä osoitteessa https://world.openfoodfacts.org
+Kysymyksiä, palautetta: contact@openfoodfacts.org
+
+Kosmetiikassa voit asentaa Open Beauty Facts, lemmikkieläinten ruoka, Open Pet Food Facts ja kaikki muut tuotteet, Open Products Facts.

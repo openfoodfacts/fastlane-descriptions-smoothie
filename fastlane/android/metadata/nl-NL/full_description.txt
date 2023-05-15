@@ -1,0 +1,13 @@
+Scan de barcode van voedingsproducten om informatie te verkrijgen over de ingrediënten, toevoegingen en voedingswaarden. Via de app kun je meer dan 1,6M producten bekijken die al in de gratis en open database van Open Food Facts zijn opgenomen, en foto's toevoegen van ontbrekende producten. Als u meer wilt weten over het Open Food Facts project, ga naar https://world-nl.openfoodfacts.org
+
+Scan voedselproducten of hun streepjescode om gegevens te verkrijgen over ingrediënten, additieven en voedingsfeiten.
+
+De app maakt het mogelijk om de 1,6M producten te zien die al in de gratis en open database Open Food Facts zijn opgenomen, en ook om foto's en gegevens voor ontbrekende producten toe te voegen.
+
+Om het Open Food Facts-project te ontdekken, gaat u naar https://world-nl.openfoodfacts.org
+
+U kunt ook (volgens de aanwijzingen op de producten) vinden:
+➜ koolstofvoetafdruk (CO2-uitstoot) en verpakking (evenals recyclinginstructies)
+➜ Nutriscore (voedingswaarde), voedingsstoffen, vet / vetgehalte, verzadigde vetzuren, koolhydraten, suikers, vezels, eiwitten en zout en natrium.
+➜ merken, allergenen, etiketten (bio, glutenvrij, veganist, vegetariër, halal, kosher ...), traceerbaarheidsinformatie (verpakkingscodes, ingrediënten oorsprong)
+➜ Op wijnen en bieren vindt u de alcoholgehalte.

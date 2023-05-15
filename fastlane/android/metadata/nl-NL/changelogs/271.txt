@@ -1,0 +1,5 @@
+Het Open Food Facts-project viert zijn 10e verjaardag! We hebben de app opnieuw ontworpen om dit te vieren.
+Verpakking operatie!
+* We hebben een nieuwe sectie in "Product bewerken": "Gestructureerde verpakking (bèta) waarmee u gedetailleerde verpakkingen kunt invoeren, inclusief gewicht. Als u een keukenweegschaal heeft, help ons dan om naar alle verpakkingen van yoghurt te verwijzen!
+We verwelkomen uw feedback via contact@openfoodfacts.org
+https://github.com/openfoodfacts/smooth-app/releases

@@ -1,0 +1,5 @@
+Das Projekt Open Food Facts feiert sein 10-jähriges Bestehen! Wir haben die App neu gestaltet, um das zu feiern.
+Verpackungsbetrieb!
+* Habe einen neuen Abschnitt in "Produkt bearbeiten": "Strukturierte Verpackung, der es Ihnen ermöglicht, detaillierte Verpackungen einschließlich Gewicht einzugeben. Wenn Sie eine Küchenwaage haben, helfen Sie uns, alle Verpackungen zu referenzieren, einige Joghurts!
+Feedback: contact@openfoodfacts.org
+https://github.com/openfoodfacts/smooth-app/releases

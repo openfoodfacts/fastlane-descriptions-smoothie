@@ -1,0 +1,35 @@
+Escaneja productes alimentaris o el seu codi de barres per obtenir dades sobre ingredients, additius i dades nutricionals.
+
+Obriu els fets alimentaris, i també afegiu fotos i dades per als productes que falten.
+
+Per descobrir el projecte Open Food Facts, visiteu https://openfoodfacts.org
+
+
+*** Contribueix a la Transparència alimentària ***
+
+- Open Food Facts és una base de dades de productes alimentaris realitzada per tothom, per a tothom.
+- Podeu utilitzar-lo per fer millors opcions d'alimentació i, ja que són dades obertes, qualsevol persona pot tornar-la a utilitzar per a qualsevol propòsit.
+-. Obrir Dades de menjar és un projecte sense ànim de lucre desenvolupat per milers de voluntaris de tot el món, tenim un munt de projectes interessants que pot contribuir a la de moltes maneres diferents.
+- Podeu començar a contribuir avui afegint un producte des del vostre armari de menjar.
+
+*** Aconsegueix els fets ***
+- Obrir Dades dels aliments ajuda a donar sentit de la lletra petita de les etiquetes de productes Vostè serà capaç de trobar (segons les indicacions presents en els productes).:
+- petjada de carboni (emissions de CO 2) i envasos (així com instruccions de reciclatge),
+- Nutriscore (puntuació nutricional), els nutrients, el contingut de greix / greix, àcids grassos saturats, hidrats de carboni, sucres, fibra, proteïna i sal i sodi.
+- marques, al·lèrgens, etiquetes (bio, lliure de gluten, vegans, vegetarians, halal, kosher ...), informació de traçabilitat (codis d'embalatge, orígens d'ingredients)
+- Als vins i les cerveses trobareu el contingut d'alcohol.
+
+*** Funciona bé en qualsevol condició ***
+- Podeu afegir nous productes, fins i tot si no teniu una connexió a Internet ara mateix.
+- L'aplicació només carrega els estrictament necessaris per reduir les dades i el consum de la bateria
+- No necessiteu una càmera. També podeu escriure el codi de barres si no teniu cap càmera o teniu un problema amb ell.
+
+*** El vostre aliment, les vostres dades ***
+- Les vostres dades són típiques i mai no s'envien a Internet
+- Podeu utilitzar l'aplicació de forma anònima
+- Podeu exportar el vostre historial d'escaneig
+
+Els fets sobre l'alimentació oberta també estan disponibles a la web a https://world.openfoodfacts.org
+Preguntes, comentaris: contact@openfoodfacts.org
+
+Per cosmètics, pot instal·lar Open Beauty Facts, per als aliments per a mascotes, aliments per a mascotes Open Pet Food Facts, i per tots els altres productes, Open Products Facts.

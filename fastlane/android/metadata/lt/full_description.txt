@@ -1,0 +1,11 @@
+Skenavimo maisto produktai ar jų brūkšninį kodą gauti informaciją apie sudedamąsias dalis, priedus ir mitybos faktus.
+
+App leidžia peržiūrėti 1,6M produktai (ir jau 600 Lietuvoje) jau nustatyti nemokama ir atviro duomenų bazių Atviras maisto faktai, o taip pat pridėti nuotraukas ir duomenis apie dingusius produktus.
+
+Atrasti Atviras Maisto Faktai projektą, apsilankykite https://openfoodfacts.org
+
+Jūs taip pat galės rasti (pagal indikacijas esančių produktų):
+- anglies pėdsaką (CO2) ir pakavimas (taip pat perdirbimo nurodymai),
+- Nutriscore (maistinė rezultatas), maistingųjų medžiagų, riebalų / riebalų kiekis, sočiųjų riebalų rūgščių, angliavandenių, cukrų, pluošto, baltymai ir druska ir natrio.
+- ženklai, alergenų, etiketės (bio, be glitimo, veganų, vegetarų, Halal, košerinio ...), atsekamumo informacija (pakavimo kodai, kilmę ingredientų)
+- dėl vynų ir alaus, jūs rasite alkoholio kiekį.

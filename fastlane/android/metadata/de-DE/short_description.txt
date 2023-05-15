@@ -1,0 +1,1 @@
+Barcode einlesen, um Etiketten zu entschlüsseln und den Nutri-Score zu holen
