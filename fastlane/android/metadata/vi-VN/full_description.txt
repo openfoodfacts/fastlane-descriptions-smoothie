@@ -1,0 +1,72 @@
+Tin tức: Chúng tôi đã phát minh ra ứng dụng quét cộng tác vào năm 2012. 🤳🥫 Bởi đã bước sang năm thứ 10, chúng tôi đang tái tạo lại từ đầu!
+
+Ứng dụng này cho phép bạn tìm thực phẩm tốt cho bạn và tốt cho hành tinh bằng cách quét mã vạch của chúng.
+Bạn sẽ nhận được thông tin được cá nhân hóa về sức khỏe và tác động đến môi trường cho 2,3 triệu loại thực phẩm.
+
+<h1>👉 Đặt sở thích ăn uống của bạn mà không làm hỏng sự riêng tư của bạn</h1>
+<h1>👉 Bản quét cho ra kết quả thực sự phù hợp với bạn </h1>
+✅ Màu xanh lá cây: sản phẩm phù hợp với tiêu chí của bạn
+🛑 Màu đỏ: có vấn đề
+⬜️ Màu xám: Giúp chúng tôi trả lời bạn bằng cách chụp ảnh sản phẩm
+<h1>👉 So sánh trong vài giây về 3 loại sốt cà chua khác nhau còn lại trên kệ.</h1>
+<h1>👉 Nhận so sánh phù hợp với bất kỳ loại thực phẩm nào</h1>
+
+<h1>Tiêu chí thức ăn bạn có thể chọn</h1>
+🌍 Môi trường
+⚕️ Sức khỏe
+🏭 Phụ gia & thực phẩm siêu chế biến
+🧂 Muối
+🌾 Chất gây dị ứng
+Điểm dinh dưỡng
+Điểm sinh thái
+
+<h1>👉 Quét, tìm và so sánh hơn 2,3 triệu sản phẩm thực phẩm</h1>
+
+<h1>👉 Hãy chọn những sản phẩm tốt cho bạn ⚕️</h1>
+
+➜ Điểm dinh dưỡng, từ A đến E: Chất lượng dinh dưỡng
+➜ Nhóm NOVA, từ 1 đến 4: Tránh thực phẩm siêu chế biến (Nhóm 4)
+
+<h1>👉 Hãy chọn những sản phẩm tốt cho hành tinh 🌍</h1>
+➜ Thực phẩm gây ra hơn 1/3 lượng phát thải khí nhà kính toàn cầu
+➜ Điểm Sinh Thái, từ A đến E: tổng hợp 16 tác động môi trường
+
+<h1>👉 Góp phần minh bạch thực phẩm</h1>
+
+➜ Open Food Facts được thực hiện bởi tất cả mọi người, cho tất cả mọi người!
+➜ Tóm lại, chúng tôi là "Wikipedia của thực phẩm", như cách giới báo chí đã đặt biệt danh cho dự án này. Open Food Facts cũng đã khởi động việc tạo ra hơn 150 ứng dụng như Date Limite, Yuka hoặc FoodVisor.
+➜ Sử dụng nó để lựa chọn thực phẩm tốt hơn
+➜ Ứng dụng cũng mang tính cộng tác. Nếu sản phẩm bị thiếu, hãy đóng góp hình ảnh và dữ liệu để nhận được Điểm dinh dưỡng, mức độ chế biến thực phẩm (NOVA) & Điểm sinh thái.
+➜ Hãy tạo sự khác biệt ngay hôm nay bằng cách chụp ảnh một sản phẩm từ nhà bếp của bạn.
+➜ Open Food Facts là một dự án phi lợi nhuận được thực hiện bởi hàng nghìn tình nguyện viên từ khắp nơi trên thế giới. Tại sao bạn không tham gia với chúng tôi?
+
+<h1>👉 Giải mã nhãn thực phẩm</h1>
+
+Chúng tôi giải mã nhãn sản phẩm cho bạn. Bạn sẽ tìm thấy:
+➜ Dinh dưỡng: Chỉ số Nutriscore (điểm dinh dưỡng), chất dinh dưỡng, chất béo, chất béo chuyển hóa, carbohydrate, đường, chất xơ, protein, muối và natri.
+➜ Môi trường: Ecoscore (bao gồm lượng khí thải carbon (lượng khí thải CO2), bao bì (cũng như hướng dẫn tái chế), nhãn môi trường (hữu cơ, chất lượng, v. v.) và nguồn gốc của các thành phần)
+➜ Khác: nhãn hiệu, chất gây dị ứng, nhãn (hữu cơ, không gluten, thuần chay, chay, halal, kosher...), thông tin truy xuất nguồn gốc (mã bao bì, xuất xứ, nhà máy sản xuất thực phẩm)
+➜ Trên rượu vang và bia, bạn sẽ tìm thấy nồng độ cồn.
+
+<h1>👉 Điểm của chúng tôi dựa trên cơ sở khoa học và Sự kiện Thực phẩm Mở đang giúp ích cho khoa học!</h1>
+➜ Chúng tôi không bịa đặt thông tin. Chúng tôi dựa trên khoa học được bình duyệt.
+➜ Điểm Nutri-Score đã được tạo ra bởi một nhóm nghiên cứu độc lập đến từ Pháp do Giáo sư Hercberg đứng đầu.
+➜ Các nhóm NOVA về chế biến thực phẩm được thiết kế bởi nhóm nghiên cứu quốc tế đứng đầu là Giáo sư Monteiro.
+➜ Việc tổng hợp các chất phụ gia dựa trên các đánh giá của EFSA về mức độ tiếp xúc với các chất phụ gia thực phẩm.
+➜ Điểm số sinh thái dựa trên dữ liệu đột phá của ADEME, cơ quan môi trường của Pháp, được điều chỉnh cho phù hợp với thế giới.
+➜ Cộng đồng Open Food Facts đang cộng tác với các nhóm nghiên cứu trên khắp hành tinh để nghiên cứu mang lại lợi ích cho tất cả mọi người.
+
+<h1>👉 Thức ăn của bạn, dữ liệu của bạn. Ứng dụng thân thiện với quyền riêng tư.</h1>
+➜ Bạn có thể sử dụng ứng dụng một cách ẩn danh
+➜ Dữ liệu của bạn là của bạn và không bao giờ được công khai trực tuyến
+
+<h1>👉 Thiết lập cảnh báo chất gây dị ứng trên sản phẩm</h1>
+➜ Bạn có bị dị ứng Sữa, Gluten, Trứng, Đậu nành, Quả hạch, Cá, Cần tây, Mù tạt, Sulphite, Đậu phộng, Hạt mè, Giáp xác, Nhuyễn thể hoặc Lupin?
+➜ Tăng tốc độ mua sắm của bạn với một cuộc kiểm tra ban đầu với Open Food Facts.
+➜ Hãy cẩn thận bởi thông tin và phát hiện có thể không chính xác 100%. Luôn luôn tự mình kiểm tra lại bao bì.
+
+<h1>👉 Thêm</h1>
+Phiên bản web: <a href="https://world.openfoodfacts.org">https://world.openfoodfacts.org</a>
+Câu hỏi, phản hồi: <a href="mailto:contact@openfoodfacts.org">contact@openfoodfacts.org</a>
+
+Đối với mỹ phẩm, bạn có thể cài đặt Open Beauty Facts.

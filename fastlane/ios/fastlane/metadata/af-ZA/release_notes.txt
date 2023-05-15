@@ -1,0 +1,12 @@
+Die Open Food Facts-projek word 10! Ons het 'n heeltemal nuwe weergawe van die toepassing geskep om dit te vier.
+Baie dankie aan alle bydraers wat gedurende 2 jaar aan al daardie nuwe funksies gewerk het!
+
+Nuwe funksies:
+* Alle nuwe ontwerp
+* Die produkbladsy is baie nuttiger
+* Pasmaak wat jy sien wanneer jy 'n produk skandeer
+* Skep persoonlike lyste van produkte
+
+Open Food Facts is a non-profit project to open food data from around the world. Join us on https://en.openfoodfacts.org
+
+Skandeer die strepieskode van voedselprodukte om te weet watter produkte goed is vir jou (voedingsgehalte: Nutri-Score, NOVA-groep, bymiddels en allergeenwaarskuwings) en die planeet (Eco-Score)!

@@ -1,0 +1,1 @@
+Skan fødevarestregkoder for at vide, hvilke produkter, som er gode for dig (Nutri-Score, forarbejdede fødevarer, tilsætningsstoffer og allergenadvarsler) og for planeten (Øko-Score)!
