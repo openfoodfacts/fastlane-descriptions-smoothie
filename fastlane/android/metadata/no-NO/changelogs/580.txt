@@ -1,0 +1,5 @@
+Prosjektet Åpne matfakta feirer 10-årsjubileum! Vi redesignet appen for å feire.
+Pakkeoperasjon!
+* Fikk en ny seksjon i "Rediger produkt": "Strukturert emballasje (Beta) som lar deg legge inn detaljert emballasje inkludert vekt. Hvis du har en kjøkkenvekt, hjelp oss med å referere all emballasje noen yoghurter!
+Vi tar gjerne imot tilbakemeldinger på contact@openfoodfacts.org
+https://github.com/openfoodfacts/smooth-app/releases

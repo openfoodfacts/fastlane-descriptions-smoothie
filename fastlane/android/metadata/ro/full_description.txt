@@ -1,0 +1,7 @@
+Scanați produse alimentare sau codul lor de bare pentru a obține date despre ingrediente, aditivi și valori nutriționale. Aplicația permite vizualizarea celor 537.000 de produse deja existente în baza de date liberă și deschisă Open Food Facts, și de asemenea vă permite să adăugați imagini și date pentru produsele care lipsesc. Pentru a descoperi proiectul Open Food Facts, vizitați https://ro.openfoodfacts.org.
+
+Aveți, de asemenea, posibilitatea de a descoperi (în funcție de indicațiile prezente pe produse):
+- amprenta de carbon (emisiile de CO2) și ambalajele (precum și instrucțiunile de reciclare),
+- nutriscore (scor nutrițional), nutrienți, grăsimi / conținut de grăsimi, acizi grași saturați, glucide, zaharuri, fibre, proteine și sare și sodiu.
+- mărci, alergeni, etichete (bio, gluten, vegan, vegetarian, halal, kosher, etc.), informațiile de trasabilitate (coduri de ambalare, originea ingredientelor)
+- pentru produsele din categoriile vinuri și bere, veți putea regăsi conținutul de alcool.

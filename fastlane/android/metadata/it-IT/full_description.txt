@@ -8,8 +8,7 @@ Otterrai informazioni personalizzate sulla salute e l'impatto ecologico per 2,3 
 ✅ Verde: il prodotto corrisponde ai tuoi criteri
 🛑 Rosso: c'è un problema
 ⬜️ Grigio: Aiutaci a risponderti fotografando i prodotti
-<h1>👉  Confronta in pochi secondi quelle 3 diverse salse di pomodoro rimaste sullo scaffale.</h1>
-<h1>👉  Ottieni un confronto su misura di qualsiasi categoria alimentare</h1>
+
 
 <h1>Criteri alimentari che puoi scegliere</h1>
 🌍 Ambiente
@@ -65,8 +64,4 @@ Decifriamo le etichette dei prodotti per te. Troverai:
 ➜ Velocizza la tua spesa con un controllo iniziale con Open Food Facts.
 ➜ Sappi che le informazioni e il rilevamento potrebbero non esser accurati al 100%. Ricontrolla sempre da solo, con la confezione.
 
-<h1>👉 Di più</h1>
-Versione web: <a href="https://world.openfoodfacts.org">https://world.openfoodfacts.org</a>
-Per domande e feedback: contact@openfoodfacts.org
-
-Per i cosmetici, è possibile installare Open Beauty Facts.
+Cosmetici: Open Beauty Facts.

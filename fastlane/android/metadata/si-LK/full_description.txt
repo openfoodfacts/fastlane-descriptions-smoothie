@@ -1,72 +1,11 @@
-News: We invented the collaborative scanning app in 2012. 🤳🥫 As we turn 10, we’re reinventing it from the ground up!
+ආහාර නිෂ්පාදන ස්කෑන් හෝ අමුද්රව්ය, අතිෙර්ක සහ පෝෂණ කරුණු පිළිබඳ දත්ත ලබා ගැනීම සඳහා ඔවුන්ගේ පච්චයක්.
 
-This app lets you find food that's good for you and good for the planet by scanning their barcodes.
-You will get personalized health & eco-impact info for 2.3M foods.
+මෙම යෙදුම නිපදවා ළඟා නිදහස් හා විවෘත දත්ත විවෘත ආහාර කරුණු දැනටමත් අඩංගු නිෂ්පාදන 537.000 (එක්සත් ජනපදයේ 175,000 ඇතුළුව) බැලීම, සහ අතුරුදහන් නිෂ්පාදන සඳහා පින්තූර සහ දත්ත එකතු කිරීමට අවසර දෙයි.
 
-<h1>👉  Set your food preferences without ruining your privacy</h1>
-<h1>👉  A scan that truly matches who you are</h1>
-✅ Green: the product matches your criteria
-🛑 Red: there is a problem
-⬜️ Gray: Help us answer you by photographing the products
-<h1>👉  Compare in a few seconds those 3 different tomato sauces left on the shelf.</h1>
-<h1>👉  Get a tailored comparison of any food category</h1>
+විවෘත ආහාර කරුණු ව්යාපෘතිය සොයා ගැනීමට, https://openfoodfacts.org අඩවියට පිවිසෙන්න
 
-<h1>Food criteria you can pick</h1>
-🌍 Environment
-⚕️ Health
-🏭 Additives & Ultra processed foods
-🧂 Salt
-🌾 Allergens
-Nutri-Score
-Eco-Score
-
-<h1>👉 Scan, find & compare more than 2,3 million food products</h1>
-
-<h1>👉 Choose products that are good for you ⚕️</h1>
-
-➜ The Nutri-Score grade, from A to E : Nutritional quality
-➜ The NOVA group, from 1 to 4 : Avoid ultra-processed foods (Group 4)
-
-<h1>👉 Choose products that are good the planet 🌍</h1>
-➜ Food causes over 1/3 of global greenhouse gas emissions
-➜ The Eco-Score grade, from A to E : a synthesis of 16 environmental impacts
-
-<h1>👉 Contribute to Food Transparency</h1>
-
-➜ Open Food Facts is made by everyone, for everyone!
-➜ In short, we're "the Wikipedia of food", as the press nicknamed the project. Open Food Facts has also enabled the creation of over 150+ apps like Date Limite, Yuka or FoodVisor.
-➜ Use it to make better food choices
-➜ The app is also collaborative. If the product is missing, contribute pictures and data to get the Nutri-Score, food processing level (NOVA) & Eco-Score.
-➜ Make a difference today by photographing a product from your kitchen.
-➜ Open Food Facts is a non-profit project made by thousands of volunteers from around the world. Why don't you join us ?
-
-<h1>👉 Decipher food labels</h1>
-
-We decipher products labels for you. You'll find:
-➜ Nutrition: The Nutriscore (nutritional score), nutrients, fat, transfat, carbohydrates, sugars, fiber, protein, salt & sodium.
-➜ Environment: The Ecoscore (including carbon footprint (CO2 emissions), packaging (as well as recycling instructions), environmental labels (organic, quality etc.), and origins of ingredients)
-➜ Other: brands, allergens, labels (bio, gluten free, vegan, vegetarian, halal, kosher...), traceability information (packaging codes, origins, food factories)
-➜ On wines and beers, you'll find the alcohol content.
-
-<h1>👉 Our grades are science-based, and Open Food Facts is helping science!</h1>
-➜ We don't make up things. We rely on peer-reviewed science.
-➜ The Nutri-Score has been created by the independent French team led by Professor Hercberg.
-➜ The NOVA groups on food processing have been designed by the international team of Professor Monteiro.
-➜ The additives synthesis is based on reviews by EFSA on exposure levels on food additives.
-➜ The Eco-Score is based on ground breaking data by ADEME, the French environmental agency, adapted for the world.
-➜ The Open Food Facts community is collaborating with research teams across the planet for research that benefits all.
-
-<h1>👉 Your food, your data. Privacy-friendly app.</h1>
-➜ You can use the app anonymously
-➜ Your food data is yours, and is never sent online
-
-<h1>👉 Set up allergen alerts on products</h1>
-➜ Do you have a Milk, Gluten, Eggs, Soybeans, Nuts, Fish, Celery, Mustard, Sulphites, Peanuts, Sesame seeds, Crustaceans, Molluscs or Lupin allergy ?
-➜ Speed up your shopping with an initial screening with Open Food Facts.
-➜ Be careful that the info & the detection may not be 100% accurate. Always double check by yourself, with the packaging.
-
-<h1>👉 More</h1>
-Web version: <a href="https://world.openfoodfacts.org">https://world.openfoodfacts.org</a>
-Questions, feedback : <a href="mailto:contact@openfoodfacts.org">contact@openfoodfacts.org</a>
-
-For cosmetics, you can install Open Beauty Facts.
+ඔබ ද (නිෂ්පාදන සහභාගී ඇඟවීම් අනුව) සොයා ගැනීමට හැකි වනු ඇත:
+- පරිසරයට මුදා හරින කාබන් ප්රමාණය (අවම CO2) සහ ඇසුරුම් (මෙන්ම ප්රතිචක්රීකරණය උපදෙස්),
+- Nutriscore (පෝෂණ ලකුණු), පෝෂ්ය ද්රව්ය, මේද / මේද ප්රමාණය, සංතෘප්ත මේද අම්ල, කාබෝහයිඩ්රේට්, සීනි, තන්තු, ප්රෝටීන් සහ ලුණු සහ සෝඩියම්.
+- වෙළඳ නාම, අසාත්මිකතාවන්ට, ලේබල් (ජීව, ග්ලූටන් රහිත, සත්ත්ව ද්රව්ය වලින් තොර, නිර්මාංශ, හලාල්, කොෂර් ...), සොයා ගත හැකි බව තොරතුරු (ඇසුරුම් කේත, අමුද්රව්ය වල සම්භවය)
+- වයින් වර්ග හා බීර, ඔබ, මධ්යසාර සොයා ඇත.

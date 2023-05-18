@@ -1,0 +1,5 @@
+Open Food Facts projesi 10. yılını kutluyor! Kutlamak için uygulamayı yeniden tasarladık.
+Paketleme işlemi!
+* "Ürünü Düzenle"de yeni bir bölüm eklendi: "Ağırlık dahil olmak üzere ayrıntılı paketlemeyi girmenizi sağlayan Yapılandırılmış Paketleme (Beta). Mutfak teraziniz varsa, bazı yoğurtların tüm paketlerini referans almamıza yardımcı olun !
+Geri bildiriminizi contact@openfoodfacts.org adresinden bekliyoruz.
+https://github.com/openfoodfacts/smooth-app/releases

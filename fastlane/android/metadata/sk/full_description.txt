@@ -1,0 +1,11 @@
+Skenovanie potravinárske výrobky alebo ich čiarový kód s cieľom získať údaje o zložkách, prísad a výžive.
+
+Táto aplikácia umožňuje zobraziť produkty 537.000 (vrátane 175.000 v USA) už obsiahnuté v slobodnej a otvorenej databázy Open Food Fakty, a tiež pridať obrázky a dáta za chýbajúce produkty.
+
+Ak chcete zistiť projektu Otvorená Food Fakty nájdete https://openfoodfacts.org
+
+Budete mať tiež možnosť nájsť (podľa údajov prítomných na produkty):
+- uhlíková stopa (emisie CO2) a balenie (rovnako ako inštrukcie pre recykláciu),
+- Nutriscore (nutričné skóre), živiny, tuk / obsah tuku, nasýtené mastné kyseliny, sacharidy, cukry, vláknina, bielkoviny a soľ a sodná soľ.
+- značky, alergény, etikety (bio, lepok zdarma, vegan, vegetarián, halal, kóšer ...), informačné sledovateľnosť (balenie kódy, vznik zložiek)
+- Na vína a piva, nájdete obsah alkoholu.

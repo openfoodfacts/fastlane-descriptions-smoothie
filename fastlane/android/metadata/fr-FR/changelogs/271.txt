@@ -1,0 +1,6 @@
+Le projet Open Food Facts fête ses 10 ans ! Nous avons repensé l'appli pour fêter ça.
+Plein pot sur les emballages !
+* Améliorations pour la saisie des emballages. Si vous avez une balance de cuisine, aidez-nous à référencer tous les emballages des yaourts !
+* Vous pouvez désormais partager vos listes entre amis et avec vos proches.
+Nous attendons vos commentaires sur contact@openfoodfacts.org
+https://github.com/openfoodfacts/smooth-app/releases

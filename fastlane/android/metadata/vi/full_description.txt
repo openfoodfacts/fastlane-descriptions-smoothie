@@ -1,0 +1,11 @@
+Quét sản phẩm thực phẩm hoặc mã vạch của họ để có được dữ liệu về thành phần, phụ gia và các dữ kiện dinh dưỡng.
+
+Ứng dụng này cho phép xem 680.000 sản phẩm (bao gồm 175.000 ở Mỹ) đã có trong cơ sở dữ liệu mở và mở miễn phí Open Food Facts, đồng thời thêm hình ảnh và dữ liệu cho các sản phẩm bị thiếu.
+
+Để khám phá dự án Open Food Facts, vui lòng truy cập https://openfoodfacts.org
+
+Bạn cũng sẽ có thể tìm thấy (theo chỉ dẫn hiện có trên sản phẩm):
+- Khí thải carbon (CO2 emissions) và bao bì (cũng như hướng dẫn tái chế),
+- Nutriscore (chất dinh dưỡng), chất dinh dưỡng, chất béo / chất béo, axit béo bão hòa, carbohydrate, đường, chất xơ, protein và muối và natri.
+- nhãn hiệu, chất gây dị ứng, nhãn (sinh học, không chứa gluten, chay, chay, halal, kosher ...), thông tin truy xuất nguồn gốc (mã số bao bì, nguồn gốc của thành phần)
+- Trên rượu vang và bia, bạn sẽ tìm thấy hàm lượng cồn.

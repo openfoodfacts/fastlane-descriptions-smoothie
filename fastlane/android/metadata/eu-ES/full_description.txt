@@ -1,72 +1,35 @@
-News: We invented the collaborative scanning app in 2012. 🤳🥫 As we turn 10, we’re reinventing it from the ground up!
+Elikagaien eskaneatzea edo bere barra kodearen arabera, osagaiak, osagarriak eta nutrizio-datuak biltzeko.
 
-Aplikazio honek zuretzat eta planetarentzat ona den janaria aurkitzeko aukera ematen dizu barra-kodeak eskaneatuz.
-You will get personalized health & eco-impact info for 2.3M foods.
+Ireki Elikadura-gertaerak, eta gehitu produktuak falta diren irudiak eta datuak ere.
 
-<h1>👉  Set your food preferences without ruining your privacy</h1>
-<h1>👉  A scan that truly matches who you are</h1>
-✅ Berdea: produktua zure irizpideekin bat dator
-🛑 Gorria: arazo bat dago
-⬜️ Grisa: Lagundu iezaguzu erantzuten produktuei argazkiak eginez
-<h1>👉  Compare in a few seconds those 3 different tomato sauces left on the shelf.</h1>
-<h1>👉  Get a tailored comparison of any food category</h1>
+Open Food Facts proiektua ezagutzeko, bisitatu https://openfoodfacts.org
 
-<h1>Food criteria you can pick</h1>
-🌍 Ingurumena
-⚕️ Osasuna
-🏭 Gehigarriak eta Ultra prozesatutako elikagaiak
-🧂 Gatza
-🌾 Alergenoak
-Nutri-Score
-Eco-Score
 
-<h1>👉 Scan, find & compare more than 2,3 million food products</h1>
+*** Elikagaien Gardentasunari laguntzea ***
 
-<h1>👉 Choose products that are good for you ⚕️</h1>
+- Open Food Facts elikagai-produktuen datu-basea da guztiontzat, guztiontzat.
+- Erabili ahal izango duzu hobeto janaria aukerak egiteko eta datuak irekia denez, edonork berrerabiltzeko daiteke edozertarako.
+-. Open Elikadura Hechos boluntarioek milaka garatutako mundu proiektuen zirraragarria lagunduko dizute hainbat modutan asko ditugu osoko irabazi-asmorik gabeko proiektua da.
+- Gaur egun laguntzen has dezakezu zure janari-armairutik produktu bat gehituz.
 
-➜ The Nutri-Score grade, from A to E : Nutritional quality
-➜ The NOVA group, from 1 to 4 : Avoid ultra-processed foods (Group 4)
+*** Talde gertaerak ***
+- Open Elikadura Hechos laguntzen produktu etiketetan fina inprimatu zentzu gai (adierazpenak produktuen gainean dauden arabera) aurkitu ahal izango duzu egin behar duzu .:
+- Karbono aztarna (CO 2 isurpenak) eta ontziratzea (baita birziklapenaren jarraibideak ere)
+- Nutriscore (elikadura-puntuazioa), elikagaiak, gantz / koipe, gantz saturatuak, karbohidratoak, azukre, zuntz, proteina eta gatza eta sodio.
+- markak, alergenoak, etiketak (bio, glutenik free, vegan, begetarianoa, halal, kosher ...), trazabilitatea informazio (ontziak kodeak, osagai jatorria)
+- Ardo eta garagardoetan, alkoholaren edukia aurkituko duzu.
 
-<h1>👉 Choose products that are good the planet 🌍</h1>
-➜ Food causes over 1/3 of global greenhouse gas emissions
-➜ The Eco-Score grade, from A to E : a synthesis of 16 environmental impacts
+*** Edozein baldintza ongi funtzionatzen du ***
+- Produktu berriak gehi ditzakezu, oraingoz ez baduzu Interneteko konexiorik.
+- Aplikazioek bateriak eta bateria kontsumoa murrizteko beharrezkoa den zorroa soilik kargatzen dute
+-. Ez duzu kamera bat behar bilatzeko produktu bat Zorte on barra falta duzu kamera bat bada edo arazo bat izan harekin.
 
-<h1>👉 Contribute to Food Transparency</h1>
+*** Zure janaria, zure datuak ***
+- Zure datuak zurea da eta inoiz ez da bidali konektatuta
+- Aplikazio anonimoki erabil dezakezu
+- Eskaneatze historia esportatu dezakezu
 
-➜ Open Food Facts is made by everyone, for everyone!
-➜ In short, we're "the Wikipedia of food", as the press nicknamed the project. Open Food Facts has also enabled the creation of over 150+ apps like Date Limite, Yuka or FoodVisor.
-➜ Use it to make better food choices
-➜ The app is also collaborative. If the product is missing, contribute pictures and data to get the Nutri-Score, food processing level (NOVA) & Eco-Score.
-➜ Make a difference today by photographing a product from your kitchen.
-➜ Open Food Facts is a non-profit project made by thousands of volunteers from around the world. Zergatik ez duzu gurekin bat egiten?
+Open Elikadura gertaerak ere badago webean eskuragarri https://world.openfoodfacts.org tan
+Galderak, iritziak: contact@openfoodfacts.org
 
-<h1>👉 Deszifratu elikagaien etiketak</h1>
-
-Produktuen etiketak deszifratzen ditugu zugatik. Aurkituko duzuna:
-➜ Nutrition: The Nutriscore (nutritional score), nutrients, fat, transfat, carbohydrates, sugars, fiber, protein, salt & sodium.
-➜ Environment: The Ecoscore (including carbon footprint (CO2 emissions), packaging (as well as recycling instructions), environmental labels (organic, quality etc.), and origins of ingredients)
-➜ Other: brands, allergens, labels (bio, gluten free, vegan, vegetarian, halal, kosher...), traceability information (packaging codes, origins, food factories)
-➜ On wines and beers, you'll find the alcohol content.
-
-<h1>👉 Our grades are science-based, and Open Food Facts is helping science!</h1>
-➜ We don't make up things. We rely on peer-reviewed science.
-➜ The Nutri-Score has been created by the independent French team led by Professor Hercberg.
-➜ The NOVA groups on food processing have been designed by the international team of Professor Monteiro.
-➜ The additives synthesis is based on reviews by EFSA on exposure levels on food additives.
-➜ The Eco-Score is based on ground breaking data by ADEME, the French environmental agency, adapted for the world.
-➜ The Open Food Facts community is collaborating with research teams across the planet for research that benefits all.
-
-<h1>👉 Your food, your data. Privacy-friendly app.</h1>
-➜ You can use the app anonymously
-➜ Your food data is yours, and is never sent online
-
-<h1>👉 Set up allergen alerts on products</h1>
-➜ Do you have a Milk, Gluten, Eggs, Soybeans, Nuts, Fish, Celery, Mustard, Sulphites, Peanuts, Sesame seeds, Crustaceans, Molluscs or Lupin allergy ?
-➜ Speed up your shopping with an initial screening with Open Food Facts.
-➜ Be careful that the info & the detection may not be 100% accurate. Always double check by yourself, with the packaging.
-
-<h1>👉 Gehiago</h1>
-Web version: <a href="https://world.openfoodfacts.org">https://world.openfoodfacts.org</a>
-Questions, feedback : <a href="mailto:contact@openfoodfacts.org">contact@openfoodfacts.org</a>
-
-Kosmetikarako, Open Beauty Facts instala dezakezu.
+kosmetikoak egiteko, Open Beauty gertaerak instalatu dezakezu, elikagaien maskota, Open Pet Food gertaerak, eta beste produktu guztientzat, Open Produktuak gertaerak.

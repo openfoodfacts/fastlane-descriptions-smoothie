@@ -1,0 +1,7 @@
+Iphrojekthi ye-Open Food Facts iba neminyaka eyi-10! Sidale inguqulo entsha ngokuphelele yohlelo lokusebenza ukuze siyibungaze.
+Izici ezintsha zeviki:
+* You can scroll for more search results, without button clicking
+* It's easier to navigate in the app settings
+* We're actively working on the scan issues for Redmi, Xiaomi and other devices
+Sibheke ngabomvu ukuzwa impendulo yakho mayelana nalesi sibuyekezo ku-contact@openfoodfacts.org
+https://github.com/openfoodfacts/smooth-app/releases

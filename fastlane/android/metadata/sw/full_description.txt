@@ -1,0 +1,11 @@
+za Scan chakula au barcode yao ili kupata data juu ya viungo, viungio na lishe ukweli.
+
+programu inaruhusu kuangalia 537.000 bidhaa (ikiwa ni pamoja na 175.000 katika Marekani) tayari zilizomo katika huru na database Open Food Mambo, na pia kuongeza picha na data kwa kukosa bidhaa.
+
+Kugundua Open Food Mambo ya mradi, tafadhali tembelea https://openfoodfacts.org
+
+Wewe pia kuwa na uwezo wa kupata (kulingana na dalili sasa juu ya bidhaa):
+- carbon footprint (CO2 uzalishaji) na ufungaji (pamoja na maelekezo kusindika),
+- Nutriscore (alama ya lishe), madini, mafuta / mafuta maudhui, ulijaa mafuta asidi, wanga, sukari, fiber, protini na chumvi na sodiamu.
+- bidhaa, vizio, maandiko (wasifu, gluten bure, vegan, mboga, halali, kosher ...), taarifa ufuatiliaji (msimbo ufungaji, asili ya viungo)
+- Katika mvinyo na bia, utapata maudhui pombe.
