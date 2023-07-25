@@ -3,8 +3,6 @@ name: Crowdin Sync for the Smoothie Play Store and App Store descriptions
 on:
   push:
     branches: [ crowdin-trigger ]
-  schedule:
-  - cron: "0 13 * * *"
 
 jobs:
   synchronize-with-crowdin:
