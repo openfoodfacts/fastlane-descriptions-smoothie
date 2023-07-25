@@ -4,6 +4,10 @@ on:
     branches:
       - '*'
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   testflight-release:
     name: Check Metadata for iOS using Fastlane
