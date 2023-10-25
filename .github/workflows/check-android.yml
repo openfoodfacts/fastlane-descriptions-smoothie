@@ -14,7 +14,7 @@ jobs:
     steps:
     # required to run on Linux because this is a docker container action
      - name: Checkout
-       uses: actions/checkout@v4.1.0
+       uses: actions/checkout@v4.1.1
      - name: Validate Android metadata
        uses: ashutoshgngwr/validate-fastlane-supply-metadata@v2
        with:
