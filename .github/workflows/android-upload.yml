@@ -9,7 +9,7 @@ jobs:
     steps:
     # required to run on Linux because this is a docker container action
      - name: Checkout
-       uses: actions/checkout@v4.1.6
+       uses: actions/checkout@v4.1.7
     # - name: Validate metadata
        #uses: ashutoshgngwr/validate-fastlane-supply-metadata@v1
        # with:
