@@ -51,4 +51,4 @@ To discover the volunteer-run Open Food Facts project, visit https://world.openf
 <h1>▶ More</h1>
 
 Open Food Facts is also available on the web at <a href="https://world.openfoodfacts.org">https://world.openfoodfacts.org</a>
-Questions, feedback : <a href="mailto:contact@openfoodfacts.org">contact@openfoodfacts.org</a>
+Questions, feedback : <a href="mailto:contact@openfoodfacts.org">mobile@openfoodfacts.org</a>
