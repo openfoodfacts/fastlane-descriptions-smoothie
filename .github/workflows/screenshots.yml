@@ -1,9 +1,9 @@
 name: Screenshot generation
 on:
   push:
-    branches: [ '*' ]
+    branches: [ 'impossiblematch' ]
   pull_request:
-    branches: [ '*' ]
+    branches: [ 'impossiblematch' ]
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
