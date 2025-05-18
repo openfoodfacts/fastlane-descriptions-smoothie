@@ -1,0 +1,7 @@
+مرور 10 سنوات على مشروع Open Food Facts! لقد أنشأنا نسخة جديدة تمامًا من التطبيق للاحتفال.
+الميزات الجديدة لهذا الأسبوع:
+* You can scroll for more search results, without button clicking
+* It's easier to navigate in the app settings
+* We're actively working on the scan issues for Redmi, Xiaomi and other devices
+نتطلع إلى سماع ملاحظاتك حول هذا التحديث على contact@openfoodfacts.org
+https://github.com/openfoodfacts/smooth-app/releases

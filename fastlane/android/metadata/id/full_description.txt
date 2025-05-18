@@ -1,0 +1,68 @@
+Berita: Kami menemukan aplikasi pemindaian kolaboratif pada tahun 2012. Saat kami berusia 10 tahun, kami menciptakannya kembali dari awal!
+
+Aplikasi ini memungkinkan Anda menemukan makanan yang baik untuk Anda dan baik untuk planet ini dengan memindai kode batang mereka.
+Anda akan mendapatkan info kesehatan & dampak lingkungan yang dipersonalisasi untuk 2,3 juta makanan.
+
+<h1>👉 Atur preferensi makanan Anda tanpa merusak privasi Anda</h1>
+<h1>👉 Pemindaian yang benar-benar cocok dengan siapa Anda</h1>
+Hijau: produk sesuai dengan kriteria Anda
+Merah: ada masalah
+️ Abu-abu: Bantu kami menjawab Anda dengan memotret produk
+<h1>👉 Bandingkan dalam beberapa detik 3 saus tomat berbeda yang tersisa di rak.</h1>
+<h1>👉 Dapatkan perbandingan khusus untuk setiap kategori makanan</h1>
+
+<h1>Kriteria makanan yang bisa dipilih</h1>
+Lingkungan
+️ Kesehatan
+Aditif & makanan olahan ultra
+garam
+Alergen
+Nutri-Skor
+Skor Lingkungan
+
+<h1>👉 Pindai, temukan & bandingkan lebih dari 2,3 juta produk makanan</h1>
+
+<h1>👉 Pilih produk yang cocok untuk Anda ️</h1>
+
+Nilai Nutri-Score, dari A hingga E : Kualitas nutrisi
+Kelompok NOVA, dari 1 hingga 4: Hindari makanan ultra-olahan (Grup 4)
+
+<h1>👉 Pilih produk yang baik untuk planet ini </h1>
+Makanan menyebabkan lebih dari 1/3 emisi gas rumah kaca global
+Nilai Eco-Score, dari A hingga E : sintesis dari 16 dampak lingkungan
+
+<h1>👉 Berkontribusi pada Transparansi Pangan</h1>
+
+Fakta Makanan Terbuka dibuat oleh semua orang, untuk semua orang!
+Singkatnya, kami adalah "Wikipedia makanan", sebagaimana pers menjuluki proyek tersebut. Open Food Facts juga telah memungkinkan pembuatan lebih dari 150+ aplikasi seperti Date Limite, Yuka atau FoodVisor.
+Gunakan untuk membuat pilihan makanan yang lebih baik
+Aplikasi ini juga kolaboratif. Jika produk hilang, sumbangkan gambar dan data untuk mendapatkan Nutri-Score, food processing level (NOVA) & Eco-Score.
+Buat perbedaan hari ini dengan memotret produk dari dapur Anda.
+Open Food Facts adalah proyek nirlaba yang dibuat oleh ribuan sukarelawan dari seluruh dunia. Mengapa Anda tidak bergabung dengan kami?
+
+<h1>👉 Menguraikan label makanan</h1>
+
+Kami menguraikan label produk untuk Anda. Anda akan menemukan:
+Nutrisi: The Nutriscore (nilai gizi), nutrisi, lemak, transfat, karbohidrat, gula, serat, protein, garam & natrium.
+Lingkungan: Ecoscore (termasuk jejak karbon (emisi CO2), pengemasan (serta petunjuk daur ulang), label lingkungan (organik, kualitas, dll.), dan asal bahan)
+Lainnya: merek, alergen, label (bio, bebas gluten, vegan, vegetarian, halal, halal...), informasi keterlacakan (kode kemasan, asal, pabrik makanan)
+Pada anggur dan bir, Anda akan menemukan kandungan alkohol.
+
+<h1>👉 Nilai kami berbasis sains, dan Open Food Facts membantu sains!</h1>
+Kami tidak mengada-ada. Kami mengandalkan ilmu peer-reviewed.
+Nutri-Score telah dibuat oleh tim independen Prancis yang dipimpin oleh Profesor Hercberg.
+Kelompok NOVA pada pengolahan makanan telah dirancang oleh tim internasional Profesor Monteiro.
+Sintesis aditif didasarkan pada ulasan oleh EFSA pada tingkat paparan aditif makanan.
+Eco-Score didasarkan pada data terobosan oleh ADEME, badan lingkungan Prancis, yang diadaptasi untuk dunia.
+Komunitas Open Food Facts bekerja sama dengan tim peneliti di seluruh dunia untuk penelitian yang bermanfaat bagi semua.
+
+<h1>👉 Makanan Anda, data Anda. Aplikasi ramah privasi.</h1>
+Anda dapat menggunakan aplikasi secara anonim
+Data makanan Anda adalah milik Anda, dan tidak pernah dikirim secara online
+
+<h1>👉 Mengatur peringatan alergen pada produk</h1>
+Apakah Anda memiliki alergi Susu, Gluten, Telur, Kedelai, Kacang, Ikan, Seledri, Mustard, Sulfit, Kacang Tanah, Biji Wijen, Crustacea, Moluska, atau Lupin?
+Percepat belanja Anda dengan penyaringan awal dengan Open Food Facts.
+Hati-hati bahwa info & deteksi mungkin tidak 100% akurat. Selalu periksa sendiri, dengan kemasannya.
+
+Untuk kosmetik, Anda dapat menginstal Open Beauty Facts.

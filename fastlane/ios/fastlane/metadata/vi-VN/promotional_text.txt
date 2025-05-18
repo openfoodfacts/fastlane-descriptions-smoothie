@@ -1,0 +1,1 @@
+Quét mã vạch của sản phẩm thực phẩm để biết sản phẩm nào tốt cho bạn (Điểm Dinh Dưỡng, thực phẩm chế biến, chất phụ gia, cảnh báo chất gây dị ứng) và hành tinh (Điểm Sinh Thái)!

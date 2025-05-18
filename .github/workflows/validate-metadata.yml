@@ -3,15 +3,20 @@ on:
   push:
     branches:
       - main
+      
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+  
 jobs:
   validate:
     # required to run on Linux because this is a docker container action
     name: Validate the Fastlane Metadata of Smoothie
     runs-on: ubuntu-latest
     steps:
-     - uses: actions/checkout@v1
-     - uses: ashutoshgngwr/validate-fastlane-supply-metadata@v1
-        with:
-          fastlaneDir: ./fastlane # optional. default is './fastlane'.
-          # enable check to validate if a locale is supported by the Play Store Listing.
-          usePlayStoreLocales: true # optional. default is false.
+     - uses: actions/checkout@v4.2.2
+     - uses: ashutoshgngwr/validate-fastlane-supply-metadata@v2
+       with:
+        fastlaneDir: ./fastlane/android/metadata # optional. default is './fastlane/metadata/android'.
+        # enable check to validate if a locale is supported by the Play Store Listing.
+        usePlayStoreLocales: true # optional. default is false.

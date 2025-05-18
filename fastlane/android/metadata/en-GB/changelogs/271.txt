@@ -1,0 +1,7 @@
+The Open Food Facts project turns 10 ! We've created a completely new version of the app to celebrate.
+New features of the week:
+* You can scroll for more search results, without button clicking
+* It's easier to navigate in the app settings
+* We're actively working on the scan issues for Redmi, Xiaomi and other devices
+We look forward to hearing your feedback about this update at contact@openfoodfacts.org
+https://github.com/openfoodfacts/smooth-app/releases

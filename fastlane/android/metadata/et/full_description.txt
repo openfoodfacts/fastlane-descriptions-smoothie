@@ -1,0 +1,35 @@
+Toiduainete või nende vöötkoodide skannimine, et saada teavet koostisainete, lisaainete ja toitumisalaste faktide kohta.
+
+Avage toidufaktid ja lisage puuduvad tooted pildid ja andmed.
+
+Avatud toiduainete faktide projekti leiate aadressilt https://openfoodfacts.org
+
+
+*** Toiduainete läbipaistvuse edendamine ***
+
+- Avatud toidufaktid on kõigi toidukaupade andmebaas kõigile.
+- Saate seda kasutada toiduainete paremate valikute tegemiseks ja kui see on avatud andmete abil, saab igaüks seda kasutada mis tahes eesmärgil.
+- Open Food Facts on mittetulunduslik projekt, mille on välja töötanud tuhanded vabatahtlikud kogu maailmast. Meil ​​on palju põnevaid projekte, mida saate mitmel moel kaasa aidata.
+- Te võite täna oma panuse panna, lisades oma toidupaberi toote.
+
+*** saada fakte ***
+- Toiduvarude avamine aitab teil mõista, kuidas peeneid jooniseid prinditakse toote etikettidele. Võite leida (vastavalt toodetele esitatud andmetele):
+- süsinikdioksiidi jalajälg (CO 2 heitkogused) ja pakend (ja ringlussevõtmise juhised);
+- Nutriscore (toitumisalane skoor), toitaineid, rasva / rasvasisaldus, küllastunud rasvhapped, süsivesikud, suhkrud, kiudained, valgud ja soolad ning naatrium.
+- kaubamärgid, allergeenid, etiketid (bio, gluteenivaba, vegan, taimetoit, halal, kosher jne), jälgitavuse teave (pakendamiskoodid, koostisosade päritolu)
+- Veinides ja õlumas leiad alkoholisisalduse.
+
+*** töötab hästi mis tahes tingimustes ***
+- Saate lisada uusi tooteid, isegi kui teil pole praegu Interneti-ühendust.
+- Rakendus laadib andmete ja aku tarbimise vähendamiseks vaid rangelt vajalikku
+- Teil ei ole vaja kaamerat. Samuti saate trükkida vöötkoodi, kui teil puudub kaamera või teil on selle probleemiga probleeme.
+
+*** Teie toit, teie andmed ***
+- Teie andmed on teie ja neid ei saadeta kunagi võrgus
+- saate rakendust anonüümselt kasutada
+- Saate oma skaneerimisajaloo eksportida
+
+Toiduvarude avamine on saadaval ka veebis aadressil https://world.openfoodfacts.org
+Küsimused, tagasiside: contact@openfoodfacts.org
+
+Kosmeetikatoodetes saate installida Open Beauty Fakti, lemmikloomatoidu, Open Pet Food Factsi ja kõikide teiste toodete jaoks avatud toodete faktid.

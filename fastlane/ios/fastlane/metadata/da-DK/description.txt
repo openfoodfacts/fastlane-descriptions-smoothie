@@ -1,0 +1,77 @@
+Den kollaborative skannings-app blev udviklet i 2012. I anledning af 10-årsdagen, genopfindes den fra bunden!
+
+Denne app muliggør at finde fødevarer, som er gode for dig og planeten, ved at skanne deres stregkoder.
+Man får personlig information om sundhed og økopåvirkning for 2,3 mio. fødevarer.
+
+Angiv fødevarepræferencer uden at kompromittere fortroligheden
+En skanning, der virkelig matcher den, du er
+Grøn: Produktet matcher kriterierne
+Rød: Der er et problem
+Grå: Hjælp OFF med at svare dig ved at fotografere produkterne
+
+Sammenlign på få sekunder de resterende 3 tomatsaucer på hylden.
+Få en skræddersyet sammenligning af enhver fødevarekategori
+
+Fødevarekriterier, som kan vælges
+
+Miljø
+Sundhed
+Tilsætningsstoffer og Ultraforarbejdede fødevarer
+Salt
+Allergener
+Nutri-Score
+Øko-Score
+
+Skan, find og sammenlign flere end 2,3 mio. fødevareprodukter
+
+Vælg produkter, som er gode for dig
+
+- Nutri-Score karakteren ("A" - "E"): Ernæringskvalitet
+- NOVA-gruppen (1 - 4): Undgå ultraforarbejdede fødevarer (Gruppe 4)
+
+Vælg produkter, som er gode for planeten
+
+- Fødevarer forårsager over 1/3 af de globale drivhusudledninger
+- Øko-Score karakteren (fra A til E): En syntese af 16 miljøpåvirkninger
+
+Bidrag til Fødevaregennemsigtighed
+
+Open Food Facts er udviklet af alle, til alle!
+- Kort sagt, den er "madens Wikipedia", som pressen gav projektet tilnavnet. Open Food Facts har også muliggjort tilblivelsen af flere end 150+ apps, såsom Date Limite, Yuka og FoodVisor.
+- Brug den til at træffe bedre fødevarevalg
+- Appen er også kollaborativ. Mangler produktet, så bidrag med fotos og data for at få Nutri-Score, fødevareforarbejdningsniveau (NOVA) samt Øko-Score.
+- Gør en forskel i dag ved at fotografere et produkt fra dit køkken.
+- Open Food Facts er et non-profitprojekt udviklet af tusindvis af frivillige fra hele verden. Hvorfor ikke tilslutte dig?
+
+Dechifrér fødevareetiketter
+
+Open Food Facts dechifrerer produktetiketterne. Du vil finde:
+- Ernæring: Nutri-Score (ernæringsscore), næringsstoffer, fedt, transfedt, kulhydrater, sukkerarter, fibre, protein, salt og natrium.
+- Miljø: ØkoScore (inkl. CO2-fodaftryk (CO2-udledninger), emballage (samt genbrugsinstrukser), miljømærker (økologisk, kvalitet mv.) og ingrediensoprindelse(r))
+- Øvrigt: Varemærker, allergener, etiketter (bio, glutenfri, veganer, vegetar, halal, kosher...), sporbarhedsinformation (emballagekoder, oprindelser, fødevarefabrikker)
+- På vin og øl fremgår alkoholindholdet.
+
+Karakterene er videnskabsbaseret, og Open Food Facts hjælper videnskaben!
+- Vi finder ikke på tingene. Vi stoler på ligeværdigt vurderet videnskab.
+- Nutri-Score er skabt af et uafhængigt franske team ledet af prof. Hercberg.
+- NOVA-grupperne for fødevareforarbejdning er designet af prof. Monteiros internationale team.
+- Tilsætningsstofsynteser baserer sig på analyser fra EFSA vedr. eksponeringsniveauer for fødevaretilsætningsstoffer.
+- Øko-Score er baseret på banebrydende data fra ADEME, det franske miljøagentur, tilpasset verden.
+- Open Fodd Facts-fællesskabet samarbejder med forskerteams kloden over om forskning til gavn for alle.
+
+Din mad, dine data. Fortrolighedsvenlig app.
+- Du kan benytte app'en anonymt
+- Dine maddata er dine, og de lægges aldrig online
+
+Opsæt allergenadvarsler på produkter
+
+- Er allergisk overfor mælk, gluten, æg, sojabønner, nødder, fisk, selleri, sennep, sulfitter, jordnødder, sesamfrø, krebsdyr, bløddyr eller lupin?
+- Køb ind hurtigere med en indledende screening med Open Food Facts.
+- Vær opmærksom på, at oplysninger og detektering måske ikke er 100% korrekte. Dobbelttjek derfor altid selv ift. emballagen.
+
+Flere
+
+Webversion: https://world.openfoodfacts.org
+Spørgsmål, feedback: contact@openfoodfacts.org
+
+Til kosmetik kan Open Beauty Facts installeres.

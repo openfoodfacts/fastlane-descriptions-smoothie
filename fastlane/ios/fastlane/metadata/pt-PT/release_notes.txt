@@ -1,0 +1,12 @@
+O projecto Open Food Facts faz 10 anos! Nós criámos uma versão completamente nova da aplicação para celebrar.
+Muito obrigado a todos os contribuidores que trabalharam durante 2 anos em todas as novas funcionalidades!
+
+Novas Funcionalidades:
+* Design novo
+* A página do produto é mais útil
+* Personalize o que vê quando digitaliza um produto
+* Cria listas pessoais de produtos
+
+O Open Food Facts é um projeto sem fins lucrativos para abrir dados de alimentos de todo o mundo. Junte-se a nós em https://pt.openfoodfacts.org
+
+Digitalize o código de barras de produtos alimentares para saber quais produtos são bons para si (qualidade nutricional: Nutri-Score, grupo NOVA, alertas aditivos e alergéneos) e ao planeta (Eco-Score)!

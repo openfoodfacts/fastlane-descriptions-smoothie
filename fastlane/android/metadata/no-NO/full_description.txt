@@ -1,0 +1,7 @@
+Scan matvarer for å dekryptere etiketter: ingredienser, tilsetningsstoffer, ernæring fakta
+
+Scan matvarer eller deres strekkoden for å få data om innholdsstoffer , tilsetningsstoffer og ernæring fakta.
+
+Programmet gjør det mulig å vise 310000 produkter som allerede finnes i de fri og åpen database Åpne Mat fakta, og også for å legge til bilder og data for manglende produkter.
+
+Å oppdage Åpne Mat Fakta prosjektet, vennligst gå https://no.openfoodfacts.org

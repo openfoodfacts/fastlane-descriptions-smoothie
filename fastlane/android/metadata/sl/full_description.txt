@@ -1,0 +1,11 @@
+Scan živilskih proizvodov ali njihov črtne kode za pridobitev podatkov o sestavinah, dodatkov in prehranskih dejstev.
+
+Aplikacija omogoča, da si ogledate izdelke 537.000 (vključno s 175.000 v ZDA), je že vsebovana v svobodni in odprti baze podatkov Odpri hrana dejstva, in tudi za dodajanje slik in podatkov za manjkajoče izdelke.
+
+Da bi odkrili projekt Dejstva Odpri hrane, obiščite https://openfoodfacts.org
+
+Prav tako boste lahko našli (v skladu z navedbami, prisotnih na proizvode):
+- ogljikov odtis (emisije CO2) in embalažo (kot tudi navodila za recikliranje),
+- Nutriscore (hranilna vrednost), hranila, maščobe / maščobe, nasičenih maščobnih kislin, ogljikovih hidratov, sladkorjev, vlaknin, beljakovin in soli in natrija.
+- blagovne znamke, alergeni, nalepke (bio, brez glutena, veganska, vegetarijanska, halal, košer ...), informacijske sledljivost (embalaža kode, izvor sestavin)
+- Na vina in piva, boste našli vsebnost alkohola.

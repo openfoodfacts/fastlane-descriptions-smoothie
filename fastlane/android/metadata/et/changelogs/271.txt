@@ -1,0 +1,7 @@
+Projekt Open Food Facts saab 10-aastaseks! Oleme selle tähistamiseks loonud rakendusest täiesti uue versiooni.
+Nädala uued funktsioonid:
+* SKANNI PARANDUSED – öelge meile, kas see töötab teie jaoks
+* Rohkemate otsingutulemuste saamiseks saate kerida ilma nuppudele klõpsamata
+* Rakenduse seadetes on lihtsam navigeerida
+Ootame teie tagasisidet selle värskenduse kohta aadressil contact@openfoodfacts.org
+https://github.com/openfoodfacts/smooth-app/releases

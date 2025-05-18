@@ -1,0 +1,23 @@
+name: Check Android Fastlane Metadata
+on:
+  push:
+    branches:
+      - '*'
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+      
+jobs:
+  marketing:
+    runs-on: ubuntu-latest
+    steps:
+    # required to run on Linux because this is a docker container action
+     - name: Checkout
+       uses: actions/checkout@v4.2.2
+     - name: Validate Android metadata
+       uses: ashutoshgngwr/validate-fastlane-supply-metadata@v2
+       with:
+         fastlaneDir: ./fastlane/android/metadata # optional. default is './fastlane'.
+         #enable check to validate if a locale is supported by the Play Store Listing.
+         usePlayStoreLocales: true # optional. default is false.

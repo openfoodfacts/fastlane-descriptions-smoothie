@@ -1,0 +1,35 @@
+Elikagaien eskaneatzea edo bere barra kodearen arabera, osagaiak, osagarriak eta nutrizio-datuak biltzeko.
+
+Ireki Elikadura-gertaerak, eta gehitu produktuak falta diren irudiak eta datuak ere.
+
+Open Food Facts proiektua ezagutzeko, bisitatu https://openfoodfacts.org
+
+
+*** Elikagaien Gardentasunari laguntzea ***
+
+- Open Food Facts elikagai-produktuen datu-basea da guztiontzat, guztiontzat.
+- Erabili ahal izango duzu hobeto janaria aukerak egiteko eta datuak irekia denez, edonork berrerabiltzeko daiteke edozertarako.
+-. Open Elikadura Hechos boluntarioek milaka garatutako mundu proiektuen zirraragarria lagunduko dizute hainbat modutan asko ditugu osoko irabazi-asmorik gabeko proiektua da.
+- Gaur egun laguntzen has dezakezu zure janari-armairutik produktu bat gehituz.
+
+*** Talde gertaerak ***
+- Open Elikadura Hechos laguntzen produktu etiketetan fina inprimatu zentzu gai (adierazpenak produktuen gainean dauden arabera) aurkitu ahal izango duzu egin behar duzu .:
+- Karbono aztarna (CO 2 isurpenak) eta ontziratzea (baita birziklapenaren jarraibideak ere)
+- Nutriscore (elikadura-puntuazioa), elikagaiak, gantz / koipe, gantz saturatuak, karbohidratoak, azukre, zuntz, proteina eta gatza eta sodio.
+- markak, alergenoak, etiketak (bio, glutenik free, vegan, begetarianoa, halal, kosher ...), trazabilitatea informazio (ontziak kodeak, osagai jatorria)
+- Ardo eta garagardoetan, alkoholaren edukia aurkituko duzu.
+
+*** Edozein baldintza ongi funtzionatzen du ***
+- Produktu berriak gehi ditzakezu, oraingoz ez baduzu Interneteko konexiorik.
+- Aplikazioek bateriak eta bateria kontsumoa murrizteko beharrezkoa den zorroa soilik kargatzen dute
+-. Ez duzu kamera bat behar bilatzeko produktu bat Zorte on barra falta duzu kamera bat bada edo arazo bat izan harekin.
+
+*** Zure janaria, zure datuak ***
+- Zure datuak zurea da eta inoiz ez da bidali konektatuta
+- Aplikazio anonimoki erabil dezakezu
+- Eskaneatze historia esportatu dezakezu
+
+Open Elikadura gertaerak ere badago webean eskuragarri https://world.openfoodfacts.org tan
+Galderak, iritziak: contact@openfoodfacts.org
+
+kosmetikoak egiteko, Open Beauty gertaerak instalatu dezakezu, elikagaien maskota, Open Pet Food gertaerak, eta beste produktu guztientzat, Open Produktuak gertaerak.

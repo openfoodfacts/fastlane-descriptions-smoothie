@@ -1,0 +1,35 @@
+Qidalanma məhsullarını və ya onların barkodlarını maddələr, aşqarlar və bəslənmə haqqında məlumatlar əldə etmək üçün tarayın.
+
+Açıq Qida Facts, və həmçinin itkin məhsulları üçün şəkillər və məlumat əlavə edin.
+
+Open Food Facts layihəsini kəşf etmək üçün, https://openfoodfacts.org saytına daxil olun
+
+
+*** Qida şəffaflığına yardım edin ***
+
+- Açıq Qida Gerçəkləri hər kəs üçün, hər kəs tərəfindən verilən bir qida məhsulları bazasıdır.
+- Daha yaxşı yemək seçimlərini etmək üçün istifadə edə bilərsiniz və açıq məlumat olduğu üçün hər kəs hər hansı bir məqsəd üçün yenidən istifadə edə bilər.
+- Açıq Qida Qaydaları dünyanın müxtəlif yerlərindən minlərlə könüllü tərəfindən hazırlanmış qeyri-kommersiya layihəsidir. Biz çox sayda yolla kömək edə biləcəyiniz çox maraqlı layihələrimiz var.
+- Ərzaq şkafından bir məhsul əlavə edərək bu gün də iştirak etməyə başlaya bilərsiniz.
+
+*** Faktlar əldə edin ***
+- Açıq Qida Qaydaları məhsul etiketlərində gözəl təzyiq hiss etməyinizə kömək edir. (Məhsulda olan göstəricilərə uyğun olaraq) tapa bilərsiniz:
+- karbon ayaq izi (CO2 emissiyaları) və qablaşdırma (həm də təkrar emal təlimatları),
+- Nutriscore (qida skoru), qidalar, yağ / yağ tərkibi, doymuş yağ turşuları, karbohidratlar, şəkərlər, lif, protein və duz və sodyumdur.
+- markalar, alerjenlər, etiketlər (bio, glutensiz, vegan, vegetarian, halal, kosher ...), izlenebilirlik məlumatı (qablaşdırma kodları, maddələrin kökləri)
+- Şərab və pivələrə görə, spirtin tərkibini tapacaqsınız.
+
+*** Hər hansı bir vəziyyətdə yaxşı işləyir ***
+- İndi bir internet bağlantınız yoxdursa belə yeni məhsullar əlavə edə bilərsiniz.
+- Bu proqramlar yalnız məlumatları və batareyanın istehlakını azaltmaq üçün lazımi yükləri yükləyir
+- Kameraya ehtiyacınız yoxdur. Kamera olmadıqda və ya bununla bağlı bir problem varsa barkod yaza bilərsiniz.
+
+*** Sizin qida, məlumatlarınız ***
+- Sizin məlumatlarınız sizin üçündür və heç vaxt online göndərilmir
+- Proqramı anonim olaraq istifadə edə bilərsiniz
+- Tarama tarixinizi ixrac edə bilərsiniz
+
+Open Food Facts da internetdə https://world.openfoodfacts.org saytında mövcuddur
+Suallar, Əlaqə: contact@openfoodfacts.org
+
+Kosmetika üçün, Açıq Gözəllik haqqında məlumatları, ev heyvanları üçün ərzaq, açıq pəhriz qida faktları və digər məhsullar üçün Open Products Facts.

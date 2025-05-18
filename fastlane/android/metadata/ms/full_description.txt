@@ -1,0 +1,11 @@
+produk makanan imbasan atau kod bar mereka untuk mendapatkan data mengenai bahan-bahan, bahan tambahan dan fakta pemakanan.
+
+Aplikasi ini membolehkan untuk melihat 537,000 produk (termasuk 175,000 di Amerika Syarikat) telah terkandung di dalam pangkalan data bebas dan terbuka Terbuka Makanan Fakta, dan juga untuk menambah gambar dan data yang hilang produk.
+
+Untuk memulakan projek Fakta Terbuka Makanan, sila layari https://openfoodfacts.org
+
+Anda juga akan dapat untuk mencari (mengikut tanda-tanda yang hadir pada produk):
+- kesan karbon (pelepasan CO2) dan pembungkusan (serta arahan kitar semula),
+- Nutriscore (skor pemakanan), nutrien, kandungan lemak / lemak, asid lemak tepu, karbohidrat, gula, serat, protein dan garam dan sodium.
+- jenama, alergen, label (bio, gluten percuma, vegan, vegetarian, halal, halal ...), maklumat kebolehkesanan (kod pembungkusan, asal-usul bahan-bahan)
+- Pada wain dan bir, anda akan mendapati kandungan alkohol.

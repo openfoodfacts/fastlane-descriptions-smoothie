@@ -1,0 +1,59 @@
+▶ Choisissez les produits qui sont bons pour vous et bons pour la planète
+Bon pour vous & Bons pour la planète
+➜ Note Nutri-Score de A to E : qualité nutritionnelle
+➜ Groupe NOVA de 1 à 4 : aliments ultra-transformés
+➜ Eco-Score - Impact environnemental des produits
+
+➜ Alerte huile de palme
+➜ Détecteur de produits vegans et végetarien
+
+▶ Open Food Facts déchiffre 1,3 million d'étiquettes pour vous
+➜ L'app permet de scanner et décrypter les étiquettes de 1,3 million de produits (dont 500 000 pour la France et la Belgique) contenus dans la base de données libre et ouverte Open Food Facts, et collectés de manière collaborative et bénévole.
+➜ On nous a surnommé le "Wikipedia de l'alimentation": Open Food Facts a permis la création de plus de 100 applications telles que Date Limite, Yuka ou FoodVisor.
+➜ Notre but: renforcer la transparence alimentaire partout dans le monde et améliorer l'alimentation de tous et toutes.
+➜ Le projet est porté par une association et est strictement indépendant de l'industrie agro-alimentaire.
+
+
+
+▶ Contribuez à la transparence alimentaire
+
+➜ Open Food Facts est une base de données de produits alimentaires faite par tout le monde pour tout le monde, un projet à but non lucratif porté par des milliers de bénévoles à travers le monde.
+➜ Les données sont réutilisables (données ouvertes / open data) et réutilisées par des scientifiques, des nutritionnistes et diététiciens, des journalistes, des startups…
+➜ Participez dès aujourd'hui en ajoutant un produit de votre placard ou frigo.
+
+▶ Open Food Facts déchiffre les étiquettes pour vous
+➜ Open Food Facts décrypte et donne du sens aux étiquettes des produits alimentaires, en y ajoutant :
+➜ l'empreinte carbone (émissions de CO2)
+➜ le Nutri-Score (score de qualité nutritionnelle), les nutriments, matières grasses, acides gras saturés, glucides, sucres, fibres, protéines, sel / sodium
+➜ le groupe NOVA pour les aliments ultra-transformés
+➜ les additifs, allergènes, labels (bio, sans gluten, végan, végétarien, halal, casher etc.), la traçabilité (codes emballeurs, origines des ingrédients)
+
+▶ Scores basés sur la science, et un projet qui fait progresser la science !
+
+➜ Tous nos algorithmes sont basés sur des publications scientifiques :
+➜ Nutri-Score de l'équipe française de recherche en nutrition du Professeur Hercberg
+➜ Groupes NOVA sur les produits ultra-transformés de l'équipe internationale du Professeur Monteiro
+➜ Synthèse des études de l'EFSA sur le risque de sur-exposition aux additifs alimentaires
+➜ Open Food Facts collabore avec des équipes scientifiques à travers la planète pour aider la recherche et améliorer la santé de tous.
+
+▶ Fonctionne bien dans toutes les conditions
+➜ Ajout de nouveaux produits même sans connexion Internet
+➜ (Bientôt: Scan hors connexion)
+
+▶ Votre nourriture, vos données
+➜ Vos données vous appartiennent et ne sont jamais envoyées en ligne
+➜ Vous pouvez utiliser l'application anonymement
+➜ Vous pouvez exporter votre historique de scan
+
+Open Food Facts est disponible en Outre Mer (Guyane française, Guadeloupe, Martinique, à La Réunion, à Mayotte, à Saint-Pierre-et-Miquelon, à Saint Barthélémy, à Saint Martin, à Wallis et Futuna, en Polynésie Française, en Nouvelle Calédonie) mais aussi en Belgique, au Luxembourg, au Canada, en Suisse et bien sur dans le reste de la francophonie :-)
+
+▶ Configurez des alertes pour les allergènes
+➜ Allergie au lait / lactose, gluten, oeufs, soja, noix et fruits à coque, poisson, céleri, moutarde, sulphites, graines de sésames, crustacés, mollusques ou lupin ?
+➜ Accélérez vos courses avec un scan initial de vous courses avec Open Food Facts.
+➜ Attention : les données et la détection ne sont pas forcément 100% correctes et à jour, vérifiez toujours ensuite avec l'emballage.
+
+▶ Dites nous bonjour et/ou rejoignez-nous !
+Pour découvrir notre projet citoyen : https://fr.openfoodfacts.org/decouvrir
+Questions & suggestions : contact@openfoodfacts.org
+
+Pour les cosmétiques, installez aussi Open Beauty Facts.

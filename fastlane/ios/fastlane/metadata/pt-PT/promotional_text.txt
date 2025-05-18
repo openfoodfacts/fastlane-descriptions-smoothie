@@ -1,0 +1,1 @@
+Digitalize o código de barras dos produtos alimentares para saber quais produtos bons para si (Nutri-Score, alimentos processados, aditivos, alertas de alérgenos) e para o planeta (Eco-Score)!

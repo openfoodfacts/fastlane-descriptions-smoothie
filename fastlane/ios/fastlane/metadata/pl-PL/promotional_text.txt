@@ -1,0 +1,1 @@
+Skanuj kodu kreskowe produktów i dowiaduj się które produkty są dla Ciebie zdrowe (wskaźnik Nutri-score, wartość odżywcza, powiadomienia o dodatkach i alergenach) i naszej planety (Eco-Score)!

@@ -1,0 +1,54 @@
+<h1>▶ Scan, find & compare more than 3 million food products</h1>
+The app allows to scan the 3 million products already contained in the free and open database Open Food Facts.
+The app is collaborative. If we don't have the product, you can add pictures and data to get the Nutri-Score and NOVA score on food processing.
+
+In short, we're kind of "the Wikipedia of food", as many have nicknamed the project. Open Food Facts has enabled the creation of over 100 apps like Date Limite, Yuka or FoodVisor.
+
+To discover the volunteer-run Open Food Facts project, visit https://world.openfoodfacts.org/discover
+
+<h1>▶ Choose the products that are good for you</h1>
+
+➜ The Nutri-Score grade, from A to E :  Nutritional quality
+➜ The NOVA group, from 1 to 4 : Avoid ultra-processed foods (Group 4)
+
+<h1>🌍 Join Our Mission for Food Transparency</h1>
+
+➜ Open Food Facts is a food products database made by everyone, for everyone.
+➜ You can use it to make better food choices, and as it is open data, anyone can re-use it for any purpose.
+➜ You can start contributing today by adding a product from your fridge.
+➜ Open Food Facts is a non-profit project developed by thousands of volunteers from around the world. We have lots of exciting projects you can contribute to in many different ways.
+
+<h1>🏷️ Decode Food Labels with Ease</h1>
+
+➜ Open Food Facts helps you decipher products labels. You will be able to find:
+➜ carbon footprint (CO2 emissions) and packaging (as well as recycling instructions),
+➜ Nutriscore (nutritional score), nutrients, fat / fat content, saturated fatty acids, carbohydrates, sugars, fiber, protein and salt and sodium.
+➜ brands, allergens, labels (bio, gluten free, vegan, vegetarian, halal, kosher ...), traceability information (packaging codes, origins of ingredients)
+➜ On wines and beers, you will find the alcohol content.
+
+<h1>🔬 Backed by Science, Supporting Research</h1>
+➜ We don't make up things. We rely on peer-reviewed science.
+➜ The Nutri-Score has been created by the independent French team led by Professor Hercberg.
+➜ The NOVA groups on food processing have been designed by the international team of Professor Monteiro.
+➜ The additives synthesis is based on reviews by EFSA on exposure levels on food additives.
+➜ The Open Food Facts community is collaborating with research teams across the planet to improve nutrition research that benefits all.
+
+<h1>📶 Access Anywhere, Anytime</h1>
+➜ Offline Functionality: Add products without an internet connection.
+➜ Efficient and User-Friendly: Minimized data and battery usage.
+➜ Flexible Search Options: No camera? No problem. Search using barcodes.
+
+<h1>🔒 Privacy-Centric App: Your food, your data.</h1>
+➜ Your data is yours, and is never sent online
+➜ You can use the app anonymously
+➜ You can export your scan history
+
+<h1>🚨 Set Allergen Alerts</h1>
+➜ Milk, Gluten, Eggs, Soybeans, Nuts, Fish, Celery, Mustard, Sulphur dioxide and sulphites, Peanuts, Sesame seeds, Crustaceans, Molluscs or Lupin allergy ?
+➜ Speed up your shopping by doing an initial screening of your food with Open Food Facts.
+➜ Be careful that the information may not be 100% accurate, and detection may not be 100% accurate. So always double check by yourself, with the packaging.
+
+<h1>▶ More</h1>
+
+Open Food Facts is also available on the web at <a href="https://world.openfoodfacts.org">https://world.openfoodfacts.org</a>
+Questions, feedback : <a href="mailto:contact@openfoodfacts.org">mobile@openfoodfacts.org</a>

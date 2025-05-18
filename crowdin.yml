@@ -2,62 +2,72 @@ project_id_env: CROWDIN_PROJECT_ID
 api_token_env: CROWDIN_PERSONAL_TOKEN
 preserve_hierarchy: true
 files:
-  - source: /fastlane/metadata/android/en-US/full_description.txt
-    dest: /fastlane/metadata/android/en-US/full_description.txt
-    translation: /fastlane/metadata/android/%locale%/full_description.txt
+  - source: /fastlane/android/metadata/en-US/54.txt
+    dest: /fastlane/android/metadata/en-US/54.txt
+    translation: /fastlane/android/metadata/%locale%/54.txt
+    preserve_hierarchy: true
+    
+  - source: /fastlane/android/metadata/en-US/full_description.txt
+    dest: /fastlane/android/metadata/en-US/full_description.txt
+    translation: /fastlane/android/metadata/%locale%/full_description.txt
     preserve_hierarchy: true
 
-  - source: /fastlane/metadata/android/en-US/short_description.txt
-    translation: /fastlane/metadata/android/%locale%/short_description.txt
-    dest: /fastlane/metadata/android/en-US/short_description.txt
+  - source: /fastlane/android/metadata/en-US/short_description.txt
+    translation: /fastlane/android/metadata/%locale%/short_description.txt
+    dest: /fastlane/android/metadata/en-US/short_description.txt
     preserve_hierarchy: true
     
-  - source: /fastlane/metadata/android/en-US/title.txt
-    translation: /fastlane/metadata/android/%locale%/title.txt
-    dest: /fastlane/metadata/android/en-US/title.txt
+  - source: /fastlane/android/metadata/en-US/title.txt
+    translation: /fastlane/android/metadata/%locale%/title.txt
+    dest: /fastlane/android/metadata/en-US/title.txt
     preserve_hierarchy: true
     
-  - source: /fastlane/metadata/ios/en-US/description.txt
-    translation: /fastlane/metadata/ios/%locale%/description.txt
-    dest: /fastlane/metadata/ios/en-US/description.txt
+  - source: /fastlane/ios/fastlane/metadata/en-US/description.txt
+    translation: /fastlane/ios/fastlane/metadata/%locale%/description.txt
+    dest: /fastlane/ios/fastlane/metadata/en-US/description.txt
     preserve_hierarchy: true
     
-  - source: /fastlane/metadata/ios/en-US/privacy_url.txt
-    translation: /fastlane/metadata/ios/%locale%/privacy_url.txt
-    dest: /fastlane/metadata/ios/en-US/privacy_url.txt
+  - source: /fastlane/ios/fastlane/metadata/en-US/privacy_url.txt
+    translation: /fastlane/ios/fastlane/metadata/%locale%/privacy_url.txt
+    dest: /fastlane/ios/fastlane/metadata/en-US/privacy_url.txt
     preserve_hierarchy: true
     
-  - source: /fastlane/metadata/ios/en-US/subtitle.txt
-    translation: /fastlane/metadata/ios/%locale%/subtitle.txt
-    dest: /fastlane/metadata/ios/en-US/subtitle.txt
+  - source: /fastlane/ios/fastlane/metadata/en-US/subtitle.txt
+    translation: /fastlane/ios/fastlane/metadata/%locale%/subtitle.txt
+    dest: /fastlane/ios/fastlane/metadata/en-US/subtitle.txt
     preserve_hierarchy: true
     
-  - source: /fastlane/metadata/ios/en-US/keywords.txt
-    translation: /fastlane/metadata/ios/%locale%/keywords.txt
-    dest: /fastlane/metadata/ios/en-US/keywords.txt
+  - source: /fastlane/ios/fastlane/metadata/en-US/promotional_text.txt
+    translation: /fastlane/ios/fastlane/metadata/%locale%/promotional_text.txt
+    dest: /fastlane/ios/fastlane/metadata/en-US/promotional_text.txt
     preserve_hierarchy: true
     
-  - source: /fastlane/metadata/ios/en-US/promotional_text.txt
-    translation: /fastlane/metadata/ios/%locale%/promotional_text.txt
-    dest: /fastlane/metadata/ios/en-US/promotional_text.txt
+  - source: /fastlane/ios/fastlane/metadata/en-US/support_url.txt
+    translation: /fastlane/ios/fastlane/metadata/%locale%/support_url.txt
+    dest: /fastlane/ios/fastlane/metadata/en-US/support_url.txt
     preserve_hierarchy: true
     
-  - source: /fastlane/metadata/ios/en-US/support_url.txt
-    translation: /fastlane/metadata/ios/%locale%/support_url.txt
-    dest: /fastlane/metadata/ios/en-US/support_url.txt
+  - source: /fastlane/ios/fastlane/metadata/en-US/marketing_url.txt
+    translation: /fastlane/ios/fastlane/metadata/%locale%/marketing_url.txt
+    dest: /fastlane/ios/fastlane/metadata/en-US/marketing_url.txt
     preserve_hierarchy: true
     
-  - source: /fastlane/metadata/ios/en-US/marketing_url.txt
-    translation: /fastlane/metadata/ios/%locale%/marketing_url.txt
-    dest: /fastlane/metadata/ios/en-US/marketing_url.txt
+  - source: /fastlane/ios/fastlane/metadata/en-US/release_notes.txt
+    translation: /fastlane/ios/fastlane/metadata/%locale%/release_notes.txt
+    dest: /fastlane/ios/fastlane/metadata/en-US/release_notes.txt
     preserve_hierarchy: true
     
-  - source: /fastlane/metadata/ios/en-US/release_notes.txt
-    translation: /fastlane/metadata/ios/%locale%/release_notes.txt
-    dest: /fastlane/metadata/ios/en-US/release_notes.txt
+  - source: /fastlane/ios/fastlane/metadata/en-US/name.txt
+    translation: /fastlane/ios/fastlane/metadata/%locale%/name.txt
+    dest: /fastlane/ios/fastlane/metadata/en-US/name.txt
     preserve_hierarchy: true
-    
-  - source: /fastlane/metadata/ios/en-US/name.txt
-    translation: /fastlane/metadata/ios/%locale%/name.txt
-    dest: /fastlane/metadata/ios/en-US/name.txt
+
+  - source: /screenshot-wrapping/strings/en-gb.json
+    translation: /screenshot-wrapping/strings/%locale%.json
+    dest: /screenshot-wrapping/strings/en-gb.json
     preserve_hierarchy: true
+
+ # - source: /fastlane/ios/fastlane/metadata/en-US/keywords.txt
+ #   translation: /fastlane/ios/fastlane/metadata/%locale%/keywords.txt
+  #  dest: /fastlane/ios/fastlane/metadata/en-US/keywords.txt
+   # preserve_hierarchy: true

@@ -1,0 +1,11 @@
+Skanna matvara eða barcode þeirra til að afla gagna um hráefni, aukefni og næring staðreyndir.
+
+The app gerir að skoða 310.000 vörur (þ.mt 175.000 í Bandaríkjunum) sem felast í ókeypis og opinn gagnasafn Open Food Facts, og einnig til að bæta myndir og gögn fyrir vantar vörur.
+
+Könnun Open Food Facts verkefni, vinsamlegast heimsækja https://openfoodfacts.org
+
+Þú verður einnig að vera fær um að finna (samkvæmt ábendingum staðar á vörum):
+- kolefnisfótspor (CO2 útblástur) og umbúðir (sem og endurvinnslu leiðbeiningar),
+- Nutriscore (næring skora), næringarefni, fitu / fituinnihald, mettuðum fitusýrum, kolvetni, sykrur, trefjar, prótein og salt og natríum.
+- tegundir, ofnæmi, merki (lífrænt, glúten frjáls, vegan, grænmetisæta, Halal, Kosher ...), rekjanleiki upplýsingar (pökkun kóða, uppruna innihaldsefna)
+- Á vínum og bjór, þú vilja finna áfengismagn.

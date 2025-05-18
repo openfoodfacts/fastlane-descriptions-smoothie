@@ -1,0 +1,7 @@
+Projekt Open Food Facts slavi 10 godina! Napravili smo potpuno novu verziju aplikacije za proslavu.
+Nove značajke tjedna:
+* POPRAVCI ZA SKENIRANJE - recite nam radi li vam
+* Možete se kretati za više rezultata pretraživanja, bez klikanja gumba
+* Lakše je kretati se u postavkama aplikacije
+Veselimo se čuti vaše povratne informacije o ovom ažuriranju na contact@openfoodfacts.org
+https://github.com/openfoodfacts/smooth-app/releases

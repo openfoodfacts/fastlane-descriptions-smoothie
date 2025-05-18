@@ -1,0 +1,14 @@
+Projekt Open Food Facts kończy 10 lat! Aby to uczcić, stworzyliśmy zupełnie nową wersję aplikacji.
+Wielkie podziękowania dla wszystkich współpracowników, którzy pracowali przez 2 lata nad tymi wszystkimi nowymi funkcjami!
+
+Nowe funkcje:
+* Całkowicie nowy wygląd
+* Strona produktu jest znacznie bardziej pomocna
+* Dostosuj to, co widzisz podczas skanowania produktu
+* Twórz osobiste listy produktów
+
+Open Food Facts to projekt non-profit z otwartą bazą produktów z całego świata. Dołącz do nas https://pl.openfoodfacts.org
+
+Zeskanuj kod kreskowy produktu, aby dowiedzieć się które produkty są dobre dla Ciebie (jakość odżywcza, Nutri-score, grupa NOVA, powiadomienia o dodatkach i alergenach) oraz planety (Eco-Score)!
+
+Czekamy na Wasze opinie na temat tej aktualizacji pod adresem contact@openfoodfacts.org
