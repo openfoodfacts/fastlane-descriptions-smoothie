@@ -1,0 +1,5 @@
+Projekt Open Food Facts oslavuje 10. výročie! Na oslavu sme prepracovali aplikáciu.
+Operácia balenia!
+* V časti „Upraviť produkt“ máte novú sekciu: „Štruktúrovaný obal (Beta), ktorý vám umožňuje zadať podrobné balenie vrátane hmotnosti. Ak máte kuchynskú váhu, pomôžte nám uviesť všetky obaly niektorých jogurtov!
+Uvítame vašu spätnú väzbu na contact@openfoodfacts.org
+https://github.com/openfoodfacts/smooth-app/releases

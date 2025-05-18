@@ -1,0 +1,7 @@
+10 éves az Open Food Facts projekt! Ennek megünneplésére létrehoztuk az alkalmazás egy teljesen új verzióját.
+A hét újdonságai:
+* JAVÍTÁSOK A SZKENNELÉSHOZ – mondja el nekünk, hogy működik-e az Ön számára
+* Gombkattintás nélkül görgethet további keresési eredményekért
+* Könnyebb navigálni az alkalmazás beállításai között
+Várjuk visszajelzését erről a frissítésről a contact@openfoodfacts.org címen
+https://github.com/openfoodfacts/smooth-app/releases

@@ -4,13 +4,17 @@ on:
     branches:
       - '*'
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   testflight-release:
     name: Check Metadata for iOS using Fastlane
     runs-on: macos-latest
     steps:
       - name: Checkout sources
-        uses: actions/checkout@v3.1.0
+        uses: actions/checkout@v4.2.2
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:

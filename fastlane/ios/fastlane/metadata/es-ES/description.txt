@@ -40,7 +40,7 @@ Contribuir a la Transparencia Alimentaria
 
 - ¡Open Food Facts está hecho por todos, para todos!
 - En definitiva, somos "la Wikipedia de la comida", como la prensa apodó al proyecto. Open Food Facts también ha permitido la creación de más de 150 aplicaciones como Date Limite, Yuka o FoodVisor.
-- Use it to make better food choices
+- Úsalo para elegir mejor tus alimentos
 - La aplicación también es colaborativa. Si falta el producto, aporte imágenes y datos para obtener el Nutri-Score, el nivel de procesamiento de alimentos (NOVA) y el Eco-Score.
 - Marca la diferencia hoy fotografiando un producto de tu cocina.
 - Open Food Facts es un proyecto sin ánimo de lucro realizado por miles de voluntarios de todo el mundo. ¿Por qué no te unes a nosotros?

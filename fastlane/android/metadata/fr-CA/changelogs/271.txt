@@ -1,0 +1,8 @@
+Le projet Open Food Facts fête ses 10 ans ! Nous avons repensé l'appli pour fêter ça.
+Nouvelles fonctionnalités de la semaine:
+* Corrections sur le Scan ! Dites nous si ça marche pour vous.
+* Vous pouvez faire défiler les résultats de recherche, sans cliquer sur le bouton
+* Simplification de la navigation dans les paramètres
+* Et d'autres améliorations!
+Nous attendons avec impatience vos commentaires sur contact@openfoodfacts.org
+https://github.com/openfoodfacts/smooth-app/releases

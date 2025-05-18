@@ -1,0 +1,7 @@
+O proxecto Open Food Facts cumpre 10 anos! Creamos unha versión completamente nova da aplicación para celebralo.
+Novas características da semana:
+* CORRECCIÓNS PARA A EXPERIENCIA: dinos se che funciona
+* Podes desprazarte para obter máis resultados de busca sen facer clic no botón
+* É máis doado navegar pola configuración da aplicación
+Agardamos escoitar os teus comentarios sobre esta actualización en contact@openfoodfacts.org
+https://github.com/openfoodfacts/smooth-app/releases

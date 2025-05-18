@@ -22,7 +22,7 @@ Santé
 Sel
 Allergènes
 Nutri-Score
-Éco-Score
+Eco-Score
 
 <h1>👉 Scannez, trouvez et comparez plus de 2,3 millions de produits alimentaires</h1>
 

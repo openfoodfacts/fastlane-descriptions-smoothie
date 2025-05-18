@@ -1,0 +1,5 @@
+¡El proyecto Open Food Facts celebra su décimo aniversario! Rediseñamos la aplicación para celebrar.
+¡Operación de embalaje!
+* Obtuve una nueva sección en "Editar producto": "Embalaje estructurado (Beta) que le permite ingresar el empaque detallado, incluido el peso. Si tiene una báscula de cocina, ¡ayúdenos a referenciar todos los empaques de algunos yogures!
+Agradecemos sus comentarios en contact@openfoodfacts.org
+https://github.com/openfoodfacts/smooth-app/releases

@@ -1,1 +1,1 @@
-Scan the barcode of food products to know which products are good for you (Nutri-Score, processed foods, additives, allergen alerts) and the planet (Eco-Score) !
+Scanați codul de bare al produselor alimentare pentru a ști ce produse sunt bune pentru dumneavoastră (Nutri-score, alimente prelucrate, aditivi, alerte pentru alergi) și planetă (Eco-Score)!

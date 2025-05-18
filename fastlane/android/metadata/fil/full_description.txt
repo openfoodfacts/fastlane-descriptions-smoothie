@@ -1,0 +1,35 @@
+I-scan ang mga produkto ng pagkain o ang kanilang barcode upang makakuha ng data sa mga sangkap, additives at nutrisyon katotohanan.
+
+Buksan ang Mga Katotohanan sa Pagkain, at magdagdag din ng mga larawan at data para sa mga nawawalang produkto.
+
+Upang matuklasan ang proyektong Open Food Facts, pakibisita ang https://openfoodfacts.org
+
+
+*** Mag-ambag sa Transparency ng Pagkain ***
+
+- Buksan ang Mga Katotohanan sa Pagkain ay isang database ng mga produkto ng pagkain na ginawa ng lahat, para sa lahat.
+- Maaari mong gamitin ito upang gumawa ng mas mahusay na mga pagpipilian sa pagkain, at bilang ito ay bukas na data, sinuman ay maaaring muling gamitin ito para sa anumang layunin.
+-. Buksan ang Food Katotohanan ay isang non-profit na proyekto na binuo sa pamamagitan ng libo-libo ng mga boluntaryo mula sa buong mundo Mayroon kaming maraming mga kapana-panabik na mga proyekto maaari kang magbigay ng kontribusyon sa sa maraming iba't ibang paraan.
+- Maaari kang magsimulang mag-ambag ngayon sa pamamagitan ng pagdaragdag ng isang produkto mula sa iyong cupboard ng pagkain.
+
+*** Kunin ang mga Katotohanan ***
+- Buksan Food Facts tumutulong sa iyo na magkaroon ng kahulugan ng fine print sa mga produkto ng label Makaka upang mahanap (ayon sa mga indications na mayroon sa mga produkto) .:
+- carbon footprint (CO 2 emissions) at packaging (pati na rin ang mga recycling instructions),
+- Nutriscore (nutritional score), nutrients, taba / taba nilalaman, lunod mataba acids, carbohydrates, sugars, hilatsa, protina at asin at sosa.
+- tatak, allergens, mga label (bio, gluten libre, Vegan, vegetarian, Halal, kosher ...), traceability impormasyon (packaging codes, mga pinagmulan ng mga sangkap)
+- Sa wines at beers, makikita mo ang nilalamang alkohol.
+
+*** Magaling sa anumang kondisyon ***
+- Maaari kang magdagdag ng mga bagong produkto, kahit na wala kang koneksyon sa internet ngayon.
+- Ang app ay naglo-load lamang ang mahigpit na kinakailangan upang mabawasan ang data at pagkonsumo ng baterya
+- Hindi mo kailangan ang isang camera. Maaari mo ring i-type ang barcode kung kulang ka ng camera o magkaroon ng isang isyu dito.
+
+*** Ang iyong pagkain, ang iyong data ***
+- Ang iyong data ay sa iyo, at hindi kailanman ipapadala online
+- Maaari mong gamitin ang app nang hindi nagpapakilala
+- Maaari mong i-export ang iyong kasaysayan ng pag-scan
+
+Available din ang Open Facts Food sa web sa https://world.openfoodfacts.org
+Mga tanong, puna: contact@openfoodfacts.org
+
+Para sa mga pampaganda, maaari mong i-install ang Open Beauty Facts, para sa pagkain ng alagang hayop, Buksan ang Mga Alagang Hayop sa Pagkain, at para sa lahat ng iba pang mga produkto, Mga Buksan ang Mga Katotohanan sa Produkto.

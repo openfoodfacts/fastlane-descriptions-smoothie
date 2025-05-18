@@ -65,8 +65,6 @@ Dešifrujeme pro vás etikety produktů. Najdete:
 ➜ Urychlete své nákupy úvodní kontrolou s Open Food Facts.
 ➜ Buďte opatrní, že informace a detekce nemusí být 100% přesné. Vždy dvakrát zkontrolujte sami, s obalem.
 
-<h1>👉 Více</h1>
-Webová verze: <a href="https://world.openfoodfacts.org">https://world.openfoodfacts.org</a>
 Otázky, zpětná vazba: <a href="mailto:contact@openfoodfacts.org">contact@openfoodfacts.org</a>
 
 Pro kosmetiku si můžete nainstalovat Open Beauty Facts.

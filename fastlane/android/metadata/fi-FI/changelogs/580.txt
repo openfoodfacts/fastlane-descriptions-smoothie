@@ -1,0 +1,5 @@
+Open Food Facts -projekti täyttää 10 vuotta! Suunnittelimme sovelluksen uudelleen juhlimaan.
+Pakkaustoiminta!
+* Sain uuden osion "Muokkaa tuotetta": "Strukturoitu pakkaus (beta), jonka avulla voit syöttää yksityiskohtaiset pakkaukset, mukaan lukien paino. Jos sinulla on keittiövaaka, auta meitä viittaamaan kaikkiin jogurttien pakkauksiin!
+Otamme mielellämme vastaan ​​palautetta osoitteessa contact@openfoodfacts.org
+https://github.com/openfoodfacts/smooth-app/releases

@@ -17,7 +17,7 @@ Obtenha uma comparação personalizada de qualquer categoria de alimentos
 Critérios alimentares que pode escolher
 
 Ambiente
-Health
+Saúde
 Aditivos e alimentos ultra processados
 Sal
 Alergénios
@@ -48,7 +48,7 @@ Contribua para a transparência alimentar
 Decifrar rótulos alimentares
 
 Nós deciframos as etiquetas dos produtos para si. Encontrará:
-- Nutrição: O Nutriscore (pontuação nutricional), nutrientes, gorduras, gordura saturada, hidratos de carbono, açúcares, fibras, proteínas, sal e sódio.
+- Nutrição: o Nutri-Score (pontuação nutricional), nutrientes, gorduras, gorduras saturadas, hidratos de carbono, açúcares, fibras, proteínas, sal e sódio.
 - Ambiente: O Ecoscore (incluindo a pegada de carbono (emissões de CO2), embalagens (assim como instruções de reciclagem), rótulos ambientais (orgânico, qualidade, etc.) e origens de ingredientes)
 - Outros: marcas, alérgeneos, rótulos (bio, sem glúten, vegano, vegetariano, halal, kosher...), informação de rastreabilidade (códigos de embalagem, origens, fábricas de alimentos)
 - Em vinhos e cervejas, você encontrará o teor alcoólico.

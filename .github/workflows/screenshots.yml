@@ -1,21 +1,25 @@
 name: Screenshot generation
 on:
   push:
-    branches: [ '*' ]
+    branches: [ 'impossiblematch' ]
   pull_request:
-    branches: [ '*' ]
+    branches: [ 'impossiblematch' ]
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3.1.0
-    - uses: actions/setup-node@v3
+    - uses: actions/checkout@v4.2.2
+    - uses: actions/setup-node@v4
       with:
         node-version: '12'
     - run: pwd && cd ./screenshot-wrapping/ && pwd && npm ci && node index.js
     - name: Upload screenshots
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: screenshots
         path: ./screenshot-wrapping/output/

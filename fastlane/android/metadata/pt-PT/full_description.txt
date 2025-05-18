@@ -1,72 +1,69 @@
-Notícias: Inventámos a aplicação de digitalização colaborativa em 2012. À medida que fazemos 10 anos, estamos a reinventá-la de raiz!
+Digitalize produtos alimentares para obter dados sobre ingredientes, aditivos e informação nutricional.
 
-Esta aplicação permite encontrar alimentos bons para si e para o planeta ao digitalizar os seus códigos de barras.
-Receberá informações personalizadas de saúde e impacto ambiental para 2,3 milhões de alimentos.
+▶ Encontre e compare mais de 800.000 produtos
 
-<h1>👉 Defina as suas preferências alimentares sem comprometer a sua privacidade</h1>
-<h1>👉 Uma digitalização que realmente corresponde a si</h1>
-✅ Verde: o produto corresponde aos seus critérios
-🛑 Vermelho: há um problema
-⬜️ Cinza: ajude-nos a responder fotografando os produtos
-<h1>👉 Compare em poucos segundos aqueles 3 molhos de tomate diferentes que sobraram na prateleira.</h1>
-<h1>👉 Obtenha uma comparação personalizada de qualquer categoria de alimentos</h1>
+A aplicação permite visualizar os 800.000 produtos (incluindo 175.000 nos EUA) já contidos no banco de dados aberto e gratuito dos Open Food Facts e de adicionar fotos e dados de produtos novos.
 
-<h1>Critérios alimentares que pode escolher</h1>
-🌍 Meio ambiente
-⚕️ Saúde
-🏭 Aditivos e alimentos ultraprocessados
-🧂 Sal
-🌾 Alérgenos
-Nutri-Score
-Eco-Score
 
-<h1>👉 Digitalize, procure e compare mais de 2,3 milhões de produtos alimentares</h1>
+Para descobrir o projeto Open Food Facts realizado por voluntários, visite https://world-pt.openfoodfacts.org
 
-<h1>👉 Escolha produtos que lhe façam bem ⚕️</h1>
-
-➜ A nota Nutri-Score, de A a E : Qualidade nutricional
+▶ Escolha os produtos que são bons para você
+- A classificação Nutri-Score, de "A" a "E" >> Qualidade nutricional
 - O grupo NOVA, de "1" a "4" >> Encontre o alimento ultraprocessado
+- Você pode facilmente comparar quantos produtos quiser, lado a lado simplesmente digitalizando-os. 
 
-<h1>👉 Escolha produtos que fazem bem ao planeta 🌍</h1>
-➜ Alimentos causam mais de 1/3 das emissões globais de gases de efeito estufa
-➜ O grau Eco-Score, de A a E: uma síntese de 16 impactos ambientais
 
-<h1>👉 Contribuir para a Transparência Alimentar</h1>
+▶ Contribuir para a transparência alimentar
+- Open Food Facts é um banco de dados de produtos alimentícios feito por todos, para todos.
+- Pode usá-lo para fazer melhores escolhas alimentares, e como são dados abertos, qualquer um pode reutilizá-lo para qualquer finalidade.
+- Open Food Facts é um projeto sem fins lucrativos desenvolvido por milhares de voluntários em todo o mundo. Temos muitos projetos interessantes para os quais você pode contribuir de diversas maneiras.
+- Você pode começar a contribuir hoje adicionando um produto de sua geladeira.
 
-➜ Open Food Facts é feito por todos, para todos!
-➜ Resumindo, somos "a Wikipedia da comida", como a imprensa apelidou o projeto. O Open Food Facts também permitiu a criação de mais de 150 aplicações como o Date Limite, Yuka ou FoodVisor.
-➜ Use-a para fazer melhores escolhas alimentares
-➜ A aplicação também é colaborativa. Se o produto faltar, contribua com fotos e dados para obter o Nutri-Score, nível de processamento de alimentos (NOVA) e Eco-Score.
-➜ Faça a diferença hoje ao fotografar um produto na sua cozinha.
-➜ Open Food Facts é um projeto sem fins lucrativos feito por milhares de voluntários em todo o mundo. Por que não se junta a nós?
+Criar listas
+Crie listas de compras, controle o que você comeu e compartilhe facilmente e exporte suas listas.
 
-<h1>👉 Decifrar rótulos alimentares</h1>
+▶ Obtenha os Factos
+- Open Food Facts ajuda a entender as letras miúdas dos rótulos dos produtos. Você será capaz de encontrar:
+- pegada de carbono (emissões de CO2) e embalagem (assim como instruções de reciclagem),
+- Nutriscore (escore nutricional), nutrientes, teor de gordura / gordura, ácidos graxos saturados, carboidratos, açúcares, fibras, proteínas e sal e sódio.
+- marcas, alérgenos, rótulos (bio, sem glúten, vegan, vegetariano, halal, kosher ...), informações de rastreabilidade (códigos de embalagem, origem dos ingredientes)
+- Em vinhos e cervejas encontrará o teor alcoólico.
 
-Nós deciframos as etiquetas dos produtos para si. Encontrará:
-➜ Nutrição: O Nutriscore (pontuação nutricional), nutrientes, gorduras, gordura saturada, hidratos de carbono, açúcares, fibras, proteínas, sal e sódio.
-➜ Ambiente: O Ecoscore (incluindo a pegada de carbono (emissões de CO2), embalagens (assim como instruções de reciclagem), rótulos ambientais (orgânico, qualidade, etc.) e origens de ingredientes)
-➜ Outros: marcas, alérgeneos, rótulos (bio, sem glúten, vegano, vegetariano, halal, kosher...), informação de rastreabilidade (códigos de embalagem, origens, fábricas de alimentos)
-➜ Em vinhos e cervejas, você encontrará o teor alcoólico.
 
-<h1>👉 As nossas notas têm base científica e o Open Food Facts ajuda a ciência!</h1>
-- Nós não inventamos coisas. Confiamos na ciência revista por pares.
-- O Nutri-Score foi criado pela equipa francesa independente liderada pelo professor Hercberg.
-- Os grupos NOVA em processamento de alimentos foram projetados pela equipa internacional do professor Monteiro.
-➜ A síntese de aditivos é baseada em análises da EFSA sobre os níveis de exposição em aditivos alimentares.
-➜ O Eco-Score é baseado na dados inovadores da ADEME, a agência ambiental francesa, adaptada ao mundo.
-➜ A comunidade Open Food Facts colabora com equipas de pesquisa em todo o planeta para pesquisas que beneficiem a todos.
+▶ Baseado na ciência, ajudando a ciência!
 
-<h1>👉 A sua comida, os seus dados. Aplicação amigável da privacidade.</h1>
-➜ Pode usar a aplicação de forma anónima
-➜ Seus dados alimentares são seus e nunca são enviados online
+- Nós não inventamos coisas. Nós confiamos na ciência revisada por pares.
+- O Nutri-Score foi criado pela equipe francesa independente liderada pelo professor Hercberg.
+- Os grupos NOVA em processamento de alimentos foram projetados pela equipe internacional do professor Monteiro.
+- Você pode obter uma síntese dos níveis de exposição da EFSA em aditivos alimentares.
+- A comunidade Open Food Facts está colaborando com equipes de pesquisa em todo o planeta para melhorar a pesquisa nutricional que beneficia a todos.
 
-<h1>👉 Configure alertas de alérgeneos em produtos</h1>
-➜ Você tem alergia a Leite, Glúten, Ovos, Soja, Nozes, Peixe, Aipo, Mostarda, Sulfitos, Amendoins, Sementes de Gergelim, Crustáceos, Moluscos ou Tremoço?
-➜ Acelere suas compras com uma triagem inicial com Open Food Facts.
-➜ Tenha cuidado para que as informações e a detecção possam não ser 100% precisas. Verifique sempre por si a embalagem.
 
-<h1>👉 Mais</h1>
-Versão web: <a href="https://world.openfoodfacts.org">https://world.openfoodfacts.org</a>
+▶ Off-line Scan: digitalizar em qualquer condição! (brevemente)
+Digitalize à velocidade da luz (mesmo se você estiver num avião, submarino ou supermercado)
+
+- O planeta inteiro, no seu bolso!
+- Poderá adicionar novos produtos, mesmo sem ligação à Internet no momento.
+- O aplicativo carrega apenas o estrito necessário para reduzir o consumo de dados e bateria.
+
+▶ Sua comida, seus dados
+- Seus dados são seus e nunca são enviados on-line
+- Pode usar o aplicativo anonimamente
+- Pode exportar seu histórico de digitalizações
+
+▶ Configurar alertas de alérgenos em produtos
+- Leite, glúten, ovos, soja, nozes, peixe, aipo, mostarda, dióxido de enxofre e sulfitos, amendoim, sementes de gergelim, crustáceos, moluscos ou alergia de tremoços?
+- Acelere suas compras fazendo uma triagem inicial de sua comida com o Open Food Facts.
+- Tenha cuidado para que as informações não sejam 100% precisas e a detecção não seja 100% precisa. Portanto, verifique sempre por si mesmo, com a embalagem.
+
+
+▶ Diga olá e / ou junte-se a nós!
+
+
+O Open Food Facts também está disponível na web em https://pt.openfoodfacts.org
+
+
 Perguntas, feedback: contact@openfoodfacts.org
 
-Para cosméticos, você pode instalar o Open Beauty Facts.
+
+Para cosméticos pode instalar o Open Beauty Facts, para comida para animais Open Pet Food Facts, e para todos os outros produtos Open Products Facts.

@@ -1,0 +1,5 @@
+O projeto Open Food Facts comemora seu 10º aniversário! Redesenhamos o app para comemorar.
+Operação de embalagem!
+* Tem uma nova seção em "Editar Produto": "Embalagem Estruturada (Beta) que permite inserir embalagens detalhadas incluindo peso. Se você tiver uma balança de cozinha, ajude-nos a referenciar todas as embalagens de alguns iogurtes!
+Agradecemos seus comentários em contact@openfoodfacts.org
+https://github.com/openfoodfacts/smooth-app/releases
