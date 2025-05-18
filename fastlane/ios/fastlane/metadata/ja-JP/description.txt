@@ -15,10 +15,10 @@
 あなたが選ぶことができる食品基準
 
 環境
-Health
+健康
 添加物＆超加工食品
 食塩
-Allergens
+アレルゲン
 Nutri-Score
 Eco-Score
 

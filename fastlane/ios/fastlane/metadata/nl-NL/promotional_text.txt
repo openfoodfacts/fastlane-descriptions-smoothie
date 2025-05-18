@@ -1,1 +1,1 @@
-Scan de streepjescode van voedingsmiddelen om te zien welke producten goed zijn voor jou (Nutri-Score, bewerkte voedingsmiddelen, additieven, allergeenwaarschuwingen) en de planeet (Eco-Score)!
+Scan de streepjescode van voedingsproducten om te weten welke producten goed zijn voor u (Nutri-Score, bewerkte voedingsmiddelen, additieven, allergeenwaarschuwingen) en de planeet (Eco-Score)!

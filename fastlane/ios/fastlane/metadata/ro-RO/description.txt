@@ -26,50 +26,50 @@ Scanați, găsiți și comparați peste 2,3 milioane de produse alimentare
 
 Alege produsele care sunt bune pentru tine
 
-- The Nutri-Score grade, from A to E :  Nutritional quality
-- The NOVA group, from 1 to 4 : Avoid ultra-processed foods (Group 4)
+➜ Nota Nutri-Score, de la A la E: calitate nutrițională
+- Grupul NOVA, de la 1 la 4: Evitați alimentele ultraprocesate (Grupa 4)
 
-Choose products that are good the planet
+Alegeți produsele care sunt bune pentru planetă
 
-- Food causes over 1/3 of global greenhouse gas emissions
-- The Eco-Score grade, from A to E :  a synthesis of 16 environmental impacts
+- Alimentele cauzează peste 1/3 din emisiile globale de gaze cu efect de seră
+- Nota Eco-Score, de la A la E: o sinteză a 16 impacturi asupra mediului
 
-Contribute to Food Transparency
+Contribuie la Transparența Alimentară
 
-- Open Food Facts is made by everyone, for everyone!
-- In short, we're "the Wikipedia of food", as the press nicknamed the project. Open Food Facts a permis, de asemenea, crearea a peste 150 de aplicații precum Date Limite, Yuka sau FoodVisor.
-- Use it to make better food choices
-- The app is also collaborative. If the product is missing, contribute pictures and data to get the Nutri-Score, food processing level (NOVA) and Eco-Score.
-- Make a difference today by photographing a product from your kitchen.
-- Open Food Facts is a non-profit project made by thousands of volunteers from around the world. De ce nu ni te alături?
+- Open Food Facts este făcut de toată lumea, pentru toată lumea!
+- Pe scurt, noi suntem "Wikipedia alimentelor", aşa cum presa a poreclit proiectul. Open Food Facts a permis, de asemenea, crearea a peste 150 de aplicații precum Date Limite, Yuka sau FoodVisor.
+- Folosiți-l pentru a face alegeri alimentare mai bune
+- Aplicația este, de asemenea, colaborativă. Dacă produsul lipsește, contribuiți cu imagini și date pentru a obține Scorul Nutrițional, nivelul de procesare a alimentelor (NOVA) și Scorul Eco.
+- Faceți o diferență astăzi fotografiend un produs din bucătărie.
+- Open Food Facts este un proiect non-profit realizat de mii de voluntari din întreaga lume. De ce nu ni te alături?
 
-Decipher food labels
+Descifrați etichetele alimentelor
 
 Descifrăm etichetele produselor pentru dvs. Veți găsi:
-- Nutrition: The Nutriscore (nutritional score), nutrients, fat, transfat, carbohydrates, sugars, fiber, protein, salt & sodium.
-- Environment: The Ecoscore (including carbon footprint (CO2 emissions), packaging (as well as recycling instructions), environmental labels (organic, quality etc.), and origins of ingredients)
-- Other: brands, allergens, labels (bio, gluten free, vegan, vegetarian, halal, kosher...), traceability information (packaging codes, origins, food factories)
-- On wines and beers, you'll find the alcohol content.
+- Nutriție: Nutriscore (scor nutrițional), nutrienți, grăsimi, grăsimi trans, carbohidrați, zaharuri, fibre, proteine, sare și sodiu.
+- Mediu: Scorul Eco (inclusiv amprenta de carbon (emisii de CO2), ambalaj (precum instrucțiuni de reciclare), etichete de mediu (organic, calitate etc.) și originea ingredientelor)
+- Altele: mărci, alergeni, etichete (bio, fără gluten, vegan, vegetarian, halal, cușer...), informații de trasabilitate (coduri de ambalare, origini, fabrici de alimente)
+- La vinuri și bere, veți găsi conținutul de alcool.
 
-Our grades are science-based, and Open Food Facts is helping science!
+Notele noastre sunt bazate pe știință, iar Open Food Facts ajută știința!
 - Nu inventăm lucruri. Ne bazăm pe știința evaluată de colegi.
 - Nutri-Score a fost creat de echipa franceză independentă condusă de profesorul Hercberg.
 - Grupurile NOVA privind prelucrarea alimentelor au fost concepute de echipa internațională a profesorului Monteiro.
-- The additives synthesis is based on reviews by EFSA on exposure levels on food additives.
-- The Eco-Score is based on ground breaking data by ADEME, the French environmental agency, adapted for the world.
-- The Open Food Facts community is collaborating with research teams across the planet for research that benefits all.
+- Sinteza aditivilor se bazează pe analizele efectuate de EFSA privind nivelurile de expunere la aditivii alimentari.
+- Scorul Eco se bazează pe date inovatoare ale ADEME, agenția franceză de mediu, adaptate pentru lume.
+- Comunitatea Open Food Facts colaborează cu echipe de cercetare de pe întreaga planetă pentru cercetări care beneficiază tuturor.
 
-Your food, your data. Privacy-friendly app.
+Mâncarea ta, datele tale. Aplicație prietenoasă cu confidențialitatea.
 - Puteți utiliza aplicația în mod anonim
-• Datele tale alimentare sunt ale tale și nu sunt trimise online
+-Datele tale despre alimente sunt ale tale și nu sunt trimise online
 
-Set up allergen alerts on products
+Configurați alerte de alergeni pentru produse
 
-- Do you have a Milk, Gluten, Eggs, Soybeans, Nuts, Fish, Celery, Mustard, Sulphites, Peanuts, Sesame seeds, Crustaceans, Molluscs or Lupin allergy ?
-- Speed up your shopping with an initial screening with Open Food Facts.
-- Be careful that the info and the detection may not be 100% accurate. Verificaţi întotdeauna de două ori cu ambalajul propriu.
+- Aveți alergie la lapte, gluten, ouă, soia, nuci, pește, țelină, muștar, sulfiți, alune, susan, crustacee, moluște sau lupin?
+- Accelerează-ți cumpărăturile cu o examinare inițială cu Open Food Facts.
+- Aveți grijă ca informațiile și detectarea să nu fie 100% exacte. Verificaţi întotdeauna de două ori cu ambalajul propriu.
 
-Mai multe
+Mai mult
 
 Versiunea web: https://world.openfoodfacts.org
 Întrebări, feedback: contact@openfoodfacts.org

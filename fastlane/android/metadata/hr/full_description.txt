@@ -1,0 +1,35 @@
+Skenirajte prehrambene proizvode ili njihov barkod kako biste dobili podatke o sastojcima, aditivima i nutricionističkim činjenicama.
+
+Otvorite hranu i dodajte slike i podatke za nedostajuće proizvode.
+
+Da biste otkrili projekt Open Food Facts, posjetite https://openfoodfacts.org
+
+
+*** Doprinos transparentnosti hrane ***
+
+- Open Food Facts je baza podataka o prehrambenim proizvodima od svih, za svakoga.
+- Možete ga koristiti za bolji izbor hrane, a kako su otvoreni podaci, svatko ga može ponovno upotrijebiti u bilo koju svrhu.
+- Open Food Facts je neprofitni projekt koji su razvili tisuće volontera iz cijelog svijeta. Imamo mnogo uzbudljivih projekata na koje možete doprinijeti na mnogo načina.
+- Danas možete početi doprinositi dodavanjem proizvoda iz ormarića za hranu.
+
+*** Provjerite činjenice ***
+- Open Food Facts vam pomaže da dobijete smisao finog tiska na naljepnicama proizvoda. Naći ćete (prema indikacijama prisutnim na proizvodima):
+- ugljični otisak (emisije CO 2) i pakiranje (kao i upute za recikliranje),
+Nutriscore (hranjivi rezultat), hranjive tvari, sadržaj masnoće / masnoća, zasićene masne kiseline, ugljikohidrati, šećeri, vlakna, bjelančevine i sol i natrij.
+- robne marke, alergene, etikete (bio, bez glutena, veganski, vegetarijanski, halal, kosher ...), informacije o sljedivosti (šifre pakiranja, podrijetlo sastojaka)
+- Na vina i piva, naći ćete sadržaj alkohola.
+
+*** Dobro radi u svim uvjetima ***
+- Možete dodati nove proizvode, čak i ako trenutačno nemate internetsku vezu.
+- aplikacija učitava samo stroge potrebne za smanjenje podataka i potrošnju baterije
+- Ne trebate kameru, a možete i upisati crtični kod ako vam nedostaje fotoaparat ili imate problema s njom.
+
+*** Vaša hrana, vaši podaci ***
+- Vaši su podaci tvoje i nikada se ne šalju na mrežu
+- Anonimno možete upotrijebiti aplikaciju
+- Možete izvesti povijest skeniranja
+
+Otvoreni podaci o hrani dostupni su i na web stranici https://world.openfoodfacts.org
+Pitanja, povratne informacije: contact@openfoodfacts.org
+
+Za kozmetiku, možete instalirati Open Beauty činjenice, za hranu za kućne ljubimce, otvorene hrane za životinje i za sve ostale proizvode, otvorene proizvode činjenice.

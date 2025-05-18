@@ -1,72 +1,35 @@
-News: We invented the collaborative scanning app in 2012. 🤳🥫 As we turn 10, we’re reinventing it from the ground up!
+Imbas produk makanan atau kod bar mereka untuk mendapatkan data mengenai bahan-bahan, aditif dan fakta pemakanan.
 
-This app lets you find food that's good for you and good for the planet by scanning their barcodes.
-You will get personalized health & eco-impact info for 2.3M foods.
+Aplikasi ini membolehkan anda melihat produk 547.000 (termasuk 175.000 di Amerika Syarikat) yang sudah terkandung dalam pangkalan data Terbuka Makanan Terbuka dan terbuka, dan juga menambah gambar dan data untuk produk yang hilang.
 
-<h1>👉  Set your food preferences without ruining your privacy</h1>
-<h1>👉  A scan that truly matches who you are</h1>
-✅ Hijau: produk sepadan dengan kriteria anda
-🛑 Merah: terdapat masalah
-⬜️ Kelabu: Bantu kami menjawab anda dengan mengambil foto produk
-<h1>👉  Compare in a few seconds those 3 different tomato sauces left on the shelf.</h1>
-<h1>👉  Get a tailored comparison of any food category</h1>
+Untuk mengetahui projek Open Food Facts, sila lawati https://openfoodfacts.org
 
-<h1>Food criteria you can pick</h1>
-🌍 Persekitaran
-⚕️ Kesihatan
-🏭 Bahan tambahan makanan & makanan yang diproses Ultra
-🧂 Garam
-🌾 Alergen
-Nutri-Score
-Eco-Score
 
-<h1>👉 Scan, find & compare more than 2,3 million food products</h1>
+*** Sumbang kepada Ketelusan Makanan ***
 
-<h1>👉 Choose products that are good for you ⚕️</h1>
+- Fakta Makanan Terbuka adalah pangkalan data produk makanan yang dibuat oleh semua orang, untuk semua orang.
+- Anda boleh menggunakannya untuk membuat pilihan makanan yang lebih baik, dan kerana data terbuka, sesiapa sahaja boleh menggunakannya semula untuk apa-apa tujuan.
+- Fakta Makanan Terbuka adalah projek nirlaba yang dibangunkan oleh ribuan sukarelawan dari seluruh dunia. Kami mempunyai banyak projek menarik yang boleh anda sumbangkan dalam pelbagai cara.
+- Anda boleh mula menyumbang hari ini dengan menambahkan produk dari almari makanan anda.
 
-➜ The Nutri-Score grade, from A to E : Nutritional quality
-➜ The NOVA group, from 1 to 4 : Avoid ultra-processed foods (Group 4)
+*** Dapatkan Fakta ***
+- Fakta Makanan Terbuka membantu anda memahami cetakan baik pada label produk. Anda akan dapat mencari (mengikut tanda-tanda yang ada pada produk):
+- jejak karbon (pelepasan CO2) dan pembungkusan (serta arahan kitar semula),
+- Nutriscore (skor pemakanan), nutrien, kandungan lemak / lemak, asid lemak tepu, karbohidrat, gula, serat, protein dan garam dan natrium.
+- jenama, alergen, label (bio, gluten free, vegan, vegetarian, halal, halal ...), maklumat kebolehlihatan (kod bungkusan, asal bahan-bahan)
+- Pada wain dan bir, anda akan menemui kandungan alkohol.
 
-<h1>👉 Choose products that are good the planet 🌍</h1>
-➜ Food causes over 1/3 of global greenhouse gas emissions
-➜ The Eco-Score grade, from A to E : a synthesis of 16 environmental impacts
+*** Bekerja dengan baik dalam apa jua keadaan ***
+- Anda boleh menambah produk baru, walaupun anda tidak mempunyai sambungan Internet sekarang.
+- Aplikasi memuatkan hanya ketat yang diperlukan untuk mengurangkan penggunaan data dan bateri
+- Anda tidak perlu kamera mencari produk. Anda juga boleh menaip kod bar jika anda kekurangan kamera atau mempunyai masalah dengannya.
 
-<h1>👉 Contribute to Food Transparency</h1>
+*** Makanan anda, data anda ***
+- Data anda adalah milik anda, dan tidak pernah dihantar secara dalam talian
+- Anda boleh menggunakan apl secara anonim
+- Anda boleh mengeksport sejarah imbasan anda
 
-➜ Open Food Facts is made by everyone, for everyone!
-➜ In short, we're "the Wikipedia of food", as the press nicknamed the project. Open Food Facts has also enabled the creation of over 150+ apps like Date Limite, Yuka or FoodVisor.
-➜ Use it to make better food choices
-➜ The app is also collaborative. If the product is missing, contribute pictures and data to get the Nutri-Score, food processing level (NOVA) & Eco-Score.
-➜ Make a difference today by photographing a product from your kitchen.
-➜ Open Food Facts is a non-profit project made by thousands of volunteers from around the world. Why don't you join us ?
+Fakta Makanan Terbuka juga boleh didapati di web di https://world.openfoodfacts.org
+Soalan, maklum balas: contact@openfoodfacts.org
 
-<h1>👉 Decipher food labels</h1>
-
-We decipher products labels for you. You'll find:
-➜ Nutrition: The Nutriscore (nutritional score), nutrients, fat, transfat, carbohydrates, sugars, fiber, protein, salt & sodium.
-➜ Environment: The Ecoscore (including carbon footprint (CO2 emissions), packaging (as well as recycling instructions), environmental labels (organic, quality etc.), and origins of ingredients)
-➜ Other: brands, allergens, labels (bio, gluten free, vegan, vegetarian, halal, kosher...), traceability information (packaging codes, origins, food factories)
-➜ On wines and beers, you'll find the alcohol content.
-
-<h1>👉 Our grades are science-based, and Open Food Facts is helping science!</h1>
-➜ We don't make up things. We rely on peer-reviewed science.
-➜ The Nutri-Score has been created by the independent French team led by Professor Hercberg.
-➜ The NOVA groups on food processing have been designed by the international team of Professor Monteiro.
-➜ The additives synthesis is based on reviews by EFSA on exposure levels on food additives.
-➜ The Eco-Score is based on ground breaking data by ADEME, the French environmental agency, adapted for the world.
-➜ The Open Food Facts community is collaborating with research teams across the planet for research that benefits all.
-
-<h1>👉 Your food, your data. Privacy-friendly app.</h1>
-➜ You can use the app anonymously
-➜ Your food data is yours, and is never sent online
-
-<h1>👉 Set up allergen alerts on products</h1>
-➜ Do you have a Milk, Gluten, Eggs, Soybeans, Nuts, Fish, Celery, Mustard, Sulphites, Peanuts, Sesame seeds, Crustaceans, Molluscs or Lupin allergy ?
-➜ Speed up your shopping with an initial screening with Open Food Facts.
-➜ Be careful that the info & the detection may not be 100% accurate. Always double check by yourself, with the packaging.
-
-<h1>👉 More</h1>
-Web version: <a href="https://world.openfoodfacts.org">https://world.openfoodfacts.org</a>
-Questions, feedback : <a href="mailto:contact@openfoodfacts.org">contact@openfoodfacts.org</a>
-
-Untuk kosmetik, anda boleh memasang Fakta Kecantikan Terbuka.
+Untuk kosmetik, anda boleh memasang Fakta Kecantikan Terbuka, untuk makanan haiwan, Fakta Makanan Binatang Terbuka, dan untuk semua produk lain, Fakta Produk Terbuka.

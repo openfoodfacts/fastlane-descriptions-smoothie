@@ -1,72 +1,35 @@
-News: We invented the collaborative scanning app in 2012. 🤳🥫 As we turn 10, we’re reinventing it from the ground up!
+উপাদান, সংযোজন এবং পুষ্টি সংক্রান্ত তথ্য প্রাপ্ত খাদ্য পণ্য বা তাদের বারকোড স্ক্যান করুন
 
-This app lets you find food that's good for you and good for the planet by scanning their barcodes.
-You will get personalized health & eco-impact info for 2.3M foods.
+খোলা খাবারের তথ্য, এবং হারিয়ে যাওয়া পণ্যগুলির জন্য ছবি এবং তথ্যও যোগ করুন।
 
-<h1>👉  Set your food preferences without ruining your privacy</h1>
-<h1>👉  A scan that truly matches who you are</h1>
-✅ Green: the product matches your criteria
-🛑 Red: there is a problem
-⬜️ Gray: Help us answer you by photographing the products
-<h1>👉  Compare in a few seconds those 3 different tomato sauces left on the shelf.</h1>
-<h1>👉  Get a tailored comparison of any food category</h1>
+ওপেন ফুড ফ্যাক্টস প্রকল্প আবিষ্কার করার জন্য দয়া করে https://openfoodfacts.org- এ যান
 
-<h1>Food criteria you can pick</h1>
-🌍 Environment
-⚕️ Health
-🏭 Additives & Ultra processed foods
-🧂 Salt
-🌾 Allergens
-Nutri-Score
-Eco-Score
 
-<h1>👉 Scan, find & compare more than 2,3 million food products</h1>
+*** খাদ্য ট্রান্সপারেন্সির অবদান ***
 
-<h1>👉 Choose products that are good for you ⚕️</h1>
+- ওপেন ফুড ফ্যাক্টস সকলের জন্য প্রত্যেকের জন্য তৈরি একটি খাদ্য পণ্য ডাটাবেস।
+- আপনি এটি ভাল খাদ্য পছন্দগুলি তৈরি করতে এবং এটি খোলা ডেটা হিসাবে ব্যবহার করতে পারেন, যেকোনও উদ্দেশ্যে এটি পুনরায় ব্যবহার করতে পারে।
+- ওপেন ফুড ফ্যাক্টস হল একটি অলাভজনক প্রকল্প যা বিশ্বজুড়ে হাজার হাজার স্বেচ্ছাসেবীরা তৈরি করেছে। আমাদের অনেকগুলি আকর্ষণীয় প্রকল্প রয়েছে যা আপনি অনেকগুলি উপায়ে অবদান রাখতে পারেন।
+- আপনি আপনার খাদ্য আলমারি থেকে একটি পণ্য যোগ করে আজ অবদান শুরু করতে পারেন
 
-➜ The Nutri-Score grade, from A to E : Nutritional quality
-➜ The NOVA group, from 1 to 4 : Avoid ultra-processed foods (Group 4)
+*** ঘটনাগুলি পান ***
+- ওপেন ফুড ফ্যাক্টস আপনাকে পণ্যের লেবেলগুলির সূক্ষ্ম মুদ্রণের অনুভূতিতে সহায়তা করে। আপনি (পণ্যগুলিতে উপস্থিত ইঙ্গিত অনুযায়ী) খুঁজে পেতে সক্ষম হবেন:
+- কার্বন পদচিহ্ন (CO 2 নির্গমন) এবং প্যাকেজিং (পুনর্ব্যবহারযোগ্য নির্দেশাবলী)
+- Nutriscore (পুষ্টিকর স্কোর), পুষ্টি, চর্বি / চর্বিযুক্ত উপাদান, পরিপূর্ণ ফ্যাটি অ্যাসিড, কার্বোহাইড্রেট, শর্করার, ফাইবার, প্রোটিন এবং লবণ এবং সোডিয়াম।
+- ব্র্যান্ড, অ্যালার্জি, লেবেল (জৈব, ময়দার আঠা, vegan, নিরামিষ, হালাল, কোশার ...), traceability তথ্য (প্যাকেজিং কোড, উপাদানের উত্স)
+- মদ ও বিয়ারে, আপনি অ্যালকোহল কন্টেন্ট পাবেন।
 
-<h1>👉 Choose products that are good the planet 🌍</h1>
-➜ Food causes over 1/3 of global greenhouse gas emissions
-➜ The Eco-Score grade, from A to E : a synthesis of 16 environmental impacts
+*** কোন অবস্থায় ভাল কাজ ***
+- আপনি এখনই একটি ইন্টারনেট সংযোগ না থাকলেও, আপনি নতুন পণ্য যোগ করতে পারেন।
+- অ্যাপ্লিকেশন তথ্য এবং ব্যাটারি খরচ কমাতে শুধুমাত্র কঠোর প্রয়োজনীয় লোড
+- আপনার ক্যামেরার দরকার নেই। যদি আপনি ক্যামেরাটির অভাব অনুভব করে থাকেন তবে এটি বারকোড টাইপ করতে পারেন।
 
-<h1>👉 Contribute to Food Transparency</h1>
+*** আপনার খাবার, আপনার ডেটা ***
+- আপনার তথ্য আপনার, এবং অনলাইন পাঠানো হয় না
+- আপনি বেনামে অ্যাপ্লিকেশন ব্যবহার করতে পারেন
+- আপনি আপনার স্ক্যান ইতিহাস রপ্তানি করতে পারেন
 
-➜ Open Food Facts is made by everyone, for everyone!
-➜ In short, we're "the Wikipedia of food", as the press nicknamed the project. Open Food Facts has also enabled the creation of over 150+ apps like Date Limite, Yuka or FoodVisor.
-➜ Use it to make better food choices
-➜ The app is also collaborative. If the product is missing, contribute pictures and data to get the Nutri-Score, food processing level (NOVA) & Eco-Score.
-➜ Make a difference today by photographing a product from your kitchen.
-➜ Open Food Facts is a non-profit project made by thousands of volunteers from around the world. Why don't you join us ?
+ওপেন ফুড ফ্যাক্টগুলিও ওয়েবে https://world.openfoodfacts.org- এ উপলব্ধ
+প্রশ্ন, প্রতিক্রিয়া: contact@openfoodfacts.org
 
-<h1>👉 Decipher food labels</h1>
-
-We decipher products labels for you. You'll find:
-➜ Nutrition: The Nutriscore (nutritional score), nutrients, fat, transfat, carbohydrates, sugars, fiber, protein, salt & sodium.
-➜ Environment: The Ecoscore (including carbon footprint (CO2 emissions), packaging (as well as recycling instructions), environmental labels (organic, quality etc.), and origins of ingredients)
-➜ Other: brands, allergens, labels (bio, gluten free, vegan, vegetarian, halal, kosher...), traceability information (packaging codes, origins, food factories)
-➜ On wines and beers, you'll find the alcohol content.
-
-<h1>👉 Our grades are science-based, and Open Food Facts is helping science!</h1>
-➜ We don't make up things. We rely on peer-reviewed science.
-➜ The Nutri-Score has been created by the independent French team led by Professor Hercberg.
-➜ The NOVA groups on food processing have been designed by the international team of Professor Monteiro.
-➜ The additives synthesis is based on reviews by EFSA on exposure levels on food additives.
-➜ The Eco-Score is based on ground breaking data by ADEME, the French environmental agency, adapted for the world.
-➜ The Open Food Facts community is collaborating with research teams across the planet for research that benefits all.
-
-<h1>👉 Your food, your data. Privacy-friendly app.</h1>
-➜ You can use the app anonymously
-➜ Your food data is yours, and is never sent online
-
-<h1>👉 Set up allergen alerts on products</h1>
-➜ Do you have a Milk, Gluten, Eggs, Soybeans, Nuts, Fish, Celery, Mustard, Sulphites, Peanuts, Sesame seeds, Crustaceans, Molluscs or Lupin allergy ?
-➜ Speed up your shopping with an initial screening with Open Food Facts.
-➜ Be careful that the info & the detection may not be 100% accurate. Always double check by yourself, with the packaging.
-
-<h1>👉 More</h1>
-Web version: <a href="https://world.openfoodfacts.org">https://world.openfoodfacts.org</a>
-Questions, feedback : <a href="mailto:contact@openfoodfacts.org">contact@openfoodfacts.org</a>
-
-For cosmetics, you can install Open Beauty Facts.
+প্রসাধনী জন্য, আপনি ওপেন সৌন্দর্য তথ্য ইনস্টল করতে পারেন, পোষা খাদ্য জন্য, খোলা পেস্ট ফুড তথ্য, এবং অন্যান্য সব পণ্য জন্য, খুলুন পণ্য ঘটনা।

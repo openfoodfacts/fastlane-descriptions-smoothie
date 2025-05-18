@@ -1,0 +1,5 @@
+Open Food Facts-projektet fejrer 10 års jubilæum! Vi redesignede appen for at fejre det.
+Emballagedrift!
+* Fik en ny sektion i "Rediger produkt": "Struktureret emballage (Beta), der giver dig mulighed for at indtaste detaljeret emballage inklusive vægt. Hvis du har en køkkenvægt, så hjælp os med at henvise til al emballage til nogle yoghurter!
+Vi glæder os over din feedback på contact@openfoodfacts.org
+https://github.com/openfoodfacts/smooth-app/releases

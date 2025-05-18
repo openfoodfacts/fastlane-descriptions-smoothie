@@ -1,72 +1,69 @@
-News: We invented the collaborative scanning app in 2012. 🤳🥫 As we turn 10, we’re reinventing it from the ground up!
+Digitalize produtos alimentares para obter dados sobre ingredientes, aditivos e informação nutricional.
 
-This app lets you find food that's good for you and good for the planet by scanning their barcodes.
-You will get personalized health & eco-impact info for 2.3M foods.
+▶ Encontre e compare mais de 800.000 produtos
 
-<h1>👉  Set your food preferences without ruining your privacy</h1>
-<h1>👉  A scan that truly matches who you are</h1>
-✅ Verde: o produto corresponde aos seus critérios
-🛑 Vermelho: há um problema
-⬜️ Cinza: ajude-nos a responder fotografando os produtos
-<h1>👉  Compare in a few seconds those 3 different tomato sauces left on the shelf.</h1>
-<h1>👉  Get a tailored comparison of any food category</h1>
+A aplicação permite visualizar os 800.000 produtos (incluindo 175.000 nos EUA) já contidos no banco de dados aberto e gratuito dos Open Food Facts e de adicionar fotos e dados de produtos novos.
 
-<h1>Food criteria you can pick</h1>
-🌍 Meio ambiente
-⚕️ Saúde
-🏭 Aditivos e alimentos ultraprocessados
-🧂 Sal
-🌾 Alérgenos
-Nutri-Score
-Eco-Score
 
-<h1>👉 Scan, find & compare more than 2,3 million food products</h1>
+Para descobrir o projeto Open Food Facts realizado por voluntários, visite https://world-pt.openfoodfacts.org
 
-<h1>👉 Choose products that are good for you ⚕️</h1>
-
-➜ The Nutri-Score grade, from A to E : Nutritional quality
+▶ Escolha os produtos que são bons para você
+- A classificação Nutri-Score, de "A" a "E" >> Qualidade nutricional
 - O grupo NOVA, de "1" a "4" >> Encontre o alimento ultraprocessado
+- Você pode facilmente comparar quantos produtos quiser, lado a lado simplesmente digitalizando-os. 
 
-<h1>👉 Choose products that are good the planet 🌍</h1>
-➜ Food causes over 1/3 of global greenhouse gas emissions
-➜ The Eco-Score grade, from A to E : a synthesis of 16 environmental impacts
 
-<h1>👉 Contribute to Food Transparency</h1>
+▶ Contribuir para a transparência alimentar
+- Open Food Facts é um banco de dados de produtos alimentícios feito por todos, para todos.
+- Pode usá-lo para fazer melhores escolhas alimentares, e como são dados abertos, qualquer um pode reutilizá-lo para qualquer finalidade.
+- Open Food Facts é um projeto sem fins lucrativos desenvolvido por milhares de voluntários em todo o mundo. Temos muitos projetos interessantes para os quais você pode contribuir de diversas maneiras.
+- Você pode começar a contribuir hoje adicionando um produto de sua geladeira.
 
-➜ Open Food Facts is made by everyone, for everyone!
-➜ In short, we're "the Wikipedia of food", as the press nicknamed the project. Open Food Facts has also enabled the creation of over 150+ apps like Date Limite, Yuka or FoodVisor.
-➜ Use it to make better food choices
-➜ The app is also collaborative. If the product is missing, contribute pictures and data to get the Nutri-Score, food processing level (NOVA) & Eco-Score.
-➜ Make a difference today by photographing a product from your kitchen.
-➜ Open Food Facts is a non-profit project made by thousands of volunteers from around the world. Why don't you join us ?
+Criar listas
+Crie listas de compras, controle o que você comeu e compartilhe facilmente e exporte suas listas.
 
-<h1>👉 Decipher food labels</h1>
+▶ Obtenha os Factos
+- Open Food Facts ajuda a entender as letras miúdas dos rótulos dos produtos. Você será capaz de encontrar:
+- pegada de carbono (emissões de CO2) e embalagem (assim como instruções de reciclagem),
+- Nutriscore (escore nutricional), nutrientes, teor de gordura / gordura, ácidos graxos saturados, carboidratos, açúcares, fibras, proteínas e sal e sódio.
+- marcas, alérgenos, rótulos (bio, sem glúten, vegan, vegetariano, halal, kosher ...), informações de rastreabilidade (códigos de embalagem, origem dos ingredientes)
+- Em vinhos e cervejas encontrará o teor alcoólico.
 
-We decipher products labels for you. You'll find:
-➜ Nutrition: The Nutriscore (nutritional score), nutrients, fat, transfat, carbohydrates, sugars, fiber, protein, salt & sodium.
-➜ Environment: The Ecoscore (including carbon footprint (CO2 emissions), packaging (as well as recycling instructions), environmental labels (organic, quality etc.), and origins of ingredients)
-➜ Other: brands, allergens, labels (bio, gluten free, vegan, vegetarian, halal, kosher...), traceability information (packaging codes, origins, food factories)
-➜ On wines and beers, you'll find the alcohol content.
 
-<h1>👉 Our grades are science-based, and Open Food Facts is helping science!</h1>
-- Nós não inventamos coisas. Confiamos na ciência revista por pares.
-- O Nutri-Score foi criado pela equipa francesa independente liderada pelo professor Hercberg.
-- Os grupos NOVA em processamento de alimentos foram projetados pela equipa internacional do professor Monteiro.
-➜ A síntese de aditivos é baseada em análises da EFSA sobre os níveis de exposição em aditivos alimentares.
-➜ The Eco-Score is based on ground breaking data by ADEME, the French environmental agency, adapted for the world.
-➜ The Open Food Facts community is collaborating with research teams across the planet for research that benefits all.
+▶ Baseado na ciência, ajudando a ciência!
 
-<h1>👉 Your food, your data. Aplicação amigável da privacidade.</h1>
-➜ Pode usar a aplicação de forma anónima
-➜ Your food data is yours, and is never sent online
+- Nós não inventamos coisas. Nós confiamos na ciência revisada por pares.
+- O Nutri-Score foi criado pela equipe francesa independente liderada pelo professor Hercberg.
+- Os grupos NOVA em processamento de alimentos foram projetados pela equipe internacional do professor Monteiro.
+- Você pode obter uma síntese dos níveis de exposição da EFSA em aditivos alimentares.
+- A comunidade Open Food Facts está colaborando com equipes de pesquisa em todo o planeta para melhorar a pesquisa nutricional que beneficia a todos.
 
-<h1>👉 Set up allergen alerts on products</h1>
-➜ Do you have a Milk, Gluten, Eggs, Soybeans, Nuts, Fish, Celery, Mustard, Sulphites, Peanuts, Sesame seeds, Crustaceans, Molluscs or Lupin allergy ?
-➜ Speed up your shopping with an initial screening with Open Food Facts.
-➜ Be careful that the info & the detection may not be 100% accurate. Always double check by yourself, with the packaging.
 
-<h1>👉 More</h1>
-Web version: <a href="https://world.openfoodfacts.org">https://world.openfoodfacts.org</a>
+▶ Off-line Scan: digitalizar em qualquer condição! (brevemente)
+Digitalize à velocidade da luz (mesmo se você estiver num avião, submarino ou supermercado)
+
+- O planeta inteiro, no seu bolso!
+- Poderá adicionar novos produtos, mesmo sem ligação à Internet no momento.
+- O aplicativo carrega apenas o estrito necessário para reduzir o consumo de dados e bateria.
+
+▶ Sua comida, seus dados
+- Seus dados são seus e nunca são enviados on-line
+- Pode usar o aplicativo anonimamente
+- Pode exportar seu histórico de digitalizações
+
+▶ Configurar alertas de alérgenos em produtos
+- Leite, glúten, ovos, soja, nozes, peixe, aipo, mostarda, dióxido de enxofre e sulfitos, amendoim, sementes de gergelim, crustáceos, moluscos ou alergia de tremoços?
+- Acelere suas compras fazendo uma triagem inicial de sua comida com o Open Food Facts.
+- Tenha cuidado para que as informações não sejam 100% precisas e a detecção não seja 100% precisa. Portanto, verifique sempre por si mesmo, com a embalagem.
+
+
+▶ Diga olá e / ou junte-se a nós!
+
+
+O Open Food Facts também está disponível na web em https://pt.openfoodfacts.org
+
+
 Perguntas, feedback: contact@openfoodfacts.org
 
-Para cosméticos, você pode instalar o Open Beauty Facts.
+
+Para cosméticos pode instalar o Open Beauty Facts, para comida para animais Open Pet Food Facts, e para todos os outros produtos Open Products Facts.

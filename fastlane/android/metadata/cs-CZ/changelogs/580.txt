@@ -1,0 +1,5 @@
+Projekt Open Food Facts slaví 10. výročí! Na oslavu jsme přepracovali aplikaci.
+Provoz balení!
+* Máte novou sekci v "Upravit produkt": "Strukturované balení (Beta), které vám umožňuje zadat podrobné balení včetně hmotnosti. Pokud máte kuchyňskou váhu, pomozte nám uvést všechna balení některých jogurtů!
+Uvítáme vaši zpětnou vazbu na contact@openfoodfacts.org
+https://github.com/openfoodfacts/smooth-app/releases

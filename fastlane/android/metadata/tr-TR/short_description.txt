@@ -1,1 +1,1 @@
-A more personal, helpful & knowledgeable Open Food Facts, private by default!
+Scan food products to decrypt labels: ingredients, additives and nutrition facts

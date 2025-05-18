@@ -1,0 +1,35 @@
+Scan kosprodukte of hul strepieskode om data oor bestanddele, bymiddels en voedingsfeite te verkry.
+
+Open Food Facts, en voeg ook prente en data by vir ontbrekende produkte.
+
+Om die Open Food Facts-projek te ontdek, besoek asseblief https://openfoodfacts.org
+
+
+*** Dra by tot voedseloorsigtigheid ***
+
+- Open Food Facts is 'n voedselprodukdatabasis wat deur almal, vir almal, gemaak is.
+- U kan dit gebruik om beter voedselkeuses te maak, en as dit oop data is, kan enigiemand dit vir enige doel hergebruik.
+- Open Food Facts is 'n nie-winsgewende projek wat ontwikkel is deur duisende vrywilligers van regoor die wêreld. Ons het baie opwindende projekte wat u op baie maniere kan bydra.
+- Jy kan vandag begin bydra deur 'n produk by jou koskas te voeg.
+
+*** Kry die feite ***
+- Open Food Facts help u om die fynskrif op produkte-etikette te maak. U kan (volgens die aanduidings op die produkte) vind:
+- koolstofvoetspoor (CO 2 -vrystellings) en verpakking (sowel as herwinningsinstruksies),
+- Nutriscore (voedingswaarde), voedingstowwe, vet / vetinhoud, versadigde vetsure, koolhidrate, suikers, vesel, proteïen en sout en natrium.
+- handelsmerke, allergene, etikette (bio, glutenvry, vegan, vegetariër, halal, kosher ...), traceerbaarheidsinligting (verpakkingskodes, oorsprong van bestanddele)
+- Op wyne en bier vind jy die alkoholinhoud.
+
+*** Werk goed in enige toestand ***
+- Jy kan nuwe produkte byvoeg, selfs as jy nie tans 'n internetverbinding het nie.
+- Die app laai net die streng wat nodig is om data en batteryverbruik te verminder
+- Jy het nie 'n kamera nodig nie. Jy kan ook die strepieskode tik as jy nie 'n kamera het of 'n probleem het nie.
+
+*** Jou kos, jou data ***
+- Jou data is joune, en word nooit aanlyn gestuur nie
+- Jy kan die app anoniem gebruik
+- U kan u skandering geskiedenis uitvoer
+
+Open Food Facts is ook beskikbaar op die web by https://world.openfoodfacts.org
+Vrae, terugvoer: contact@openfoodfacts.org
+
+Vir skoonheidsmiddels, kan u Open Beauty Facts installeer, vir troeteldierkos, troeteldiervoedselfeite, en vir alle ander produkte, Open Products Facts.

@@ -1,1 +1,1 @@
-A more personal, helpful & knowledgeable Open Food Facts, private by default!
+Scaneie o código de barras do produto alimentar para ter informações.
