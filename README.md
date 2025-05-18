@@ -15,8 +15,9 @@ See also the Mobile app main repository: https://github.com/openfoodfacts/smooth
 ### Screenshot wrapping (deprecated)
 Screenshot wrapping adds texts and wrapping to raw screenshots. It currently does that automatically, and uploads as artefact
 
-### Vignette translation
+### Vignette improvement and translations
 - https://docs.google.com/document/d/1XzGcftPHQ26A2by70yIgBriOnafYYcdSARQsFr0rb6o/edit#
+- [Figma file](https://www.figma.com/design/loMFSX1wJ61jjuZkSeLV7e/Vignettes-App-Design--Quentin-?node-id=4318-83343&p=f&t=KgIuPEGmvH6ytGli-0)
 
 ### Translations
 You'll be able to translate the PlayStore, App Store description and screenshot slogans at https://translate.openfoodfacts.org
