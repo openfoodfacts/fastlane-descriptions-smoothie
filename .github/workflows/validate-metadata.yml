@@ -14,7 +14,7 @@ jobs:
     name: Validate the Fastlane Metadata of Smoothie
     runs-on: ubuntu-latest
     steps:
-     - uses: actions/checkout@v4.2.2
+     - uses: actions/checkout@v5.0.0
      - uses: ashutoshgngwr/validate-fastlane-supply-metadata@v2
        with:
         fastlaneDir: ./fastlane/android/metadata # optional. default is './fastlane/metadata/android'.
