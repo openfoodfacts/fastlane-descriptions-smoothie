@@ -60,35 +60,25 @@ platform :ios do
     )
   end
 
-  desc "Sending only Changelogs to TestFlight"
+  desc "Sending only release notes to App Store"
   lane :upload_changelogs do
-
-    APP_IDENTIFIER = "org.openfoodfacts.app"
     
-    puts "Sending changelogs for identifier #{APP_IDENTIFIER}"
+    puts "Uploading only release notes (changelogs) to App Store"
 
-    sync_code_signing(type: "appstore", readonly: is_ci, clone_branch_directly: false)
-    #update_code_signing_settings(
-      #path: "Runner.xcodeproj",
-      #use_automatic_signing: false,
-      #build_configurations: "Release",
-      #code_sign_identity: 'iPhone Distribution',
-      #profile_name: 'match AppStore org.openfoodfacts.app',
-      #targets: ["Runner"]
-    #)
-  
-    #update_project_team(
-     # path: "Runner.xcodeproj",
-      #teamid: "ZC9CYWD334"
-    #)
-  
-    # Upload changelog to TestFlight
-    pilot(
-      app_identifier: APP_IDENTIFIER,
-      skip_submission: true,
-      skip_waiting_for_build_processing: true,
+    api_key = app_store_connect_api_key(
+      key_id: ENV["SPACESHIP_CONNECT_API_KEY_ID"],
+      issuer_id: ENV["SPACESHIP_CONNECT_API_ISSUER_ID"],
+      key_filepath: ENV["SPACESHIP_CONNECT_API_KEY_FILEPATH"]
+    )
+    
+    # Upload only release notes to App Store
+    deliver(
+      api_key: api_key,
       skip_screenshots: true,
-      skip_metadata: true
+      skip_metadata: true,
+      skip_app_version_update: true,
+      force: true, # To go into non interactive mode
+      precheck_include_in_app_purchases: false
     )
   end
 
