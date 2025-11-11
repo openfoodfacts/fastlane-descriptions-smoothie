@@ -69,4 +69,4 @@ We decipher products labels for you. You'll find:
 Web version: <a href="https://world.openfoodfacts.org">https://world.openfoodfacts.org</a>
 Questions, feedback : <a href="mailto:contact@openfoodfacts.org">contact@openfoodfacts.org</a>
 
-For cosmetics, you can install Open Beauty Facts.
+For cosmetics: Open Beauty Facts

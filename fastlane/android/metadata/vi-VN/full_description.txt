@@ -48,14 +48,6 @@ Chúng tôi giải mã nhãn sản phẩm cho bạn. Bạn sẽ tìm thấy:
 ➜ Khác: nhãn hiệu, chất gây dị ứng, nhãn (hữu cơ, không gluten, thuần chay, chay, halal, kosher...), thông tin truy xuất nguồn gốc (mã bao bì, xuất xứ, nhà máy sản xuất thực phẩm)
 ➜ Trên rượu vang và bia, bạn sẽ tìm thấy nồng độ cồn.
 
-<h1>👉 Điểm của chúng tôi dựa trên cơ sở khoa học và Sự kiện Thực phẩm Mở đang giúp ích cho khoa học!</h1>
-➜ Chúng tôi không bịa đặt thông tin. Chúng tôi dựa trên khoa học được bình duyệt.
-➜ Điểm Nutri-Score đã được tạo ra bởi một nhóm nghiên cứu độc lập đến từ Pháp do Giáo sư Hercberg đứng đầu.
-➜ Các nhóm NOVA về chế biến thực phẩm được thiết kế bởi nhóm nghiên cứu quốc tế đứng đầu là Giáo sư Monteiro.
-➜ Việc tổng hợp các chất phụ gia dựa trên các đánh giá của EFSA về mức độ tiếp xúc với các chất phụ gia thực phẩm.
-➜ Điểm số sinh thái dựa trên dữ liệu đột phá của ADEME, cơ quan môi trường của Pháp, được điều chỉnh cho phù hợp với thế giới.
-➜ Cộng đồng Open Food Facts đang cộng tác với các nhóm nghiên cứu trên khắp hành tinh để nghiên cứu mang lại lợi ích cho tất cả mọi người.
-
 <h1>👉 Thức ăn của bạn, dữ liệu của bạn. Ứng dụng thân thiện với quyền riêng tư.</h1>
 ➜ Bạn có thể sử dụng ứng dụng một cách ẩn danh
 ➜ Dữ liệu của bạn là của bạn và không bao giờ được công khai trực tuyến
@@ -69,4 +61,4 @@ Chúng tôi giải mã nhãn sản phẩm cho bạn. Bạn sẽ tìm thấy:
 Phiên bản web: <a href="https://world.openfoodfacts.org">https://world.openfoodfacts.org</a>
 Câu hỏi, phản hồi: <a href="mailto:contact@openfoodfacts.org">contact@openfoodfacts.org</a>
 
-Đối với mỹ phẩm, bạn có thể cài đặt Open Beauty Facts.
+Đối với mỹ phẩm, cài đặt Open Beauty Facts.
