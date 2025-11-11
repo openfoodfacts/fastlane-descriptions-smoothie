@@ -106,6 +106,31 @@ files:
         uk-UA: uk
         vi-VN: vi
     
+  - source: /fastlane/metadata/android/en-US/default_changelog.txt
+    translation: /fastlane/metadata/android/%locale%/default_changelog.txt
+    dest: /fastlane/metadata/android/en-US/default_changelog.txt
+    preserve_hierarchy: true
+    languages_mapping:
+      locale:
+        he: iw-IL
+        nb: no-NO
+        id: id
+        am-ET: am
+        ar-SA: ar
+        bg-BG: bg
+        ca-ES: ca
+        fil-PH: fil
+        hr-HR: hr
+        lt-LT: lt
+        lv-LV: lv
+        ro-RO: ro
+        sk-SK: sk
+        sl-SI: sl
+        sq-AL: sq
+        th-TH: th
+        uk-UA: uk
+        vi-VN: vi
+    
   - source: /fastlane/ios/fastlane/metadata/en-US/description.txt
     translation: /fastlane/ios/fastlane/metadata/%locale%/description.txt
     dest: /fastlane/ios/fastlane/metadata/en-US/description.txt
@@ -284,6 +309,31 @@ files:
   - source: /fastlane/ios/fastlane/metadata/en-US/name.txt
     translation: /fastlane/ios/fastlane/metadata/%locale%/name.txt
     dest: /fastlane/ios/fastlane/metadata/en-US/name.txt
+    preserve_hierarchy: true
+    languages_mapping:
+      locale:
+        he: he-IL
+        nb: nb-NO
+        id: id
+        am-ET: am
+        ar-SA: ar
+        bg-BG: bg
+        ca-ES: ca
+        fil-PH: fil
+        hr-HR: hr
+        lt-LT: lt
+        lv-LV: lv
+        ro-RO: ro
+        sk-SK: sk
+        sl-SI: sl
+        sq-AL: sq
+        th-TH: th
+        uk-UA: uk
+        vi-VN: vi
+
+  - source: /fastlane/metadata/ios/en-US/default_release_notes.txt
+    translation: /fastlane/metadata/ios/%locale%/default_release_notes.txt
+    dest: /fastlane/metadata/ios/en-US/default_release_notes.txt
     preserve_hierarchy: true
     languages_mapping:
       locale:

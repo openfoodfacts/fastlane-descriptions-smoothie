@@ -1,0 +1,71 @@
+name: Sync Translated Changelogs
+
+on:
+  workflow_dispatch:
+    inputs:
+      version_code:
+        description: 'Version code for Android (e.g., 1044)'
+        required: true
+        type: string
+      sync_only:
+        description: 'Only sync changelogs (skip Crowdin translation sync)'
+        required: false
+        type: boolean
+        default: false
+
+jobs:
+  sync-changelogs:
+    name: Sync translated changelogs to fastlane metadata
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout sources
+        uses: actions/checkout@v5.0.0
+        
+      - name: Sync translations from Crowdin
+        if: ${{ !inputs.sync_only }}
+        uses: crowdin/github-action@v2.12.0
+        with:
+          upload_sources: false
+          upload_translations: false
+          download_translations: true
+          skip_untranslated_strings: false
+          skip_untranslated_files: false
+          commit_message: "chore: Download Crowdin translations for changelogs"
+          localization_branch_name: l10n_changelogs_${{ inputs.version_code }}
+          create_pull_request: false
+          push_translations: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
+          CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
+      
+      - name: Sync changelogs to fastlane directories
+        run: |
+          chmod +x ./sync-changelogs.sh
+          ./sync-changelogs.sh ${{ inputs.version_code }}
+      
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "chore: Update changelogs for version ${{ inputs.version_code }}"
+          title: "Update changelogs for version ${{ inputs.version_code }}"
+          body: |
+            ### What
+            - Updates changelogs for all languages for version ${{ inputs.version_code }}
+            
+            ### How
+            - Translated changelogs synced from Crowdin
+            - Copied to appropriate fastlane metadata directories
+            
+            ### Checklist
+            - [ ] Review translations for accuracy
+            - [ ] Verify version code is correct
+            - [ ] Once approved, merge to trigger store uploads (if on upload-to-playstore or upload-to-appstore branch)
+            
+            ### Part of
+            - Changelog automation
+          branch: changelogs-v${{ inputs.version_code }}
+          delete-branch: true
+          labels: changelogs
