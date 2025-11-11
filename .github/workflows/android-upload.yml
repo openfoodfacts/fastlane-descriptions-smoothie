@@ -9,7 +9,7 @@ jobs:
     steps:
     # required to run on Linux because this is a docker container action
      - name: Checkout
-       uses: actions/checkout@v4.2.2
+       uses: actions/checkout@v5.0.0
     # - name: Validate metadata
        #uses: ashutoshgngwr/validate-fastlane-supply-metadata@v1
        # with:
@@ -24,7 +24,7 @@ jobs:
        uses: ruby/setup-ruby@v1
        with:
          bundler-cache: true
-         ruby-version: 3.0.2
+         ruby-version: 3.1
      - name: Play Store Upload of marketing assets
        if: github.repository == 'openfoodfacts/fastlane-descriptions-smoothie'
        timeout-minutes: 10

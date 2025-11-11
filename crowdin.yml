@@ -6,66 +6,330 @@ files:
     dest: /fastlane/android/metadata/en-US/54.txt
     translation: /fastlane/android/metadata/%locale%/54.txt
     preserve_hierarchy: true
+    languages_mapping:
+      locale:
+        # Map Hebrew from Crowdin's 'he' to Google Play's 'iw-IL'
+        he: iw-IL
+        # Map Norwegian Bokmal from Crowdin's 'nb' to Google Play's 'no-NO'
+        nb: no-NO
+        # Map Indonesian - keep as base code 'id' (Google Play recognizes it)
+        id: id
+        # Map locales with regions to base codes recognized by Google Play
+        am-ET: am
+        ar-SA: ar
+        bg-BG: bg
+        ca-ES: ca
+        fil-PH: fil
+        hr-HR: hr
+        lt-LT: lt
+        lv-LV: lv
+        ro-RO: ro
+        sk-SK: sk
+        sl-SI: sl
+        sq-AL: sq
+        th-TH: th
+        uk-UA: uk
+        vi-VN: vi
     
   - source: /fastlane/android/metadata/en-US/full_description.txt
     dest: /fastlane/android/metadata/en-US/full_description.txt
     translation: /fastlane/android/metadata/%locale%/full_description.txt
     preserve_hierarchy: true
+    languages_mapping:
+      locale:
+        he: iw-IL
+        nb: no-NO
+        id: id
+        am-ET: am
+        ar-SA: ar
+        bg-BG: bg
+        ca-ES: ca
+        fil-PH: fil
+        hr-HR: hr
+        lt-LT: lt
+        lv-LV: lv
+        ro-RO: ro
+        sk-SK: sk
+        sl-SI: sl
+        sq-AL: sq
+        th-TH: th
+        uk-UA: uk
+        vi-VN: vi
 
   - source: /fastlane/android/metadata/en-US/short_description.txt
     translation: /fastlane/android/metadata/%locale%/short_description.txt
     dest: /fastlane/android/metadata/en-US/short_description.txt
     preserve_hierarchy: true
+    languages_mapping:
+      locale:
+        he: iw-IL
+        nb: no-NO
+        id: id
+        am-ET: am
+        ar-SA: ar
+        bg-BG: bg
+        ca-ES: ca
+        fil-PH: fil
+        hr-HR: hr
+        lt-LT: lt
+        lv-LV: lv
+        ro-RO: ro
+        sk-SK: sk
+        sl-SI: sl
+        sq-AL: sq
+        th-TH: th
+        uk-UA: uk
+        vi-VN: vi
     
   - source: /fastlane/android/metadata/en-US/title.txt
     translation: /fastlane/android/metadata/%locale%/title.txt
     dest: /fastlane/android/metadata/en-US/title.txt
     preserve_hierarchy: true
+    languages_mapping:
+      locale:
+        he: iw-IL
+        nb: no-NO
+        id: id
+        am-ET: am
+        ar-SA: ar
+        bg-BG: bg
+        ca-ES: ca
+        fil-PH: fil
+        hr-HR: hr
+        lt-LT: lt
+        lv-LV: lv
+        ro-RO: ro
+        sk-SK: sk
+        sl-SI: sl
+        sq-AL: sq
+        th-TH: th
+        uk-UA: uk
+        vi-VN: vi
     
   - source: /fastlane/ios/fastlane/metadata/en-US/description.txt
     translation: /fastlane/ios/fastlane/metadata/%locale%/description.txt
     dest: /fastlane/ios/fastlane/metadata/en-US/description.txt
     preserve_hierarchy: true
+    languages_mapping:
+      locale:
+        he: he-IL
+        nb: nb-NO
+        id: id
+        am-ET: am
+        ar-SA: ar
+        bg-BG: bg
+        ca-ES: ca
+        fil-PH: fil
+        hr-HR: hr
+        lt-LT: lt
+        lv-LV: lv
+        ro-RO: ro
+        sk-SK: sk
+        sl-SI: sl
+        sq-AL: sq
+        th-TH: th
+        uk-UA: uk
+        vi-VN: vi
     
   - source: /fastlane/ios/fastlane/metadata/en-US/privacy_url.txt
     translation: /fastlane/ios/fastlane/metadata/%locale%/privacy_url.txt
     dest: /fastlane/ios/fastlane/metadata/en-US/privacy_url.txt
     preserve_hierarchy: true
+    languages_mapping:
+      locale:
+        he: he-IL
+        nb: nb-NO
+        id: id
+        am-ET: am
+        ar-SA: ar
+        bg-BG: bg
+        ca-ES: ca
+        fil-PH: fil
+        hr-HR: hr
+        lt-LT: lt
+        lv-LV: lv
+        ro-RO: ro
+        sk-SK: sk
+        sl-SI: sl
+        sq-AL: sq
+        th-TH: th
+        uk-UA: uk
+        vi-VN: vi
     
   - source: /fastlane/ios/fastlane/metadata/en-US/subtitle.txt
     translation: /fastlane/ios/fastlane/metadata/%locale%/subtitle.txt
     dest: /fastlane/ios/fastlane/metadata/en-US/subtitle.txt
     preserve_hierarchy: true
+    languages_mapping:
+      locale:
+        he: he-IL
+        nb: nb-NO
+        id: id
+        am-ET: am
+        ar-SA: ar
+        bg-BG: bg
+        ca-ES: ca
+        fil-PH: fil
+        hr-HR: hr
+        lt-LT: lt
+        lv-LV: lv
+        ro-RO: ro
+        sk-SK: sk
+        sl-SI: sl
+        sq-AL: sq
+        th-TH: th
+        uk-UA: uk
+        vi-VN: vi
     
   - source: /fastlane/ios/fastlane/metadata/en-US/promotional_text.txt
     translation: /fastlane/ios/fastlane/metadata/%locale%/promotional_text.txt
     dest: /fastlane/ios/fastlane/metadata/en-US/promotional_text.txt
     preserve_hierarchy: true
+    languages_mapping:
+      locale:
+        he: he-IL
+        nb: nb-NO
+        id: id
+        am-ET: am
+        ar-SA: ar
+        bg-BG: bg
+        ca-ES: ca
+        fil-PH: fil
+        hr-HR: hr
+        lt-LT: lt
+        lv-LV: lv
+        ro-RO: ro
+        sk-SK: sk
+        sl-SI: sl
+        sq-AL: sq
+        th-TH: th
+        uk-UA: uk
+        vi-VN: vi
     
   - source: /fastlane/ios/fastlane/metadata/en-US/support_url.txt
     translation: /fastlane/ios/fastlane/metadata/%locale%/support_url.txt
     dest: /fastlane/ios/fastlane/metadata/en-US/support_url.txt
     preserve_hierarchy: true
+    languages_mapping:
+      locale:
+        he: he-IL
+        nb: nb-NO
+        id: id
+        am-ET: am
+        ar-SA: ar
+        bg-BG: bg
+        ca-ES: ca
+        fil-PH: fil
+        hr-HR: hr
+        lt-LT: lt
+        lv-LV: lv
+        ro-RO: ro
+        sk-SK: sk
+        sl-SI: sl
+        sq-AL: sq
+        th-TH: th
+        uk-UA: uk
+        vi-VN: vi
     
   - source: /fastlane/ios/fastlane/metadata/en-US/marketing_url.txt
     translation: /fastlane/ios/fastlane/metadata/%locale%/marketing_url.txt
     dest: /fastlane/ios/fastlane/metadata/en-US/marketing_url.txt
     preserve_hierarchy: true
+    languages_mapping:
+      locale:
+        he: he-IL
+        nb: nb-NO
+        id: id
+        am-ET: am
+        ar-SA: ar
+        bg-BG: bg
+        ca-ES: ca
+        fil-PH: fil
+        hr-HR: hr
+        lt-LT: lt
+        lv-LV: lv
+        ro-RO: ro
+        sk-SK: sk
+        sl-SI: sl
+        sq-AL: sq
+        th-TH: th
+        uk-UA: uk
+        vi-VN: vi
     
   - source: /fastlane/ios/fastlane/metadata/en-US/release_notes.txt
     translation: /fastlane/ios/fastlane/metadata/%locale%/release_notes.txt
     dest: /fastlane/ios/fastlane/metadata/en-US/release_notes.txt
     preserve_hierarchy: true
+    languages_mapping:
+      locale:
+        he: he-IL
+        nb: nb-NO
+        id: id
+        am-ET: am
+        ar-SA: ar
+        bg-BG: bg
+        ca-ES: ca
+        fil-PH: fil
+        hr-HR: hr
+        lt-LT: lt
+        lv-LV: lv
+        ro-RO: ro
+        sk-SK: sk
+        sl-SI: sl
+        sq-AL: sq
+        th-TH: th
+        uk-UA: uk
+        vi-VN: vi
     
   - source: /fastlane/ios/fastlane/metadata/en-US/name.txt
     translation: /fastlane/ios/fastlane/metadata/%locale%/name.txt
     dest: /fastlane/ios/fastlane/metadata/en-US/name.txt
     preserve_hierarchy: true
+    languages_mapping:
+      locale:
+        he: he-IL
+        nb: nb-NO
+        id: id
+        am-ET: am
+        ar-SA: ar
+        bg-BG: bg
+        ca-ES: ca
+        fil-PH: fil
+        hr-HR: hr
+        lt-LT: lt
+        lv-LV: lv
+        ro-RO: ro
+        sk-SK: sk
+        sl-SI: sl
+        sq-AL: sq
+        th-TH: th
+        uk-UA: uk
+        vi-VN: vi
 
   - source: /screenshot-wrapping/strings/en-gb.json
     translation: /screenshot-wrapping/strings/%locale%.json
     dest: /screenshot-wrapping/strings/en-gb.json
     preserve_hierarchy: true
+    languages_mapping:
+      locale:
+        he: he-IL
+        nb: nb-NO
+        id: id
+        am-ET: am
+        ar-SA: ar
+        bg-BG: bg
+        ca-ES: ca
+        fil-PH: fil
+        hr-HR: hr
+        lt-LT: lt
+        lv-LV: lv
+        ro-RO: ro
+        sk-SK: sk
+        sl-SI: sl
+        sq-AL: sq
+        th-TH: th
+        uk-UA: uk
+        vi-VN: vi
 
  # - source: /fastlane/ios/fastlane/metadata/en-US/keywords.txt
  #   translation: /fastlane/ios/fastlane/metadata/%locale%/keywords.txt
