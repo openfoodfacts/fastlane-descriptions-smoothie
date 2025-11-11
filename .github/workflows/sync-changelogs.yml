@@ -17,6 +17,9 @@ jobs:
   sync-changelogs:
     name: Sync translated changelogs to fastlane metadata
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
     
     steps:
       - name: Checkout sources
