@@ -50,7 +50,8 @@ jobs:
           CI_RELEASE: true
 
       - name: Upload app privacy details
-        run: cd ./fastlane/ios/fastlane && bundle exec fastlane upload_privacy
+        run: cd ./fastlane/ios/fastlane 
+        # && bundle exec fastlane upload_privacy
         env:
           FASTLANE_USER: ${{ secrets.FASTLANE_USER }}
           SPACESHIP_CONNECT_API_ISSUER_ID: ${{ secrets.SPACESHIP_CONNECT_API_ISSUER_ID }}
