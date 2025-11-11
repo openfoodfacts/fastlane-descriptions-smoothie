@@ -83,14 +83,15 @@ platform :ios do
      # path: "Runner.xcodeproj",
       #teamid: "ZC9CYWD334"
     #)
-  
+  MATCH_FORCE_ENTERPRISE="1"
     # Upload changelog to TestFlight
-    pilot(
+    deliver(
       app_identifier: APP_IDENTIFIER,
       skip_submission: true,
       skip_waiting_for_build_processing: true,
       skip_screenshots: true,
-      skip_metadata: true
+      skip_metadata: true,
+      #skip_binary_upload: true
     )
   end
 
