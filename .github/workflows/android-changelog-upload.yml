@@ -19,7 +19,7 @@ jobs:
      - name: Decrypt API JSON file
        run: cd ./fastlane/envfiles && chmod +x ./decrypt_secrets.sh && ./decrypt_secrets.sh
        env:
-         API_JSON_FILE_DECRYPTKEY: ${{ secrets.API_JSON_FILE_DECRYPTKE }}
+         API_JSON_FILE_DECRYPTKEY: ${{ secrets.API_JSON_FILE_DECRYPTKEY }}
      - name: Setup Ruby
        uses: ruby/setup-ruby@v1
        with:
