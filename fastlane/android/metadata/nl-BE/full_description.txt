@@ -48,14 +48,6 @@ Wij ontcijferen productlabels voor u. U vindt:
 ➜ Overig: merken, allergenen, etiketten (bio, glutenvrij, veganistisch, vegetarisch, halal, koosjer...), traceerbaarheidsinformatie (verpakkingscodes, herkomst, voedselfabrieken)
 ➜ Op wijnen en bieren vind je het alcoholpercentage terug.
 
-<h1>👉 Onze cijfers zijn wetenschappelijk gebaseerd en Open Food Facts helpt de wetenschap!</h1>
-- We verzinnen dingen niet. We vertrouwen op peer-reviewed wetenschap.
-- De Nutri-Score is gecreëerd door het onafhankelijke Franse team onder leiding van professor Hercberg.
-- De NOVA-groepen voor voedselverwerking zijn ontworpen door het internationale team van professor Monteiro.
-- Je kunt een samenvatting krijgen van de EFSA-blootstellingsniveaus op additieven.
-➜ De Eco-Score is gebaseerd op baanbrekende gegevens van ADEME, het Franse milieuagentschap, aangepast voor de wereld.
-➜ De Open Food Facts-gemeenschap werkt samen met onderzoeksteams over de hele wereld voor onderzoek waar iedereen baat bij heeft.
-
 <h1>👉 Uw eten, uw gegevens. Privacy-vriendelijke app.</h1>
 - Je kunt de app anoniem gebruiken
 ➜ Uw voedselgegevens zijn van u en worden nooit online verzonden
@@ -69,4 +61,4 @@ Wij ontcijferen productlabels voor u. U vindt:
 Webversie: <a href="https://world.openfoodfacts.org">https://world.openfoodfacts.org</a>
 Vragen, feedback: contact@openfoodfacts.org
 
-Voor cosmetica kunt u Open Beauty Facts installeren.
+Voor cosmetica Open Beauty Facts installeren.

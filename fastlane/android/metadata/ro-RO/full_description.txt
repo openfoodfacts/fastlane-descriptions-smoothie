@@ -48,14 +48,6 @@ Descifrăm etichetele produselor pentru dvs. Veți găsi:
 ➜ Altele: mărci, alergeni, etichete (bio, fără gluten, vegan, vegetarian, halal, kosher...), informații de trasabilitate (coduri de ambalare, origini, fabrici de alimente)
 ➜ La vinuri și beri, veți găsi conținutul de alcool.
 
-<h1>👉 Notele noastre sunt bazate pe știință, iar Open Food Facts ajută știința!</h1>
-➜ Noi nu inventăm lucruri. Ne bazăm pe știința evaluată de colegi.
-➜ Nutri-Score a fost creat de echipa independentă franceză condusă de profesorul Hercberg.
-➜ Grupurile NOVA privind prelucrarea alimentelor au fost concepute de echipa internațională a profesorului Monteiro.
-➜ Sinteza aditivilor se bazează pe analizele efectuate de EFSA cu privire la nivelurile de expunere la aditivii alimentari.
-➜ Scorul Eco se bazează pe date inovatoare ale ADEME, agenția franceză de mediu, adaptate pentru lume.
-➜ Comunitatea Open Food Facts colaborează cu echipe de cercetare din întreaga planetă pentru cercetări care beneficiază tuturor.
-
 <h1>👉 Mâncarea ta, datele tale. Aplicație prietenoasă cu confidențialitatea.</h1>
 ➜ Puteți utiliza aplicația în mod anonim
 • Datele tale alimentare sunt ale tale și nu sunt trimise online
@@ -69,4 +61,4 @@ Descifrăm etichetele produselor pentru dvs. Veți găsi:
 Versiunea web: <a href="https://world.openfoodfacts.org">https://world.openfoodfacts.org</a>
 Întrebări, feedback: <a href="mailto:contact@openfoodfacts.org">contact@openfoodfacts.org</a>
 
-Pentru produse cosmetice, puteți instala Open Beauty Facts.
+Pentru produse cosmetice, instalați Open Beauty Facts.
