@@ -49,3 +49,11 @@ jobs:
           SPACESHIP_CONNECT_API_KEY_FILEPATH: ./fastlane/envfiles/AuthKey_KDAUTTM76R.p8
           CI_RELEASE: true
 
+      - name: Upload app privacy details
+        run: cd ./fastlane/ios/fastlane && bundle exec fastlane upload_privacy
+        env:
+          FASTLANE_USER: ${{ secrets.FASTLANE_USER }}
+          SPACESHIP_CONNECT_API_ISSUER_ID: ${{ secrets.SPACESHIP_CONNECT_API_ISSUER_ID }}
+          SPACESHIP_CONNECT_API_KEY_ID: ${{ secrets.SPACESHIP_CONNECT_API_KEY_ID }}
+          SPACESHIP_CONNECT_API_KEY_FILEPATH: ./fastlane/envfiles/AuthKey_KDAUTTM76R.p8
+
