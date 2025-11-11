@@ -18,6 +18,8 @@ platform :ios do
           issuer_id: ENV["SPACESHIP_CONNECT_API_ISSUER_ID"],
           key_filepath: ENV["SPACESHIP_CONNECT_API_KEY_FILEPATH"]
         )
+        # Upload metadata to App Store Connect
+        # Copyright information is automatically loaded from metadata/copyright.txt
         deliver(
         api_key: api_key,
         skip_screenshots: false,

@@ -14,14 +14,14 @@ jobs:
     runs-on: macos-latest
     steps:
       - name: Checkout sources
-        uses: actions/checkout@v4.2.2
+        uses: actions/checkout@v5.0.0
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           bundler-cache: true
-          ruby-version: 3.0.2
+          ruby-version: 3.1
       - name: Bundle install
-        run: cd ./fastlane/ios/fastlane && gem install bundler:1.17.3 && bundle install && pwd && ls
+        run: cd ./fastlane/ios/fastlane && bundle install && pwd && ls
       - name: Fastlane Precheck on marketing assets
         run: cd ./fastlane/ios/fastlane && pwd && ls && bundle exec fastlane run_precheck
         env:

@@ -61,12 +61,12 @@ We decipher products labels for you. You'll find:
 ➜ Your food data is yours, and is never sent online
 
 <h1>👉 Set up allergen alerts on products</h1>
-➜ Do you have a Milk, Gluten, Eggs, Soybeans, Nuts, Fish, Celery, Mustard, Sulphites, Peanuts, Sesame seeds, Crustaceans, Molluscs or Lupin allergy ?
+➜ Do you have Milk, Gluten, Eggs, Soybeans, Nuts, Fish, Celery, Mustard, Sulphites, Peanuts, Sesame, Crustaceans, Molluscs or Lupin allergy?
 ➜ Speed up your shopping with an initial screening with Open Food Facts.
-➜ Be careful that the info & the detection may not be 100% accurate. Always double check by yourself, with the packaging.
+➜ Be careful that detection may not be 100% accurate. Always double check with the packaging.
 
 <h1>👉 More</h1>
 Web version: <a href="https://world.openfoodfacts.org">https://world.openfoodfacts.org</a>
 Pertanyaan, umpan balik : <a href="mailto:contact@openfoodfacts.org">contact@openfoodfacts.org</a>
 
-For cosmetics, you can install Open Beauty Facts.
+For cosmetics: Open Beauty
