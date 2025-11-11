@@ -15,6 +15,14 @@ For _fastlane_ installation instructions, see [Installing _fastlane_](https://do
 
 ## iOS
 
+### ios run_precheck
+
+```sh
+[bundle exec] fastlane ios run_precheck
+```
+
+Precheck metadata for Apple compliance
+
 ### ios metadata
 
 ```sh
@@ -30,6 +38,14 @@ Push only description and meta info
 ```
 
 Sending metadata for Smoothie to TestFlight
+
+### ios upload_changelogs
+
+```sh
+[bundle exec] fastlane ios upload_changelogs
+```
+
+Sending only Changelogs to TestFlight
 
 ### ios setVersion
 
