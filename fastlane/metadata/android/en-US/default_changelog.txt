@@ -1,0 +1,5 @@
+Open Food Facts turns 10 ! We've created a completely new version of the app to celebrate.
+New features of the week:
+- You can now edit products that have more than 1 language on pack
+We look forward to hearing your feedback at contact@openfoodfacts.org
+https://github.com/openfoodfacts/smooth-app/releases
