@@ -21,3 +21,49 @@ Screenshot wrapping adds texts and wrapping to raw screenshots. It currently doe
 
 ### Translations
 You'll be able to translate the PlayStore, App Store description and screenshot slogans at https://translate.openfoodfacts.org
+
+### Changelog Management
+
+This repository supports automated translation and deployment of changelogs for all supported languages.
+
+#### How to update changelogs
+
+1. **Edit the source changelog files** in English:
+   - **Android**: Edit `fastlane/metadata/android/en-US/default_changelog.txt`
+   - **iOS**: Edit `fastlane/metadata/ios/en-US/default_release_notes.txt`
+
+2. **Trigger translation sync** (Manual method):
+   - Push changes to the `crowdin-trigger` branch
+   - Wait for Crowdin to sync translations
+   - Review and merge the generated PR from the l10n_main branch
+
+3. **Sync changelogs to fastlane directories** (Automated via GitHub Actions):
+   - Go to Actions tab → "Sync Translated Changelogs" workflow
+   - Click "Run workflow"
+   - Enter the Android version code (e.g., 1044)
+   - The workflow will:
+     - Download latest translations from Crowdin
+     - Copy translated changelogs to appropriate fastlane metadata directories
+     - Create a PR with all the changes
+   - Review and merge the PR
+
+4. **Deploy changelogs to stores**:
+   - For Android: Merge the PR to `upload-to-playstore` branch to trigger Play Store upload
+   - For iOS: Merge the PR to `upload-to-appstore` branch to trigger App Store upload
+
+#### Manual sync (alternative)
+
+You can also manually sync changelogs using the provided script:
+
+```bash
+./sync-changelogs.sh <version_code>
+```
+
+Example:
+```bash
+./sync-changelogs.sh 1044
+```
+
+This will copy:
+- `fastlane/metadata/android/<locale>/default_changelog.txt` → `fastlane/android/metadata/<locale>/changelogs/<version_code>.txt`
+- `fastlane/metadata/ios/<locale>/default_release_notes.txt` → `fastlane/ios/fastlane/metadata/<locale>/release_notes.txt`
