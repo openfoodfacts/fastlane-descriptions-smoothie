@@ -1,0 +1,28 @@
+name: Upload Changelogs for Android
+on:
+  push:
+    branches:
+      - 'upload-changelogs-android'
+jobs:
+  changelogs:
+    runs-on: ubuntu-latest
+    steps:
+    # required to run on Linux because this is a docker container action
+     - name: Checkout
+       uses: actions/checkout@v5.0.0
+     - name: Decrypt API JSON file
+       run: cd ./fastlane/envfiles && chmod +x ./decrypt_secrets.sh && ./decrypt_secrets.sh
+       env:
+         API_JSON_FILE_DECRYPTKEY: ${{ secrets.API_JSON_FILE_DECRYPTKE }}
+     - name: Setup Ruby
+       uses: ruby/setup-ruby@v1
+       with:
+         bundler-cache: true
+         ruby-version: 3.0.2
+     - name: Play Store Upload of changelogs only
+       if: github.repository == 'openfoodfacts/fastlane-descriptions-smoothie'
+       timeout-minutes: 10
+       run: pwd && cd ./fastlane/ && bundle install && bundle exec fastlane deploy_changelogs
+     - name: Cleanup
+       if: ${{ always() }}
+       run: rm -f service-account-key.json
