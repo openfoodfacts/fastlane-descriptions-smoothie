@@ -1,77 +1,62 @@
-News: We invented the collaborative scanning app in 2012. As we turn 10, we’re reinventing it from the ground up!
+스캔하고, 이해하고, 선택하세요. 당신의 식품, 당신의 지구, 당신의 건강.
 
-This app lets you find food that's good for you and good for the planet by scanning their barcodes.
-You will get personalized health & eco-impact info for 2.3M foods.
+Open Food Facts는 식품, 퍼스널 케어 제품, 반려동물 사료의 바코드를 스캔해 그 영향을 즉시 확인할 수 있는 무료 모바일 앱입니다. 명확한 등급과 자세한 정보를 통해 각 제품을 이해하고 더 현명한 선택을 할 수 있습니다.
 
-Set your food preferences without ruining your privacy
-A scan that truly matches who you are
-Green: the product matches your criteria
-Red: there is a problem
-Gray: Help us answer you by photographing the products
+◆ 가장 큰 협업 데이터베이스 ◆
 
-Compare in a few seconds those 3 different tomato sauces left on the shelf.
-Get a tailored comparison of any food category
+350만 개가 넘는 제품을 스캔하고 살펴보세요(지금도 매일 늘어나고 있습니다!). 우리는 누구나 이용할 수 있는 방대한 정보 라이브러리, 즉 “식품의 위키백과”입니다. 우리의 데이터는 150개가 넘는 건강·웰빙 앱에서도 활용됩니다.
 
-Food criteria you can pick
+◆ 100% 독립적이며 비영리 ◆
 
-환경
-건강
-Additives & Ultra processed foods
-소금
-알레르기 정보
-Nutri-Score
-친환경 점수
+Open Food Facts는 시민이 주도하는 프로젝트로, 브랜드와 제조사로부터 완전히 독립되어 있습니다.
 
-Scan, find & compare more than 2,3 million food products
+객관적인 분석: 제품 평가와 정보는 객관적으로 제공됩니다. 어떤 브랜드도 우리의 등급에 영향을 줄 수 없습니다.
+광고 없음: 우리의 초점은 수익이 아니라 투명성입니다. 앱 안에 광고가 없습니다.
+커뮤니티 중심: 전 세계 수만 명의 자원봉사자가 함께 만들고 유지합니다. 모두가 만들고, 모두를 위한 서비스입니다.
 
-Choose products that are good for you
+◆ 나에게 맞춘 즉각적인 인사이트 ◆
 
-- The Nutri-Score grade, from A to E :  Nutritional quality
-- The NOVA group, from 1 to 4 : Avoid ultra-processed foods (Group 4)
+선호에 맞춰 색상으로 구분된 명확한 결과를 확인하세요(🟢 초록: 기준에 맞음, 🔴 빨강: 우려 있음, ⚫ 회색: 정보 더 필요).
 
-Choose products that are good the planet
+건강을 위해:
+Nutri-Score (A-E): 영양 품질을 한눈에 확인.
+NOVA Group (1-4): 초가공식품을 식별하고 피하기.
+첨가물: EFSA 검토를 바탕으로 존재 여부와 위험 수준을 이해.
+영양소: 소금, 당, 지방 등을 확인.
+지구를 위해:
+Eco-Score (A-E): 환경 발자국(CO2, 포장, 원산지)을 평가.
+나의 필요를 위해:
+알레르기 경고: Milk, Gluten, Eggs, Soy, Nuts, Fish, Celery, Mustard, Sulphites, Peanuts, Sesame, Crustaceans, Molluscs, Lupin 경고를 설정.
+식단 필터: 비건, 베지테리언, 유기농, 할랄, 코셔 등.
 
-- Food causes over 1/3 of global greenhouse gas emissions
-- The Eco-Score grade, from A to E :  a synthesis of 16 environmental impacts
+◆ 비교하고 발견하세요 ◆
 
-Contribute to Food Transparency
+매장에서 제품을 나란히 쉽게 비교할 수 있습니다. 문제가 있는 제품에 대해서는 당신만의 기준에 맞는 대안을 제안할 수도 있습니다.
 
-- Open Food Facts is made by everyone, for everyone!
-- In short, we're "the Wikipedia of food", as the press nicknamed the project. Open Food Facts has also enabled the creation of over 150+ apps like Date Limite, Yuka or FoodVisor.
-- Use it to make better food choices
-- The app is also collaborative. If the product is missing, contribute pictures and data to get the Nutri-Score, food processing level (NOVA) and Eco-Score.
-- Make a difference today by photographing a product from your kitchen.
-- Open Food Facts is a non-profit project made by thousands of volunteers from around the world. Why don't you join us ?
+◆ 가격 추적과 그 이상 ◆
 
-Decipher food labels
+가격 수집: 가격 데이터를 기여해 슈링크플레이션과 인플레이션을 기록하는 데 도움을 주세요.
+식품 그 이상: 화장품과 반려동물 사료도 스캔할 수 있습니다!
+프라이버시 우선: 앱을 익명으로 사용할 수 있습니다. 스캔 데이터는 당신의 것이며, 기여하기로 선택하지 않는 한 온라인으로 전송되지 않습니다.
 
-We decipher products labels for you. You'll find:
-- Nutrition: The Nutriscore (nutritional score), nutrients, fat, transfat, carbohydrates, sugars, fiber, protein, salt & sodium.
-- Environment: The Ecoscore (including carbon footprint (CO2 emissions), packaging (as well as recycling instructions), environmental labels (organic, quality etc.), and origins of ingredients)
-- Other: brands, allergens, labels (bio, gluten free, vegan, vegetarian, halal, kosher...), traceability information (packaging codes, origins, food factories)
-- On wines and beers, you'll find the alcohol content.
+◆ 과학에 기반한 평가 ◆
 
-Our grades are science-based, and Open Food Facts is helping science!
--우리는 무언가를 만들지 않습니다. 우리는 동료가 검토한 과학에 의존합니다.
--Nutri-Score는 Hercberg 교수가 이끄는 프랑스 독립팀이 만들었습니다.
--식품 가공에 관한 NOVA 그룹은 Monteiro 교수의 국제 팀이 설계했습니다.
-- The additives synthesis is based on reviews by EFSA on exposure levels on food additives.
-- The Eco-Score is based on ground breaking data by ADEME, the French environmental agency, adapted for the world.
-- The Open Food Facts community is collaborating with research teams across the planet for research that benefits all.
+우리의 방법론은 공인된 동료 심사 과학에 기반합니다.
 
-Your food, your data. Privacy-friendly app.
-- 앱을 익명으로 사용할 수 있습니다.
-- Your food data is yours, and is never sent online
+Nutri-Score: 프랑스의 독립 연구팀인 Hercberg 교수팀이 개발했습니다.
+NOVA Classification: Monteiro 교수의 국제 연구팀이 설계했습니다.
+Eco-Score: 프랑스 환경기관 ADEME의 데이터를 바탕으로 전 세계에 맞게 조정되었습니다.
 
-Set up allergen alerts on products
+◆ 식품 투명성 혁명에 동참하세요! ◆
 
-- Do you have a Milk, Gluten, Eggs, Soybeans, Nuts, Fish, Celery, Mustard, Sulphites, Peanuts, Sesame seeds, Crustaceans, Molluscs or Lupin allergy ?
-- Speed up your shopping with an initial screening with Open Food Facts.
-- Be careful that the info and the detection may not be 100% accurate. Always double check by yourself, with the packaging.
+찾을 수 없는 제품이 있나요? 해결책의 일부가 되어 주세요!
 
-More
+쉽게 기여하기: 아직 시스템에 없는 제품의 사진과 데이터를 추가하세요.
+영향 만들기: 당신의 모든 기여는 수백만 명이 더 나은 선택을 하도록 돕습니다.
+지금 Open Food Facts를 다운로드하고 소비를 스스로 관리하세요!
 
-Web version: https://world.openfoodfacts.org
-질문 및 피드백 : contact@openfoodfacts.org
+더 알아보기 및 연락하기:
+Website: https://world.openfoodfacts.org
+Questions/Feedback: mobile@openfoodfacts.org
 
-화장품의 경우 Open Beauty Facts를 설치할 수 있습니다.
+중요한 알레르기 안내: 우리의 정보는 강력한 가이드이지만, 가장 정확하고 최신의 알레르기 정보는 항상 제품 포장에서 다시 확인하세요. 제품 데이터는 커뮤니티 덕분에 계속 발전하고 있습니다。

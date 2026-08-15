@@ -1,79 +1,58 @@
-Notícias: Inventámos a aplicação de digitalização colaborativa em 2012. À medida que fazemos 10 anos,
-estamos reinventando-a
-do zero!
+Digitalize. Compreenda. Escolha. A sua alimentação, o seu planeta, a sua saúde.
 
-Esta aplicação permite encontrar alimentos bons para si e para o planeta ao digitalizar os seus códigos de barras.
-Receberá informações personalizadas de saúde e impacto ambiental para 2,3 milhões de alimentos.
+Open Food Facts é uma aplicação móvel gratuita que lhe permite digitalizar códigos de barras de produtos alimentares, produtos de cuidados pessoais e alimentos para animais para ver instantaneamente o seu impacto. Obtenha classificações claras e informação detalhada para compreender cada produto e fazer escolhas informadas.
 
-Defina as suas preferências alimentares sem comprometer a sua privacidade
-Uma digitalização que realmente corresponde a si
-Verde: o produto corresponde aos seus critérios
-Vermelho: há um problema
-Cinza: ajude-nos a responder fotografando os produtos
+◆ A MAIOR BASE DE DADOS COLABORATIVA ◆
 
-Compare em poucos segundos aqueles 3 molhos de tomate diferentes que sobraram na prateleira.
-Obtenha uma comparação personalizada de qualquer categoria de alimentos
+Digitalize e explore mais de 3,5 MILHÕES de produtos, e o número continua a crescer todos os dias. Somos a Wikipédia da alimentação, uma vasta biblioteca de informação acessível a toda a gente. Os nossos dados também alimentam mais de 150 outras aplicações de saúde e bem-estar.
 
-Critérios alimentares que pode escolher
+◆ 100% INDEPENDENTE E SEM FINS LUCRATIVOS ◆
 
-Ambiente
-Saúde
-Aditivos e alimentos ultra processados
-Sal
-Alergénios
-Nutri-Score
-Eco-Score
+Open Food Facts é um projeto liderado por cidadãos, totalmente independente de marcas e fabricantes.
 
-Digitalize, procure e compare mais de 2,3 milhões de produtos alimentares
+Análise objetiva: as avaliações e informações sobre os produtos são apresentadas de forma objetiva. Nenhuma marca pode influenciar as nossas classificações.
+Sem publicidade: o nosso foco é a transparência, não o lucro. Não encontrará anúncios na nossa aplicação.
+Movido pela comunidade: desenvolvido e mantido por dezenas de milhares de voluntários em todo o mundo. Feito por todos, para todos.
+◆ INFORMAÇÃO IMEDIATA, PERSONALIZADA PARA SI ◆
 
-Escolha produtos que lhe façam bem
+Obtenha resultados claros e com código de cores (🟢 Verde: corresponde aos seus critérios, 🔴 Vermelho: motivo de preocupação, ⚫ Cinzento: é necessária mais informação) adaptados às suas preferências:
 
-- A classificação Nutri-Score, de "A" a "E" >> Qualidade nutricional
-- O grupo NOVA, de "1" a "4" : Encontre o alimento ultraprocessado (Group 4)
+PARA A SUA SAÚDE:
+Nutri-Score (A-E): qualidade nutricional num relance.
+Grupo NOVA (1-4): identifique e evite alimentos ultraprocessados.
+Aditivos: compreenda a sua presença e o nível de risco com base nas avaliações da EFSA.
+Nutrientes: acompanhe sal, açúcar, gordura e muito mais.
+PARA O PLANETA:
+Eco-Score (A-E): avalie a pegada ambiental (CO2, embalagens, origens).
+PARA AS SUAS NECESSIDADES:
+Alertas de alergénios: configure avisos para leite, glúten, ovos, soja, frutos de casca rija, peixe, aipo, mostarda, sulfitos, amendoins, sésamo, crustáceos, moluscos e tremoço.
+Filtros alimentares: vegan, vegetariano, biológico, halal, kosher, etc.
+◆ COMPARE E DESCUBRA ◆
 
-Escolha produtos que lhe façam bem
+Compare facilmente produtos lado a lado na prateleira. Podemos sugerir alternativas para produtos problemáticos, MAS DE ACORDO COM O SEU PRÓPRIO CRITÉRIO.
 
-Mais de um terço das emissões globais de gases com efeito de estufa são causadas pela produção de alimentos
-- A grau Eco-Score, de A a E: uma síntese de 16 impactos ambientais
+◆ ACOMPANHE PREÇOS E MUITO MAIS ◆
 
-Contribua para a transparência alimentar
+Recolha de preços: ajude a documentar reduflação e inflação, contribuindo com dados de preços.
+Mais do que alimentação: digitalize também cosméticos e alimentos para animais.
+Privacidade em primeiro lugar: utilize a aplicação anonimamente. Os seus dados de digitalização são seus e nunca são enviados para a internet, exceto se optar por contribuir.
+◆ AVALIAÇÕES BASEADAS NA CIÊNCIA ◆
 
-- O Open Food Facts é feito por todos, para todos!
-- Resumindo, somos "a Wikipedia da comida", como a imprensa apelidou o projeto. O Open Food Facts também permitiu a criação de mais de 150 aplicações como o Date Limite, Yuka ou FoodVisor.
-- Use-o para fazer melhores escolhas alimentares
-- A aplicação também é colaborativa. Se o produto faltar, contribua com fotos e dados para obter o Nutri-Score, nível de processamento de alimentos (NOVA) e Eco-Score.
-- Faça a diferença hoje ao fotografar um produto na sua cozinha.
-- Open Food Facts é um projeto sem fins lucrativos feito por milhares de voluntários em todo o mundo. Por que não se junta a nós?
+As nossas metodologias baseiam-se em ciência reconhecida e revista por pares:
 
-Decifrar rótulos alimentares
+Nutri-Score: desenvolvido pela equipa francesa independente do Prof. Hercberg.
+Classificação NOVA: concebida pela equipa internacional do Prof. Monteiro.
+Eco-Score: baseado em dados da ADEME, adaptados globalmente.
+◆ JUNTE-SE À REVOLUÇÃO DA TRANSPARÊNCIA ALIMENTAR! ◆
 
-Nós deciframos as etiquetas dos produtos para si. Encontrará:
-- Nutrição: o Nutri-Score (pontuação nutricional), nutrientes, gorduras, gorduras saturadas, hidratos de carbono, açúcares, fibras, proteínas, sal e sódio.
-- Ambiente: O Ecoscore (incluindo a pegada de carbono (emissões de CO2), embalagens (assim como instruções de reciclagem), rótulos ambientais (orgânico, qualidade, etc.) e origens de ingredientes)
-- Outros: marcas, alérgeneos, rótulos (bio, sem glúten, vegano, vegetariano, halal, kosher...), informação de rastreabilidade (códigos de embalagem, origens, fábricas de alimentos)
-- Em vinhos e cervejas, você encontrará o teor alcoólico.
+Falta um produto? Faça parte da solução.
 
-As nossas notas têm base científica e o Open Food Facts ajuda a ciência!
-- Nós não inventamos coisas. Confiamos na ciência revista por pares.
-- O Nutri-Score foi criado pela equipe francesa independente liderada pelo professor Hercberg.
-- Os grupos NOVA em processamento de alimentos foram projetados pela equipe internacional do professor Monteiro.
-- A síntese de aditivos é baseada em análises da EFSA sobre os níveis de exposição em aditivos alimentares.
-- O Eco-Score é baseado na dados inovadores da ADEME, a agência ambiental francesa, adaptada ao mundo.
-- A comunidade Open Food Facts colabora com equipas de pesquisa em todo o planeta para pesquisas que beneficiem a todos.
+Contribua facilmente: adicione fotografias e dados de produtos que ainda não estão no nosso sistema.
+Tenha impacto: cada contribuição ajuda milhões de pessoas a fazer escolhas melhores.
+Transfira o Open Food Facts hoje mesmo e assuma o controlo do seu consumo.
 
-A sua comida, os seus dados. Aplicação focada na privacidade.
-- Pode usar a aplicação de forma anónima
-- Seus dados alimentares são seus e nunca são enviados online
+Saiba mais e mantenha-se em contacto:
+Website: https://world.openfoodfacts.org
+Perguntas/feedback: mobile@openfoodfacts.org
 
-Configurar alertas de alérgeneos em produtos
-
-- Você tem alergia a Leite, Glúten, Ovos, Soja, Nozes, Peixe, Aipo, Mostarda, Sulfitos, Amendoins, Sementes de Gergelim, Crustáceos, Moluscos ou Tremoço?
-- Acelere suas compras com uma triagem inicial com Open Food Facts.
-- Tenha cuidado para que as informações e a detecção possam não ser 100% precisas. Verifique sempre por si a embalagem.
-
-Mais
-
-Versão web: https://world.openfoodfacts.org
-Perguntas, feedback: contact@openfoodfacts.org
-
-Para cosméticos, você pode instalar o Open Beauty Facts.
+Nota importante sobre alergénios: a nossa informação é um guia valioso, mas confirme sempre a embalagem do produto para obter os dados sobre alergénios mais exatos e atualizados. Os dados dos produtos estão em constante evolução graças à nossa comunidade.

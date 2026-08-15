@@ -1,77 +1,62 @@
-News: We invented the collaborative scanning app in 2012. As we turn 10, we’re reinventing it from the ground up!
+დაასკანერე. გაიგე. აირჩიე. შენი საკვები, შენი პლანეტა, შენი ჯანმრთელობა。
 
-This app lets you find food that's good for you and good for the planet by scanning their barcodes.
-You will get personalized health & eco-impact info for 2.3M foods.
+Open Food Facts არის უფასო მობილური აპი, რომელიც საშუალებას გაძლევს დაასკანერო საკვების, პირადი მოვლის საშუალებებისა და შინაური ცხოველების საკვების შტრიხკოდები და მყისიერად ნახო მათი გავლენა. მიიღე მკაფიო შეფასებები და დეტალური ინფორმაცია, რათა უკეთ გაიგო თითოეული პროდუქტი და გააკეთო გააზრებული არჩევანი。
 
-Set your food preferences without ruining your privacy
-A scan that truly matches who you are
-Green: the product matches your criteria
-Red: there is a problem
-Gray: Help us answer you by photographing the products
+◆ ყველაზე დიდი კოლაბორაციული მონაცემთა ბაზა ◆
 
-Compare in a few seconds those 3 different tomato sauces left on the shelf.
-Get a tailored comparison of any food category
+დაასკანერე და გამოიკვლიე 3.5 მილიონზე მეტი პროდუქტი (და ეს რიცხვი ყოველდღე იზრდება!). ჩვენ ვართ „საკვების ვიკიპედია“ — უზარმაზარი საინფორმაციო ბიბლიოთეკა, რომელიც ყველასთვის ხელმისაწვდომია. ჩვენი მონაცემები ასევე ამარაგებს 150-ზე მეტ ჯანმრთელობისა და კეთილდღეობის აპლიკაციას。
 
-Food criteria you can pick
+◆ 100% დამოუკიდებელი და არაკომერციული ◆
 
-Environment
-Health
-Additives & Ultra processed foods
-მარილი
-Allergens
-Nutri-Score
-Eco-Score
+Open Food Facts არის მოქალაქეების მიერ მართული პროექტი, რომელიც სრულიად დამოუკიდებელია ბრენდებისა და მწარმოებლებისგან。
 
-Scan, find & compare more than 2,3 million food products
+ობიექტური ანალიზი: პროდუქტის შეფასებები და ინფორმაცია ობიექტურად არის წარმოდგენილი. ვერცერთი ბრენდი ვერ მოახდენს გავლენას ჩვენს შეფასებებზე。
+რეკლამის გარეშე: ჩვენი პრიორიტეტი გამჭვირვალობაა და არა მოგება. ჩვენს აპში რეკლამას ვერ ნახავთ。
+საზოგადოებაზე დაფუძნებული: შექმნილი და შენარჩუნებულია მსოფლიოს მასშტაბით ათიათასობით მოხალისის მიერ. შექმნილია ყველას მიერ და ყველასთვის。
 
-Choose products that are good for you
+◆ მყისიერი ინფორმაცია, შენზე მორგებული ◆
 
-- The Nutri-Score grade, from A to E :  Nutritional quality
-- The NOVA group, from 1 to 4 : Avoid ultra-processed foods (Group 4)
+მიიღე მკაფიო, ფერებით მონიშნული შედეგები შენი პრეფერენციების მიხედვით (🟢 მწვანე: შეესაბამება შენს კრიტერიუმებს, 🔴 წითელი: არის საყურადღებო საკითხი, ⚫ ნაცრისფერი: საჭიროა მეტი ინფორმაცია):
 
-Choose products that are good the planet
+შენი ჯანმრთელობისთვის:
+Nutri-Score (A-E): კვებითი ხარისხი ერთი შეხედვით。
+NOVA Group (1-4): ამოიცანი და აირიდე ულტრა-გადამუშავებული საკვები。
+დანამატები: გაიგე მათი არსებობა და რისკის დონე EFSA-ს მიმოხილვებზე დაყრდნობით。
+ნუტრიენტები: აკონტროლე მარილი, შაქარი, ცხიმი და სხვა。
+პლანეტისთვის:
+Eco-Score (A-E): შეაფასე გარემოზე ზემოქმედება (CO2, შეფუთვა, წარმოშობა)。
+შენი საჭიროებებისთვის:
+ალერგენების გაფრთხილება: დააყენე გაფრთხილება Milk, Gluten, Eggs, Soy, Nuts, Fish, Celery, Mustard, Sulphites, Peanuts, Sesame, Crustaceans, Molluscs, Lupin-ზე。
+კვებითი ფილტრები: ვეგანური, ვეგეტარიანული, ორგანული, ჰალალი, კოშერი და სხვა。
 
-- Food causes over 1/3 of global greenhouse gas emissions
-- The Eco-Score grade, from A to E :  a synthesis of 16 environmental impacts
+◆ შეადარე და აღმოაჩინე ◆
 
-Contribute to Food Transparency
+მარტივად შეადარე პროდუქტები ერთმანეთის გვერდით თაროზე. პრობლემური პროდუქტებისთვის შეგვიძლია შემოგთავაზოთ ალტერნატივებიც, მაგრამ შენი საკუთარი კრიტერიუმების მიხედვით。
 
-- Open Food Facts is made by everyone, for everyone!
-- In short, we're "the Wikipedia of food", as the press nicknamed the project. Open Food Facts has also enabled the creation of over 150+ apps like Date Limite, Yuka or FoodVisor.
-- Use it to make better food choices
-- The app is also collaborative. If the product is missing, contribute pictures and data to get the Nutri-Score, food processing level (NOVA) and Eco-Score.
-- Make a difference today by photographing a product from your kitchen.
-- Open Food Facts is a non-profit project made by thousands of volunteers from around the world. Why don't you join us ?
+◆ თვალი ადევნე ფასებს და კიდევ მეტს ◆
 
-Decipher food labels
+ფასების შეგროვება: ფასების მონაცემების გაზიარებით დაეხმარე shrinkflation-ისა და ინფლაციის დოკუმენტირებას。
+საკვებზე მეტი: დაასკანერე კოსმეტიკაც და შინაური ცხოველების საკვებიც!
+კონფიდენციალურობა პირველ ადგილზეა: გამოიყენე აპი ანონიმურად. შენი სკანირების მონაცემები შენ გეკუთვნის და ონლაინ არ იგზავნება, თუ თავად არ გადაწყვეტ მათ გაზიარებას。
 
-We decipher products labels for you. You'll find:
-- Nutrition: The Nutriscore (nutritional score), nutrients, fat, transfat, carbohydrates, sugars, fiber, protein, salt & sodium.
-- Environment: The Ecoscore (including carbon footprint (CO2 emissions), packaging (as well as recycling instructions), environmental labels (organic, quality etc.), and origins of ingredients)
-- Other: brands, allergens, labels (bio, gluten free, vegan, vegetarian, halal, kosher...), traceability information (packaging codes, origins, food factories)
-- On wines and beers, you'll find the alcohol content.
+◆ მეცნიერებაზე დაფუძნებული შეფასებები ◆
 
-Our grades are science-based, and Open Food Facts is helping science!
-- We don't make up things. We rely on peer-reviewed science.
-- The Nutri-Score has been created by the independent French team led by Professor Hercberg.
-- The NOVA groups on food processing have been designed by the international team of Professor Monteiro.
-- The additives synthesis is based on reviews by EFSA on exposure levels on food additives.
-- The Eco-Score is based on ground breaking data by ADEME, the French environmental agency, adapted for the world.
-- The Open Food Facts community is collaborating with research teams across the planet for research that benefits all.
+ჩვენი მეთოდოლოგიები ეფუძნება აღიარებულ, peer-reviewed მეცნიერებას:
 
-Your food, your data. Privacy-friendly app.
-- You can use the app anonymously
-- Your food data is yours, and is never sent online
+Nutri-Score: შექმნილია პროფესორ Hercberg-ის ხელმძღვანელობით მოქმედი ფრანგული დამოუკიდებელი გუნდის მიერ。
+NOVA Classification: შემუშავებულია პროფესორ Monteiro-ს საერთაშორისო გუნდის მიერ。
+Eco-Score: დაფუძნებულია საფრანგეთის გარემოს სააგენტო ADEME-ის მონაცემებზე და ადაპტირებულია გლობალური გამოყენებისთვის。
 
-Set up allergen alerts on products
+◆ შეუერთდი საკვების გამჭვირვალობის რევოლუციას! ◆
 
-- Do you have a Milk, Gluten, Eggs, Soybeans, Nuts, Fish, Celery, Mustard, Sulphites, Peanuts, Sesame seeds, Crustaceans, Molluscs or Lupin allergy ?
-- Speed up your shopping with an initial screening with Open Food Facts.
-- Be careful that the info and the detection may not be 100% accurate. Always double check by yourself, with the packaging.
+აკლია რომელიმე პროდუქტი? გახდი გადაწყვეტის ნაწილი!
 
-More
+მარტივად შეიტანე წვლილი: დაამატე ფოტოები და მონაცემები იმ პროდუქტებისთვის, რომლებიც ჯერ ჩვენს სისტემაში არ არის。
+გააკეთე გავლენა: შენი ყოველი წვლილი მილიონობით ადამიანს ეხმარება უკეთესი არჩევანის გაკეთებაში。
+გადმოწერე Open Food Facts დღესვე და აკონტროლე შენი მოხმარება!
 
-Web version: https://world.openfoodfacts.org
-Questions, feedback : contact@openfoodfacts.org
+გაიგე მეტი და დაგვიკავშირდი:
+Website: https://world.openfoodfacts.org
+Questions/Feedback: mobile@openfoodfacts.org
 
-For cosmetics, you can install Open Beauty Facts.
+მნიშვნელოვანი შენიშვნა ალერგენებზე: ჩვენი ინფორმაცია ძლიერი გზამკვლევია, თუმცა ყველაზე ზუსტი და განახლებული ალერგენის დეტალებისთვის პროდუქტის შეფუთვა ყოველთვის თავადაც გადაამოწმე. პროდუქტის მონაცემები ჩვენი საზოგადოების დახმარებით მუდმივად ახლდება。

@@ -1,77 +1,62 @@
-News: We invented the collaborative scanning app in 2012. As we turn 10, we’re reinventing it from the ground up!
+Pindai. Ngerteni. Pilih. Panganmu, Planètamu, Kaséhatanmu.
 
-This app lets you find food that's good for you and good for the planet by scanning their barcodes.
-You will get personalized health & eco-impact info for 2.3M foods.
+Open Food Facts iku aplikasi seluler gratis sing ngidini sampeyan mindai barcode panganan, produk perawatan pribadi, lan pakan kéwan supaya bisa langsung ndeleng pengaruhe. Sampeyan bakal entuk rating sing cetha lan informasi rinci supaya luwih paham saben produk lan bisa nggawe pilihan sing luwih wicaksana。
 
-Set your food preferences without ruining your privacy
-A scan that truly matches who you are
-Green: the product matches your criteria
-Red: there is a problem
-Gray: Help us answer you by photographing the products
+◆ BASIS DATA GOTONG-ROYONG PALING GEDHÉ ◆
 
-Compare in a few seconds those 3 different tomato sauces left on the shelf.
-Get a tailored comparison of any food category
+Pindai lan telusuri luwih saka 3,5 yuta produk (lan saben dina terus nambah!). Kita iki “Wikipedia Panganan”, perpustakaan informasi gedhé sing bisa diakses sapa waé. Data kita uga ndhukung luwih saka 150 aplikasi kesehatan lan kesejahteraan。
 
-Food criteria you can pick
+◆ 100% MARDIKA LAN ORA GOLEK UNTUNG ◆
 
-Lingkungan
-Health
-Additives & Ultra processed foods
-Salt
-Allergens
-Nutri-Score
-Eco-Score
+Open Food Facts iku proyek sing dipimpin warga, lan sakabehé bebas saka pengaruh merek lan pabrikan。
 
-Scan, find & compare more than 2,3 million food products
+Analisis objektif: Penilaian lan informasi produk ditampilaké kanthi objektif. Ora ana merek sing bisa mengaruhi rating kita。
+Tanpa iklan: Fokus kita iku transparansi, dudu keuntungan. Sampeyan ora bakal nemoni iklan ing aplikasi iki。
+Digerakké komunitas: Digawé lan dirumat déning puluhan ewu relawan ing sak ndonya. Digawé déning kabèh wong, kanggo kabèh wong。
 
-Choose products that are good for you
+◆ INFORMASI CEPET, DISESUAIKÉ KANGGO SAMPEYAN ◆
 
-- The Nutri-Score grade, from A to E :  Nutritional quality
-- The NOVA group, from 1 to 4 : Avoid ultra-processed foods (Group 4)
+Entuk asil sing cetha lan nganggo tandha warna miturut preferensi sampeyan (🟢 Ijo: cocog karo kritériamu, 🔴 Abang: ana sing perlu digatèkké, ⚫ Abu-abu: butuh informasi luwih akèh):
 
-Choose products that are good the planet
+KANGGO KASÉHATANMU:
+Nutri-Score (A-E): Kualitas gizi katon sak lirik。
+NOVA Group (1-4): Kenali lan aja milih panganan ultra-proses。
+Aditif: Pahami anané lan tingkat risikone adhedhasar tinjauan EFSA。
+Nutrisi: Pantau uyah, gula, lemak, lan liya-liyané。
+KANGGO PLANÈTA:
+Eco-Score (A-E): Nilai jejak lingkungan (CO2, kemasan, asal-usul)。
+KANGGO KABUTUHANMU:
+Pangeling alergen: Setel pangeling kanggo Milk, Gluten, Eggs, Soy, Nuts, Fish, Celery, Mustard, Sulphites, Peanuts, Sesame, Crustaceans, Molluscs, Lupin。
+Saringan pola makan: vegan, vegetarian, organic, halal, kosher, lan liya-liyané。
 
-- Food causes over 1/3 of global greenhouse gas emissions
-- The Eco-Score grade, from A to E :  a synthesis of 16 environmental impacts
+◆ BANDHINGNA LAN TEMOKNA ◆
 
-Contribute to Food Transparency
+Sampeyan bisa mbandhingaké produk kanthi jejeg ing rak toko kanthi gampang. Kanggo produk sing nduwé masalah, kita uga bisa menehi alternatif adhedhasar kritéria sampeyan dhéwé。
 
-- Open Food Facts is made by everyone, for everyone!
-- In short, we're "the Wikipedia of food", as the press nicknamed the project. Open Food Facts has also enabled the creation of over 150+ apps like Date Limite, Yuka or FoodVisor.
-- Use it to make better food choices
-- The app is also collaborative. If the product is missing, contribute pictures and data to get the Nutri-Score, food processing level (NOVA) and Eco-Score.
-- Make a difference today by photographing a product from your kitchen.
-- Open Food Facts is a non-profit project made by thousands of volunteers from around the world. Why don't you join us ?
+◆ LACAK REGA LAN LIYANÉ ◆
 
-Decipher food labels
+Ngumpulaké rega: Tulung dokumentasikna shrinkflation lan inflasi kanthi nyumbang data rega。
+Ora mung panganan: Kosmetik lan pakan kéwan uga bisa dipindai!
+Privasi nomer siji: Gunakna aplikasi iki kanthi anonim. Data pindaimu duwèkmu lan ora bakal dikirim online kajaba sampeyan milih kanggo nyumbang。
 
-We decipher products labels for you. You'll find:
-- Nutrition: The Nutriscore (nutritional score), nutrients, fat, transfat, carbohydrates, sugars, fiber, protein, salt & sodium.
-- Environment: The Ecoscore (including carbon footprint (CO2 emissions), packaging (as well as recycling instructions), environmental labels (organic, quality etc.), and origins of ingredients)
-- Other: brands, allergens, labels (bio, gluten free, vegan, vegetarian, halal, kosher...), traceability information (packaging codes, origins, food factories)
-- On wines and beers, you'll find the alcohol content.
+◆ PENILAIAN ADHEDHASAR ILMU ◆
 
-Our grades are science-based, and Open Food Facts is helping science!
-- We don't make up things. We rely on peer-reviewed science.
-- The Nutri-Score has been created by the independent French team led by Professor Hercberg.
-- The NOVA groups on food processing have been designed by the international team of Professor Monteiro.
-- The additives synthesis is based on reviews by EFSA on exposure levels on food additives.
-- The Eco-Score is based on ground breaking data by ADEME, the French environmental agency, adapted for the world.
-- The Open Food Facts community is collaborating with research teams across the planet for research that benefits all.
+Metodologi kita adhedhasar ilmu pengetahuan sing diakoni lan wis peer-reviewed:
 
-Your food, your data. Privacy-friendly app.
-- You can use the app anonymously
-- Your food data is yours, and is never sent online
+Nutri-Score: Dikembangaké déning tim independen Prancis sing dipimpin Prof. Hercberg。
+NOVA Classification: Dirancang déning tim internasionalé Prof. Monteiro。
+Eco-Score: Adhedhasar data ADEME, badan lingkungan Prancis, lan wis diadaptasi kanggo saindenging donya。
 
-Set up allergen alerts on products
+◆ MELUA REVOLUSI TRANSPARANSI PANGAN! ◆
 
-- Do you have a Milk, Gluten, Eggs, Soybeans, Nuts, Fish, Celery, Mustard, Sulphites, Peanuts, Sesame seeds, Crustaceans, Molluscs or Lupin allergy ?
-- Speed up your shopping with an initial screening with Open Food Facts.
-- Be careful that the info and the detection may not be 100% accurate. Always double check by yourself, with the packaging.
+Ana produk sing durung ana? Dadia bagéan saka solusi!
 
-More
+Nyumbang kanthi gampang: Tambahna foto lan data kanggo produk sing durung ana ing sistem kita。
+Gawe pangaruh: Saben kontribusimu mbantu jutaan wong nggawe pilihan sing luwih apik。
+Undhuh Open Food Facts dina iki lan kendhalen konsumsimu dhewe!
 
-Web version: https://world.openfoodfacts.org
-Questions, feedback : contact@openfoodfacts.org
+Sinau luwih akèh lan sesambungan:
+Website: https://world.openfoodfacts.org
+Questions/Feedback: mobile@openfoodfacts.org
 
-For cosmetics, you can install Open Beauty Facts.
+Cathetan penting babagan alergen: Informasi saka kita kuwi pandhuan sing migunani banget, nanging tansah priksa manèh kemasan produk kanggo rincian alergen sing paling akurat lan paling anyar. Data produk terus owah amarga bantuan saka komunitas kita。

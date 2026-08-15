@@ -1,79 +1,58 @@
-News: We invented the collaborative scanning app in 2012. Po 10. latach działania
-postanowiliśmy zaprojektować
-aplikację od zera!
+Skanuj. Zrozum. Wybieraj. Twoje jedzenie, twoja planeta, twoje zdrowie.
 
-This app lets you find food that's good for you and good for the planet by scanning their barcodes.
-You will get personalized health & eco-impact info for 2.3M foods.
+Open Food Facts to bezpłatna aplikacja mobilna, która pozwala skanować kody kreskowe żywności, produktów do pielęgnacji ciała i karmy dla zwierząt, aby natychmiast zobaczyć ich wpływ. Otrzymuj jasne oceny i szczegółowe informacje, aby lepiej rozumieć każdy produkt i podejmować świadome decyzje.
 
-Ustal swoje preferencje żywnościowe bez naruszania swojej prywatności
-Skan, który idealnie do Ciebie pracuje
-Zielony: produkt spełnia Twoje kryteria
-Czerwony: to może być problem
-Szary: Pomóż nam odpowiedzieć na to pytanie fotografując produkt
+◆ NAJWIĘKSZA WSPÓŁTWORZONA BAZA DANYCH ◆
 
-Porównaj w kilka sekund 3 różne sosy pomidorowe postawione na półce.
-Uzyskaj dopasowane porównanie każdej kategorii żywności
+Skanuj i odkrywaj ponad 3,5 MILIONA produktów, a liczba ta rośnie każdego dnia. Jesteśmy Wikipedią żywności — ogromną biblioteką informacji dostępną dla wszystkich. Nasze dane zasilają także ponad 150 innych aplikacji związanych ze zdrowiem i dobrym samopoczuciem.
 
-Kryteria żywnościowe, które możesz wybrać
+◆ 100% NIEZALEŻNY PROJEKT NON-PROFIT ◆
 
-Oddziaływanie na środowisko
-Zdrowie
-Dodatki i żywność wysoko przetworzona
-Sól
-Alergeny
-Nutri-Score
-Eco-Score
+Open Food Facts to projekt tworzony przez obywateli, całkowicie niezależny od marek i producentów.
 
-Skanuj, znajdź i porównaj ponad 2,3 mln produktów żywnościowych
+Obiektywna analiza: oceny produktów i informacje są prezentowane obiektywnie. Żadna marka nie może wpływać na nasze oceny.
+Bez reklam: skupiamy się na przejrzystości, a nie na zysku. W naszej aplikacji nie znajdziesz reklam.
+Napędzane przez społeczność: projekt tworzą i utrzymują dziesiątki tysięcy wolontariuszy z całego świata. Tworzone przez wszystkich, dla wszystkich.
+◆ NATYCHMIASTOWE INFORMACJE DOPASOWANE DO CIEBIE ◆
 
-Wybieraj produkty, które są dla Ciebie dobre
+Otrzymuj czytelne wyniki oznaczone kolorami (🟢 Zielony: pasuje do Twoich kryteriów, 🔴 Czerwony: powód do niepokoju, ⚫ Szary: potrzeba więcej informacji), dopasowane do Twoich preferencji:
 
-- Klasa Nutri-Score, od "A" do "E": Jakość wartości odżywczej
-- Grupa NOVA, od 1 do 4: Unikaj wysoko przetworzonej żywności (Grupa 4)
+DLA TWOJEGO ZDROWIA:
+Nutri-Score (A-E): jakość odżywcza na pierwszy rzut oka.
+Grupa NOVA (1-4): rozpoznawaj i unikaj żywności ultraprzetworzonej.
+Dodatki: poznaj ich obecność i poziom ryzyka na podstawie ocen EFSA.
+Składniki odżywcze: śledź sól, cukier, tłuszcz i nie tylko.
+DLA PLANETY:
+Eco-Score (A-E): oceniaj ślad środowiskowy (CO2, opakowania, pochodzenie).
+DLA TWOICH POTRZEB:
+Alerty alergenów: ustaw ostrzeżenia dla mleka, glutenu, jaj, soi, orzechów, ryb, selera, gorczycy, siarczynów, orzeszków ziemnych, sezamu, skorupiaków, mięczaków i łubinu.
+Filtry żywieniowe: wegańskie, wegetariańskie, ekologiczne, halal, koszerne itd.
+◆ PORÓWNUJ I ODKRYWAJ ◆
 
-Wybieraj produkty, które są dobre dla naszej planety
+Łatwo porównuj produkty obok siebie na półce. Możemy proponować alternatywy dla problematycznych produktów, ALE WEDŁUG TWOJEGO WŁASNEGO KRYTERIUM.
 
-Żywność odpowiada za ponad jedną trzecią globalnej emisji gazów cieplarnianych
-- Wskaźnik Eco-Score, od A do E: analiza 16 przypadków oddziaływania na środowisko
+◆ ŚLEDŹ CENY I NIE TYLKO ◆
 
-Wspieraj kupowanie bezpiecznej żywności
+Zbieranie cen: pomóż dokumentować downsizing cenowy i inflację, dodając dane o cenach.
+Nie tylko żywność: skanuj także kosmetyki i karmę dla zwierząt.
+Prywatność przede wszystkim: korzystaj z aplikacji anonimowo. Dane ze skanowania należą do Ciebie i nigdy nie są wysyłane online, chyba że zdecydujesz się je udostępnić.
+◆ OCENY OPARTE NA NAUCE ◆
 
-- Open Food Facts jest tworzony przez wszystkich, dla wszystkich!
-- Krótko mówiąc, jesteśmy "Wikipedią jedzenia", jak nazwała ten projekt prasa. Open Food Facts has also enabled the creation of over 150+ apps like Date Limite, Yuka or FoodVisor.
-- Użyj tego, aby dokonywać lepszych wyborów jedzeniowych
-- Aplikacja ma również charakter pracy zespołowej. Jeśli brakuje produktu, udostępnij zdjęcia i dane, aby uzyskać Nutri-Score, poziom przetworzenia żywności (NOVA) i Eco-Score.
-- Zrób jeden mały krok i zrób zdjęcie produktu ze swojej kuchni.
-Open Food Facts to projekt non-profit, tworzony przez tysiące wolontariuszy z całego świata. Why don't you join us ?
+Nasze metodologie opierają się na uznanej, recenzowanej nauce:
 
-Odszyfruj etykiety żywności
+Nutri-Score: opracowany przez niezależny francuski zespół prof. Hercberga.
+Klasyfikacja NOVA: stworzona przez międzynarodowy zespół prof. Monteiro.
+Eco-Score: oparty na danych ADEME, dostosowanych globalnie.
+◆ DOŁĄCZ DO REWOLUCJI PRZEJRZYSTOŚCI ŻYWNOŚCI! ◆
 
-We decipher products labels for you. You'll find:
-- Odżywianie: Nutriscore (ocena wartości odżywczej), składniki odżywcze, tłuszcz, tłuszcze trans, węglowodany, cukry, błonnik, białko oraz zawartość soli i sodu.
-- Środowisko: Ecoscore (w tym ślad węglowy (emisja CO2), opakowanie (a także instrukcje dotyczące recyklingu), etykiety środowiskowe (organiczne, jakościowe itp.) oraz pochodzenie składników)
-- Inne: firmy, oznaczenia (bio, bezglutenowe, wegańskie, wegetariańskie, halal, koszerne...), informacje dotyczące identyfikacji (kody opakowań, pochodzenie, fabryki żywności)
-- Na winach i piwach znajdziesz informacje o zawartości alkoholu.
+Brakuje produktu? Stań się częścią rozwiązania.
 
-Nasze oceny są oparte na nauce, a Open Food Facts pomaga w jej zdobyciu!
-- Nie tworzymy nowych pojęć. Opieramy się na wynikach badań naukowych.
-- Nutri-Score został stworzony przez niezależny francuski zespół kierowany przez profesora Hercberga.
-- Skala NOVA opisująca stopień przetwarzania żywności została zaprojektowana przez międzynarodowy zespół pod kierunkiem profesora Monteiro.
-- The additives synthesis is based on reviews by EFSA on exposure levels on food additives.
-- The Eco-Score is based on ground breaking data by ADEME, the French environmental agency, adapted for the world.
-- The Open Food Facts community is collaborating with research teams across the planet for research that benefits all.
+Łatwo wnoś wkład: dodawaj zdjęcia i dane produktów, których jeszcze nie ma w naszym systemie.
+Miej wpływ: każdy wkład pomaga milionom osób dokonywać lepszych wyborów.
+Pobierz Open Food Facts już dziś i przejmij kontrolę nad swoją konsumpcją.
 
-Your food, your data. Privacy-friendly app.
-Możesz korzystać anonimowo z aplikacji
-- Twoje dany nigdy nie są wysyłane online
+Dowiedz się więcej i bądź w kontakcie:
+Website: https://world.openfoodfacts.org
+Pytania/opinie: mobile@openfoodfacts.org
 
-Ustaw powiadomienia o alergenach w produktach
-
-- Masz alergię na Mleko, Gluten, Jaja, Soję, Orzechy, Ryby, Seler, Gorczyca, Dwutlenek siarki i siarczyny, Orzeszki ziemne, Nasiona sezamu, Skorupiaki, Mięczaki lub Łubin?
-- Zwiększ wydajność swoich zakupów przeprowadzając wstępną kontrolę produktów spożywczych przy pomocy Open Food Facts.
-- Należy uważać, bo informacje i wykrywanie produktów może nie być w 100% dokładne. Always double check by yourself, with the packaging.
-
-More
-
-Wersja internetowa: https://world.openfoodfacts.org
-Pytania, opinie: contact@openfoodfacts.org
-
-W przypadku kosmetyków możesz zainstalować Open Beauty Facts.
+Ważna uwaga o alergenach: nasze informacje są cenną wskazówką, ale zawsze sprawdzaj opakowanie produktu, aby uzyskać najdokładniejsze i najbardziej aktualne informacje o alergenach. Dane produktów stale się zmieniają dzięki naszej społeczności.

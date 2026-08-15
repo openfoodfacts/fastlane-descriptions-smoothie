@@ -1,77 +1,58 @@
-News: We invented the collaborative scanning app in 2012. As we turn 10, we’re reinventing it from the ground up!
+Сканируйте. Понимайте. Выбирайте. Ваша еда, ваша планета, ваше здоровье.
 
-This app lets you find food that's good for you and good for the planet by scanning their barcodes.
-You will get personalized health & eco-impact info for 2.3M foods.
+Open Food Facts — это бесплатное мобильное приложение, которое позволяет сканировать штрихкоды продуктов питания, товаров личной гигиены и кормов для животных, чтобы мгновенно видеть их влияние. Получайте понятные оценки и подробную информацию, чтобы лучше понимать каждый продукт и делать осознанный выбор.
 
-Set your food preferences without ruining your privacy
-A scan that truly matches who you are
-Green: the product matches your criteria
-Red: there is a problem
-Gray: Help us answer you by photographing the products
+◆ КРУПНЕЙШАЯ СОВМЕСТНО СОЗДАВАЕМАЯ БАЗА ДАННЫХ ◆
 
-Compare in a few seconds those 3 different tomato sauces left on the shelf.
-Get a tailored comparison of any food category
+Сканируйте и изучайте более 3,5 МИЛЛИОНА продуктов, и их число растёт каждый день. Мы — Википедия о еде, огромная библиотека информации, доступная каждому. Наши данные также используются более чем в 150 других приложениях для здоровья и благополучия.
 
-Food criteria you can pick
+◆ 100% НЕЗАВИСИМЫЙ И НЕКОММЕРЧЕСКИЙ ПРОЕКТ ◆
 
-Окружающая среда
-Health
-Additives & Ultra processed foods
-Соль
-Аллергены
-Nutri-Score
-Eco-Score
+Open Food Facts — это гражданский проект, полностью независимый от брендов и производителей.
 
-Scan, find & compare more than 2,3 million food products
+Объективный анализ: оценки и информация о продуктах представлены объективно. Ни один бренд не может повлиять на наши рейтинги.
+Без рекламы: наш приоритет — прозрачность, а не прибыль. В приложении нет рекламы.
+Сила сообщества: проект создают и поддерживают десятки тысяч волонтёров по всему миру. Сделано всеми и для всех.
+◆ МГНОВЕННАЯ ИНФОРМАЦИЯ ПОД ВАШИ НУЖДЫ ◆
 
-Choose products that are good for you
+Получайте понятные результаты с цветовой маркировкой (🟢 Зелёный: соответствует вашим критериям, 🔴 Красный: есть повод для беспокойства, ⚫ Серый: нужно больше информации), настроенные под ваши предпочтения:
 
-- The Nutri-Score grade, from A to E :  Nutritional quality
-- The NOVA group, from 1 to 4 : Avoid ultra-processed foods (Group 4)
+ДЛЯ ВАШЕГО ЗДОРОВЬЯ:
+Nutri-Score (A-E): качество питания с первого взгляда.
+Группа NOVA (1-4): выявляйте и избегайте ультрапереработанных продуктов.
+Добавки: понимайте их наличие и уровень риска на основе обзоров EFSA.
+Питательные вещества: отслеживайте соль, сахар, жиры и многое другое.
+ДЛЯ ПЛАНЕТЫ:
+Eco-Score (A-E): оценивайте экологический след (CO2, упаковка, происхождение).
+ДЛЯ ВАШИХ ПОТРЕБНОСТЕЙ:
+Оповещения об аллергенах: настройте предупреждения для молока, глютена, яиц, сои, орехов, рыбы, сельдерея, горчицы, сульфитов, арахиса, кунжута, ракообразных, моллюсков и люпина.
+Фильтры питания: веганское, вегетарианское, органическое, халяль, кошерное и т. д.
+◆ СРАВНИВАЙТЕ И ОТКРЫВАЙТЕ ◆
 
-Choose products that are good the planet
+Легко сравнивайте продукты прямо на полке. Мы можем предложить альтернативы проблемным продуктам, НО ПО ВАШЕМУ СОБСТВЕННОМУ КРИТЕРИЮ.
 
-- Food causes over 1/3 of global greenhouse gas emissions
-- The Eco-Score grade, from A to E :  a synthesis of 16 environmental impacts
+◆ ОТСЛЕЖИВАЙТЕ ЦЕНЫ И НЕ ТОЛЬКО ◆
 
-Contribute to Food Transparency
+Сбор цен: помогайте документировать шринкфляцию и инфляцию, добавляя данные о ценах.
+Не только еда: сканируйте также косметику и корма для животных.
+Сначала конфиденциальность: пользуйтесь приложением анонимно. Данные ваших сканирований принадлежат вам и никогда не отправляются в интернет, если только вы сами не решите внести вклад.
+◆ ОЦЕНКИ, ОСНОВАННЫЕ НА НАУКЕ ◆
 
-- Open Food Facts is made by everyone, for everyone!
-- In short, we're "the Wikipedia of food", as the press nicknamed the project. Open Food Facts has also enabled the creation of over 150+ apps like Date Limite, Yuka or FoodVisor.
-- Use it to make better food choices
-- The app is also collaborative. If the product is missing, contribute pictures and data to get the Nutri-Score, food processing level (NOVA) and Eco-Score.
-- Make a difference today by photographing a product from your kitchen.
-- Open Food Facts is a non-profit project made by thousands of volunteers from around the world. Why don't you join us ?
+Наши методики основаны на признанной рецензируемой науке:
 
-Decipher food labels
+Nutri-Score: разработан независимой французской командой профессора Эрцберга.
+Классификация NOVA: создана международной командой профессора Монтейру.
+Eco-Score: основан на данных ADEME, адаптированных для всего мира.
+◆ ПРИСОЕДИНЯЙТЕСЬ К РЕВОЛЮЦИИ ПРОЗРАЧНОСТИ В ПИТАНИИ! ◆
 
-We decipher products labels for you. You'll find:
-- Nutrition: The Nutriscore (nutritional score), nutrients, fat, transfat, carbohydrates, sugars, fiber, protein, salt & sodium.
-- Environment: The Ecoscore (including carbon footprint (CO2 emissions), packaging (as well as recycling instructions), environmental labels (organic, quality etc.), and origins of ingredients)
-- Other: brands, allergens, labels (bio, gluten free, vegan, vegetarian, halal, kosher...), traceability information (packaging codes, origins, food factories)
-- On wines and beers, you'll find the alcohol content.
+Не хватает продукта? Станьте частью решения.
 
-Our grades are science-based, and Open Food Facts is helping science!
-Мы ничего не выдумываем. Мы полагаемся на проверенные научные исследования.
-- Nutri-Score был создан независимой французской командой возглавляемой профессором Херцбергом.
-- NOVA группы полуфабрикатов продуктов питания разработаны международной командой профессора Монтейро.
-- The additives synthesis is based on reviews by EFSA on exposure levels on food additives.
-- The Eco-Score is based on ground breaking data by ADEME, the French environmental agency, adapted for the world.
-- The Open Food Facts community is collaborating with research teams across the planet for research that benefits all.
+Вносить вклад легко: добавляйте фотографии и данные о продуктах, которых ещё нет в нашей системе.
+Влияйте на мир: каждый вклад помогает миллионам людей делать лучший выбор.
+Скачайте Open Food Facts уже сегодня и возьмите своё потребление под контроль.
 
-Your food, your data. Privacy-friendly app.
-- Вы можете использовать приложение анонимно
-- Your food data is yours, and is never sent online
+Узнать больше и связаться:
+Website: https://world.openfoodfacts.org
+Вопросы/отзывы: mobile@openfoodfacts.org
 
-Set up allergen alerts on products
-
-- Do you have a Milk, Gluten, Eggs, Soybeans, Nuts, Fish, Celery, Mustard, Sulphites, Peanuts, Sesame seeds, Crustaceans, Molluscs or Lupin allergy ?
-- Speed up your shopping with an initial screening with Open Food Facts.
-- Be careful that the info and the detection may not be 100% accurate. Always double check by yourself, with the packaging.
-
-More
-
-Web version: https://world.openfoodfacts.org
-Вопросы, отзывы: contact@openfoodfacts.org
-
-Для косметики вы можете установить Open Beauty Facts.
+Важное примечание об аллергенах: наша информация — полезный ориентир, но всегда перепроверяйте упаковку продукта, чтобы получить самые точные и актуальные сведения об аллергенах. Данные о продуктах постоянно обновляются благодаря нашему сообществу.

@@ -1,77 +1,58 @@
-Nieuws: In 2012 hebben we de app voor samenwerkend scannen uitgevonden. Naar aanleiding van ons 10-jarig bestaan, vinden we onszelf opnieuw uit!
+Scan. Begrijp. Kies. Jouw voeding, jouw planeet, jouw gezondheid.
 
-Met deze app kun je voedsel vinden dat goed is voor jou en voor de planeet door hun streepjescodes te scannen.
-U krijgt gepersonaliseerde gezondheids- en eco-impactinformatie voor 2,3 miljoen voedingsmiddelen.
+Open Food Facts is een gratis mobiele app waarmee je barcodes van voedingsmiddelen, verzorgingsproducten en dierenvoeding kunt scannen om meteen hun impact te zien. Je krijgt duidelijke scores en gedetailleerde informatie om elk product te begrijpen en doordachte keuzes te maken.
 
-Stel uw voedselvoorkeuren in zonder uw privacy te verpesten
-👉 Een scan die echt past bij wie je bent
-✅ Groen: Het product voldoet aan uw criteria
-🛑 Rood: er is een probleem
-⬜️ Grijs: help ons om je een antwoord te geven door de producten te fotograferen
+◆ DE GROOTSTE COLLABORATIEVE DATABANK ◆
 
-Vergelijk in een paar seconden die 3 verschillende tomatensauzen die nog op het schap liggen.
-Krijg een op maat gemaakte vergelijking van elke voedingscategorie
+Scan en ontdek meer dan 3,5 MILJOEN producten, en dat aantal groeit elke dag. Wij zijn de Wikipedia van voeding, een enorme bibliotheek met informatie die voor iedereen toegankelijk is. Onze gegevens voeden ook meer dan 150 andere apps rond gezondheid en welzijn.
 
-Voedselcriteria die je kunt kiezen
+◆ 100% ONAFHANKELIJK EN ZONDER WINSTOOGMERK ◆
 
-Milieu
-Gezondheid
-Additieven & ultrabewerkte voedingsmiddelen
-Zout
-Allergenen
-Nutri-Score
-Eco-Score
+Open Food Facts is een burgergedragen project, volledig onafhankelijk van merken en fabrikanten.
 
-Scan, vind & vergelijk meer dan 2,3 miljoen voedingsproducten
+Objectieve analyse: productbeoordelingen en informatie worden objectief voorgesteld. Geen enkel merk kan onze scores beïnvloeden.
+Geen reclame: onze focus ligt op transparantie, niet op winst. Je vindt geen advertenties in onze app.
+Gedragen door de community: gebouwd en onderhouden door tienduizenden vrijwilligers wereldwijd. Door iedereen, voor iedereen.
+◆ DIRECTE INZICHTEN, OP JOUW MAAT ◆
 
-Kies de producten die goed voor je zijn
+Krijg duidelijke kleurgecodeerde resultaten (🟢 Groen: past bij jouw criteria, 🔴 Rood: aandachtspunt, ⚫ Grijs: meer informatie nodig), afgestemd op jouw voorkeuren:
 
-- Nutri-Score, van "A" tot "E", voor de voedingskwaliteit
-- De NOVA-groep, van 1 tot 4: Vermijd ultrabewerkte voedingsmiddelen (Groep 4)
+VOOR JE GEZONDHEID:
+Nutri-Score (A-E): voedingskwaliteit in één oogopslag.
+NOVA-groep (1-4): herken en vermijd ultrabewerkte voedingsmiddelen.
+Additieven: begrijp hun aanwezigheid en risiconiveau op basis van EFSA-beoordelingen.
+Voedingsstoffen: volg zout, suiker, vet en meer.
+VOOR DE PLANEET:
+Eco-Score (A-E): beoordeel de milieu-impact (CO2, verpakking, herkomst).
+VOOR JOUW BEHOEFTEN:
+Allergenenwaarschuwingen: stel waarschuwingen in voor melk, gluten, eieren, soja, noten, vis, selderij, mosterd, sulfieten, pinda’s, sesam, schaaldieren, weekdieren en lupine.
+Voedingsfilters: veganistisch, vegetarisch, bio, halal, koosjer enzovoort.
+◆ VERGELIJK EN ONTDEK ◆
 
-Kies producten die goed zijn voor de planeet
+Vergelijk producten eenvoudig naast elkaar in het winkelschap. We kunnen alternatieven tonen voor problematische producten, MAAR OP BASIS VAN JOUW EIGEN CRITERIUM.
 
-➜ Voedsel veroorzaakt meer dan 1/3 van de wereldwijde uitstoot van broeikasgassen
-➜ De Eco-Score-klasse, van A tot E: een synthese van 16 milieueffecten
+◆ VOLG PRIJZEN EN NOG VEEL MEER ◆
 
-Draag bij aan voedseltransparantie
+Prijsverzameling: help krimpflatie en inflatie te documenteren door prijsgegevens bij te dragen.
+Meer dan alleen voeding: scan ook cosmetica en dierenvoeding.
+Privacy eerst: gebruik de app anoniem. Jouw scangegevens zijn van jou en worden nooit online verstuurd, tenzij je ervoor kiest om bij te dragen.
+◆ WETENSCHAPPELIJK ONDERBOUWDE BEOORDELINGEN ◆
 
-➜ Open Food Facts wordt gemaakt door iedereen, voor iedereen!
-➜ Kortom, we zijn "de Wikipedia van voedsel", zoals de pers het project noemde. Open Food Facts heeft ook de creatie van meer dan 150+ apps mogelijk gemaakt, zoals Date Limite, Yuka of FoodVisor.
-- Gebruik het om betere voedselkeuzes te maken
-- De app is ook collaboratief. Als het product ontbreekt, draag dan foto's en gegevens bij om de Nutri-Score, voedselverwerkingsniveau (NOVA) en de Eco-Score te krijgen.
-- Maak vandaag nog het verschil door een product uit uw keuken te fotograferen.
-- Open Food Facts is een non-profit project ontwikkeld door duizenden vrijwilligers uit de hele wereld. Waarom kom je niet bij ons ?
+Onze methodologieën zijn gebaseerd op erkende, peer-reviewed wetenschap:
 
-Voedseletiketten ontcijferen
+Nutri-Score: ontwikkeld door het onafhankelijke Franse team van prof. Hercberg.
+NOVA-classificatie: ontworpen door het internationale team van prof. Monteiro.
+Eco-Score: gebaseerd op gegevens van ADEME, wereldwijd aangepast.
+◆ DOE MEE AAN DE REVOLUTIE VAN VOEDSELTRANSPARANTIE! ◆
 
-Wij ontcijferen productlabels voor u. U vindt:
-- Voeding: De Nutri-Score (voedingsscore), voedingsstoffen, vet, transvet, koolhydraten, suikers, vezels, eiwitten, zout & natrium.
-- Milieu: de Ecoscore (inclusief carbon footprint (CO2-uitstoot), verpakking (evenals recyclinginstructies), milieulabels (biologisch, kwaliteit etc.) en de herkomst van ingrediënten)
-- Overig: merken, allergenen, etiketten (bio, glutenvrij, veganistisch, vegetarisch, halal, koosjer...), traceerbaarheidsinformatie (verpakkingscodes, herkomst, voedselfabrieken)
-- Op wijnen en bieren vind je het alcoholpercentage.
+Ontbreekt er een product? Maak deel uit van de oplossing.
 
-Onze cijfers zijn wetenschappelijk onderbouwd, en Open Food Facts helpt de wetenschap!
-- We verzinnen dingen niet. We vertrouwen op peer-reviewed wetenschap.
-- De Nutri-Score is gecreëerd door het onafhankelijke Franse team onder leiding van professor Hercberg.
-- De NOVA-groepen voor voedselverwerking zijn ontworpen door het internationale team van professor Monteiro.
-- De synthese van additieven is gebaseerd op beoordelingen door EFSA over blootstellingsniveaus aan levensmiddelenadditieven.
-- De Eco-Score is gebaseerd op baanbrekende gegevens van ADEME, het Franse milieuagentschap, aangepast voor de wereld.
-- De Open Food Facts gemeenschap werkt samen met onderzoeksteams over de hele wereld om het voedingsonderzoek te verbeteren voor iedereen.
+Draag makkelijk bij: voeg foto’s en gegevens toe van producten die nog niet in ons systeem staan.
+Maak impact: elke bijdrage helpt miljoenen mensen om betere keuzes te maken.
+Download Open Food Facts vandaag nog en neem je consumptie weer in eigen handen.
 
-▶ Jouw voedsel, jouw data. Privacyvriendelijke app.
-- Je kunt de app anoniem gebruiken
-➜ Uw voedselgegevens zijn van u en worden nooit online verzonden
+Meer weten en contact houden:
+Website: https://world.openfoodfacts.org
+Vragen/feedback: mobile@openfoodfacts.org
 
-▶ Allergenenwaarschuwingen voor producten instellen
-
-➜ Heeft u een allergie voor melk, gluten, eieren, sojabonen, noten, vis, selderij, mosterd, sulfieten, pinda's, sesamzaad, schaaldieren, weekdieren of lupine?
-- Versnel het winkelen door een eerste screening met Open Food Facts.
-- Wees voorzichtig en weet dat de informatie en de detectie mogelijk niet 100% nauwkeurig zijn. Dubbelcheck dus altijd zelf de verpakking.
-
-Meer
-
-Webversie: https://world.openfoodfacts.org
-Vragen, feedback: contact@openfoodfacts.org
-
-Voor cosmetica kunt u Open Beauty Facts installeren.
+Belangrijke allergenenopmerking: onze informatie is een waardevolle gids, maar controleer altijd de productverpakking voor de meest nauwkeurige en actuele allergeneninformatie. Productgegevens evolueren voortdurend dankzij onze community.

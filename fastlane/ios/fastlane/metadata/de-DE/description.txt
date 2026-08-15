@@ -1,77 +1,58 @@
-Neuigkeiten: Wir haben 2012 die App für kollaboratives Scannen erfunden. Wir werden 10 Jahre alt und erfinden uns von Grund auf neu!
+Scannen. Verstehen. Entscheiden. Dein Essen, dein Planet, deine Gesundheit.
 
-Mit dieser App können Sie Lebensmittel finden, die nicht nur gut für Sie, sondern auch für die Umwelt sind, indem Sie deren Strichcode einlesen.
-Sie erhalten personalisierte Informationen zu Gesundheit und Umweltauswirkungen von 2,3 Millionen Lebensmitteln.
+Open Food Facts ist eine kostenlose mobile App, mit der du Barcodes von Lebensmitteln, Körperpflegeprodukten und Tiernahrung scannen kannst, um ihre Auswirkungen sofort zu sehen. Erhalte klare Bewertungen und detaillierte Informationen, um jedes Produkt besser zu verstehen und fundierte Entscheidungen zu treffen.
 
-Legen Sie Ihre Lebensmittelvorlieben fest, ohne Ihre Privatsphäre zu verletzen
-Ein Scan, der wirklich zu Ihnen passt
-Grün: Das Produkt entspricht deinen Kriterien
-Rot: Es gibt ein Problem
-Grau: Hilf uns, dir zu antworten, indem du die Produkte fotografierst
+◆ DIE GRÖSSTE KOLLABORATIVE DATENBANK ◆
 
-Vergleichen Sie in wenigen Sekunden die 3 verschiedenen Tomatensaucen, die im Regal stehen.
-Holen Sie sich einen maßgeschneiderten Vergleich für jede Lebensmittelkategorie
+Scanne und entdecke über 3,5 MILLIONEN Produkte, und jeden Tag kommen mehr dazu. Wir sind das Wikipedia der Lebensmittel, eine riesige Informationsbibliothek, die allen offensteht. Unsere Daten versorgen außerdem mehr als 150 weitere Gesundheits- und Wellness-Apps.
 
-Lebensmittelkriterien, die Sie auswählen können
+◆ 100 % UNABHÄNGIG UND GEMEINNÜTZIG ◆
 
-Umweltauswirkungen
-Gesundheit
-Zusatzstoffe und hochverarbeitete Lebensmittel
-Salz
-Allergene
-Nutri-Score
-Eco-Score
+Open Food Facts ist ein von Bürgerinnen und Bürgern getragenes Projekt, vollkommen unabhängig von Marken und Herstellern.
 
-Scannen, finden und vergleichen Sie mehr als 2,3 Millionen Lebensmittelprodukte
+Objektive Analyse: Produktbewertungen und Informationen werden objektiv dargestellt. Keine Marke kann unsere Bewertungen beeinflussen.
+Keine Werbung: Unser Fokus liegt auf Transparenz, nicht auf Gewinn. In unserer App findest du keine Werbung.
+Von der Community getragen: Entwickelt und gepflegt von Zehntausenden Freiwilligen weltweit. Von allen für alle gemacht.
+◆ SOFORTIGE EINBLICKE, AUF DICH ZUGESCHNITTEN ◆
 
-Wählen Sie Produkte, die gut für Sie sind
+Erhalte klare, farbcodierte Ergebnisse (🟢 Grün: entspricht deinen Kriterien, 🔴 Rot: bedenklich, ⚫ Grau: mehr Informationen nötig), abgestimmt auf deine Vorlieben:
 
-- Die Nutri-Score-Klasse, von „A” bis „E” ➜ Nährwertqualität
-Die NOVA-Gruppe, von „1” bis „4” ➜ Finden Sie hochverarbeiteten Lebensmittel (Gruppe 4)
+FÜR DEINE GESUNDHEIT:
+Nutri-Score (A-E): Nährwertqualität auf einen Blick.
+NOVA-Gruppe (1-4): Erkenne und vermeide ultra-verarbeitete Lebensmittel.
+Zusatzstoffe: Verstehe ihre Verwendung und ihr Risikoniveau auf Basis der EFSA-Bewertungen.
+Nährstoffe: Behalte Salz, Zucker, Fett und mehr im Blick.
+FÜR DEN PLANETEN:
+Eco-Score (A-E): Bewerte den ökologischen Fußabdruck (CO2, Verpackung, Herkunft).
+FÜR DEINE BEDÜRFNISSE:
+Allergenwarnungen: Richte Warnungen für Milch, Gluten, Eier, Soja, Nüsse, Fisch, Sellerie, Senf, Sulfite, Erdnüsse, Sesam, Krebstiere, Weichtiere und Lupinen ein.
+Ernährungsfilter: vegan, vegetarisch, bio, halal, koscher usw.
+◆ VERGLEICHEN UND ENTDECKEN ◆
 
-Wählen Sie die Produkte, die gut für den Planeten sind
+Vergleiche Produkte ganz einfach direkt im Regal miteinander. Wir können Alternativen für problematische Produkte anzeigen, ABER NACH DEINEM EIGENEN KRITERIUM.
 
-- Lebensmittel verursachen über 1/3 der weltweiten Treibhausgasemissionen
-- Die Eco-Score-Note, von A bis E: eine Bilanz von 16 Umweltauswirkungen
+◆ PREISE VERFOLGEN UND MEHR ◆
 
-Beitrag zur Transparenz von Lebensmittelprodukten
+Preiserfassung: Hilf mit, Shrinkflation und Inflation zu dokumentieren, indem du Preisdaten beiträgst.
+Mehr als nur Lebensmittel: Scanne auch Kosmetik und Tiernahrung.
+Datenschutz zuerst: Nutze die App anonym. Deine Scan-Daten gehören dir und werden nur online gesendet, wenn du dich bewusst zum Beitragen entscheidest.
+◆ WISSENSCHAFTLICH FUNDIERTE BEWERTUNGEN ◆
 
-- Open Food Facts ist von allen für jeden gemacht!
-- Kurz gesagt, wir sind das „Wikipedia der Lebensmittel”, wie die Presse das Projekt nannte. Open Food Facts hat auch die Entwicklung von mehr als 150 Apps wie Date Limite, Yuka und FoodVisor ermöglicht.
-- Nutzen Sie es, um bessere Entscheidungen bei Lebensmitteln zu treffen
-- Die App ist außerdem ein Gemeinschaftswerk. Wenn das Produkt nicht vorhanden ist, können Sie Fotos und Daten beisteuern, um den Nutri-Score, den Lebensmittelverarbeitungsgrad (NOVA) und den Eco-Score zu ermitteln.
-- Setzen Sie noch heute ein Zeichen und fotografieren Sie ein Produkt aus Ihrer Küche.
-- Open Food Facts ist ein gemeinnütziges Projekt, das von Tausenden von Freiwilligen aus der ganzen Welt unterstützt wird. Warum schließen Sie sich uns nicht an?
+Unsere Methoden beruhen auf anerkannter, begutachteter Wissenschaft:
 
-Lebensmitteletiketten entziffern
+Nutri-Score: entwickelt vom unabhängigen französischen Team von Prof. Hercberg.
+NOVA-Klassifikation: entworfen vom internationalen Team von Prof. Monteiro.
+Eco-Score: basiert auf Daten der ADEME und wurde global angepasst.
+◆ MACH MIT BEI DER REVOLUTION FÜR LEBENSMITTELTRANSPARENZ! ◆
 
-Wir entschlüsseln Produktetiketten für Sie. Sie finden:
-- Ernährung: Nutri-Score (Nährwertanalyse), Nährstoffe, Fett, Transfette, Kohlenhydrate, Zucker, Ballaststoffe, Eiweiß, Salz und Natrium.
-- Umwelt: Der Eco-Score (einschließlich CO₂-Fußabdruck (CO₂-Emissionen), Verpackung (sowie Recycling-Anweisungen), Umweltzeichen (Bio, Qualität usw.) und Herkunft der Zutaten)
-- Sonstiges: Marken, Allergene, Kennzeichnungen (Bio, glutenfrei, vegan, vegetarisch, halal, koscher …), Informationen zur Rückverfolgbarkeit (Verpackungscodes, Herkunft, Lebensmittelfabriken)
-- Auf Weinen und Bieren finden Sie den Alkoholgehalt.
+Fehlt ein Produkt? Werde Teil der Lösung.
 
-Unsere Bewertungen sind wissenschaftlich fundiert, und Open Food Facts hilft der Wissenschaft!
-- Wir denken uns das nicht aus. Wir stützen uns auf eine von Experten begutachtete Wissenschaft.
-• Der Nutri-Score wurde von dem unabhängigen französischen Team um Professor Hercberg erstellt.
-• Die NOVA-Gruppen zur Lebensmittelverarbeitung wurden vom internationalen Team von Professor Monteiro entworfen.
-- Sie können eine Synthese der EFSA-Expositionswerte für Lebensmittelzusatzstoffe erhalten.
-- Der Eco-Score basiert auf bahnbrechenden Daten der französischen Umweltbehörde ADEME, die für die Welt angepasst wurden.
-- Die Open-Food-Facts-Gemeinschaft arbeitet mit Forschungsteams auf der ganzen Welt zusammen, um Forschung zum Nutzen aller zu betreiben.
+Einfach beitragen: Füge Fotos und Daten für Produkte hinzu, die noch nicht in unserem System sind.
+Etwas bewirken: Jeder Beitrag hilft Millionen Menschen, bessere Entscheidungen zu treffen.
+Lade Open Food Facts noch heute herunter und übernimm die Kontrolle über deinen Konsum.
 
-Ihre Nahrungsmittel — Ihre Daten. Datenschutzfreundliche App.
-• Sie können die Anwendung auch anonym verwenden
-- Ihre Lebensmitteldaten gehören Ihnen und werden niemals online gesendet
+Mehr erfahren und vernetzen:
+Website: https://world.openfoodfacts.org
+Fragen/Feedback: mobile@openfoodfacts.org
 
-Richten Sie Allergenwarnungen für Produkte ein
-
-- Haben Sie eine Allergie gegen Milch, Gluten, Eier, Sojabohnen, Nüsse, Fisch, Sellerie, Senf, Sulfite, Erdnüsse, Sesamsamen, Krustentiere, Weichtiere oder Lupinen?
-- Beschleunigen Sie Ihren Einkauf mit einem ersten Suchlauf mit Open Food Facts.
-- Achten Sie darauf, dass die Informationen und die Erkennung möglicherweise nicht zu 100% korrekt sind. Prüfen Sie immer eigenständig anhand der Verpackung.
-
-Mehr
-
-Webversion: https://world.openfoodfacts.org
-Fragen und Rückmeldungen: contact@openfoodfacts.org
-
-Für Kosmetika können Sie Open Beauty Facts installieren.
+Wichtiger Hinweis zu Allergenen: Unsere Informationen sind eine wertvolle Orientierung, aber prüfe immer auch die Produktverpackung auf die genauesten und aktuellsten Allergenangaben. Die Produktdaten entwickeln sich dank unserer Community ständig weiter.

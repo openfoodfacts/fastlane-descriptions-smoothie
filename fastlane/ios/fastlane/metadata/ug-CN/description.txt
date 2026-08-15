@@ -1,77 +1,62 @@
-News: We invented the collaborative scanning app in 2012. As we turn 10, we’re reinventing it from the ground up!
+سىكاننېرلاڭ. چۈشىنىڭ. تاللاڭ. يېمەكلىكىڭىز، پىلانېتىڭىز، سالامەتلىكىڭىز。
 
-This app lets you find food that's good for you and good for the planet by scanning their barcodes.
-You will get personalized health & eco-impact info for 2.3M foods.
+Open Food Facts بولسا يېمەكلىك، شەخسىي پەرۋىش مەھسۇلاتلىرى ۋە ئەرمەك ھايۋان يېمىكىنىڭ باركودىنى سىكاننېرلاپ، ئۇلارنىڭ تەسىرىنى دەرھال كۆرەلەيدىغان ھەقسىز كۆچمە ئەپ. ھەر بىر مەھسۇلاتنى چۈشىنىش ۋە توغرا تاللاش قىلىش ئۈچۈن ئېنىق باھالار ۋە تەپسىلىي ئۇچۇرلارغا ئېرىشىسىز。
 
-Set your food preferences without ruining your privacy
-A scan that truly matches who you are
-Green: the product matches your criteria
-Red: there is a problem
-Gray: Help us answer you by photographing the products
+◆ ئەڭ چوڭ ھەمكارلىق سانلىق مەلۇمات ئامبىرى ◆
 
-Compare in a few seconds those 3 different tomato sauces left on the shelf.
-Get a tailored comparison of any food category
+3.5 مىليوندىن ئارتۇق مەھسۇلاتنى سىكاننېرلاپ ۋە ئىزدەپ كۆرۈڭ (ھەر كۈنى تېخىمۇ كۆپىيىۋاتىدۇ!). بىز «يېمەكلىكنىڭ Wikipediaسى»، ھەممەيلەنگە ئېچىق بولغان زور ئۇچۇر كۈتۈپخانىسىمىز. سانلىق مەلۇماتلىرىمىز يەنە 150 دىن ئارتۇق سالامەتلىك ۋە ياخشى تۇرмуш ئەپلىرىنى قوللايدۇ。
 
-Food criteria you can pick
+◆ 100% مۇستەقىل ۋە پايدا كۆزلەيمەيدىغان ◆
 
-Environment
-Health
-Additives & Ultra processed foods
-Salt
-Allergens
-Nutri-Score
-Eco-Score
+Open Food Facts بولسا پۇقرالار باشچىلىقىدىكى، ماركا ۋە ئىشلەپچىقارغۇچىلاردىن پۈتۈنلەي مۇستەقىل بولغان تۈر。
 
-Scan, find & compare more than 2,3 million food products
+ئوبىيېكتىپ تەھلىل: مەھسۇلات باھالاشى ۋە ئۇچۇرلار ئوبيېكتىپ شەكىلدە كۆرسىتىلىدۇ. ھېچقانداق ماركا باھالىرىمىزغا تەسىر كۆرسىتەلەلمەيدۇ。
+ئېلان يوق: بىزنىڭ دىققىتىمىز پايدا ئەمەس، بەلكى ئاشكارىلىق. ئەپىمىزدا ئېلان يوق。
+جامائەت يېتەكلەيدۇ: دۇنيادىكى ئون مىڭلىغان ئىختىيارىيلار تەرىپىدىن قۇرۇلۇپ، ساقلىنىدۇ. ھەممەيلەن تەرىپىدىن ياسالغان، ھەممەيلەن ئۈچۈن。
 
-Choose products that are good for you
+◆ سىزگە ماسلاشتۇرۇلغان دەرھال چۈشەنچە ◆
 
-- The Nutri-Score grade, from A to E :  Nutritional quality
-- The NOVA group, from 1 to 4 : Avoid ultra-processed foods (Group 4)
+ئۆزىڭىزنىڭ ياقتۇرۇشىغا ئاساسەن رەڭلىك ئېنىق نەتىجىلەرنى كۆرۈڭ (🟢 يېشىل: ئۆلچىمىڭىزگە ماس، 🔴 قىزىل: دىققەت قىلىشقا تېگىشلىك، ⚫ كۈلرەڭ: تېخىمۇ كۆپ ئۇچۇر كېرەك):
 
-Choose products that are good the planet
+سالامەتلىكىڭىز ئۈچۈن:
+Nutri-Score (A-E): ئوزۇقلۇق سۈپىتىنى بىر قاراشتا كۆرۈڭ。
+NOVA Group (1-4): زىيادە پىششىقلانغان يېمەكلىكلەرنى تونۇپ، ئۇلاردىن ساقلىنىڭ。
+قوشۇمچە ماددىلار: EFSA باھالاشلىرىغا ئاساسەن ئۇلارنىڭ بارلىقى ۋە خەۋپ سەۋىيەسىنى چۈشىنىڭ。
+ئوزۇقلۇق ماددىلىرى: تۇز، شېكەر، ماي ۋە باشقىلارنى كۆزىتىڭ。
+پىلانېت ئۈچۈن:
+Eco-Score (A-E): مۇھىت ئىزىنى باھالاڭ (CO2، ئوراپ قاچىلاش، كېلىپ چىقىشى)。
+ئېھتىياجىڭىز ئۈچۈن:
+ئاللېرگېن ئاگاھلاندۇرۇشلىرى: Milk، Gluten، Eggs، Soy、Nuts、Fish、Celery、Mustard、Sulphites、Peanuts、Sesame、Crustaceans、Molluscs、Lupin ئۈچۈن ئاگاھلاندۇرۇش بەلگىلەڭ。
+يېمەك-ئىچمەك سۈزگۈچلىرى: vegan، vegetarian، organic، halal، kosher قاتارلىقلار。
 
-- Food causes over 1/3 of global greenhouse gas emissions
-- The Eco-Score grade, from A to E :  a synthesis of 16 environmental impacts
+◆ سېلىشتۇرۇڭ ۋە بايقۇڭ ◆
 
-Contribute to Food Transparency
+دۇكان تەكچىسىدە مەھسۇلاتلارنى يانمۇ-يان ئاسان سېلىشتۇرالايسىز. مەسىلە بار مەھسۇلاتلارغا ئۆز ئۆلچىمىڭىزگە ئاساسلانغان ئالماشتۇرۇش تاللاشلىرىنىمۇ كۆرسىتىپ بېرەلەيمىز。
 
-- Open Food Facts is made by everyone, for everyone!
-- In short, we're "the Wikipedia of food", as the press nicknamed the project. Open Food Facts has also enabled the creation of over 150+ apps like Date Limite, Yuka or FoodVisor.
-- Use it to make better food choices
-- The app is also collaborative. If the product is missing, contribute pictures and data to get the Nutri-Score, food processing level (NOVA) and Eco-Score.
-- Make a difference today by photographing a product from your kitchen.
-- Open Food Facts is a non-profit project made by thousands of volunteers from around the world. Why don't you join us ?
+◆ باھانى كۆزىتىڭ ۋە تېخىمۇ كۆپ ◆
 
-Decipher food labels
+باھا توپلاش: باھا سانلىق مەلۇماتلىرىنى قوشۇش ئارقىلىق shrinkflation ۋە پۇل پاخاللىقىنى خاتىرىلەشكە ياردەم قىلىڭ。
+يېمەكلىكتىن باشقا: گىرىم بۇيۇملىرى ۋە ئەرمەك ھايۋان يېمىكىنىمۇ سىكاننېرلىغىلى بولىدۇ!
+مەخپىيەتلىك بىرىنچى ئورۇندا: ئەپنى نام-شەرىپىڭىزنى ئاشكارىلىماي ئىشلىتەلەيسىز. سىكاننېرلاش سانلىق مەلۇماتلىرىڭىز سىزگە تەۋە بولۇپ، ئۆزىڭىز تۆھپە قوشۇشنى تاللىمايسىزكەن، تورغا يوللانمايدۇ。
 
-We decipher products labels for you. You'll find:
-- Nutrition: The Nutriscore (nutritional score), nutrients, fat, transfat, carbohydrates, sugars, fiber, protein, salt & sodium.
-- Environment: The Ecoscore (including carbon footprint (CO2 emissions), packaging (as well as recycling instructions), environmental labels (organic, quality etc.), and origins of ingredients)
-- Other: brands, allergens, labels (bio, gluten free, vegan, vegetarian, halal, kosher...), traceability information (packaging codes, origins, food factories)
-- On wines and beers, you'll find the alcohol content.
+◆ پەن-ئاساسلىق باھالاشلار ◆
 
-Our grades are science-based, and Open Food Facts is helping science!
-- We don't make up things. We rely on peer-reviewed science.
-- The Nutri-Score has been created by the independent French team led by Professor Hercberg.
-- The NOVA groups on food processing have been designed by the international team of Professor Monteiro.
-- The additives synthesis is based on reviews by EFSA on exposure levels on food additives.
-- The Eco-Score is based on ground breaking data by ADEME, the French environmental agency, adapted for the world.
-- The Open Food Facts community is collaborating with research teams across the planet for research that benefits all.
+بىزنىڭ ئۇسۇللىرىمىز ئېتىراپ قىلىنغان ۋە peer-reviewed بولغان پەنگە تايىنىدۇ:
 
-Your food, your data. Privacy-friendly app.
-- You can use the app anonymously
-- Your food data is yours, and is never sent online
+Nutri-Score: Prof. Hercberg يېتەكلىگەن مۇستەقىل فىرانسىيە گۇرۇپپىسى تەرىپىدىن يارىتىلغان。
+NOVA Classification: Prof. Monteiro نىڭ خەلقئارالىق گۇرۇپپىسى تەرىپىدىن لايىھەلەنگەن。
+Eco-Score: فىرانسىيەنىڭ مۇھىت ئاپپاراتى ADEME سانلىق مەلۇماتلىرىغا ئاساسلىنىپ، دۇنيا بويىچە ئىشلىتىشكە ماسلاشتۇرۇلغان。
 
-Set up allergen alerts on products
+◆ يېمەكلىك ئاشكارىلىقى ئىنقىلابىغا قوشۇلۇڭ! ◆
 
-- Do you have a Milk, Gluten, Eggs, Soybeans, Nuts, Fish, Celery, Mustard, Sulphites, Peanuts, Sesame seeds, Crustaceans, Molluscs or Lupin allergy ?
-- Speed up your shopping with an initial screening with Open Food Facts.
-- Be careful that the info and the detection may not be 100% accurate. Always double check by yourself, with the packaging.
+بىر مەھسۇلات كەممۇ؟ ھەل قىلىش چارىسىنىڭ بىر قىسمى بولۇڭ!
 
-More
+ئاسان تۆھپە قوشۇڭ: سىستېمىمىزدا تېخى يوق مەھسۇلاتلارغا سۈرەت ۋە سانلىق مەلۇمات قوشۇڭ。
+تەسىر يارىتىڭ: ھەر بىر تۆھپىڭىز مىليونلىغان كىشىلەرنىڭ تېخىمۇ ياخشى تاللاش قىلىشىغا ياردەم بېرىدۇ。
+بۈگۈنلا Open Food Facts نى چۈشۈرۈپ، ئىستېمالىڭىزنى ئۆزىڭىز كونترول قىلىڭ!
 
-Web version: https://world.openfoodfacts.org
-Questions, feedback : contact@openfoodfacts.org
+تېخىمۇ كۆپ بىلىڭ ۋە ئالاقىلىشىڭ:
+Website: https://world.openfoodfacts.org
+Questions/Feedback: mobile@openfoodfacts.org
 
-For cosmetics, you can install Open Beauty Facts.
+ئاللېرگېن ھەققىدىكى مۇھىم ئەسكەرتىش: بىزنىڭ ئۇچۇرلىرىمىز كۈچلۈك يول كۆرسەتكۈچ، ئەمما ئەڭ توغرا ۋە ئەڭ يېڭى ئاللېرگېن تەپسىلاتلىرى ئۈچۈن مەھسۇلات ئورالمىسىنى ھەر ۋاقىت قايتا تەكشۈرۈڭ. مەھسۇلات سانلىق مەلۇماتلىرى جامائىتىمىزنىڭ ياردىمى بىلەن ئۈزلۈكسىز يېڭىلىنىپ تۇرىدۇ。

@@ -1,77 +1,58 @@
-News: We invented the collaborative scanning app in 2012. As we turn 10, we’re reinventing it from the ground up!
+Szkenneld. Értsd meg. Válassz. A te ételed, a te bolygód, a te egészséged.
 
-This app lets you find food that's good for you and good for the planet by scanning their barcodes.
-You will get personalized health & eco-impact info for 2.3M foods.
+Az Open Food Facts egy ingyenes mobilalkalmazás, amellyel élelmiszerek, testápolási termékek és állateledelek vonalkódját szkennelheted be, hogy azonnal lásd a hatásukat. Világos értékeléseket és részletes információkat kapsz, hogy megérts minden terméket, és megalapozott döntéseket hozhass.
 
-Set your food preferences without ruining your privacy
-A scan that truly matches who you are
-Green: the product matches your criteria
-Red: there is a problem
-Gray: Help us answer you by photographing the products
+◆ A LEGNAGYOBB KÖZÖSSÉGI ADATBÁZIS ◆
 
-Compare in a few seconds those 3 different tomato sauces left on the shelf.
-Get a tailored comparison of any food category
+Szkenneld és fedezd fel a több mint 3,5 MILLIÓ terméket, és ez a szám naponta nő. Mi vagyunk az élelmiszerek Wikipédiája, egy hatalmas információs könyvtár, amely mindenki számára elérhető. Adataink több mint 150 másik egészség- és jólléti alkalmazást is működtetnek.
 
-Food criteria you can pick
+◆ 100%-BAN FÜGGETLEN ÉS NONPROFIT ◆
 
-Környezet
-Egészség
-Additives & Ultra processed foods
-Só
-Allergének
-Nutri-Score
-Eco-Score
+Az Open Food Facts egy állampolgárok által vezetett projekt, teljesen független a márkáktól és a gyártóktól.
 
-Scan, find & compare more than 2,3 million food products
+Objektív elemzés: a termékértékelések és információk objektíven jelennek meg. Egyetlen márka sem befolyásolhatja az értékeléseinket.
+Nincs reklám: a fókuszunk az átláthatóságon van, nem a profilon. Az alkalmazásban nem találsz hirdetéseket.
+Közösségi alapon működik: világszerte több tízezer önkéntes építi és tartja fenn. Mindenki által, mindenkiért.
+◆ AZONNALI, SZEMÉLYRE SZABOTT INFORMÁCIÓK ◆
 
-Choose products that are good for you
+Világos, színkódolt eredményeket kapsz (🟢 Zöld: megfelel a kritériumaidnak, 🔴 Piros: aggodalomra ad okot, ⚫ Szürke: több információ szükséges), a preferenciáidhoz igazítva:
 
-- The Nutri-Score grade, from A to E :  Nutritional quality
-- The NOVA group, from 1 to 4 : Avoid ultra-processed foods (Group 4)
+AZ EGÉSZSÉGEDÉRT:
+Nutri-Score (A-E): tápértéki minőség egy pillantásra.
+NOVA-csoport (1-4): azonosítsd és kerüld az ultra-feldolgozott élelmiszereket.
+Adalékanyagok: értsd meg jelenlétüket és kockázati szintjüket az EFSA értékelései alapján.
+Tápanyagok: kövesd a sót, a cukrot, a zsírt és még sok mást.
+A BOLYGÓÉRT:
+Eco-Score (A-E): értékeld a környezeti lábnyomot (CO2, csomagolás, származás).
+AZ IGÉNYEIDHEZ:
+Allergénriasztások: állíts be figyelmeztetéseket tejre, gluténre, tojásra, szójára, diófélékre, halra, zellerre, mustárra, szulfitokra, földimogyoróra, szezámra, rákfélékre, puhatestűekre és csillagfürtre.
+Étrendszűrők: vegán, vegetáriánus, bio, halal, kóser stb.
+◆ HASONLÍTS ÖSSZE ÉS FEDEZZ FEL ◆
 
-Choose products that are good the planet
+Könnyen összehasonlíthatod a termékeket egymás mellett a polcon. Tudunk alternatívákat mutatni a problémás termékekhez, DE A SAJÁT SZEMPONTJAID SZERINT.
 
-- Food causes over 1/3 of global greenhouse gas emissions
-- The Eco-Score grade, from A to E :  a synthesis of 16 environmental impacts
+◆ KÖVESD AZ ÁRAKAT ÉS MÉG SOK MÁST ◆
 
-Contribute to Food Transparency
+Árgyűjtés: segíts dokumentálni a zsugorflációt és az inflációt áradatok hozzáadásával.
+Több mint élelmiszer: kozmetikumokat és állateledeleket is szkennelhetsz.
+Adatvédelem az első: az alkalmazást névtelenül is használhatod. A szkennelési adataid a tieid, és soha nem kerülnek online, hacsak nem döntesz úgy, hogy hozzájárulsz.
+◆ TUDOMÁNYOSAN MEGALAPOZOTT ÉRTÉKELÉSEK ◆
 
-- Open Food Facts is made by everyone, for everyone!
-- In short, we're "the Wikipedia of food", as the press nicknamed the project. Open Food Facts has also enabled the creation of over 150+ apps like Date Limite, Yuka or FoodVisor.
-- Use it to make better food choices
-- The app is also collaborative. If the product is missing, contribute pictures and data to get the Nutri-Score, food processing level (NOVA) and Eco-Score.
-- Make a difference today by photographing a product from your kitchen.
-- Open Food Facts is a non-profit project made by thousands of volunteers from around the world. Why don't you join us ?
+Módszertanaink elismert, szakmailag lektorált tudományon alapulnak:
 
-Decipher food labels
+Nutri-Score: Hercberg professzor független francia csapata fejlesztette ki.
+NOVA-besorolás: Monteiro professzor nemzetközi csapata alkotta meg.
+Eco-Score: az ADEME adataira épül, globális alkalmazásra igazítva.
+◆ CSATLAKOZZ AZ ÉLELMISZER-ÁTLÁTHATÓSÁG FORRADALMÁHOZ! ◆
 
-We decipher products labels for you. You'll find:
-- Nutrition: The Nutriscore (nutritional score), nutrients, fat, transfat, carbohydrates, sugars, fiber, protein, salt & sodium.
-- Environment: The Ecoscore (including carbon footprint (CO2 emissions), packaging (as well as recycling instructions), environmental labels (organic, quality etc.), and origins of ingredients)
-- Other: brands, allergens, labels (bio, gluten free, vegan, vegetarian, halal, kosher...), traceability information (packaging codes, origins, food factories)
-- On wines and beers, you'll find the alcohol content.
+Hiányzik egy termék? Légy a megoldás része.
 
-Our grades are science-based, and Open Food Facts is helping science!
-- We don't make up things. We rely on peer-reviewed science.
-- The Nutri-Score has been created by the independent French team led by Professor Hercberg.
-- The NOVA groups on food processing have been designed by the international team of Professor Monteiro.
-- The additives synthesis is based on reviews by EFSA on exposure levels on food additives.
-- The Eco-Score is based on ground breaking data by ADEME, the French environmental agency, adapted for the world.
-- The Open Food Facts community is collaborating with research teams across the planet for research that benefits all.
+Hozzájárulni egyszerű: adj hozzá fotókat és adatokat olyan termékekhez, amelyek még nincsenek a rendszerünkben.
+Legyen hatásod: minden hozzájárulás segít emberek millióinak jobb döntéseket hozni.
+Töltsd le az Open Food Facts alkalmazást még ma, és vedd kézbe a fogyasztásod irányítását.
 
-Your food, your data. Privacy-friendly app.
-- Az alkalmazást névtelenül használhatja
-- Your food data is yours, and is never sent online
+Tudj meg többet és maradj kapcsolatban:
+Website: https://world.openfoodfacts.org
+Kérdések/visszajelzés: mobile@openfoodfacts.org
 
-Set up allergen alerts on products
-
-- Do you have a Milk, Gluten, Eggs, Soybeans, Nuts, Fish, Celery, Mustard, Sulphites, Peanuts, Sesame seeds, Crustaceans, Molluscs or Lupin allergy ?
-- Speed up your shopping with an initial screening with Open Food Facts.
-- Be careful that the info and the detection may not be 100% accurate. Always double check by yourself, with the packaging.
-
-More
-
-Web version: https://world.openfoodfacts.org
-Kérdések, visszajelzés: contact@openfoodfacts.org
-
-For cosmetics, you can install Open Beauty Facts.
+Fontos allergénmegjegyzés: információink értékes útmutatást adnak, de a legpontosabb és legfrissebb allergénadatokért mindig ellenőrizd a termék csomagolását. A termékadatok közösségünknek köszönhetően folyamatosan fejlődnek.
