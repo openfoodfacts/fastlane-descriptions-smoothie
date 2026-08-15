@@ -1,40 +1,40 @@
 Scannez. Comprenez. Choisissez. Votre alimentation, votre planète, votre santé.
 
-Open Food Facts est une application mobile gratuite qui vous permet de scanner les codes-barres de produits alimentaires, de soins personnels et d’aliments pour animaux afin de voir instantanément leur impact. Obtenez des notes claires et des informations détaillées pour comprendre chaque produit et faire des choix éclairés.
+Open Food Facts est une application mobile gratuite qui vous permet de scanner les codes-barres de produits alimentaires, de soins personnels et d’aliments pour animaux pour voir instantanément leur impact. Obtenez des notes claires et des informations détaillées pour comprendre chaque produit et faire des choix éclairés.
 
 ◆ LA PLUS GRANDE BASE DE DONNÉES COLLABORATIVE ◆
 
-Scannez et explorez plus de 3,5 MILLIONS de produits, et ce nombre augmente chaque jour ! Nous sommes le Wikipédia de l’alimentation, une immense bibliothèque d’informations accessible à toutes et tous. Nos données alimentent également plus de 150 autres applications de santé et de bien-être.
+Scannez et explorez plus de 3,5 MILLIONS de produits, et ce nombre augmente chaque jour ! Nous sommes le Wikipédia de l’alimentation, une immense bibliothèque d’informations accessible à toutes et tous. Nos données alimentent aussi plus de 150 autres applications de santé et de bien-être.
 
 ◆ 100 % INDÉPENDANT ET À BUT NON LUCRATIF ◆
 
 Open Food Facts est un projet citoyen, totalement indépendant des marques et des fabricants.
 
 Analyse objective : les évaluations et informations produits sont présentées de façon objective. Aucune marque ne peut influencer nos notes.
-Sans publicité : notre priorité est la transparence, pas le profit. Vous ne trouverez aucune publicité dans notre application.
-Porté par la communauté : conçu et maintenu par des dizaines de milliers de bénévoles dans le monde. Nous sommes faits par tout le monde, pour tout le monde.
+Sans publicité : notre priorité est la transparence, pas le profit. Vous ne trouverez aucune publicité dans l’application.
+Porté par la communauté : conçu et maintenu par des dizaines de milliers de bénévoles dans le monde. Fait par tout le monde, pour tout le monde.
 ◆ DES INFORMATIONS IMMÉDIATES, PERSONNALISÉES POUR VOUS ◆
 
-Obtenez des résultats clairs avec un code couleur (🟢 Vert : correspond à vos critères, 🔴 Rouge : point de vigilance, ⚫ Gris : plus d’informations nécessaires) adaptés à vos préférences :
+Obtenez des résultats clairs et colorés (🟢 Vert : correspond à vos critères, 🔴 Rouge : point de vigilance, ⚫ Gris : plus d’informations nécessaires), adaptés à vos préférences :
 
 POUR VOTRE SANTÉ :
-Nutri-Score (A-E) : la qualité nutritionnelle en un coup d’œil.
+Nutri-Score (A-E) : qualité nutritionnelle en un coup d’œil.
 Groupe NOVA (1-4) : identifiez et évitez les aliments ultra-transformés.
 Additifs : comprenez leur présence et leur niveau de risque selon les avis de l’EFSA.
-Nutriments : suivez le sel, le sucre, les matières grasses et bien plus.
+Nutriments : suivez le sel, le sucre, les matières grasses et plus encore.
 POUR LA PLANÈTE :
-Eco-Score (A-E) : évaluez l’empreinte environnementale (CO2, emballage, origines).
+Eco-Score (A-E) : évaluez l’impact environnemental (CO2, emballage, origines).
 POUR VOS BESOINS :
 Alertes allergènes : configurez des avertissements pour le lait, le gluten, les œufs, le soja, les fruits à coque, le poisson, le céleri, la moutarde, les sulfites, les arachides, le sésame, les crustacés, les mollusques, le lupin.
 Filtres alimentaires : vegan, végétarien, bio, halal, casher, etc.
 ◆ COMPAREZ ET DÉCOUVREZ ◆
 
-Comparez facilement les produits côte à côte en rayon. Nous pouvons vous proposer des alternatives pour les produits problématiques, MAIS SELON VOTRE PROPRE CRITÈRE.
+Comparez facilement les produits côte à côte en rayon. Nous pouvons proposer des alternatives pour les produits problématiques, MAIS SELON VOS PROPRES CRITÈRES.
 
-◆ SUIVEZ LES PRIX ET BIEN PLUS ENCORE ◆
+◆ SUIVEZ LES PRIX ET BIEN PLUS ◆
 
-Collecte des prix : aidez à documenter la réduflation et l’inflation en contribuant des données de prix.
-Au-delà de l’alimentation : scannez aussi des cosmétiques et des aliments pour animaux !
+Collecte des prix : aidez à documenter la réduflation et l’inflation en ajoutant des données de prix.
+Au-delà de l’alimentation : scannez aussi des cosmétiques et des aliments pour animaux.
 Vie privée d’abord : utilisez l’application anonymement. Vos données de scan vous appartiennent et ne sont jamais envoyées en ligne sauf si vous choisissez de contribuer.
 ◆ DES ÉVALUATIONS FONDÉES SUR LA SCIENCE ◆
 
@@ -47,7 +47,7 @@ Eco-Score : fondé sur les données de l’ADEME, adaptées à l’échelle mond
 
 Un produit manque ? Faites partie de la solution !
 
-Contribuez facilement : ajoutez des photos et des données pour les produits qui ne sont pas encore dans notre système.
+Contribuez facilement : ajoutez des photos et des données pour les produits absents de notre système.
 Ayez de l’impact : chaque contribution aide des millions de personnes à faire de meilleurs choix.
 Téléchargez Open Food Facts dès aujourd’hui et reprenez le contrôle de votre consommation !
 
