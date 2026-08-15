@@ -1,77 +1,58 @@
-News: We invented the collaborative scanning app in 2012. As we turn 10, we’re reinventing it from the ground up!
+Σκάναρε. Κατανόησε. Επίλεξε. Το φαγητό σου, ο πλανήτης σου, η υγεία σου.
 
-This app lets you find food that's good for you and good for the planet by scanning their barcodes.
-You will get personalized health & eco-impact info for 2.3M foods.
+Το Open Food Facts είναι μια δωρεάν εφαρμογή για κινητά που σου επιτρέπει να σαρώνεις barcodes τροφίμων, προϊόντων προσωπικής φροντίδας και τροφών για κατοικίδια, ώστε να βλέπεις άμεσα τον αντίκτυπό τους. Λάβε σαφείς αξιολογήσεις και λεπτομερείς πληροφορίες για να κατανοείς κάθε προϊόν και να κάνεις ενημερωμένες επιλογές.
 
-Set your food preferences without ruining your privacy
-A scan that truly matches who you are
-Green: the product matches your criteria
-Red: there is a problem
-Gray: Help us answer you by photographing the products
+◆ Η ΜΕΓΑΛΥΤΕΡΗ ΣΥΝΕΡΓΑΤΙΚΗ ΒΑΣΗ ΔΕΔΟΜΕΝΩΝ ◆
 
-Compare in a few seconds those 3 different tomato sauces left on the shelf.
-Get a tailored comparison of any food category
+Σκάναρε και εξερεύνησε πάνω από 3,5 ΕΚΑΤΟΜΜΥΡΙΑ προϊόντα, και ο αριθμός αυξάνεται καθημερινά. Είμαστε η Wikipedia της διατροφής, μια τεράστια βιβλιοθήκη πληροφοριών προσβάσιμη σε όλους. Τα δεδομένα μας τροφοδοτούν επίσης περισσότερες από 150 άλλες εφαρμογές υγείας και ευεξίας.
 
-Food criteria you can pick
+◆ 100% ΑΝΕΞΑΡΤΗΤΟ ΚΑΙ ΜΗ ΚΕΡΔΟΣΚΟΠΙΚΟ ◆
 
-Περιβάλλον
-Health
-Additives & Ultra processed foods
-Αλάτι
-Allergens
-Nutri-Score
-Eco-Score
+Το Open Food Facts είναι ένα έργο πολιτών, πλήρως ανεξάρτητο από μάρκες και κατασκευαστές.
 
-Scan, find & compare more than 2,3 million food products
+Αντικειμενική ανάλυση: οι αξιολογήσεις και οι πληροφορίες για τα προϊόντα παρουσιάζονται αντικειμενικά. Καμία μάρκα δεν μπορεί να επηρεάσει τις βαθμολογίες μας.
+Χωρίς διαφημίσεις: στόχος μας είναι η διαφάνεια, όχι το κέρδος. Δεν θα βρεις διαφημίσεις στην εφαρμογή μας.
+Με τη δύναμη της κοινότητας: δημιουργείται και συντηρείται από δεκάδες χιλιάδες εθελοντές παγκοσμίως. Φτιαγμένο από όλους, για όλους.
+◆ ΑΜΕΣΕΣ ΠΛΗΡΟΦΟΡΙΕΣ, ΠΡΟΣΑΡΜΟΣΜΕΝΕΣ ΣΕ ΕΣΕΝΑ ◆
 
-Choose products that are good for you
+Λάβε σαφή αποτελέσματα με χρωματική κωδικοποίηση (🟢 Πράσινο: ταιριάζει στα κριτήριά σου, 🔴 Κόκκινο: λόγος ανησυχίας, ⚫ Γκρι: χρειάζονται περισσότερες πληροφορίες) προσαρμοσμένα στις προτιμήσεις σου:
 
-- The Nutri-Score grade, from A to E :  Nutritional quality
-- The NOVA group, from 1 to 4 : Avoid ultra-processed foods (Group 4)
+ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΣΟΥ:
+Nutri-Score (A-E): διατροφική ποιότητα με μια ματιά.
+Ομάδα NOVA (1-4): εντόπισε και απέφυγε τα υπερ-επεξεργασμένα τρόφιμα.
+Πρόσθετα: κατανόησε την παρουσία τους και το επίπεδο κινδύνου με βάση τις αξιολογήσεις της EFSA.
+Θρεπτικά συστατικά: παρακολούθησε αλάτι, ζάχαρη, λιπαρά και πολλά άλλα.
+ΓΙΑ ΤΟΝ ΠΛΑΝΗΤΗ:
+Eco-Score (A-E): αξιολόγησε το περιβαλλοντικό αποτύπωμα (CO2, συσκευασία, προέλευση).
+ΓΙΑ ΤΙΣ ΑΝΑΓΚΕΣ ΣΟΥ:
+Ειδοποιήσεις αλλεργιογόνων: ρύθμισε προειδοποιήσεις για γάλα, γλουτένη, αυγά, σόγια, ξηρούς καρπούς, ψάρι, σέλινο, μουστάρδα, θειώδη, φιστίκια, σουσάμι, καρκινοειδή, μαλάκια και λούπινο.
+Διατροφικά φίλτρα: vegan, χορτοφαγικό, βιολογικό, halal, kosher κ.λπ.
+◆ ΣΥΓΚΡΙΝΕ ΚΑΙ ΑΝΑΚΑΛΥΨΕ ◆
 
-Choose products that are good the planet
+Σύγκρινε εύκολα προϊόντα δίπλα δίπλα στο ράφι. Μπορούμε να προτείνουμε εναλλακτικές για προβληματικά προϊόντα, ΑΛΛΑ ΜΕ ΒΑΣΗ ΤΟ ΔΙΚΟ ΣΟΥ ΚΡΙΤΗΡΙΟ.
 
-- Food causes over 1/3 of global greenhouse gas emissions
-- The Eco-Score grade, from A to E :  a synthesis of 16 environmental impacts
+◆ ΠΑΡΑΚΟΛΟΥΘΗΣΕ ΤΙΜΕΣ ΚΑΙ ΠΟΛΛΑ ΑΚΟΜΗ ◆
 
-Contribute to Food Transparency
+Συλλογή τιμών: βοήθησε να τεκμηριωθούν η shrinkflation και ο πληθωρισμός συνεισφέροντας δεδομένα τιμών.
+Πέρα από τα τρόφιμα: σκάναρε επίσης καλλυντικά και τροφές για κατοικίδια.
+Πρώτα η ιδιωτικότητα: χρησιμοποίησε την εφαρμογή ανώνυμα. Τα δεδομένα των σαρώσεών σου είναι δικά σου και δεν αποστέλλονται ποτέ online, εκτός αν επιλέξεις να συνεισφέρεις.
+◆ ΑΞΙΟΛΟΓΗΣΕΙΣ ΜΕ ΕΠΙΣΤΗΜΟΝΙΚΗ ΤΕΚΜΗΡΙΩΣΗ ◆
 
-- Open Food Facts is made by everyone, for everyone!
-- In short, we're "the Wikipedia of food", as the press nicknamed the project. Open Food Facts has also enabled the creation of over 150+ apps like Date Limite, Yuka or FoodVisor.
-- Use it to make better food choices
-- The app is also collaborative. If the product is missing, contribute pictures and data to get the Nutri-Score, food processing level (NOVA) and Eco-Score.
-- Make a difference today by photographing a product from your kitchen.
-- Open Food Facts is a non-profit project made by thousands of volunteers from around the world. Why don't you join us ?
+Οι μεθοδολογίες μας βασίζονται σε αναγνωρισμένη επιστήμη με αξιολόγηση από ομότιμους:
 
-Decipher food labels
+Nutri-Score: αναπτύχθηκε από την ανεξάρτητη γαλλική ομάδα του Καθ. Hercberg.
+Ταξινόμηση NOVA: σχεδιάστηκε από τη διεθνή ομάδα του Καθ. Monteiro.
+Eco-Score: βασίζεται σε δεδομένα της ADEME, προσαρμοσμένα παγκοσμίως.
+◆ ΓΙΝΕ ΜΕΡΟΣ ΤΗΣ ΕΠΑΝΑΣΤΑΣΗΣ ΤΗΣ ΔΙΑΦΑΝΕΙΑΣ ΣΤΗΝ ΤΡΟΦΗ! ◆
 
-We decipher products labels for you. You'll find:
-- Nutrition: The Nutriscore (nutritional score), nutrients, fat, transfat, carbohydrates, sugars, fiber, protein, salt & sodium.
-- Environment: The Ecoscore (including carbon footprint (CO2 emissions), packaging (as well as recycling instructions), environmental labels (organic, quality etc.), and origins of ingredients)
-- Other: brands, allergens, labels (bio, gluten free, vegan, vegetarian, halal, kosher...), traceability information (packaging codes, origins, food factories)
-- On wines and beers, you'll find the alcohol content.
+Λείπει κάποιο προϊόν; Γίνε μέρος της λύσης.
 
-Our grades are science-based, and Open Food Facts is helping science!
-- We don't make up things. We rely on peer-reviewed science.
-- The Nutri-Score has been created by the independent French team led by Professor Hercberg.
-- The NOVA groups on food processing have been designed by the international team of Professor Monteiro.
-- The additives synthesis is based on reviews by EFSA on exposure levels on food additives.
-- The Eco-Score is based on ground breaking data by ADEME, the French environmental agency, adapted for the world.
-- The Open Food Facts community is collaborating with research teams across the planet for research that benefits all.
+Συνεισέφερε εύκολα: πρόσθεσε φωτογραφίες και δεδομένα για προϊόντα που δεν υπάρχουν ακόμη στο σύστημά μας.
+Κάνε τη διαφορά: κάθε συνεισφορά βοηθά εκατομμύρια ανθρώπους να κάνουν καλύτερες επιλογές.
+Κατέβασε το Open Food Facts σήμερα και πάρε τον έλεγχο της κατανάλωσής σου.
 
-Your food, your data. Privacy-friendly app.
-- You can use the app anonymously
-- Your food data is yours, and is never sent online
+Μάθε περισσότερα και έλα σε επαφή:
+Website: https://world.openfoodfacts.org
+Ερωτήσεις/σχόλια: mobile@openfoodfacts.org
 
-Set up allergen alerts on products
-
-- Do you have a Milk, Gluten, Eggs, Soybeans, Nuts, Fish, Celery, Mustard, Sulphites, Peanuts, Sesame seeds, Crustaceans, Molluscs or Lupin allergy ?
-- Speed up your shopping with an initial screening with Open Food Facts.
-- Be careful that the info and the detection may not be 100% accurate. Always double check by yourself, with the packaging.
-
-More
-
-Web version: https://world.openfoodfacts.org
-Questions, feedback : contact@openfoodfacts.org
-
-For cosmetics, you can install Open Beauty Facts.
+Σημαντική σημείωση για τα αλλεργιογόνα: οι πληροφορίες μας είναι ένας πολύτιμος οδηγός, αλλά πάντα να ελέγχεις τη συσκευασία του προϊόντος για τις πιο ακριβείς και ενημερωμένες πληροφορίες σχετικά με τα αλλεργιογόνα. Τα δεδομένα των προϊόντων εξελίσσονται συνεχώς χάρη στην κοινότητά μας.

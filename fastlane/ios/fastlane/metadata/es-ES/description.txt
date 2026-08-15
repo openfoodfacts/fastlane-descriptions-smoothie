@@ -1,79 +1,58 @@
-Inventamos
-la aplicación de escaneo
-colaborativa en 2012. ¡Al cumplir 10 años, lo estamos reinventando desde cero!
+Escanea. Comprende. Elige. Tu alimentación, tu planeta, tu salud.
 
-Esta aplicación te permite encontrar comida que sea buena para ti y para el planeta al escanear códigos de barras.
-Tendrás información personalizada sobre los beneficios y el impacto ecológico de unos 2,3 millones de alimentos catalogados.
+Open Food Facts es una aplicación móvil gratuita que te permite escanear códigos de barras de alimentos, productos de cuidado personal y comida para mascotas para ver al instante su impacto. Obtén valoraciones claras e información detallada para entender cada producto y tomar decisiones informadas.
 
-Establezca sus preferencias de alimentos sin arruinar su privacidad
-Un escaneo que realmente coincide con quién eres
-Verde: el producto se adecúa a tu perfil
-Rojo: hay un problema
-Gris: Ayúdanos a responderte fotografiando los productos
+◆ LA MAYOR BASE DE DATOS COLABORATIVA ◆
 
-Compara en unos segundos esas 3 salsas de tomate diferentes que quedan en el estante.
-Obtenga una comparación personalizada de cualquier categoría de alimentos
+Escanea y explora más de 3,5 MILLONES de productos, y creciendo cada día. Somos la Wikipedia de la alimentación, una enorme biblioteca de información accesible para todo el mundo. Nuestros datos también impulsan más de 150 aplicaciones de salud y bienestar.
 
-Criterios de alimentos que puede elegir
+◆ 100 % INDEPENDIENTE Y SIN ÁNIMO DE LUCRO ◆
 
-Medio ambiente
-Salud
-Aditivos y alimentos ultraprocesados
-Sal
-Alérgenos
-Nutri-Score
-Eco-Score
+Open Food Facts es un proyecto ciudadano, completamente independiente de marcas y fabricantes.
 
-Escanee, encuentre y compare más de 2,3 millones de productos alimenticios
+Análisis objetivo: las evaluaciones y la información de los productos se presentan de forma objetiva. Ninguna marca puede influir en nuestras valoraciones.
+Sin publicidad: nuestro enfoque es la transparencia, no el beneficio. No encontrarás anuncios en nuestra aplicación.
+Impulsado por la comunidad: creado y mantenido por decenas de miles de personas voluntarias en todo el mundo. Lo hacemos entre todas las personas, para todas las personas.
+◆ INFORMACIÓN INMEDIATA, PERSONALIZADA PARA TI ◆
 
-Elige productos que sean buenos para ti
+Obtén resultados claros y con código de colores (🟢 Verde: encaja con tus criterios, 🔴 Rojo: motivo de preocupación, ⚫ Gris: hace falta más información) adaptados a tus preferencias:
 
-- El grado Nutri-Score, de la A a la E: Calidad nutricional
-- El grupo NOVA, del 1 al 4: Evita los alimentos ultraprocesados (Grupo 4)
+PARA TU SALUD:
+Nutri-Score (A-E): calidad nutricional de un vistazo.
+Grupo NOVA (1-4): identifica y evita los alimentos ultraprocesados.
+Aditivos: comprende su presencia y su nivel de riesgo según las revisiones de la EFSA.
+Nutrientes: controla la sal, el azúcar, las grasas y mucho más.
+PARA EL PLANETA:
+Eco-Score (A-E): evalúa la huella ambiental (CO2, envases, orígenes).
+PARA TUS NECESIDADES:
+Alertas de alérgenos: configura avisos para leche, gluten, huevos, soja, frutos secos, pescado, apio, mostaza, sulfitos, cacahuetes, sésamo, crustáceos, moluscos y altramuces.
+Filtros alimentarios: vegano, vegetariano, ecológico, halal, kosher, etc.
+◆ COMPARA Y DESCUBRE ◆
 
-Elige productos que sean buenos para el planeta
+Compara fácilmente productos lado a lado en la estantería. Podemos ofrecerte alternativas para productos problemáticos, PERO SEGÚN TU PROPIO CRITERIO.
 
-- Los alimentos causan más de 1/3 de las emisiones globales de gases de efecto invernadero
-- El grado Eco-Score, de la A a la E: una síntesis de 16 impactos ambientales
+◆ SIGUE LOS PRECIOS Y MUCHO MÁS ◆
 
-Contribuir a la Transparencia Alimentaria
+Recogida de precios: ayuda a documentar la reduflación y la inflación aportando datos de precios.
+Más allá de la alimentación: escanea también cosméticos y comida para mascotas.
+La privacidad primero: usa la aplicación de forma anónima. Tus datos de escaneo son tuyos y nunca se envían en línea salvo que decidas contribuir.
+◆ EVALUACIONES RESPALDADAS POR LA CIENCIA ◆
 
-- ¡Open Food Facts está hecho por todos, para todos!
-- En definitiva, somos "la Wikipedia de la comida", como la prensa apodó al proyecto. Open Food Facts también ha permitido la creación de más de 150 aplicaciones como Date Limite, Yuka o FoodVisor.
-- Úsalo para elegir mejor tus alimentos
-- La aplicación también es colaborativa. Si falta el producto, aporte imágenes y datos para obtener el Nutri-Score, el nivel de procesamiento de alimentos (NOVA) y el Eco-Score.
-- Marca la diferencia hoy fotografiando un producto de tu cocina.
-- Open Food Facts es un proyecto sin ánimo de lucro realizado por miles de voluntarios de todo el mundo. ¿Por qué no te unes a nosotros?
+Nuestras metodologías se basan en ciencia reconocida y revisada por pares:
 
-Descifrar las etiquetas de los alimentos
+Nutri-Score: desarrollado por el equipo francés independiente del profesor Hercberg.
+Clasificación NOVA: diseñada por el equipo internacional del profesor Monteiro.
+Eco-Score: basado en datos de ADEME, adaptados a escala mundial.
+◆ ¡ÚNETE A LA REVOLUCIÓN DE LA TRANSPARENCIA ALIMENTARIA! ◆
 
-Desciframos las etiquetas de los productos por ti. Encontrarás:
-- Nutrición: El Nutri-Score (puntaje nutricional), nutrientes, grasas, grasas trans, carbohidratos, azúcares, fibra, proteína, sal y sodio.
-- Medio ambiente: el Eco-Score (incluida la huella de carbono (emisiones de CO2), el embalaje (así como las instrucciones de reciclaje), las etiquetas medioambientales (orgánico, calidad, etc.) y el origen de los ingredientes)
-- Otros: marcas, alérgenos, etiquetas (bio, sin gluten, vegano, vegetariano, halal, kosher...), información de trazabilidad (códigos de envasado, orígenes, fábricas de alimentos)
-- En vinos y cervezas, encontrarás el grado alcohólico.
+¿Falta un producto? Forma parte de la solución.
 
-¡Nuestras calificaciones se basan en la ciencia y Open Food Facts está ayudando a la ciencia!
-- No inventamos cosas. Nos basamos en la ciencia revisada por pares.
-- El Nutri-Score ha sido creado por el equipo francés independiente dirigido por el profesor Hercberg.
-- Los grupos NOVA sobre procesamiento de alimentos han sido diseñados por el equipo internacional del profesor Monteiro.
-- La síntesis de aditivos se basa en las revisiones de la EFSA sobre los niveles de exposición de los aditivos alimentarios.
-- El Eco-Score se basa en datos innovadores de ADEME, la agencia ambiental francesa, adaptados para el mundo.
-- La comunidad de Open Food Facts está colaborando con equipos de investigación de todo el planeta para una investigación que beneficie a todos.
+Contribuye fácilmente: añade fotos y datos de productos que todavía no están en nuestro sistema.
+Marca la diferencia: cada contribución ayuda a millones de personas a elegir mejor.
+Descarga Open Food Facts hoy mismo y toma el control de tu consumo.
 
-Tu comida, tus datos. Aplicación amigable con la privacidad.
-- Puedes usar la aplicación de forma anónima
-- Sus datos de alimentos son suyos y nunca se envían en línea
+Más información y contacto:
+Sitio web: https://world.openfoodfacts.org
+Preguntas/comentarios: mobile@openfoodfacts.org
 
-Configurar alertas de alérgenos en productos
-
-- ¿Es alérgico a la leche, el gluten, los huevos, la soja, los frutos secos, el pescado, el apio, la mostaza, los sulfitos, los cacahuetes, las semillas de sésamo, los crustáceos, los moluscos o los lupinos?
-- Acelere sus compras con una evaluación inicial con Open Food Facts.
-- Tenga cuidado de que la información y la detección pueden no ser 100% precisas. Siempre verifique dos veces por sí mismo, con el empaquetado.
-
-Más
-
-Versión web: https://world.openfoodfacts.org
-Preguntas, comentarios: contact@openfoodfacts.org
-
-Para cosméticos, puede instalar Open Beauty Facts.
+Nota importante sobre los alérgenos: nuestra información es una guía muy útil, pero comprueba siempre el envase del producto para obtener los datos sobre alérgenos más exactos y actualizados. Los datos de los productos evolucionan constantemente gracias a nuestra comunidad.
