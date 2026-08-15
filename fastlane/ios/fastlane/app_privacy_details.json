@@ -1,0 +1,18 @@
+{
+  "privacy_policy_url": "https://world.openfoodfacts.org/terms-of-use",
+  "privacy_policy_text": null,
+  "data_categories": [
+    {
+      "category": "DIAGNOSTICS",
+      "type": "CRASH_DATA",
+      "purposes": ["APP_FUNCTIONALITY"],
+      "data_protection": "DATA_NOT_LINKED_TO_YOU"
+    },
+    {
+      "category": "USAGE_DATA",
+      "type": "PRODUCT_INTERACTION",
+      "purposes": ["ANALYTICS", "APP_FUNCTIONALITY"],
+      "data_protection": "DATA_NOT_LINKED_TO_YOU"
+    }
+  ]
+}
