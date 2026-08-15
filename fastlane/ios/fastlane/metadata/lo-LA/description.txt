@@ -1,77 +1,62 @@
-News: We invented the collaborative scanning app in 2012. As we turn 10, we’re reinventing it from the ground up!
+ສະແກນ. ເຂົ້າໃຈ. ເລືອກ. ອາຫານຂອງທ່ານ, ໂລກຂອງທ່ານ, ສຸຂະພາບຂອງທ່ານ.
 
-This app lets you find food that's good for you and good for the planet by scanning their barcodes.
-You will get personalized health & eco-impact info for 2.3M foods.
+Open Food Facts ແມ່ນແອັບມືຖືຟຣີ ທີ່ຊ່ວຍໃຫ້ທ່ານສະແກນບາໂຄດຂອງອາຫານ, ຜະລິດຕະພັນດູແລສ່ວນບຸກຄົນ ແລະ ອາຫານສັດລ້ຽງ ເພື່ອເຫັນຜົນກະທົບຂອງພວກມັນໄດ້ທັນທີ. ຮັບຄະແນນທີ່ຊັດເຈນ ແລະ ຂໍ້ມູນລະອຽດ ເພື່ອເຂົ້າໃຈສິນຄ້າແຕ່ລະຢ່າງ ແລະ ຕັດສິນໃຈໄດ້ດີຂຶ້ນ.
 
-Set your food preferences without ruining your privacy
-A scan that truly matches who you are
-Green: the product matches your criteria
-Red: there is a problem
-Gray: Help us answer you by photographing the products
+◆ ຖານຂໍ້ມູນຮ່ວມມືທີ່ໃຫຍ່ທີ່ສຸດ ◆
 
-Compare in a few seconds those 3 different tomato sauces left on the shelf.
-Get a tailored comparison of any food category
+ສະແກນ ແລະ ສຳຫຼວດສິນຄ້າຫຼາຍກວ່າ 3.5 ລ້ານລາຍການ (ແລະຍັງເພີ່ມຂຶ້ນທຸກມື້!). ພວກເຮົາແມ່ນ “Wikipedia ຂອງອາຫານ” ແຫຼ່ງຂໍ້ມູນຂະໜາດໃຫຍ່ທີ່ທຸກຄົນເຂົ້າເຖິງໄດ້. ຂໍ້ມູນຂອງພວກເຮົາຍັງຊ່ວຍຂັບເຄື່ອນແອັບດ້ານສຸຂະພາບ ແລະ ຄວາມເປັນຢູ່ດີຫຼາຍກວ່າ 150 ແອັບ.
 
-Food criteria you can pick
+◆ ເປັນອິດສະລະ 100% ແລະ ບໍ່ຫາກຳໄລ ◆
 
-Environment
-Health
-Additives & Ultra processed foods
-Salt
-Allergens
-Nutri-Score
-Eco-Score
+Open Food Facts ແມ່ນໂຄງການທີ່ປະຊາຊົນເປັນຜູ້ນຳ ແລະ ເປັນອິດສະລະຢ່າງສິ້ນເຊີງຈາກແບຣນ ແລະ ຜູ້ຜະລິດ.
 
-Scan, find & compare more than 2,3 million food products
+ການວິເຄາະຢ່າງເປັນກາງ: ການປະເມີນ ແລະ ຂໍ້ມູນຂອງສິນຄ້າຖືກນຳສະເໜີຢ່າງເປັນກາງ. ບໍ່ມີແບຣນໃດສາມາດມີອິດທິພົນຕໍ່ຄະແນນຂອງພວກເຮົາໄດ້.
+ບໍ່ມີໂຄສະນາ: ຈຸດເນັ້ນຂອງພວກເຮົາຄືຄວາມໂປ່ງໃສ ບໍ່ແມ່ນກຳໄລ. ທ່ານຈະບໍ່ເຫັນໂຄສະນາໃນແອັບຂອງພວກເຮົາ.
+ຂັບເຄື່ອນໂດຍຊຸມຊົນ: ຖືກສ້າງ ແລະ ຮັກສາໂດຍອາສາສະໝັກຫຼາຍໝື່ນຄົນທົ່ວໂລກ. ສ້າງໂດຍທຸກຄົນ ເພື່ອທຸກຄົນ.
 
-Choose products that are good for you
+◆ ຂໍ້ມູນທັນທີ ທີ່ປັບໃຫ້ເໝາະກັບທ່ານ ◆
 
-- The Nutri-Score grade, from A to E :  Nutritional quality
-- The NOVA group, from 1 to 4 : Avoid ultra-processed foods (Group 4)
+ຮັບຜົນລັບທີ່ຊັດເຈນ ແບບໃຊ້ສີແຍກຕາມຄວາມຕ້ອງການຂອງທ່ານ (🟢 ສີຂຽວ: ກົງກັບເກນຂອງທ່ານ, 🔴 ສີແດງ: ມີຈຸດນ່າກັງວົນ, ⚫ ສີເທົາ: ຕ້ອງການຂໍ້ມູນເພີ່ມ):
 
-Choose products that are good the planet
+ສຳລັບສຸຂະພາບຂອງທ່ານ:
+Nutri-Score (A-E): ເບິ່ງຄຸນນະພາບດ້ານໂພຊະນາການໄດ້ທັນທີ.
+NOVA Group (1-4): ລະບຸ ແລະ ຫຼີກລ້ຽງອາຫານທີ່ຜ່ານການປຸງແຕ່ງຫຼາຍ.
+ວັດຖຸເຈືອປົນ: ເຂົ້າໃຈການມີຢູ່ ແລະ ລະດັບຄວາມສ່ຽງອີງຕາມການທົບທວນຂອງ EFSA.
+ສານອາຫານ: ຕິດຕາມເກືອ, ນ້ຳຕານ, ໄຂມັນ ແລະ ອື່ນໆ.
+ສຳລັບໂລກ:
+Eco-Score (A-E): ປະເມີນຮອຍທາງດ້ານສິ່ງແວດລ້ອມ (CO2, ບັນຈຸພັນ, ແຫຼ່ງກຳເນີດ).
+ສຳລັບຄວາມຕ້ອງການຂອງທ່ານ:
+ການແຈ້ງເຕືອນສານກໍ່ແພ້: ຕັ້ງການເຕືອນສຳລັບ Milk, Gluten, Eggs, Soy, Nuts, Fish, Celery, Mustard, Sulphites, Peanuts, Sesame, Crustaceans, Molluscs, Lupin.
+ຕົວກອງອາຫານ: vegan, vegetarian, organic, halal, kosher ແລະ ອື່ນໆ.
 
-- Food causes over 1/3 of global greenhouse gas emissions
-- The Eco-Score grade, from A to E :  a synthesis of 16 environmental impacts
+◆ ປຽບທຽບ ແລະ ຄົ້ນພົບ ◆
 
-Contribute to Food Transparency
+ປຽບທຽບສິນຄ້າຄຽງກັນໄດ້ຢ່າງງ່າຍດາຍໃນຮ້ານ. ສຳລັບສິນຄ້າທີ່ມີບັນຫາ ພວກເຮົາຍັງສາມາດແນະນຳທາງເລືອກແທນໄດ້ ແຕ່ຈະອີງຕາມເກນຂອງທ່ານເອງ.
 
-- Open Food Facts is made by everyone, for everyone!
-- In short, we're "the Wikipedia of food", as the press nicknamed the project. Open Food Facts has also enabled the creation of over 150+ apps like Date Limite, Yuka or FoodVisor.
-- Use it to make better food choices
-- The app is also collaborative. If the product is missing, contribute pictures and data to get the Nutri-Score, food processing level (NOVA) and Eco-Score.
-- Make a difference today by photographing a product from your kitchen.
-- Open Food Facts is a non-profit project made by thousands of volunteers from around the world. Why don't you join us ?
+◆ ຕິດຕາມລາຄາ ແລະ ອື່ນໆອີກ ◆
 
-Decipher food labels
+ການເກັບລາຄາ: ຊ່ວຍບັນທຶກ shrinkflation ແລະ ອັດຕາເງິນເຟ້ີ ໂດຍຮ່ວມສົ່ງຂໍ້ມູນລາຄາ.
+ຫຼາຍກວ່າອາຫານ: ສະແກນເຄື່ອງສຳອາງ ແລະ ອາຫານສັດລ້ຽງໄດ້ນຳ!
+ໃຫ້ຄວາມສຳຄັນກັບຄວາມເປັນສ່ວນຕົວ: ທ່ານສາມາດໃຊ້ແອັບແບບບໍ່ລະບຸຊື່ໄດ້. ຂໍ້ມູນການສະແກນເປັນຂອງທ່ານ ແລະ ຈະບໍ່ຖືກສົ່ງອອນລາຍ ນອກຈາກທ່ານເລືອກທີ່ຈະຮ່ວມມື。
 
-We decipher products labels for you. You'll find:
-- Nutrition: The Nutriscore (nutritional score), nutrients, fat, transfat, carbohydrates, sugars, fiber, protein, salt & sodium.
-- Environment: The Ecoscore (including carbon footprint (CO2 emissions), packaging (as well as recycling instructions), environmental labels (organic, quality etc.), and origins of ingredients)
-- Other: brands, allergens, labels (bio, gluten free, vegan, vegetarian, halal, kosher...), traceability information (packaging codes, origins, food factories)
-- On wines and beers, you'll find the alcohol content.
+◆ ການປະເມີນທີ່ອີງໃສ່ວິທະຍາສາດ ◆
 
-Our grades are science-based, and Open Food Facts is helping science!
-- We don't make up things. We rely on peer-reviewed science.
-- The Nutri-Score has been created by the independent French team led by Professor Hercberg.
-- The NOVA groups on food processing have been designed by the international team of Professor Monteiro.
-- The additives synthesis is based on reviews by EFSA on exposure levels on food additives.
-- The Eco-Score is based on ground breaking data by ADEME, the French environmental agency, adapted for the world.
-- The Open Food Facts community is collaborating with research teams across the planet for research that benefits all.
+ວິທີການຂອງພວກເຮົາອີງໃສ່ວິທະຍາສາດທີ່ໄດ້ຮັບການຍອມຮັບ ແລະ ຜ່ານການທົບທວນໂດຍນັກວິຊາການ:
 
-Your food, your data. Privacy-friendly app.
-- You can use the app anonymously
-- Your food data is yours, and is never sent online
+Nutri-Score: ພັດທະນາໂດຍທີມງານອິດສະລະຂອງຝຣັ່ງ ນຳໂດຍ Prof. Hercberg.
+NOVA Classification: ອອກແບບໂດຍທີມງານສາກົນຂອງ Prof. Monteiro.
+Eco-Score: ອີງໃສ່ຂໍ້ມູນຂອງ ADEME ຫນ່ວຍງານດ້ານສິ່ງແວດລ້ອມຂອງຝຣັ່ງ ແລະ ປັບໃຫ້ໃຊ້ໄດ້ທົ່ວໂລກ。
 
-Set up allergen alerts on products
+◆ ເຂົ້າຮ່ວມການປະຕິວັດຄວາມໂປ່ງໃສດ້ານອາຫານ! ◆
 
-- Do you have a Milk, Gluten, Eggs, Soybeans, Nuts, Fish, Celery, Mustard, Sulphites, Peanuts, Sesame seeds, Crustaceans, Molluscs or Lupin allergy ?
-- Speed up your shopping with an initial screening with Open Food Facts.
-- Be careful that the info and the detection may not be 100% accurate. Always double check by yourself, with the packaging.
+ຂາດສິນຄ້າບາງຢ່າງຢູ່ບໍ? ມາເປັນສ່ວນໜຶ່ງຂອງທາງອອກ!
 
-More
+ຮ່ວມໄດ້ງ່າຍ: ເພີ່ມຮູບ ແລະ ຂໍ້ມູນສຳລັບສິນຄ້າທີ່ຍັງບໍ່ມີໃນລະບົບຂອງພວກເຮົາ。
+ສ້າງຜົນກະທົບ: ທຸກການຮ່ວມມືຂອງທ່ານຊ່ວຍໃຫ້ຜູ້ຄົນຫຼາຍລ້ານຄົນເລືອກໄດ້ດີຂຶ້ນ。
+ດາວໂຫຼດ Open Food Facts ມື້ນີ້ ແລະ ຄວບຄຸມການບໍລິໂພກຂອງທ່ານ!
 
-Web version: https://world.openfoodfacts.org
-Questions, feedback : contact@openfoodfacts.org
+ຮຽນຮູ້ເພີ່ມ & ຕິດຕໍ່:
+Website: https://world.openfoodfacts.org
+Questions/Feedback: mobile@openfoodfacts.org
 
-For cosmetics, you can install Open Beauty Facts.
+ຫມາຍເຫດສຳຄັນເກື່ອນສານກໍ່ແພ້: ຂໍ້ມູນຂອງພວກເຮົາເປັນຄູ່ມືທີ່ມີປະໂຫຍດ ແຕ່ກະລຸນາກວດສອບບັນຈຸພັນຂອງສິນຄ້າອີກຄັ້ງເພື່ອໄດ້ຮັບລາຍລະອຽດສານກໍ່ແພ້ທີ່ຖືກຕ້ອງ ແລະ ທັນສະໄໝທີ່ສຸດ. ຂໍ້ມູນສິນຄ້າກຳລັງປ່ຽນແປງຢູ່ຕະຫຼອດດ້ວຍຄວາມຊ່ວຍເຫຼືອຈາກຊຸມຊົນຂອງພວກເຮົາ。
