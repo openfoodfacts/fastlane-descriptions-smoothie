@@ -11,13 +11,13 @@
 
 set -e
 
-if [ -z "$1" ]; then
+if [ "$#" -ne 1 ] || [[ ! "$1" =~ ^[0-9]+$ ]]; then
     echo "Usage: $0 <version_code>"
     echo "Example: $0 1044"
     exit 1
 fi
 
-VERSION_CODE=$1
+VERSION_CODE="$1"
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 REPO_ROOT="$SCRIPT_DIR"
 
