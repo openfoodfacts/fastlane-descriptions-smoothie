@@ -73,4 +73,4 @@ jobs:
             - Changelog automation
           branch: changelogs-v${{ inputs.version_code }}
           delete-branch: true
-          labels: changelogs
+          labels: translations
