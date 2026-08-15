@@ -44,9 +44,11 @@ jobs:
           CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
       
       - name: Sync changelogs to fastlane directories
+        env:
+          VERSION_CODE: ${{ inputs.version_code }}
         run: |
           chmod +x ./sync-changelogs.sh
-          ./sync-changelogs.sh ${{ inputs.version_code }}
+          ./sync-changelogs.sh "$VERSION_CODE"
       
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
