@@ -4,7 +4,7 @@
   <img height="100" src="https://static.openfoodfacts.org/images/logos/off-logo-horizontal-light.svg">
 </picture>
 
-# Automation of the Play Store and App Store listings for the new Open Food Facts mobile app (Smoothie) with Fastlane
+# Automation of the Play Store and App Store listings for the new Open Food Facts mobile app (smooth_app) with Fastlane
 
 See also the Mobile app main repository: https://github.com/openfoodfacts/smooth-app
 
